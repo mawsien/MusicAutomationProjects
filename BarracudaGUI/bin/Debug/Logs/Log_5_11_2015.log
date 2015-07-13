@@ -1,0 +1,169 @@
+5/11/2015 2:24:26 PM : ******************Start TestCase 0.1******************
+5/11/2015 2:24:34 PM : Delete Logs and restart device
+5/11/2015 2:24:34 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/11/2015 2:24:34 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:24:44 PM : Going Back to Home screen.
+5/11/2015 2:24:44 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:24:50 PM : cf289085_currentScreen-2015-05-11_02-24-44-PM.png
+5/11/2015 2:24:51 PM : Going Back to Home screen.
+5/11/2015 2:24:51 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:24:56 PM : cf289085_currentScreen-2015-05-11_02-24-51-PM.png
+5/11/2015 2:24:57 PM : Clicking by template DialerIconStart.png
+5/11/2015 2:24:57 PM : Verfiying template DialerIconStart.png
+5/11/2015 2:26:01 PM : ******************Start TestCase 0.1******************
+5/11/2015 2:26:05 PM : Delete Logs and restart device
+5/11/2015 2:26:05 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/11/2015 2:26:05 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:26:15 PM : Going Back to Home screen.
+5/11/2015 2:26:15 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:26:21 PM : cf289085_currentScreen-2015-05-11_02-26-15-PM.png
+5/11/2015 2:26:21 PM : Going Back to Home screen.
+5/11/2015 2:26:21 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:26:27 PM : cf289085_currentScreen-2015-05-11_02-26-21-PM.png
+5/11/2015 2:26:27 PM : Clicking by template DialerIconStart.png
+5/11/2015 2:26:27 PM : Verfiying template DialerIconStart.png
+5/11/2015 2:47:40 PM : ******************Start TestCase 0.1******************
+5/11/2015 2:47:42 PM : Delete Logs and restart device
+5/11/2015 2:47:42 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/11/2015 2:47:42 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:47:52 PM : Going Back to Home screen.
+5/11/2015 2:47:52 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:47:57 PM : cf289085_currentScreen-2015-05-11_02-47-52-PM.png
+5/11/2015 2:47:58 PM : Going Back to Home screen.
+5/11/2015 2:47:58 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:48:03 PM : cf289085_currentScreen-2015-05-11_02-47-58-PM.png
+5/11/2015 2:48:04 PM : Clicking by template DialerIconStart.png
+5/11/2015 2:48:04 PM : Verfiying template DialerIconStart.png
+5/11/2015 2:48:04 PM : Accuracy is D=1
+5/11/2015 2:48:04 PM : Template DialerIconStart.png is Verified. 
+5/11/2015 2:48:04 PM : Touching on  X=69, Y=860
+5/11/2015 2:48:04 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:48:10 PM : cf289085_currentScreen-2015-05-11_02-48-04-PM.png
+5/11/2015 2:48:11 PM : typing #932#
+5/11/2015 2:48:11 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:48:18 PM : cf289085_currentScreen-2015-05-11_02-48-11-PM.png
+5/11/2015 2:48:18 PM : Clicking by template DialerIconCall.png
+5/11/2015 2:48:18 PM : Verfiying template DialerIconCall.png
+5/11/2015 2:48:18 PM : Accuracy is D=1
+5/11/2015 2:48:18 PM : Template DialerIconCall.png is Verified. 
+5/11/2015 2:48:18 PM : Touching on  X=268, Y=910
+5/11/2015 2:48:18 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:48:24 PM : cf289085_currentScreen-2015-05-11_02-48-18-PM.png
+5/11/2015 2:48:25 PM : Wait 10 seconds to get the datausage message
+5/11/2015 2:48:35 PM : Taking screen shot...
+5/11/2015 2:48:35 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:48:40 PM : cf289085_currentScreen-2015-05-11_02-48-35-PM.png
+5/11/2015 2:48:44 PM : Clicking by template WEB_OK.png
+5/11/2015 2:48:44 PM : Verfiying template WEB_OK.png
+5/11/2015 2:48:44 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:48:45 PM : ************************End TestCase 0.1************************
+5/11/2015 2:48:58 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+5/11/2015 2:48:58 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+5/11/2015 2:48:58 PM : Exception : Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+5/11/2015 2:49:17 PM : ******************Start TestCase 0.1******************
+5/11/2015 2:49:19 PM : Delete Logs and restart device
+5/11/2015 2:49:19 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/11/2015 2:49:19 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:49:29 PM : Going Back to Home screen.
+5/11/2015 2:49:29 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:49:34 PM : cf289085_currentScreen-2015-05-11_02-49-29-PM.png
+5/11/2015 2:49:35 PM : Going Back to Home screen.
+5/11/2015 2:49:35 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:49:40 PM : cf289085_currentScreen-2015-05-11_02-49-35-PM.png
+5/11/2015 2:49:41 PM : Clicking by template DialerIconStart.png
+5/11/2015 2:49:41 PM : Verfiying template DialerIconStart.png
+5/11/2015 2:49:41 PM : Accuracy is D=1
+5/11/2015 2:49:41 PM : Template DialerIconStart.png is Verified. 
+5/11/2015 2:49:41 PM : Touching on  X=69, Y=860
+5/11/2015 2:49:41 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:49:47 PM : cf289085_currentScreen-2015-05-11_02-49-41-PM.png
+5/11/2015 2:49:48 PM : typing #932#
+5/11/2015 2:49:48 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:49:54 PM : cf289085_currentScreen-2015-05-11_02-49-48-PM.png
+5/11/2015 2:49:55 PM : Clicking by template DialerIconCall.png
+5/11/2015 2:49:55 PM : Verfiying template DialerIconCall.png
+5/11/2015 2:49:55 PM : Accuracy is D=1
+5/11/2015 2:49:55 PM : Template DialerIconCall.png is Verified. 
+5/11/2015 2:49:55 PM : Touching on  X=268, Y=910
+5/11/2015 2:49:55 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:01 PM : cf289085_currentScreen-2015-05-11_02-49-55-PM.png
+5/11/2015 2:50:02 PM : Wait 10 seconds to get the datausage message
+5/11/2015 2:50:12 PM : Taking screen shot...
+5/11/2015 2:50:12 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:17 PM : cf289085_currentScreen-2015-05-11_02-50-12-PM.png
+5/11/2015 2:50:20 PM : Clicking by template WEB_OK.png
+5/11/2015 2:50:20 PM : Verfiying template WEB_OK.png
+5/11/2015 2:50:20 PM : Accuracy is D=0.999911069869995
+5/11/2015 2:50:20 PM : Template WEB_OK.png is Verified. 
+5/11/2015 2:50:20 PM : Touching on  X=270, Y=590
+5/11/2015 2:50:20 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:27 PM : cf289085_currentScreen-2015-05-11_02-50-20-PM.png
+5/11/2015 2:50:27 PM : Start TCPDump
+5/11/2015 2:50:27 PM : Clicking by template DialerIconStart.png
+5/11/2015 2:50:27 PM : Verfiying template DialerIconStart.png
+5/11/2015 2:50:27 PM : Accuracy is D=0.701930820941925
+5/11/2015 2:50:27 PM : Template DialerIconStart.png is not Verified!
+5/11/2015 2:50:27 PM : typing *#9900#
+5/11/2015 2:50:27 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:35 PM : cf289085_currentScreen-2015-05-11_02-50-27-PM.png
+5/11/2015 2:50:35 PM : Taking screen shot...
+5/11/2015 2:50:35 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:41 PM : cf289085_currentScreen-2015-05-11_02-50-35-PM.png
+5/11/2015 2:50:41 PM : Scrolling two page down..
+5/11/2015 2:50:41 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:48 PM : cf289085_currentScreen-2015-05-11_02-50-41-PM.png
+5/11/2015 2:50:48 PM : Taking screen shot...
+5/11/2015 2:50:48 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:50:53 PM : cf289085_currentScreen-2015-05-11_02-50-48-PM.png
+5/11/2015 2:50:54 PM : Clicking by template TCPDUMPSTART.png
+5/11/2015 2:50:54 PM : Verfiying template TCPDUMPSTART.png
+5/11/2015 2:50:54 PM : Accuracy is D=0.999942898750305
+5/11/2015 2:50:54 PM : Template TCPDUMPSTART.png is Verified. 
+5/11/2015 2:50:54 PM : Touching on  X=269, Y=334
+5/11/2015 2:50:54 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:00 PM : cf289085_currentScreen-2015-05-11_02-50-54-PM.png
+5/11/2015 2:51:01 PM : Clicking by template TCPDUMPSTART_ANY.png
+5/11/2015 2:51:01 PM : Verfiying template TCPDUMPSTART_ANY.png
+5/11/2015 2:51:01 PM : Accuracy is D=0.99999988079071
+5/11/2015 2:51:01 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+5/11/2015 2:51:01 PM : Touching on  X=267, Y=83
+5/11/2015 2:51:01 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:07 PM : cf289085_currentScreen-2015-05-11_02-51-01-PM.png
+5/11/2015 2:51:08 PM : Clicking by template TCPDUMPSTART_OK.png
+5/11/2015 2:51:08 PM : Verfiying template TCPDUMPSTART_OK.png
+5/11/2015 2:51:08 PM : Accuracy is D=1
+5/11/2015 2:51:08 PM : Template TCPDUMPSTART_OK.png is Verified. 
+5/11/2015 2:51:08 PM : Touching on  X=393, Y=912
+5/11/2015 2:51:08 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:14 PM : cf289085_currentScreen-2015-05-11_02-51-08-PM.png
+5/11/2015 2:51:15 PM : Going Back to Home screen.
+5/11/2015 2:51:15 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:21 PM : cf289085_currentScreen-2015-05-11_02-51-15-PM.png
+5/11/2015 2:51:21 PM : Going Back to Home screen.
+5/11/2015 2:51:21 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:26 PM : cf289085_currentScreen-2015-05-11_02-51-21-PM.png
+5/11/2015 2:51:27 PM : Play band Hop
+5/11/2015 2:51:27 PM : Start Black Planet
+5/11/2015 2:51:27 PM : Clicking by template StartIcon.png
+5/11/2015 2:51:27 PM : Verfiying template StartIcon.png
+5/11/2015 2:51:27 PM : Accuracy is D=1
+5/11/2015 2:51:27 PM : Template StartIcon.png is Verified. 
+5/11/2015 2:51:27 PM : Touching on  X=69, Y=99
+5/11/2015 2:51:27 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:33 PM : cf289085_currentScreen-2015-05-11_02-51-27-PM.png
+5/11/2015 2:51:34 PM : verifying template Pause  Pause.png
+5/11/2015 2:51:34 PM : Verfiying template Pause.png
+5/11/2015 2:51:34 PM : Accuracy is D=0.633953332901001
+5/11/2015 2:51:34 PM : Template Pause.png is not Verified!
+5/11/2015 2:51:34 PM : verifying template Menu  Menu.png
+5/11/2015 2:51:34 PM : Verfiying template Menu.png
+5/11/2015 2:51:34 PM : Accuracy is D=0.434677988290787
+5/11/2015 2:51:34 PM : Template Menu.png is not Verified!
+5/11/2015 2:51:34 PM : Clicking by template CloseAds.png
+5/11/2015 2:51:34 PM : Verfiying template CloseAds.png
+5/11/2015 2:51:34 PM : Accuracy is D=0.714846134185791
+5/11/2015 2:51:34 PM : Template CloseAds.png is not Verified!
+5/11/2015 2:51:34 PM : Hop key is not found
+The given key was not present in the dictionary.
+5/11/2015 2:51:34 PM : System.Diagnostics.ProcessStartInfo
+5/11/2015 2:51:35 PM : ************************End TestCase 0.1************************

@@ -1,0 +1,115 @@
+6/17/2015 6:37:52 PM : ******************Start TestCase 0.1******************
+6/17/2015 6:37:54 PM : Delete Logs and restart device
+6/17/2015 6:37:54 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+6/17/2015 6:37:54 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:38:04 PM : Going Back to Home screen.
+6/17/2015 6:38:04 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:38:13 PM : cf289085_currentScreen-2015-06-17_06-38-04-PM.png
+6/17/2015 6:38:13 PM : Going Back to Home screen.
+6/17/2015 6:38:13 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:38:19 PM : cf289085_currentScreen-2015-06-17_06-38-13-PM.png
+6/17/2015 6:38:20 PM : Clicking by template DialerIconStart.png
+6/17/2015 6:38:20 PM : Verfiying template DialerIconStart.png
+6/17/2015 6:38:20 PM : Accuracy is D=0.506268501281738
+6/17/2015 6:38:20 PM : Template DialerIconStart.png is not Verified!
+6/17/2015 6:38:20 PM : typing #932#
+6/17/2015 6:38:20 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:38:28 PM : cf289085_currentScreen-2015-06-17_06-38-20-PM.png
+6/17/2015 6:38:28 PM : Clicking by template DialerIconCall.png
+6/17/2015 6:38:28 PM : Verfiying template DialerIconCall.png
+6/17/2015 6:38:28 PM : Accuracy is D=0.379966139793396
+6/17/2015 6:38:28 PM : Template DialerIconCall.png is not Verified!
+6/17/2015 6:38:28 PM : Wait 10 seconds to get the datausage message
+6/17/2015 6:38:38 PM : Taking screen shot...
+6/17/2015 6:38:38 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:38:44 PM : cf289085_currentScreen-2015-06-17_06-38-38-PM.png
+6/17/2015 6:38:48 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:38:48 PM : ************************End TestCase 0.1************************
+6/17/2015 6:38:50 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+6/17/2015 6:38:50 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:38:52 PM : Index was outside the bounds of the array.
+6/17/2015 6:44:21 PM : ******************Start TestCase 0.1******************
+6/17/2015 6:44:22 PM : Delete Logs and restart device
+6/17/2015 6:44:22 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+6/17/2015 6:44:22 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 6:57:12 PM : Could not find file 'D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\NewTestcases\TestSettings.csvTestCaseID,Title,Execute,Num Attempts,Num Phone,Param1,param2,param3,param4'.
+6/17/2015 6:59:29 PM : Could not find file 'D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\NewTestcases\TestSettings.csvTestCaseID,Title,Execute,Num Attempts,Num Phone,Param1,param2,param3,param4'.
+6/17/2015 7:05:18 PM : ******************Start TestCase 0.1******************
+6/17/2015 7:05:19 PM : Delete Logs and restart device
+6/17/2015 7:05:19 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+6/17/2015 7:05:19 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:05:29 PM : Going Back to Home screen.
+6/17/2015 7:05:29 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:05:35 PM : cf289085_currentScreen-2015-06-17_07-05-29-PM.png
+6/17/2015 7:05:36 PM : Going Back to Home screen.
+6/17/2015 7:05:36 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:05:42 PM : cf289085_currentScreen-2015-06-17_07-05-36-PM.png
+6/17/2015 7:05:42 PM : Clicking by template DialerIconStart.png
+6/17/2015 7:05:42 PM : Verfiying template DialerIconStart.png
+6/17/2015 7:05:42 PM : Accuracy is D=0.506268501281738
+6/17/2015 7:05:42 PM : Template DialerIconStart.png is not Verified!
+6/17/2015 7:05:42 PM : typing #932#
+6/17/2015 7:05:42 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:05:49 PM : cf289085_currentScreen-2015-06-17_07-05-42-PM.png
+6/17/2015 7:05:50 PM : Clicking by template DialerIconCall.png
+6/17/2015 7:05:50 PM : Verfiying template DialerIconCall.png
+6/17/2015 7:05:50 PM : Accuracy is D=0.379988133907318
+6/17/2015 7:05:50 PM : Template DialerIconCall.png is not Verified!
+6/17/2015 7:05:50 PM : Wait 10 seconds to get the datausage message
+6/17/2015 7:06:00 PM : Taking screen shot...
+6/17/2015 7:06:00 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:06:06 PM : cf289085_currentScreen-2015-06-17_07-06-00-PM.png
+6/17/2015 7:06:09 PM : ProgressInvoke or BeginInvoke cannot be called on a control until the window handle has been created.
+6/17/2015 7:06:09 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:06:09 PM : ************************End TestCase 0.1************************
+6/17/2015 7:09:38 PM : ******************Start TestCase 0.1******************
+6/17/2015 7:09:39 PM : Delete Logs and restart device
+6/17/2015 7:09:39 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+6/17/2015 7:09:39 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:09:49 PM : Going Back to Home screen.
+6/17/2015 7:09:49 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:09:55 PM : cf289085_currentScreen-2015-06-17_07-09-49-PM.png
+6/17/2015 7:09:56 PM : Going Back to Home screen.
+6/17/2015 7:09:56 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:10:02 PM : cf289085_currentScreen-2015-06-17_07-09-56-PM.png
+6/17/2015 7:10:02 PM : Clicking by template DialerIconStart.png
+6/17/2015 7:10:02 PM : Verfiying template DialerIconStart.png
+6/17/2015 7:10:02 PM : Accuracy is D=0.506268501281738
+6/17/2015 7:10:02 PM : Template DialerIconStart.png is not Verified!
+6/17/2015 7:10:02 PM : typing #932#
+6/17/2015 7:10:02 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:10:10 PM : cf289085_currentScreen-2015-06-17_07-10-02-PM.png
+6/17/2015 7:10:10 PM : Clicking by template DialerIconCall.png
+6/17/2015 7:10:10 PM : Verfiying template DialerIconCall.png
+6/17/2015 7:10:10 PM : Accuracy is D=0.3799749314785
+6/17/2015 7:10:10 PM : Template DialerIconCall.png is not Verified!
+6/17/2015 7:10:10 PM : Wait 10 seconds to get the datausage message
+6/17/2015 7:10:20 PM : Taking screen shot...
+6/17/2015 7:10:20 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:10:26 PM : cf289085_currentScreen-2015-06-17_07-10-20-PM.png
+6/17/2015 7:10:57 PM : ******************Start TestCase 0.1******************
+6/17/2015 7:10:57 PM : Delete Logs and restart device
+6/17/2015 7:10:57 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+6/17/2015 7:10:57 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:11:07 PM : Going Back to Home screen.
+6/17/2015 7:11:07 PM : System.Diagnostics.ProcessStartInfo
+6/17/2015 7:11:13 PM : cf289085_currentScreen-2015-06-17_07-11-07-PM.png
+6/17/2015 7:11:14 PM : Going Back to Home screen.
+6/17/2015 7:11:14 PM : System.Diagnostics.ProcessStartInfo

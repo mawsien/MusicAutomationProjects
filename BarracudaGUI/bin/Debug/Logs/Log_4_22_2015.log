@@ -1,0 +1,2280 @@
+4/22/2015 11:47:12 AM : ******************Start TestCase 0.1******************
+4/22/2015 11:47:12 AM : Delete Logs and restart device
+4/22/2015 11:47:12 AM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+4/22/2015 11:47:12 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:47:23 AM : Going Back to Home screen.
+4/22/2015 11:47:23 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:47:31 AM : d41c9385_currentScreen-2015-04-22_11-47-23-AM.png
+4/22/2015 11:47:32 AM : Going Back to Home screen.
+4/22/2015 11:47:32 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:47:38 AM : d41c9385_currentScreen-2015-04-22_11-47-32-AM.png
+4/22/2015 11:47:38 AM : Clicking by template DialerIconStart.png
+4/22/2015 11:47:39 AM : Verfiying template DialerIconStart.png
+4/22/2015 11:47:39 AM : Accuracy is D=0.999999582767487
+4/22/2015 11:47:39 AM : Template DialerIconStart.png is Verified. 
+4/22/2015 11:47:39 AM : Touching on  X=54, Y=863
+4/22/2015 11:47:39 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:47:46 AM : d41c9385_currentScreen-2015-04-22_11-47-39-AM.png
+4/22/2015 11:47:46 AM : typing #932#
+4/22/2015 11:47:47 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:47:54 AM : d41c9385_currentScreen-2015-04-22_11-47-47-AM.png
+4/22/2015 11:47:54 AM : Clicking by template DialerIconCall.png
+4/22/2015 11:47:55 AM : Verfiying template DialerIconCall.png
+4/22/2015 11:47:55 AM : Accuracy is D=1
+4/22/2015 11:47:55 AM : Template DialerIconCall.png is Verified. 
+4/22/2015 11:47:55 AM : Touching on  X=268, Y=910
+4/22/2015 11:47:55 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:48:01 AM : d41c9385_currentScreen-2015-04-22_11-47-55-AM.png
+4/22/2015 11:48:02 AM : Wait 10 seconds to get the datausage message
+4/22/2015 11:48:12 AM : Taking screen shot...
+4/22/2015 11:48:12 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:48:18 AM : d41c9385_currentScreen-2015-04-22_11-48-12-AM.png
+4/22/2015 11:48:21 AM : Clicking by template WEB_OK.png
+4/22/2015 11:48:21 AM : Verfiying template WEB_OK.png
+4/22/2015 11:48:21 AM : Accuracy is D=0.99991238117218
+4/22/2015 11:48:21 AM : Template WEB_OK.png is Verified. 
+4/22/2015 11:48:21 AM : Touching on  X=270, Y=590
+4/22/2015 11:48:21 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:48:28 AM : d41c9385_currentScreen-2015-04-22_11-48-21-AM.png
+4/22/2015 11:48:28 AM : Start TCPDump
+4/22/2015 11:48:29 AM : Clicking by template DialerIconStart.png
+4/22/2015 11:48:29 AM : Verfiying template DialerIconStart.png
+4/22/2015 11:48:29 AM : Accuracy is D=0.736172378063202
+4/22/2015 11:48:29 AM : Template DialerIconStart.png is not Verified!
+4/22/2015 11:48:29 AM : typing *#9900#
+4/22/2015 11:48:29 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:48:36 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-48-29-AM.png
+4/22/2015 11:48:42 AM : Taking screen shot...
+4/22/2015 11:48:42 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:48:49 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-48-42-AM.png
+4/22/2015 11:48:55 AM : Taking screen shot...
+4/22/2015 11:48:55 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:49:02 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-48-55-AM.png
+4/22/2015 11:49:09 AM : Taking screen shot...
+4/22/2015 11:49:09 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:49:15 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-49-09-AM.png
+4/22/2015 11:49:22 AM : Taking screen shot...
+4/22/2015 11:49:22 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:49:28 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-49-22-AM.png
+4/22/2015 11:49:35 AM : Taking screen shot...
+4/22/2015 11:49:35 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:49:42 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-49-35-AM.png
+4/22/2015 11:49:48 AM : Taking screen shot...
+4/22/2015 11:49:48 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:49:55 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-49-48-AM.png
+4/22/2015 11:50:01 AM : Taking screen shot...
+4/22/2015 11:50:01 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:50:08 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-50-01-AM.png
+4/22/2015 11:50:14 AM : Taking screen shot...
+4/22/2015 11:50:14 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:50:21 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-50-14-AM.png
+4/22/2015 11:50:28 AM : Taking screen shot...
+4/22/2015 11:50:28 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:50:34 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-50-28-AM.png
+4/22/2015 11:50:41 AM : Taking screen shot...
+4/22/2015 11:50:41 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:50:47 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-50-41-AM.png
+4/22/2015 11:50:54 AM : Taking screen shot...
+4/22/2015 11:50:54 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:51:01 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-50-54-AM.png
+4/22/2015 11:51:07 AM : Taking screen shot...
+4/22/2015 11:51:07 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:51:14 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-51-07-AM.png
+4/22/2015 11:51:20 AM : Taking screen shot...
+4/22/2015 11:51:20 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:51:27 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-51-20-AM.png
+4/22/2015 11:51:33 AM : Taking screen shot...
+4/22/2015 11:51:33 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:51:40 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-51-33-AM.png
+4/22/2015 11:51:47 AM : Taking screen shot...
+4/22/2015 11:51:47 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:51:53 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-51-47-AM.png
+4/22/2015 11:52:00 AM : Taking screen shot...
+4/22/2015 11:52:00 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:52:07 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-52-00-AM.png
+4/22/2015 11:52:13 AM : Taking screen shot...
+4/22/2015 11:52:13 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:52:20 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-52-13-AM.png
+4/22/2015 11:52:26 AM : Taking screen shot...
+4/22/2015 11:52:26 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:52:33 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-52-26-AM.png
+4/22/2015 11:52:40 AM : Taking screen shot...
+4/22/2015 11:52:40 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:52:46 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-52-40-AM.png
+4/22/2015 11:52:53 AM : Taking screen shot...
+4/22/2015 11:52:53 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:52:59 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-52-53-AM.png
+4/22/2015 11:53:06 AM : Taking screen shot...
+4/22/2015 11:53:06 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:53:13 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-53-06-AM.png
+4/22/2015 11:53:19 AM : Taking screen shot...
+4/22/2015 11:53:19 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:53:26 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-53-19-AM.png
+4/22/2015 11:53:32 AM : Taking screen shot...
+4/22/2015 11:53:32 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:53:39 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-53-32-AM.png
+4/22/2015 11:53:46 AM : Taking screen shot...
+4/22/2015 11:53:46 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:53:52 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-53-46-AM.png
+4/22/2015 11:53:59 AM : Taking screen shot...
+4/22/2015 11:53:59 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:54:06 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-53-59-AM.png
+4/22/2015 11:54:12 AM : Taking screen shot...
+4/22/2015 11:54:12 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:54:19 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-54-12-AM.png
+4/22/2015 11:54:25 AM : Taking screen shot...
+4/22/2015 11:54:25 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:54:32 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-54-25-AM.png
+4/22/2015 11:54:38 AM : Taking screen shot...
+4/22/2015 11:54:38 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:54:45 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-54-38-AM.png
+4/22/2015 11:54:52 AM : Taking screen shot...
+4/22/2015 11:54:52 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:54:58 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-54-52-AM.png
+4/22/2015 11:55:05 AM : Taking screen shot...
+4/22/2015 11:55:05 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:55:12 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-55-05-AM.png
+4/22/2015 11:55:18 AM : Taking screen shot...
+4/22/2015 11:55:18 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:55:25 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-55-18-AM.png
+4/22/2015 11:55:31 AM : Taking screen shot...
+4/22/2015 11:55:31 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:55:38 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-55-31-AM.png
+4/22/2015 11:55:44 AM : Taking screen shot...
+4/22/2015 11:55:44 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:55:51 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-55-44-AM.png
+4/22/2015 11:55:58 AM : Taking screen shot...
+4/22/2015 11:55:58 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:56:04 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-55-58-AM.png
+4/22/2015 11:56:11 AM : Taking screen shot...
+4/22/2015 11:56:11 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:56:17 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-56-11-AM.png
+4/22/2015 11:56:24 AM : Taking screen shot...
+4/22/2015 11:56:24 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:56:31 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-56-24-AM.png
+4/22/2015 11:56:37 AM : Taking screen shot...
+4/22/2015 11:56:37 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:56:44 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-56-37-AM.png
+4/22/2015 11:56:50 AM : Taking screen shot...
+4/22/2015 11:56:50 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:56:57 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-56-50-AM.png
+4/22/2015 11:57:03 AM : Taking screen shot...
+4/22/2015 11:57:03 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:57:10 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-57-03-AM.png
+4/22/2015 11:57:17 AM : Taking screen shot...
+4/22/2015 11:57:17 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:57:23 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-57-17-AM.png
+4/22/2015 11:57:30 AM : Taking screen shot...
+4/22/2015 11:57:30 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:57:36 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-57-30-AM.png
+4/22/2015 11:57:43 AM : Taking screen shot...
+4/22/2015 11:57:43 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:57:50 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-57-43-AM.png
+4/22/2015 11:57:56 AM : Taking screen shot...
+4/22/2015 11:57:56 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:58:03 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-57-56-AM.png
+4/22/2015 11:58:09 AM : Taking screen shot...
+4/22/2015 11:58:09 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:58:16 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-58-09-AM.png
+4/22/2015 11:58:22 AM : Taking screen shot...
+4/22/2015 11:58:23 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:58:29 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-58-22-AM.png
+4/22/2015 11:58:36 AM : Taking screen shot...
+4/22/2015 11:58:36 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:58:42 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-58-36-AM.png
+4/22/2015 11:58:49 AM : Taking screen shot...
+4/22/2015 11:58:49 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:58:56 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-58-49-AM.png
+4/22/2015 11:59:02 AM : Taking screen shot...
+4/22/2015 11:59:02 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:59:09 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-59-02-AM.png
+4/22/2015 11:59:15 AM : Taking screen shot...
+4/22/2015 11:59:15 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:59:22 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-59-15-AM.png
+4/22/2015 11:59:28 AM : Taking screen shot...
+4/22/2015 11:59:28 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:59:35 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-59-28-AM.png
+4/22/2015 11:59:42 AM : Taking screen shot...
+4/22/2015 11:59:42 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 11:59:48 AM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-59-42-AM.png
+4/22/2015 11:59:55 AM : Taking screen shot...
+4/22/2015 11:59:55 AM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:00:01 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_11-59-55-AM.png
+4/22/2015 12:00:08 PM : Taking screen shot...
+4/22/2015 12:00:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:00:15 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-00-08-PM.png
+4/22/2015 12:00:21 PM : Taking screen shot...
+4/22/2015 12:00:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:00:28 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-00-21-PM.png
+4/22/2015 12:00:34 PM : Taking screen shot...
+4/22/2015 12:00:34 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:00:41 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-00-34-PM.png
+4/22/2015 12:00:47 PM : Taking screen shot...
+4/22/2015 12:00:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:00:54 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-00-47-PM.png
+4/22/2015 12:01:01 PM : Taking screen shot...
+4/22/2015 12:01:01 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:01:07 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-01-01-PM.png
+4/22/2015 12:01:14 PM : Taking screen shot...
+4/22/2015 12:01:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:01:20 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-01-14-PM.png
+4/22/2015 12:01:27 PM : Taking screen shot...
+4/22/2015 12:01:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:01:34 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-01-27-PM.png
+4/22/2015 12:01:40 PM : Taking screen shot...
+4/22/2015 12:01:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:01:47 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-01-40-PM.png
+4/22/2015 12:01:53 PM : Taking screen shot...
+4/22/2015 12:01:53 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:02:00 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-01-53-PM.png
+4/22/2015 12:02:06 PM : Taking screen shot...
+4/22/2015 12:02:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:02:13 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-02-06-PM.png
+4/22/2015 12:02:20 PM : Taking screen shot...
+4/22/2015 12:02:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:02:26 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-02-20-PM.png
+4/22/2015 12:02:33 PM : Taking screen shot...
+4/22/2015 12:02:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:02:39 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-02-33-PM.png
+4/22/2015 12:02:46 PM : Taking screen shot...
+4/22/2015 12:02:46 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:02:53 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-02-46-PM.png
+4/22/2015 12:02:59 PM : Taking screen shot...
+4/22/2015 12:02:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:03:06 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-02-59-PM.png
+4/22/2015 12:03:12 PM : Taking screen shot...
+4/22/2015 12:03:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:03:19 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-03-12-PM.png
+4/22/2015 12:03:25 PM : Taking screen shot...
+4/22/2015 12:03:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:03:32 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-03-25-PM.png
+4/22/2015 12:03:39 PM : Taking screen shot...
+4/22/2015 12:03:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:03:45 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-03-39-PM.png
+4/22/2015 12:03:52 PM : Taking screen shot...
+4/22/2015 12:03:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:03:58 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-03-52-PM.png
+4/22/2015 12:04:05 PM : Taking screen shot...
+4/22/2015 12:04:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:04:12 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-04-05-PM.png
+4/22/2015 12:04:18 PM : Taking screen shot...
+4/22/2015 12:04:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:04:25 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-04-18-PM.png
+4/22/2015 12:04:31 PM : Taking screen shot...
+4/22/2015 12:04:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:04:38 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-04-31-PM.png
+4/22/2015 12:04:44 PM : Taking screen shot...
+4/22/2015 12:04:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:04:51 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-04-44-PM.png
+4/22/2015 12:04:58 PM : Taking screen shot...
+4/22/2015 12:04:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:05:04 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-04-58-PM.png
+4/22/2015 12:05:11 PM : Taking screen shot...
+4/22/2015 12:05:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:05:17 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-05-11-PM.png
+4/22/2015 12:05:24 PM : Taking screen shot...
+4/22/2015 12:05:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:05:30 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-05-24-PM.png
+4/22/2015 12:05:37 PM : Taking screen shot...
+4/22/2015 12:05:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:05:44 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-05-37-PM.png
+4/22/2015 12:05:50 PM : Taking screen shot...
+4/22/2015 12:05:50 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:05:57 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-05-50-PM.png
+4/22/2015 12:06:03 PM : Taking screen shot...
+4/22/2015 12:06:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:06:10 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-06-03-PM.png
+4/22/2015 12:06:17 PM : Taking screen shot...
+4/22/2015 12:06:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:06:23 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-06-17-PM.png
+4/22/2015 12:06:30 PM : Taking screen shot...
+4/22/2015 12:06:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:06:36 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-06-30-PM.png
+4/22/2015 12:06:43 PM : Taking screen shot...
+4/22/2015 12:06:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:06:50 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-06-43-PM.png
+4/22/2015 12:06:56 PM : Taking screen shot...
+4/22/2015 12:06:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:07:03 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-06-56-PM.png
+4/22/2015 12:07:09 PM : Taking screen shot...
+4/22/2015 12:07:09 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:07:16 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-07-09-PM.png
+4/22/2015 12:07:22 PM : Taking screen shot...
+4/22/2015 12:07:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:07:29 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-07-22-PM.png
+4/22/2015 12:07:36 PM : Taking screen shot...
+4/22/2015 12:07:36 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:07:42 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-07-36-PM.png
+4/22/2015 12:07:49 PM : Taking screen shot...
+4/22/2015 12:07:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:07:55 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-07-49-PM.png
+4/22/2015 12:08:02 PM : Taking screen shot...
+4/22/2015 12:08:02 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:08:09 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-08-02-PM.png
+4/22/2015 12:08:15 PM : Taking screen shot...
+4/22/2015 12:08:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:08:22 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-08-15-PM.png
+4/22/2015 12:08:28 PM : Taking screen shot...
+4/22/2015 12:08:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:08:35 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-08-28-PM.png
+4/22/2015 12:08:41 PM : Taking screen shot...
+4/22/2015 12:08:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:08:48 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-08-41-PM.png
+4/22/2015 12:08:55 PM : Taking screen shot...
+4/22/2015 12:08:55 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:09:01 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-08-55-PM.png
+4/22/2015 12:09:08 PM : Taking screen shot...
+4/22/2015 12:09:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:09:14 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-09-08-PM.png
+4/22/2015 12:09:21 PM : Taking screen shot...
+4/22/2015 12:09:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:09:27 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-09-21-PM.png
+4/22/2015 12:09:34 PM : Taking screen shot...
+4/22/2015 12:09:34 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:09:41 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-09-34-PM.png
+4/22/2015 12:09:47 PM : Taking screen shot...
+4/22/2015 12:09:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:09:54 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-09-47-PM.png
+4/22/2015 12:10:00 PM : Taking screen shot...
+4/22/2015 12:10:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:10:07 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-10-00-PM.png
+4/22/2015 12:10:14 PM : Taking screen shot...
+4/22/2015 12:10:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:10:20 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-10-14-PM.png
+4/22/2015 12:10:27 PM : Taking screen shot...
+4/22/2015 12:10:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:10:33 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-10-27-PM.png
+4/22/2015 12:10:40 PM : Taking screen shot...
+4/22/2015 12:10:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:10:47 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-10-40-PM.png
+4/22/2015 12:10:53 PM : Taking screen shot...
+4/22/2015 12:10:53 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:11:00 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-10-53-PM.png
+4/22/2015 12:11:06 PM : Taking screen shot...
+4/22/2015 12:11:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:11:13 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-11-06-PM.png
+4/22/2015 12:11:19 PM : Taking screen shot...
+4/22/2015 12:11:19 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:11:26 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-11-19-PM.png
+4/22/2015 12:11:33 PM : Taking screen shot...
+4/22/2015 12:11:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:11:39 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-11-33-PM.png
+4/22/2015 12:11:46 PM : Taking screen shot...
+4/22/2015 12:11:46 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:11:52 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-11-46-PM.png
+4/22/2015 12:11:59 PM : Taking screen shot...
+4/22/2015 12:11:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:12:06 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-11-59-PM.png
+4/22/2015 12:12:12 PM : Taking screen shot...
+4/22/2015 12:12:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:12:19 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-12-12-PM.png
+4/22/2015 12:12:25 PM : Taking screen shot...
+4/22/2015 12:12:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:12:32 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-12-25-PM.png
+4/22/2015 12:12:39 PM : Taking screen shot...
+4/22/2015 12:12:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:12:45 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-12-39-PM.png
+4/22/2015 12:12:52 PM : Taking screen shot...
+4/22/2015 12:12:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:12:59 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-12-52-PM.png
+4/22/2015 12:13:05 PM : Taking screen shot...
+4/22/2015 12:13:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:13:12 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-13-05-PM.png
+4/22/2015 12:13:18 PM : Taking screen shot...
+4/22/2015 12:13:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:13:25 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-13-18-PM.png
+4/22/2015 12:13:31 PM : Taking screen shot...
+4/22/2015 12:13:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:13:38 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-13-31-PM.png
+4/22/2015 12:13:45 PM : Taking screen shot...
+4/22/2015 12:13:45 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:13:51 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-13-45-PM.png
+4/22/2015 12:13:58 PM : Taking screen shot...
+4/22/2015 12:13:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:14:04 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-13-58-PM.png
+4/22/2015 12:14:11 PM : Taking screen shot...
+4/22/2015 12:14:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:14:18 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-14-11-PM.png
+4/22/2015 12:14:24 PM : Taking screen shot...
+4/22/2015 12:14:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:14:31 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-14-24-PM.png
+4/22/2015 12:14:37 PM : Taking screen shot...
+4/22/2015 12:14:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:14:44 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-14-37-PM.png
+4/22/2015 12:14:51 PM : Taking screen shot...
+4/22/2015 12:14:51 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:14:57 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-14-51-PM.png
+4/22/2015 12:15:04 PM : Taking screen shot...
+4/22/2015 12:15:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:15:10 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-15-04-PM.png
+4/22/2015 12:15:17 PM : Taking screen shot...
+4/22/2015 12:15:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:15:24 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-15-17-PM.png
+4/22/2015 12:15:30 PM : Taking screen shot...
+4/22/2015 12:15:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:15:37 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-15-30-PM.png
+4/22/2015 12:15:43 PM : Taking screen shot...
+4/22/2015 12:15:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:15:50 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-15-43-PM.png
+4/22/2015 12:15:57 PM : Taking screen shot...
+4/22/2015 12:15:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:16:03 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-15-57-PM.png
+4/22/2015 12:16:10 PM : Taking screen shot...
+4/22/2015 12:16:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:16:16 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-16-10-PM.png
+4/22/2015 12:16:23 PM : Taking screen shot...
+4/22/2015 12:16:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:16:30 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-16-23-PM.png
+4/22/2015 12:16:36 PM : Taking screen shot...
+4/22/2015 12:16:36 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:16:43 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-16-36-PM.png
+4/22/2015 12:16:49 PM : Taking screen shot...
+4/22/2015 12:16:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:16:56 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-16-49-PM.png
+4/22/2015 12:17:03 PM : Taking screen shot...
+4/22/2015 12:17:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:17:09 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-17-03-PM.png
+4/22/2015 12:17:16 PM : Taking screen shot...
+4/22/2015 12:17:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:17:22 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-17-16-PM.png
+4/22/2015 12:17:29 PM : Taking screen shot...
+4/22/2015 12:17:29 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:17:36 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-17-29-PM.png
+4/22/2015 12:17:42 PM : Taking screen shot...
+4/22/2015 12:17:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:17:49 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-17-42-PM.png
+4/22/2015 12:17:55 PM : Taking screen shot...
+4/22/2015 12:17:55 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:18:02 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-17-55-PM.png
+4/22/2015 12:18:09 PM : Taking screen shot...
+4/22/2015 12:18:09 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:18:15 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-18-09-PM.png
+4/22/2015 12:18:22 PM : Taking screen shot...
+4/22/2015 12:18:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:18:28 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-18-22-PM.png
+4/22/2015 12:18:35 PM : Taking screen shot...
+4/22/2015 12:18:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:18:42 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_12-18-35-PM.png
+4/22/2015 12:18:48 PM : Taking screen shot...
+4/22/2015 12:18:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:18:55 PM : d41c9385_currentScreen-2015-04-22_12-18-48-PM.png
+4/22/2015 12:18:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:19:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:13 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:29 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:46 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:20:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:19 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:36 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:21:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:01 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:09 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:34 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:50 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:22:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:04 PM : d41c9385_currentScreen-2015-04-22_12-18-48-PM.png
+4/22/2015 12:23:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:23:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:24:55 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:45 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:25:53 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:01 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:26 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:34 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:51 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:26:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:07 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:46 PM : d41c9385_currentScreen-2015-04-22_12-18-48-PM.png
+4/22/2015 12:27:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:27:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:28:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:29 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:45 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:29:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:02 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:30:51 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:31:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:28 PM : d41c9385_currentScreen-2015-04-22_12-18-48-PM.png
+4/22/2015 12:32:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:32:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:13 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:29 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:38 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:46 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:33:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:19 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:36 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:34:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:01 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:09 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:26 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:34 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:50 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:35:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:07 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:36:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:10 PM : d41c9385_currentScreen-2015-04-22_12-18-48-PM.png
+4/22/2015 12:37:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:37:55 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:01 PM : Taking screen shot...
+4/22/2015 12:38:01 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:06 PM : d41c9385_currentScreen-2015-04-22_12-38-01-PM.png
+4/22/2015 12:38:07 PM : Scrolling two page down..
+4/22/2015 12:38:07 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:14 PM : d41c9385_currentScreen-2015-04-22_12-38-07-PM.png
+4/22/2015 12:38:14 PM : Taking screen shot...
+4/22/2015 12:38:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:20 PM : d41c9385_currentScreen-2015-04-22_12-38-15-PM.png
+4/22/2015 12:38:21 PM : Clicking by template TCPDUMPSTART.png
+4/22/2015 12:38:21 PM : Verfiying template TCPDUMPSTART.png
+4/22/2015 12:38:21 PM : Accuracy is D=0.266737550497055
+4/22/2015 12:38:21 PM : Template TCPDUMPSTART.png is not Verified!
+4/22/2015 12:38:21 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/22/2015 12:38:21 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/22/2015 12:38:21 PM : Accuracy is D=0.277466088533401
+4/22/2015 12:38:21 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/22/2015 12:38:21 PM : Clicking by template TCPDUMPSTART_OK.png
+4/22/2015 12:38:21 PM : Verfiying template TCPDUMPSTART_OK.png
+4/22/2015 12:38:21 PM : Accuracy is D=0.385093778371811
+4/22/2015 12:38:21 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/22/2015 12:38:21 PM : Going Back to Home screen.
+4/22/2015 12:38:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:27 PM : d41c9385_currentScreen-2015-04-22_12-38-21-PM.png
+4/22/2015 12:38:28 PM : Going Back to Home screen.
+4/22/2015 12:38:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:34 PM : d41c9385_currentScreen-2015-04-22_12-38-28-PM.png
+4/22/2015 12:38:34 PM : Play band Alternat
+4/22/2015 12:38:35 PM : Start Pandora
+4/22/2015 12:38:35 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:38:35 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:38:35 PM : Accuracy is D=0.99998927116394
+4/22/2015 12:38:35 PM : Template PandoraStartIcon.png is Verified. 
+4/22/2015 12:38:35 PM : Touching on  X=69, Y=97
+4/22/2015 12:38:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:41 PM : d41c9385_currentScreen-2015-04-22_12-38-35-PM.png
+4/22/2015 12:38:42 PM : Taking screen shot...
+4/22/2015 12:38:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:48 PM : d41c9385_currentScreen-2015-04-22_12-38-43-PM.png
+4/22/2015 12:38:49 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:38:49 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:38:49 PM : Accuracy is D=0.460616916418076
+4/22/2015 12:38:49 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:38:49 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:38:49 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:38:49 PM : Accuracy is D=0.51025915145874
+4/22/2015 12:38:49 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:38:49 PM : Taking screen shot...
+4/22/2015 12:38:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:38:55 PM : d41c9385_currentScreen-2015-04-22_12-38-49-PM.png
+4/22/2015 12:38:58 PM : Going Back to Home screen.
+4/22/2015 12:38:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:04 PM : d41c9385_currentScreen-2015-04-22_12-38-58-PM.png
+4/22/2015 12:39:04 PM : Play band Alternat
+4/22/2015 12:39:05 PM : Start Pandora
+4/22/2015 12:39:05 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:39:05 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:39:05 PM : Accuracy is D=0.464551538228989
+4/22/2015 12:39:05 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:39:05 PM : Taking screen shot...
+4/22/2015 12:39:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:10 PM : d41c9385_currentScreen-2015-04-22_12-39-05-PM.png
+4/22/2015 12:39:11 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:39:11 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:39:12 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:39:12 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:39:12 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:39:12 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:39:12 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:39:12 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:39:12 PM : Taking screen shot...
+4/22/2015 12:39:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:17 PM : d41c9385_currentScreen-2015-04-22_12-39-12-PM.png
+4/22/2015 12:39:20 PM : Going Back to Home screen.
+4/22/2015 12:39:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:25 PM : d41c9385_currentScreen-2015-04-22_12-39-20-PM.png
+4/22/2015 12:39:26 PM : Play band Alternat
+4/22/2015 12:39:26 PM : Start Pandora
+4/22/2015 12:39:26 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:39:26 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:39:27 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:39:27 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:39:27 PM : Taking screen shot...
+4/22/2015 12:39:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:32 PM : d41c9385_currentScreen-2015-04-22_12-39-27-PM.png
+4/22/2015 12:39:33 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:39:33 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:39:33 PM : Accuracy is D=0.259521871805191
+4/22/2015 12:39:33 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:39:33 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:39:33 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:39:33 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:39:33 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:39:33 PM : Taking screen shot...
+4/22/2015 12:39:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:39 PM : d41c9385_currentScreen-2015-04-22_12-39-33-PM.png
+4/22/2015 12:39:41 PM : Going Back to Home screen.
+4/22/2015 12:39:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:47 PM : d41c9385_currentScreen-2015-04-22_12-39-41-PM.png
+4/22/2015 12:39:47 PM : Play band Alternat
+4/22/2015 12:39:48 PM : Start Pandora
+4/22/2015 12:39:48 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:39:48 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:39:48 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:39:48 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:39:48 PM : Taking screen shot...
+4/22/2015 12:39:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:39:54 PM : d41c9385_currentScreen-2015-04-22_12-39-48-PM.png
+4/22/2015 12:39:54 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:39:55 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:39:55 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:39:55 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:39:55 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:39:55 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:39:55 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:39:55 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:39:55 PM : Taking screen shot...
+4/22/2015 12:39:55 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:01 PM : d41c9385_currentScreen-2015-04-22_12-39-55-PM.png
+4/22/2015 12:40:03 PM : Going Back to Home screen.
+4/22/2015 12:40:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:09 PM : d41c9385_currentScreen-2015-04-22_12-40-03-PM.png
+4/22/2015 12:40:09 PM : Play band Alternat
+4/22/2015 12:40:10 PM : Start Pandora
+4/22/2015 12:40:10 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:40:10 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:40:10 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:40:10 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:40:10 PM : Taking screen shot...
+4/22/2015 12:40:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:16 PM : d41c9385_currentScreen-2015-04-22_12-40-10-PM.png
+4/22/2015 12:40:16 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:40:17 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:40:17 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:40:17 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:40:17 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:40:17 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:40:17 PM : Accuracy is D=0.536444842815399
+4/22/2015 12:40:17 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:40:17 PM : Taking screen shot...
+4/22/2015 12:40:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:23 PM : d41c9385_currentScreen-2015-04-22_12-40-17-PM.png
+4/22/2015 12:40:25 PM : Going Back to Home screen.
+4/22/2015 12:40:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:31 PM : d41c9385_currentScreen-2015-04-22_12-40-25-PM.png
+4/22/2015 12:40:31 PM : Play band Alternat
+4/22/2015 12:40:32 PM : Start Pandora
+4/22/2015 12:40:32 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:40:32 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:40:32 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:40:32 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:40:32 PM : Taking screen shot...
+4/22/2015 12:40:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:37 PM : d41c9385_currentScreen-2015-04-22_12-40-32-PM.png
+4/22/2015 12:40:38 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:40:39 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:40:39 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:40:39 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:40:39 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:40:39 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:40:39 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:40:39 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:40:39 PM : Taking screen shot...
+4/22/2015 12:40:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:44 PM : d41c9385_currentScreen-2015-04-22_12-40-39-PM.png
+4/22/2015 12:40:47 PM : Going Back to Home screen.
+4/22/2015 12:40:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:52 PM : d41c9385_currentScreen-2015-04-22_12-40-47-PM.png
+4/22/2015 12:40:53 PM : Play band Alternat
+4/22/2015 12:40:53 PM : Start Pandora
+4/22/2015 12:40:53 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:40:53 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:40:54 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:40:54 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:40:54 PM : Taking screen shot...
+4/22/2015 12:40:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:40:59 PM : d41c9385_currentScreen-2015-04-22_12-40-54-PM.png
+4/22/2015 12:41:00 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:41:00 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:41:00 PM : Accuracy is D=0.259521871805191
+4/22/2015 12:41:00 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:41:00 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:41:00 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:41:00 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:41:00 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:41:00 PM : Taking screen shot...
+4/22/2015 12:41:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:06 PM : d41c9385_currentScreen-2015-04-22_12-41-00-PM.png
+4/22/2015 12:41:08 PM : Going Back to Home screen.
+4/22/2015 12:41:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:14 PM : d41c9385_currentScreen-2015-04-22_12-41-08-PM.png
+4/22/2015 12:41:15 PM : Play band Alternat
+4/22/2015 12:41:15 PM : Start Pandora
+4/22/2015 12:41:15 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:41:15 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:41:15 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:41:15 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:41:15 PM : Taking screen shot...
+4/22/2015 12:41:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:21 PM : d41c9385_currentScreen-2015-04-22_12-41-15-PM.png
+4/22/2015 12:41:21 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:41:22 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:41:22 PM : Accuracy is D=0.259523004293442
+4/22/2015 12:41:22 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:41:22 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:41:22 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:41:22 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:41:22 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:41:22 PM : Taking screen shot...
+4/22/2015 12:41:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:28 PM : d41c9385_currentScreen-2015-04-22_12-41-22-PM.png
+4/22/2015 12:41:30 PM : Going Back to Home screen.
+4/22/2015 12:41:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:36 PM : d41c9385_currentScreen-2015-04-22_12-41-30-PM.png
+4/22/2015 12:41:36 PM : Play band Alternat
+4/22/2015 12:41:37 PM : Start Pandora
+4/22/2015 12:41:37 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:41:37 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:41:37 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:41:37 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:41:37 PM : Taking screen shot...
+4/22/2015 12:41:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:42 PM : d41c9385_currentScreen-2015-04-22_12-41-37-PM.png
+4/22/2015 12:41:43 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:41:43 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:41:43 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:41:43 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:41:44 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:41:44 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:41:44 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:41:44 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:41:44 PM : Taking screen shot...
+4/22/2015 12:41:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:49 PM : d41c9385_currentScreen-2015-04-22_12-41-44-PM.png
+4/22/2015 12:41:52 PM : Going Back to Home screen.
+4/22/2015 12:41:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:41:57 PM : d41c9385_currentScreen-2015-04-22_12-41-52-PM.png
+4/22/2015 12:41:58 PM : Play band Alternat
+4/22/2015 12:41:58 PM : Start Pandora
+4/22/2015 12:41:58 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:41:58 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:41:59 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:41:59 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:41:59 PM : Taking screen shot...
+4/22/2015 12:41:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:04 PM : d41c9385_currentScreen-2015-04-22_12-41-59-PM.png
+4/22/2015 12:42:05 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:42:05 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:42:05 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:42:05 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:42:05 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:42:05 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:42:05 PM : Accuracy is D=0.536444842815399
+4/22/2015 12:42:05 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:42:05 PM : Taking screen shot...
+4/22/2015 12:42:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:11 PM : d41c9385_currentScreen-2015-04-22_12-42-05-PM.png
+4/22/2015 12:42:13 PM : Going Back to Home screen.
+4/22/2015 12:42:13 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:19 PM : d41c9385_currentScreen-2015-04-22_12-42-13-PM.png
+4/22/2015 12:42:20 PM : Play band Alternat
+4/22/2015 12:42:20 PM : Start Pandora
+4/22/2015 12:42:20 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:42:20 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:42:21 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:42:21 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:42:21 PM : Taking screen shot...
+4/22/2015 12:42:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:26 PM : d41c9385_currentScreen-2015-04-22_12-42-21-PM.png
+4/22/2015 12:42:27 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:42:27 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:42:27 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:42:27 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:42:27 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:42:27 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:42:27 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:42:27 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:42:27 PM : Taking screen shot...
+4/22/2015 12:42:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:33 PM : d41c9385_currentScreen-2015-04-22_12-42-27-PM.png
+4/22/2015 12:42:35 PM : Going Back to Home screen.
+4/22/2015 12:42:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:41 PM : d41c9385_currentScreen-2015-04-22_12-42-35-PM.png
+4/22/2015 12:42:42 PM : Play band Alternat
+4/22/2015 12:42:42 PM : Start Pandora
+4/22/2015 12:42:42 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:42:42 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:42:42 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:42:42 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:42:42 PM : Taking screen shot...
+4/22/2015 12:42:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:48 PM : d41c9385_currentScreen-2015-04-22_12-42-42-PM.png
+4/22/2015 12:42:48 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:42:49 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:42:49 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:42:49 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:42:49 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:42:49 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:42:49 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:42:49 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:42:49 PM : Taking screen shot...
+4/22/2015 12:42:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:42:55 PM : d41c9385_currentScreen-2015-04-22_12-42-49-PM.png
+4/22/2015 12:42:57 PM : Going Back to Home screen.
+4/22/2015 12:42:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:03 PM : d41c9385_currentScreen-2015-04-22_12-42-57-PM.png
+4/22/2015 12:43:03 PM : Play band Alternat
+4/22/2015 12:43:04 PM : Start Pandora
+4/22/2015 12:43:04 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:43:04 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:43:04 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:43:04 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:43:04 PM : Taking screen shot...
+4/22/2015 12:43:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:09 PM : d41c9385_currentScreen-2015-04-22_12-43-04-PM.png
+4/22/2015 12:43:10 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:43:10 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:43:10 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:43:10 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:43:10 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:43:10 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:43:11 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:43:11 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:43:11 PM : Taking screen shot...
+4/22/2015 12:43:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:16 PM : d41c9385_currentScreen-2015-04-22_12-43-11-PM.png
+4/22/2015 12:43:19 PM : Going Back to Home screen.
+4/22/2015 12:43:19 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:24 PM : d41c9385_currentScreen-2015-04-22_12-43-19-PM.png
+4/22/2015 12:43:25 PM : Play band Alternat
+4/22/2015 12:43:25 PM : Start Pandora
+4/22/2015 12:43:25 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:43:25 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:43:25 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:43:25 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:43:25 PM : Taking screen shot...
+4/22/2015 12:43:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:31 PM : d41c9385_currentScreen-2015-04-22_12-43-25-PM.png
+4/22/2015 12:43:31 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:43:32 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:43:32 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:43:32 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:43:32 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:43:32 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:43:32 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:43:32 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:43:32 PM : Taking screen shot...
+4/22/2015 12:43:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:38 PM : d41c9385_currentScreen-2015-04-22_12-43-32-PM.png
+4/22/2015 12:43:40 PM : Going Back to Home screen.
+4/22/2015 12:43:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:46 PM : d41c9385_currentScreen-2015-04-22_12-43-40-PM.png
+4/22/2015 12:43:46 PM : Play band Alternat
+4/22/2015 12:43:47 PM : Start Pandora
+4/22/2015 12:43:47 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:43:47 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:43:47 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:43:47 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:43:47 PM : Taking screen shot...
+4/22/2015 12:43:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:52 PM : d41c9385_currentScreen-2015-04-22_12-43-47-PM.png
+4/22/2015 12:43:53 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:43:53 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:43:54 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:43:54 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:43:54 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:43:54 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:43:54 PM : Accuracy is D=0.536444246768951
+4/22/2015 12:43:54 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:43:54 PM : Taking screen shot...
+4/22/2015 12:43:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:43:59 PM : d41c9385_currentScreen-2015-04-22_12-43-54-PM.png
+4/22/2015 12:44:02 PM : Going Back to Home screen.
+4/22/2015 12:44:02 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:07 PM : d41c9385_currentScreen-2015-04-22_12-44-02-PM.png
+4/22/2015 12:44:08 PM : Play band Alternat
+4/22/2015 12:44:08 PM : Start Pandora
+4/22/2015 12:44:08 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:44:08 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:44:08 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:44:08 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:44:08 PM : Taking screen shot...
+4/22/2015 12:44:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:14 PM : d41c9385_currentScreen-2015-04-22_12-44-08-PM.png
+4/22/2015 12:44:14 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:44:15 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:44:15 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:44:15 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:44:15 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:44:15 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:44:15 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:44:15 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:44:15 PM : Taking screen shot...
+4/22/2015 12:44:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:21 PM : d41c9385_currentScreen-2015-04-22_12-44-15-PM.png
+4/22/2015 12:44:23 PM : Going Back to Home screen.
+4/22/2015 12:44:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:29 PM : d41c9385_currentScreen-2015-04-22_12-44-23-PM.png
+4/22/2015 12:44:29 PM : Play band Alternat
+4/22/2015 12:44:30 PM : Start Pandora
+4/22/2015 12:44:30 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:44:30 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:44:30 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:44:30 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:44:30 PM : Taking screen shot...
+4/22/2015 12:44:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:36 PM : d41c9385_currentScreen-2015-04-22_12-44-30-PM.png
+4/22/2015 12:44:36 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:44:37 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:44:37 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:44:37 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:44:37 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:44:37 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:44:37 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:44:37 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:44:37 PM : Taking screen shot...
+4/22/2015 12:44:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:42 PM : d41c9385_currentScreen-2015-04-22_12-44-37-PM.png
+4/22/2015 12:44:45 PM : Going Back to Home screen.
+4/22/2015 12:44:45 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:50 PM : d41c9385_currentScreen-2015-04-22_12-44-45-PM.png
+4/22/2015 12:44:51 PM : Play band Alternat
+4/22/2015 12:44:51 PM : Start Pandora
+4/22/2015 12:44:51 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:44:51 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:44:52 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:44:52 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:44:52 PM : Taking screen shot...
+4/22/2015 12:44:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:44:57 PM : d41c9385_currentScreen-2015-04-22_12-44-52-PM.png
+4/22/2015 12:44:58 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:44:58 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:44:58 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:44:58 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:44:58 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:44:58 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:44:59 PM : Accuracy is D=0.536444365978241
+4/22/2015 12:44:59 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:44:59 PM : Taking screen shot...
+4/22/2015 12:44:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:04 PM : d41c9385_currentScreen-2015-04-22_12-44-59-PM.png
+4/22/2015 12:45:06 PM : Going Back to Home screen.
+4/22/2015 12:45:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:12 PM : d41c9385_currentScreen-2015-04-22_12-45-06-PM.png
+4/22/2015 12:45:13 PM : Play band Alternat
+4/22/2015 12:45:13 PM : Start Pandora
+4/22/2015 12:45:13 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 12:45:13 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 12:45:13 PM : Accuracy is D=0.45820340514183
+4/22/2015 12:45:13 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 12:45:13 PM : Taking screen shot...
+4/22/2015 12:45:13 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:19 PM : d41c9385_currentScreen-2015-04-22_12-45-13-PM.png
+4/22/2015 12:45:19 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 12:45:20 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 12:45:20 PM : Accuracy is D=0.259522616863251
+4/22/2015 12:45:20 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 12:45:20 PM : Clicking by template PandoraBackToList.png
+4/22/2015 12:45:20 PM : Verfiying template PandoraBackToList.png
+4/22/2015 12:45:20 PM : Accuracy is D=0.536444544792175
+4/22/2015 12:45:20 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 12:45:20 PM : Taking screen shot...
+4/22/2015 12:45:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:26 PM : d41c9385_currentScreen-2015-04-22_12-45-20-PM.png
+4/22/2015 12:45:28 PM : Test ended  after 00:07:00
+4/22/2015 12:45:28 PM : Going Back to Home screen.
+4/22/2015 12:45:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:34 PM : d41c9385_currentScreen-2015-04-22_12-45-28-PM.png
+4/22/2015 12:45:34 PM : Going Back to Home screen.
+4/22/2015 12:45:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:40 PM : d41c9385_currentScreen-2015-04-22_12-45-35-PM.png
+4/22/2015 12:45:41 PM : Clicking by template DialerIconStart.png
+4/22/2015 12:45:42 PM : Verfiying template DialerIconStart.png
+4/22/2015 12:45:42 PM : Accuracy is D=0.672552943229675
+4/22/2015 12:45:42 PM : Template DialerIconStart.png is not Verified!
+4/22/2015 12:45:42 PM : typing #932#
+4/22/2015 12:45:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:45:49 PM : d41c9385_currentScreen-2015-04-22_12-45-42-PM.png
+4/22/2015 12:45:49 PM : Clicking by template DialerIconCall.png
+4/22/2015 12:45:50 PM : Verfiying template DialerIconCall.png
+4/22/2015 12:45:50 PM : Accuracy is D=0.633701324462891
+4/22/2015 12:45:50 PM : Template DialerIconCall.png is not Verified!
+4/22/2015 12:45:50 PM : Wait 10 seconds to get the datausage message
+4/22/2015 12:46:00 PM : Taking screen shot...
+4/22/2015 12:46:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:46:06 PM : d41c9385_currentScreen-2015-04-22_12-46-00-PM.png
+4/22/2015 12:46:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 12:46:09 PM : ************************End TestCase 0.1************************
+4/22/2015 1:59:42 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 1:59:42 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 1:59:42 PM : Exception : Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+4/22/2015 2:00:32 PM : ******************Start TestCase 0.1******************
+4/22/2015 2:00:32 PM : Delete Logs and restart device
+4/22/2015 2:00:32 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+4/22/2015 2:00:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:00:42 PM : Going Back to Home screen.
+4/22/2015 2:00:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:00:42 PM : ******************Start TestCase 0.1******************
+4/22/2015 2:00:42 PM : Delete Logs and restart device
+4/22/2015 2:00:42 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/22/2015 2:00:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:00:48 PM : d41c9385_currentScreen-2015-04-22_02-00-42-PM.png
+4/22/2015 2:00:48 PM : Going Back to Home screen.
+4/22/2015 2:00:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:00:52 PM : Going Back to Home screen.
+4/22/2015 2:00:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:00:54 PM : d41c9385_currentScreen-2015-04-22_02-00-49-PM.png
+4/22/2015 2:00:55 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:00:55 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:00:55 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:00:55 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:00:55 PM : Touching on  X=54, Y=863
+4/22/2015 2:00:55 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:00 PM : cf209085_currentScreen-2015-04-22_02-00-52-PM.png
+4/22/2015 2:01:01 PM : Going Back to Home screen.
+4/22/2015 2:01:01 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:03 PM : d41c9385_currentScreen-2015-04-22_02-00-55-PM.png
+4/22/2015 2:01:04 PM : typing #932#
+4/22/2015 2:01:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:07 PM : cf209085_currentScreen-2015-04-22_02-01-01-PM.png
+4/22/2015 2:01:07 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:01:08 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:01:08 PM : Accuracy is D=0.999982714653015
+4/22/2015 2:01:08 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:01:08 PM : Touching on  X=76, Y=863
+4/22/2015 2:01:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:11 PM : d41c9385_currentScreen-2015-04-22_02-01-04-PM.png
+4/22/2015 2:01:12 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:01:12 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:01:13 PM : Accuracy is D=0.357850164175034
+4/22/2015 2:01:13 PM : Template DialerIconCall.png is not Verified!
+4/22/2015 2:01:13 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:01:14 PM : cf209085_currentScreen-2015-04-22_02-01-08-PM.png
+4/22/2015 2:01:15 PM : typing #932#
+4/22/2015 2:01:15 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:22 PM : cf209085_currentScreen-2015-04-22_02-01-15-PM.png
+4/22/2015 2:01:23 PM : Taking screen shot...
+4/22/2015 2:01:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:23 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:01:23 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:01:23 PM : Accuracy is D=1
+4/22/2015 2:01:23 PM : Template DialerIconCall.png is Verified. 
+4/22/2015 2:01:23 PM : Touching on  X=268, Y=910
+4/22/2015 2:01:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:29 PM : cf209085_currentScreen-2015-04-22_02-01-23-PM.png
+4/22/2015 2:01:30 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\4-22-d41c9385\ScreenShots\d41c9385_currentScreen-2015-04-22_02-01-23-PM.png
+4/22/2015 2:01:30 PM : Taking screen shot...
+4/22/2015 2:01:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:32 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:01:35 PM : d41c9385_currentScreen-2015-04-22_02-01-30-PM.png
+4/22/2015 2:01:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:42 PM : Taking screen shot...
+4/22/2015 2:01:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:44 PM : d41c9385_currentScreen-2015-04-22_02-01-30-PM.png
+4/22/2015 2:01:48 PM : cf209085_currentScreen-2015-04-22_02-01-42-PM.png
+4/22/2015 2:01:51 PM : Clicking by template WEB_OK.png
+4/22/2015 2:01:51 PM : Verfiying template WEB_OK.png
+4/22/2015 2:01:51 PM : Accuracy is D=0.99991238117218
+4/22/2015 2:01:51 PM : Template WEB_OK.png is Verified. 
+4/22/2015 2:01:51 PM : Touching on  X=270, Y=590
+4/22/2015 2:01:51 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:01:57 PM : cf209085_currentScreen-2015-04-22_02-01-51-PM.png
+4/22/2015 2:01:58 PM : Start TCPDump
+4/22/2015 2:01:58 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:01:58 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:01:58 PM : Accuracy is D=0.736172378063202
+4/22/2015 2:01:58 PM : Template DialerIconStart.png is not Verified!
+4/22/2015 2:01:58 PM : typing *#9900#
+4/22/2015 2:01:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:05 PM : cf209085_currentScreen-2015-04-22_02-01-58-PM.png
+4/22/2015 2:02:06 PM : Taking screen shot...
+4/22/2015 2:02:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:11 PM : cf209085_currentScreen-2015-04-22_02-02-06-PM.png
+4/22/2015 2:02:12 PM : Scrolling two page down..
+4/22/2015 2:02:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:18 PM : cf209085_currentScreen-2015-04-22_02-02-12-PM.png
+4/22/2015 2:02:19 PM : Taking screen shot...
+4/22/2015 2:02:19 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:24 PM : cf209085_currentScreen-2015-04-22_02-02-19-PM.png
+4/22/2015 2:02:25 PM : Clicking by template TCPDUMPSTART.png
+4/22/2015 2:02:25 PM : Verfiying template TCPDUMPSTART.png
+4/22/2015 2:02:25 PM : Accuracy is D=0.999942898750305
+4/22/2015 2:02:25 PM : Template TCPDUMPSTART.png is Verified. 
+4/22/2015 2:02:25 PM : Touching on  X=269, Y=334
+4/22/2015 2:02:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:31 PM : cf209085_currentScreen-2015-04-22_02-02-25-PM.png
+4/22/2015 2:02:32 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/22/2015 2:02:32 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/22/2015 2:02:32 PM : Accuracy is D=0.999997854232788
+4/22/2015 2:02:32 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+4/22/2015 2:02:32 PM : Touching on  X=267, Y=83
+4/22/2015 2:02:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:38 PM : cf209085_currentScreen-2015-04-22_02-02-32-PM.png
+4/22/2015 2:02:39 PM : Clicking by template TCPDUMPSTART_OK.png
+4/22/2015 2:02:39 PM : Verfiying template TCPDUMPSTART_OK.png
+4/22/2015 2:02:39 PM : Accuracy is D=1
+4/22/2015 2:02:39 PM : Template TCPDUMPSTART_OK.png is Verified. 
+4/22/2015 2:02:39 PM : Touching on  X=393, Y=912
+4/22/2015 2:02:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:45 PM : cf209085_currentScreen-2015-04-22_02-02-39-PM.png
+4/22/2015 2:02:46 PM : Going Back to Home screen.
+4/22/2015 2:02:46 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:52 PM : cf209085_currentScreen-2015-04-22_02-02-46-PM.png
+4/22/2015 2:02:52 PM : Going Back to Home screen.
+4/22/2015 2:02:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:02:58 PM : cf209085_currentScreen-2015-04-22_02-02-52-PM.png
+4/22/2015 2:02:58 PM : Play band Alternat
+4/22/2015 2:02:58 PM : Start Pandora
+4/22/2015 2:02:58 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 2:02:58 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 2:02:58 PM : Accuracy is D=0.999990165233612
+4/22/2015 2:02:58 PM : Template PandoraStartIcon.png is Verified. 
+4/22/2015 2:02:58 PM : Touching on  X=69, Y=97
+4/22/2015 2:02:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:05 PM : cf209085_currentScreen-2015-04-22_02-02-58-PM.png
+4/22/2015 2:03:06 PM : Taking screen shot...
+4/22/2015 2:03:06 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:21 PM : ******************Start TestCase 0.1******************
+4/22/2015 2:03:21 PM : Delete Logs and restart device
+4/22/2015 2:03:21 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+4/22/2015 2:03:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:31 PM : Going Back to Home screen.
+4/22/2015 2:03:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:32 PM : ******************Start TestCase 0.1******************
+4/22/2015 2:03:32 PM : Delete Logs and restart device
+4/22/2015 2:03:32 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/22/2015 2:03:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:37 PM : d41c9385_currentScreen-2015-04-22_02-03-31-PM.png
+4/22/2015 2:03:37 PM : Going Back to Home screen.
+4/22/2015 2:03:38 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:42 PM : Going Back to Home screen.
+4/22/2015 2:03:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:43 PM : d41c9385_currentScreen-2015-04-22_02-03-38-PM.png
+4/22/2015 2:03:44 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:03:45 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:03:45 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:03:45 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:03:45 PM : Touching on  X=54, Y=863
+4/22/2015 2:03:45 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:51 PM : d41c9385_currentScreen-2015-04-22_02-03-45-PM.png
+4/22/2015 2:03:52 PM : typing #932#
+4/22/2015 2:03:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:03:59 PM : d41c9385_currentScreen-2015-04-22_02-03-52-PM.png
+4/22/2015 2:04:00 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:04:00 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:04:00 PM : Accuracy is D=1
+4/22/2015 2:04:00 PM : Template DialerIconCall.png is Verified. 
+4/22/2015 2:04:00 PM : Touching on  X=268, Y=910
+4/22/2015 2:04:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:07 PM : d41c9385_currentScreen-2015-04-22_02-04-00-PM.png
+4/22/2015 2:04:07 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:04:18 PM : Taking screen shot...
+4/22/2015 2:04:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:23 PM : d41c9385_currentScreen-2015-04-22_02-04-18-PM.png
+4/22/2015 2:04:26 PM : Clicking by template WEB_OK.png
+4/22/2015 2:04:26 PM : Verfiying template WEB_OK.png
+4/22/2015 2:04:26 PM : Accuracy is D=0.999911069869995
+4/22/2015 2:04:26 PM : Template WEB_OK.png is Verified. 
+4/22/2015 2:04:26 PM : Touching on  X=270, Y=590
+4/22/2015 2:04:26 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:27 PM : cf209085_currentScreen-2015-04-22_02-03-06-PM.png
+4/22/2015 2:04:27 PM : Going Back to Home screen.
+4/22/2015 2:04:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:28 PM : cf209085_currentScreen-2015-04-22_02-03-42-PM.png
+4/22/2015 2:04:34 PM : d41c9385_currentScreen-2015-04-22_02-04-26-PM.png
+4/22/2015 2:04:34 PM : Start TCPDump
+4/22/2015 2:04:35 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:04:35 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:04:35 PM : Accuracy is D=0.736411392688751
+4/22/2015 2:04:35 PM : Template DialerIconStart.png is not Verified!
+4/22/2015 2:04:35 PM : typing *#9900#
+4/22/2015 2:04:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:36 PM : cf209085_currentScreen-2015-04-22_02-04-28-PM.png
+4/22/2015 2:04:37 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:04:37 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:04:37 PM : Accuracy is D=0.504506170749664
+4/22/2015 2:04:37 PM : Template DialerIconStart.png is not Verified!
+4/22/2015 2:04:37 PM : typing #932#
+4/22/2015 2:04:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:43 PM : d41c9385_currentScreen-2015-04-22_02-04-35-PM.png
+4/22/2015 2:04:43 PM : Taking screen shot...
+4/22/2015 2:04:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:44 PM : cf209085_currentScreen-2015-04-22_02-04-37-PM.png
+4/22/2015 2:04:45 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:04:45 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:04:46 PM : Accuracy is D=0.357850164175034
+4/22/2015 2:04:46 PM : Template DialerIconCall.png is not Verified!
+4/22/2015 2:04:46 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:04:49 PM : d41c9385_currentScreen-2015-04-22_02-04-44-PM.png
+4/22/2015 2:04:50 PM : Scrolling two page down..
+4/22/2015 2:04:50 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:56 PM : Taking screen shot...
+4/22/2015 2:04:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:04:57 PM : d41c9385_currentScreen-2015-04-22_02-04-50-PM.png
+4/22/2015 2:04:57 PM : Taking screen shot...
+4/22/2015 2:04:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:01 PM : cf209085_currentScreen-2015-04-22_02-04-56-PM.png
+4/22/2015 2:05:03 PM : d41c9385_currentScreen-2015-04-22_02-04-58-PM.png
+4/22/2015 2:05:04 PM : Clicking by template TCPDUMPSTART.png
+4/22/2015 2:05:04 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:04 PM : Verfiying template TCPDUMPSTART.png
+4/22/2015 2:05:04 PM : ************************End TestCase 0.1************************
+4/22/2015 2:05:04 PM : Accuracy is D=0.279497504234314
+4/22/2015 2:05:04 PM : Template TCPDUMPSTART.png is not Verified!
+4/22/2015 2:05:04 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/22/2015 2:05:04 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/22/2015 2:05:04 PM : Accuracy is D=0.278230011463165
+4/22/2015 2:05:04 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/22/2015 2:05:04 PM : Clicking by template TCPDUMPSTART_OK.png
+4/22/2015 2:05:04 PM : Verfiying template TCPDUMPSTART_OK.png
+4/22/2015 2:05:05 PM : Accuracy is D=0.384721279144287
+4/22/2015 2:05:05 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/22/2015 2:05:05 PM : Going Back to Home screen.
+4/22/2015 2:05:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:07 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 2:05:07 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:07 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:08 PM : Index was outside the bounds of the array.
+4/22/2015 2:05:10 PM : d41c9385_currentScreen-2015-04-22_02-05-05-PM.png
+4/22/2015 2:05:11 PM : Going Back to Home screen.
+4/22/2015 2:05:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:11 PM : ******************Start TestCase 0.1******************
+4/22/2015 2:05:11 PM : Delete Logs and restart device
+4/22/2015 2:05:11 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/22/2015 2:05:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:17 PM : d41c9385_currentScreen-2015-04-22_02-05-11-PM.png
+4/22/2015 2:05:17 PM : Play band Alternat
+4/22/2015 2:05:18 PM : Start Pandora
+4/22/2015 2:05:18 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 2:05:18 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 2:05:18 PM : Accuracy is D=0.99998927116394
+4/22/2015 2:05:18 PM : Template PandoraStartIcon.png is Verified. 
+4/22/2015 2:05:18 PM : Touching on  X=69, Y=97
+4/22/2015 2:05:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:22 PM : Going Back to Home screen.
+4/22/2015 2:05:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:24 PM : d41c9385_currentScreen-2015-04-22_02-05-18-PM.png
+4/22/2015 2:05:25 PM : Taking screen shot...
+4/22/2015 2:05:26 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:27 PM : cf209085_currentScreen-2015-04-22_02-05-22-PM.png
+4/22/2015 2:05:27 PM : Going Back to Home screen.
+4/22/2015 2:05:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:31 PM : d41c9385_currentScreen-2015-04-22_02-05-26-PM.png
+4/22/2015 2:05:31 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 2:05:32 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:05:32 PM : Accuracy is D=0.999999940395355
+4/22/2015 2:05:32 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:05:32 PM : Touching on  X=326, Y=900
+4/22/2015 2:05:32 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:33 PM : cf209085_currentScreen-2015-04-22_02-05-28-PM.png
+4/22/2015 2:05:34 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:05:34 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:05:35 PM : Accuracy is D=0.999982714653015
+4/22/2015 2:05:35 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:05:35 PM : Touching on  X=76, Y=863
+4/22/2015 2:05:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:39 PM : d41c9385_currentScreen-2015-04-22_02-05-32-PM.png
+4/22/2015 2:05:39 PM : Clicking by template PandoraBackToList.png
+4/22/2015 2:05:40 PM : Verfiying template PandoraBackToList.png
+4/22/2015 2:05:40 PM : Accuracy is D=0.999998986721039
+4/22/2015 2:05:40 PM : Template PandoraBackToList.png is Verified. 
+4/22/2015 2:05:40 PM : Touching on  X=34, Y=74
+4/22/2015 2:05:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:41 PM : cf209085_currentScreen-2015-04-22_02-05-35-PM.png
+4/22/2015 2:05:41 PM : typing #932#
+4/22/2015 2:05:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:46 PM : d41c9385_currentScreen-2015-04-22_02-05-40-PM.png
+4/22/2015 2:05:47 PM : Taking screen shot...
+4/22/2015 2:05:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:49 PM : cf209085_currentScreen-2015-04-22_02-05-42-PM.png
+4/22/2015 2:05:50 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:05:50 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:05:50 PM : Accuracy is D=1
+4/22/2015 2:05:50 PM : Template DialerIconCall.png is Verified. 
+4/22/2015 2:05:50 PM : Touching on  X=268, Y=910
+4/22/2015 2:05:50 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:53 PM : d41c9385_currentScreen-2015-04-22_02-05-47-PM.png
+4/22/2015 2:05:56 PM : Clicking on Alternat play list
+4/22/2015 2:05:56 PM : Clicking by template Alternat
+4/22/2015 2:05:56 PM : Verfiying template Alternat
+4/22/2015 2:05:57 PM : cf209085_currentScreen-2015-04-22_02-05-50-PM.png
+4/22/2015 2:05:57 PM : Template Alternat is Verified. 
+4/22/2015 2:05:57 PM : Touching on  X=200, Y=865
+4/22/2015 2:05:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:05:57 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:06:03 PM : d41c9385_currentScreen-2015-04-22_02-05-57-PM.png
+4/22/2015 2:06:04 PM : Waitting 35 for Alternat to play and skip and ads
+4/22/2015 2:06:08 PM : Taking screen shot...
+4/22/2015 2:06:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:13 PM : cf209085_currentScreen-2015-04-22_02-06-08-PM.png
+4/22/2015 2:06:16 PM : Clicking by template WEB_OK.png
+4/22/2015 2:06:16 PM : Verfiying template WEB_OK.png
+4/22/2015 2:06:16 PM : Accuracy is D=0.99990975856781
+4/22/2015 2:06:16 PM : Template WEB_OK.png is Verified. 
+4/22/2015 2:06:16 PM : Touching on  X=270, Y=590
+4/22/2015 2:06:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:23 PM : cf209085_currentScreen-2015-04-22_02-06-16-PM.png
+4/22/2015 2:06:23 PM : Start TCPDump
+4/22/2015 2:06:24 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:06:24 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:06:24 PM : Accuracy is D=0.736172378063202
+4/22/2015 2:06:24 PM : Template DialerIconStart.png is not Verified!
+4/22/2015 2:06:24 PM : typing *#9900#
+4/22/2015 2:06:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:32 PM : cf209085_currentScreen-2015-04-22_02-06-24-PM.png
+4/22/2015 2:06:32 PM : Taking screen shot...
+4/22/2015 2:06:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:38 PM : cf209085_currentScreen-2015-04-22_02-06-33-PM.png
+4/22/2015 2:06:39 PM : Scrolling two page down..
+4/22/2015 2:06:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:39 PM : Taking screen shot...
+4/22/2015 2:06:39 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:45 PM : d41c9385_currentScreen-2015-04-22_02-06-39-PM.png
+4/22/2015 2:06:46 PM : Problem taking screen shot for deviceID cf209085 so  take it again, the name is Report\4-22-cf209085\ScreenShots\cf209085_currentScreen-2015-04-22_02-06-39-PM.png
+4/22/2015 2:06:47 PM : Clicking by template SkipTpPandora.png
+4/22/2015 2:06:53 PM : Taking screen shot...
+4/22/2015 2:06:53 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:06:53 PM : Verfiying template SkipTpPandora.png
+4/22/2015 2:06:53 PM : Accuracy is D=0.529940485954285
+4/22/2015 2:06:53 PM : Template SkipTpPandora.png is not Verified!
+4/22/2015 2:06:53 PM : Clicking by template PandoraRadioStart.png
+4/22/2015 2:06:53 PM : Verfiying template PandoraRadioStart.png
+4/22/2015 2:06:53 PM : Accuracy is D=0.99999988079071
+4/22/2015 2:06:53 PM : Template PandoraRadioStart.png is Verified. 
+4/22/2015 2:06:53 PM : Touching on  X=328, Y=901
+4/22/2015 2:06:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:00 PM : d41c9385_currentScreen-2015-04-22_02-06-54-PM.png
+4/22/2015 2:07:00 PM : Problem taking screen shot for deviceID cf209085 so  take it again, the name is Report\4-22-cf209085\ScreenShots\cf209085_currentScreen-2015-04-22_02-06-53-PM.png
+4/22/2015 2:07:03 PM : Taking screen shot...
+4/22/2015 2:07:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:07 PM : Taking screen shot...
+4/22/2015 2:07:07 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:08 PM : d41c9385_currentScreen-2015-04-22_02-07-03-PM.png
+4/22/2015 2:07:09 PM : Checking if Pandora Playing
+4/22/2015 2:07:09 PM : Taking screen shot...
+4/22/2015 2:07:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:12 PM : cf209085_currentScreen-2015-04-22_02-07-07-PM.png
+4/22/2015 2:07:15 PM : d41c9385_currentScreen-2015-04-22_02-07-10-PM.png
+4/22/2015 2:07:16 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:07:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:16 PM : Object reference not set to an instance of an object.
+4/22/2015 2:07:16 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:07:16 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:07:16 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:07:16 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:07:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:30 PM : Taking screen shot...
+4/22/2015 2:07:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:35 PM : cf209085_currentScreen-2015-04-22_02-07-30-PM.png
+4/22/2015 2:07:35 PM : Clicking by template TCPDUMPSTART.png
+4/22/2015 2:07:36 PM : Verfiying template TCPDUMPSTART.png
+4/22/2015 2:07:36 PM : Accuracy is D=0.375593572854996
+4/22/2015 2:07:36 PM : Template TCPDUMPSTART.png is not Verified!
+4/22/2015 2:07:36 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/22/2015 2:07:36 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/22/2015 2:07:36 PM : Accuracy is D=0.233017906546593
+4/22/2015 2:07:36 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/22/2015 2:07:36 PM : Clicking by template TCPDUMPSTART_OK.png
+4/22/2015 2:07:36 PM : Verfiying template TCPDUMPSTART_OK.png
+4/22/2015 2:07:36 PM : Accuracy is D=0.440427631139755
+4/22/2015 2:07:36 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/22/2015 2:07:36 PM : Going Back to Home screen.
+4/22/2015 2:07:36 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:42 PM : cf209085_currentScreen-2015-04-22_02-07-36-PM.png
+4/22/2015 2:07:43 PM : Going Back to Home screen.
+4/22/2015 2:07:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:49 PM : cf209085_currentScreen-2015-04-22_02-07-43-PM.png
+4/22/2015 2:07:49 PM : Play band Alternat
+4/22/2015 2:07:50 PM : Start Pandora
+4/22/2015 2:07:50 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 2:07:50 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 2:07:50 PM : Accuracy is D=0.999990165233612
+4/22/2015 2:07:50 PM : Template PandoraStartIcon.png is Verified. 
+4/22/2015 2:07:50 PM : Touching on  X=69, Y=97
+4/22/2015 2:07:50 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:07:57 PM : cf209085_currentScreen-2015-04-22_02-07-50-PM.png
+4/22/2015 2:07:57 PM : Taking screen shot...
+4/22/2015 2:07:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:03 PM : cf209085_currentScreen-2015-04-22_02-07-58-PM.png
+4/22/2015 2:08:04 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 2:08:04 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:08:04 PM : Accuracy is D=0.281180292367935
+4/22/2015 2:08:04 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 2:08:04 PM : Clicking by template PandoraBackToList.png
+4/22/2015 2:08:04 PM : Verfiying template PandoraBackToList.png
+4/22/2015 2:08:05 PM : Accuracy is D=0.447221696376801
+4/22/2015 2:08:05 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 2:08:05 PM : Taking screen shot...
+4/22/2015 2:08:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:10 PM : cf209085_currentScreen-2015-04-22_02-08-05-PM.png
+4/22/2015 2:08:14 PM : Going Back to Home screen.
+4/22/2015 2:08:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:17 PM : Test still playing  , duration is  00:01:07
+4/22/2015 2:08:17 PM : Taking screen shot...
+4/22/2015 2:08:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:20 PM : cf209085_currentScreen-2015-04-22_02-08-14-PM.png
+4/22/2015 2:08:21 PM : Play band Alternat
+4/22/2015 2:08:21 PM : Start Pandora
+4/22/2015 2:08:21 PM : Clicking by template PandoraStartIcon.png
+4/22/2015 2:08:21 PM : Verfiying template PandoraStartIcon.png
+4/22/2015 2:08:21 PM : Accuracy is D=0.555146276950836
+4/22/2015 2:08:21 PM : Template PandoraStartIcon.png is not Verified!
+4/22/2015 2:08:21 PM : Taking screen shot...
+4/22/2015 2:08:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:23 PM : d41c9385_currentScreen-2015-04-22_02-08-17-PM.png
+4/22/2015 2:08:23 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:08:24 PM : Object reference not set to an instance of an object.
+4/22/2015 2:08:24 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:08:24 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:08:24 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:08:24 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:08:27 PM : cf209085_currentScreen-2015-04-22_02-08-21-PM.png
+4/22/2015 2:08:27 PM : Clicking by template PandroaRadioPause.png
+4/22/2015 2:08:28 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:08:28 PM : Accuracy is D=0.249952599406242
+4/22/2015 2:08:28 PM : Template PandroaRadioPause.png is not Verified!
+4/22/2015 2:08:28 PM : Clicking by template PandoraBackToList.png
+4/22/2015 2:08:28 PM : Verfiying template PandoraBackToList.png
+4/22/2015 2:08:28 PM : Accuracy is D=0.455140024423599
+4/22/2015 2:08:28 PM : Template PandoraBackToList.png is not Verified!
+4/22/2015 2:08:28 PM : Taking screen shot...
+4/22/2015 2:08:28 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:34 PM : cf209085_currentScreen-2015-04-22_02-08-28-PM.png
+4/22/2015 2:08:37 PM : Clicking on Alternat play list
+4/22/2015 2:08:37 PM : Clicking by template Alternat
+4/22/2015 2:08:37 PM : Verfiying template Alternat
+4/22/2015 2:08:38 PM : Template Alternat is Verified. 
+4/22/2015 2:08:38 PM : Touching on  X=200, Y=865
+4/22/2015 2:08:38 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:08:44 PM : cf209085_currentScreen-2015-04-22_02-08-38-PM.png
+4/22/2015 2:08:45 PM : Waitting 35 for Alternat to play and skip and ads
+4/22/2015 2:09:20 PM : Taking screen shot...
+4/22/2015 2:09:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:09:25 PM : Test still playing  , duration is  00:02:15
+4/22/2015 2:09:25 PM : Taking screen shot...
+4/22/2015 2:09:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:09:26 PM : cf209085_currentScreen-2015-04-22_02-09-20-PM.png
+4/22/2015 2:09:26 PM : Clicking by template SkipTpPandora.png
+4/22/2015 2:09:27 PM : Verfiying template SkipTpPandora.png
+4/22/2015 2:09:27 PM : Accuracy is D=0.509403944015503
+4/22/2015 2:09:27 PM : Template SkipTpPandora.png is not Verified!
+4/22/2015 2:09:27 PM : Clicking by template PandoraRadioStart.png
+4/22/2015 2:09:27 PM : Verfiying template PandoraRadioStart.png
+4/22/2015 2:09:27 PM : Accuracy is D=0.999999344348907
+4/22/2015 2:09:27 PM : Template PandoraRadioStart.png is Verified. 
+4/22/2015 2:09:27 PM : Touching on  X=328, Y=901
+4/22/2015 2:09:27 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:09:31 PM : d41c9385_currentScreen-2015-04-22_02-09-25-PM.png
+4/22/2015 2:09:31 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:09:32 PM : Object reference not set to an instance of an object.
+4/22/2015 2:09:32 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:09:32 PM : Accuracy is D=0.999999940395355
+4/22/2015 2:09:32 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:09:32 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:09:34 PM : cf209085_currentScreen-2015-04-22_02-09-27-PM.png
+4/22/2015 2:09:34 PM : Taking screen shot...
+4/22/2015 2:09:35 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:09:41 PM : cf209085_currentScreen-2015-04-22_02-09-35-PM.png
+4/22/2015 2:09:41 PM : Checking if Pandora Playing
+4/22/2015 2:09:42 PM : Taking screen shot...
+4/22/2015 2:09:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:09:47 PM : cf209085_currentScreen-2015-04-22_02-09-42-PM.png
+4/22/2015 2:09:48 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:09:48 PM : Object reference not set to an instance of an object.
+4/22/2015 2:09:48 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:09:48 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:09:48 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:09:48 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:10:33 PM : Test still playing  , duration is  00:03:23
+4/22/2015 2:10:33 PM : Taking screen shot...
+4/22/2015 2:10:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:10:38 PM : d41c9385_currentScreen-2015-04-22_02-10-33-PM.png
+4/22/2015 2:10:39 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:10:39 PM : Object reference not set to an instance of an object.
+4/22/2015 2:10:40 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:10:40 PM : Accuracy is D=0.999999940395355
+4/22/2015 2:10:40 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:10:40 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:10:49 PM : Test still playing  , duration is  00:01:38
+4/22/2015 2:10:49 PM : Taking screen shot...
+4/22/2015 2:10:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:10:55 PM : cf209085_currentScreen-2015-04-22_02-10-49-PM.png
+4/22/2015 2:10:55 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:10:56 PM : Object reference not set to an instance of an object.
+4/22/2015 2:10:56 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:10:56 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:10:56 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:10:56 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:11:41 PM : Test still playing  , duration is  00:04:31
+4/22/2015 2:11:41 PM : Taking screen shot...
+4/22/2015 2:11:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:11:46 PM : d41c9385_currentScreen-2015-04-22_02-11-41-PM.png
+4/22/2015 2:11:47 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:11:47 PM : Object reference not set to an instance of an object.
+4/22/2015 2:11:47 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:11:47 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:11:47 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:11:47 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:11:57 PM : Test still playing  , duration is  00:02:46
+4/22/2015 2:11:57 PM : Taking screen shot...
+4/22/2015 2:11:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:12:03 PM : cf209085_currentScreen-2015-04-22_02-11-57-PM.png
+4/22/2015 2:12:03 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:12:04 PM : Object reference not set to an instance of an object.
+4/22/2015 2:12:04 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:12:04 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:12:04 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:12:04 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:12:48 PM : Test still playing  , duration is  00:05:38
+4/22/2015 2:12:49 PM : Taking screen shot...
+4/22/2015 2:12:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:12:54 PM : d41c9385_currentScreen-2015-04-22_02-12-49-PM.png
+4/22/2015 2:12:55 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:12:55 PM : Object reference not set to an instance of an object.
+4/22/2015 2:12:55 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:12:55 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:12:55 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:12:55 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:13:05 PM : Test still playing  , duration is  00:03:54
+4/22/2015 2:13:05 PM : Taking screen shot...
+4/22/2015 2:13:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:13:10 PM : cf209085_currentScreen-2015-04-22_02-13-05-PM.png
+4/22/2015 2:13:11 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:13:11 PM : Object reference not set to an instance of an object.
+4/22/2015 2:13:11 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:13:12 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:13:12 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:13:12 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:13:56 PM : Test still playing  , duration is  00:06:46
+4/22/2015 2:13:56 PM : Taking screen shot...
+4/22/2015 2:13:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:02 PM : d41c9385_currentScreen-2015-04-22_02-13-56-PM.png
+4/22/2015 2:14:02 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:14:03 PM : Object reference not set to an instance of an object.
+4/22/2015 2:14:03 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:14:03 PM : Accuracy is D=0.999999940395355
+4/22/2015 2:14:03 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:14:03 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:14:10 PM : Test ended  after 00:07:00
+4/22/2015 2:14:10 PM : Going Back to Home screen.
+4/22/2015 2:14:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:13 PM : Test still playing  , duration is  00:05:01
+4/22/2015 2:14:13 PM : Taking screen shot...
+4/22/2015 2:14:13 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:16 PM : d41c9385_currentScreen-2015-04-22_02-14-10-PM.png
+4/22/2015 2:14:17 PM : Going Back to Home screen.
+4/22/2015 2:14:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:18 PM : cf209085_currentScreen-2015-04-22_02-14-13-PM.png
+4/22/2015 2:14:19 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:14:19 PM : Object reference not set to an instance of an object.
+4/22/2015 2:14:19 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:14:19 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:14:19 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:14:19 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:14:23 PM : d41c9385_currentScreen-2015-04-22_02-14-17-PM.png
+4/22/2015 2:14:23 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:14:24 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:14:24 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:14:24 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:14:24 PM : Touching on  X=54, Y=863
+4/22/2015 2:14:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:30 PM : d41c9385_currentScreen-2015-04-22_02-14-24-PM.png
+4/22/2015 2:14:31 PM : typing #932#
+4/22/2015 2:14:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:38 PM : d41c9385_currentScreen-2015-04-22_02-14-31-PM.png
+4/22/2015 2:14:39 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:14:39 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:14:40 PM : Accuracy is D=1
+4/22/2015 2:14:40 PM : Template DialerIconCall.png is Verified. 
+4/22/2015 2:14:40 PM : Touching on  X=268, Y=910
+4/22/2015 2:14:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:14:46 PM : d41c9385_currentScreen-2015-04-22_02-14-40-PM.png
+4/22/2015 2:14:47 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:14:57 PM : Taking screen shot...
+4/22/2015 2:14:57 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:03 PM : d41c9385_currentScreen-2015-04-22_02-14-57-PM.png
+4/22/2015 2:15:05 PM : Clicking by template ok
+4/22/2015 2:15:05 PM : Verfiying template ok
+4/22/2015 2:15:08 PM : Template ok is not Verified!
+4/22/2015 2:15:08 PM : Going Back to Home screen.
+4/22/2015 2:15:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:13 PM : d41c9385_currentScreen-2015-04-22_02-15-08-PM.png
+4/22/2015 2:15:14 PM : verifying template DialerIconStart  DialerIconStart.png
+4/22/2015 2:15:14 PM : Object reference not set to an instance of an object.
+4/22/2015 2:15:14 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:15:14 PM : Accuracy is D=0.736172378063202
+4/22/2015 2:15:14 PM : Template DialerIconStart.png is not Verified!
+4/22/2015 2:15:14 PM : Stop TCPDump
+4/22/2015 2:15:14 PM : typing *#9900#
+4/22/2015 2:15:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:20 PM : Test still playing  , duration is  00:06:09
+4/22/2015 2:15:20 PM : Taking screen shot...
+4/22/2015 2:15:20 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:22 PM : d41c9385_currentScreen-2015-04-22_02-15-14-PM.png
+4/22/2015 2:15:23 PM : Taking screen shot...
+4/22/2015 2:15:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:26 PM : cf209085_currentScreen-2015-04-22_02-15-20-PM.png
+4/22/2015 2:15:26 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/22/2015 2:15:27 PM : Object reference not set to an instance of an object.
+4/22/2015 2:15:27 PM : Verfiying template PandroaRadioPause.png
+4/22/2015 2:15:27 PM : Accuracy is D=0.999999582767487
+4/22/2015 2:15:27 PM : Template PandroaRadioPause.png is Verified. 
+4/22/2015 2:15:27 PM : Pandora song is playing, will check every 1 minutes...........
+4/22/2015 2:15:29 PM : d41c9385_currentScreen-2015-04-22_02-15-23-PM.png
+4/22/2015 2:15:29 PM : Scrolling two page down..
+4/22/2015 2:15:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:36 PM : d41c9385_currentScreen-2015-04-22_02-15-30-PM.png
+4/22/2015 2:15:37 PM : Taking screen shot...
+4/22/2015 2:15:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:43 PM : d41c9385_currentScreen-2015-04-22_02-15-37-PM.png
+4/22/2015 2:15:43 PM : Clicking by template TCPDUMPSTOP.png
+4/22/2015 2:15:44 PM : Verfiying template TCPDUMPSTOP.png
+4/22/2015 2:15:44 PM : Accuracy is D=0.865499258041382
+4/22/2015 2:15:44 PM : Template TCPDUMPSTOP.png is not Verified!
+4/22/2015 2:15:44 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/22/2015 2:15:44 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:15:44 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:15:44 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:15:44 PM : Scrolling  one page UP..
+4/22/2015 2:15:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:50 PM : d41c9385_currentScreen-2015-04-22_02-15-44-PM.png
+4/22/2015 2:15:51 PM : Scrolling  one page UP..
+4/22/2015 2:15:51 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:15:57 PM : d41c9385_currentScreen-2015-04-22_02-15-51-PM.png
+4/22/2015 2:15:58 PM : Scrolling  one page UP..
+4/22/2015 2:15:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:04 PM : d41c9385_currentScreen-2015-04-22_02-15-58-PM.png
+4/22/2015 2:16:05 PM : Clicking by template TCPDUMPSTATE.png
+4/22/2015 2:16:05 PM : Verfiying template TCPDUMPSTATE.png
+4/22/2015 2:16:05 PM : Accuracy is D=0.999999463558197
+4/22/2015 2:16:05 PM : Template TCPDUMPSTATE.png is Verified. 
+4/22/2015 2:16:05 PM : Touching on  X=270, Y=161
+4/22/2015 2:16:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:11 PM : Test ended  after 00:07:00
+4/22/2015 2:16:11 PM : Going Back to Home screen.
+4/22/2015 2:16:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:12 PM : d41c9385_currentScreen-2015-04-22_02-16-05-PM.png
+4/22/2015 2:16:13 PM : Wait 10 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/22/2015 2:16:13 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:16:13 PM : Object reference not set to an instance of an object.
+4/22/2015 2:16:13 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:16:13 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:16:13 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:16:13 PM : Taking screen shot...
+4/22/2015 2:16:13 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:18 PM : cf209085_currentScreen-2015-04-22_02-16-11-PM.png
+4/22/2015 2:16:19 PM : Going Back to Home screen.
+4/22/2015 2:16:19 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:21 PM : d41c9385_currentScreen-2015-04-22_02-16-13-PM.png
+4/22/2015 2:16:25 PM : cf209085_currentScreen-2015-04-22_02-16-19-PM.png
+4/22/2015 2:16:26 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:16:26 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:16:26 PM : Accuracy is D=0.999982714653015
+4/22/2015 2:16:26 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:16:26 PM : Touching on  X=76, Y=863
+4/22/2015 2:16:26 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:33 PM : cf209085_currentScreen-2015-04-22_02-16-26-PM.png
+4/22/2015 2:16:33 PM : typing #932#
+4/22/2015 2:16:34 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:41 PM : cf209085_currentScreen-2015-04-22_02-16-34-PM.png
+4/22/2015 2:16:41 PM : Clicking by template DialerIconCall.png
+4/22/2015 2:16:42 PM : Verfiying template DialerIconCall.png
+4/22/2015 2:16:42 PM : Accuracy is D=1
+4/22/2015 2:16:42 PM : Template DialerIconCall.png is Verified. 
+4/22/2015 2:16:42 PM : Touching on  X=268, Y=910
+4/22/2015 2:16:42 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:16:49 PM : cf209085_currentScreen-2015-04-22_02-16-42-PM.png
+4/22/2015 2:16:49 PM : Wait 10 seconds to get the datausage message
+4/22/2015 2:17:00 PM : Taking screen shot...
+4/22/2015 2:17:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:05 PM : cf209085_currentScreen-2015-04-22_02-17-00-PM.png
+4/22/2015 2:17:08 PM : Clicking by template ok
+4/22/2015 2:17:08 PM : Verfiying template ok
+4/22/2015 2:17:10 PM : Template ok is not Verified!
+4/22/2015 2:17:10 PM : Going Back to Home screen.
+4/22/2015 2:17:10 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:16 PM : cf209085_currentScreen-2015-04-22_02-17-10-PM.png
+4/22/2015 2:17:16 PM : verifying template DialerIconStart  DialerIconStart.png
+4/22/2015 2:17:17 PM : Object reference not set to an instance of an object.
+4/22/2015 2:17:17 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:17:17 PM : Accuracy is D=0.999982714653015
+4/22/2015 2:17:17 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:17:17 PM : Clicking by template DialerIconStart.png
+4/22/2015 2:17:17 PM : Verfiying template DialerIconStart.png
+4/22/2015 2:17:17 PM : Accuracy is D=0.999982714653015
+4/22/2015 2:17:17 PM : Template DialerIconStart.png is Verified. 
+4/22/2015 2:17:17 PM : Touching on  X=76, Y=863
+4/22/2015 2:17:17 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:21 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:17:21 PM : Object reference not set to an instance of an object.
+4/22/2015 2:17:21 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:17:21 PM : Accuracy is D=0.99997478723526
+4/22/2015 2:17:21 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/22/2015 2:17:21 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/22/2015 2:17:21 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:17:21 PM : Accuracy is D=0.99997478723526
+4/22/2015 2:17:21 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/22/2015 2:17:21 PM : Touching on  X=268, Y=622
+4/22/2015 2:17:21 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:24 PM : cf209085_currentScreen-2015-04-22_02-17-17-PM.png
+4/22/2015 2:17:24 PM : Stop TCPDump
+4/22/2015 2:17:25 PM : typing *#9900#
+4/22/2015 2:17:25 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:28 PM : d41c9385_currentScreen-2015-04-22_02-17-21-PM.png
+4/22/2015 2:17:28 PM : Wait 60 seconds
+4/22/2015 2:17:32 PM : cf209085_currentScreen-2015-04-22_02-17-25-PM.png
+4/22/2015 2:17:33 PM : Taking screen shot...
+4/22/2015 2:17:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:39 PM : cf209085_currentScreen-2015-04-22_02-17-33-PM.png
+4/22/2015 2:17:39 PM : Scrolling two page down..
+4/22/2015 2:17:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:46 PM : cf209085_currentScreen-2015-04-22_02-17-40-PM.png
+4/22/2015 2:17:47 PM : Taking screen shot...
+4/22/2015 2:17:47 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:17:53 PM : cf209085_currentScreen-2015-04-22_02-17-47-PM.png
+4/22/2015 2:17:53 PM : Clicking by template TCPDUMPSTOP.png
+4/22/2015 2:17:54 PM : Verfiying template TCPDUMPSTOP.png
+4/22/2015 2:17:54 PM : Accuracy is D=0.99994170665741
+4/22/2015 2:17:54 PM : Template TCPDUMPSTOP.png is Verified. 
+4/22/2015 2:17:54 PM : Touching on  X=267, Y=339
+4/22/2015 2:17:54 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:00 PM : cf209085_currentScreen-2015-04-22_02-17-54-PM.png
+4/22/2015 2:18:01 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/22/2015 2:18:02 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:18:02 PM : Accuracy is D=0.999999463558197
+4/22/2015 2:18:02 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/22/2015 2:18:02 PM : Touching on  X=268, Y=588
+4/22/2015 2:18:02 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:08 PM : cf209085_currentScreen-2015-04-22_02-18-02-PM.png
+4/22/2015 2:18:09 PM : Scrolling  one page UP..
+4/22/2015 2:18:09 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:15 PM : cf209085_currentScreen-2015-04-22_02-18-09-PM.png
+4/22/2015 2:18:16 PM : Scrolling  one page UP..
+4/22/2015 2:18:16 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:22 PM : cf209085_currentScreen-2015-04-22_02-18-16-PM.png
+4/22/2015 2:18:23 PM : Scrolling  one page UP..
+4/22/2015 2:18:23 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:29 PM : Taking screen shot...
+4/22/2015 2:18:29 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:29 PM : cf209085_currentScreen-2015-04-22_02-18-23-PM.png
+4/22/2015 2:18:30 PM : Clicking by template TCPDUMPSTATE.png
+4/22/2015 2:18:31 PM : Verfiying template TCPDUMPSTATE.png
+4/22/2015 2:18:31 PM : Accuracy is D=0.99999988079071
+4/22/2015 2:18:31 PM : Template TCPDUMPSTATE.png is Verified. 
+4/22/2015 2:18:31 PM : Touching on  X=270, Y=161
+4/22/2015 2:18:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:35 PM : d41c9385_currentScreen-2015-04-22_02-18-29-PM.png
+4/22/2015 2:18:36 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/22/2015 2:18:37 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:18:37 PM : Accuracy is D=0.99997478723526
+4/22/2015 2:18:37 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/22/2015 2:18:37 PM : Touching on  X=268, Y=622
+4/22/2015 2:18:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:39 PM : cf209085_currentScreen-2015-04-22_02-18-31-PM.png
+4/22/2015 2:18:39 PM : Wait 10 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/22/2015 2:18:40 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:18:40 PM : Object reference not set to an instance of an object.
+4/22/2015 2:18:40 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:18:40 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:18:40 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:18:40 PM : Taking screen shot...
+4/22/2015 2:18:40 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:43 PM : d41c9385_currentScreen-2015-04-22_02-18-37-PM.png
+4/22/2015 2:18:44 PM : Clicking by template TCPDUMPTOSDCARD.png
+4/22/2015 2:18:44 PM : Verfiying template TCPDUMPTOSDCARD.png
+4/22/2015 2:18:44 PM : Accuracy is D=0.999998807907104
+4/22/2015 2:18:44 PM : Template TCPDUMPTOSDCARD.png is Verified. 
+4/22/2015 2:18:44 PM : Touching on  X=162, Y=663
+4/22/2015 2:18:44 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:45 PM : cf209085_currentScreen-2015-04-22_02-18-40-PM.png
+4/22/2015 2:18:51 PM : d41c9385_currentScreen-2015-04-22_02-18-44-PM.png
+4/22/2015 2:18:51 PM : Wait 50 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/22/2015 2:18:52 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:18:52 PM : Object reference not set to an instance of an object.
+4/22/2015 2:18:52 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:18:52 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:18:52 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:18:52 PM : Taking screen shot...
+4/22/2015 2:18:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:18:58 PM : d41c9385_currentScreen-2015-04-22_02-18-52-PM.png
+4/22/2015 2:19:03 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:03 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:03 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:03 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:19:03 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:03 PM : Taking screen shot...
+4/22/2015 2:19:03 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:19:09 PM : d41c9385_currentScreen-2015-04-22_02-19-03-PM.png
+4/22/2015 2:19:14 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:14 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:14 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:14 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:19:14 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:14 PM : Taking screen shot...
+4/22/2015 2:19:14 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:19:20 PM : d41c9385_currentScreen-2015-04-22_02-19-14-PM.png
+4/22/2015 2:19:25 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:25 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:25 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:26 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:19:26 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:26 PM : Taking screen shot...
+4/22/2015 2:19:26 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:19:31 PM : d41c9385_currentScreen-2015-04-22_02-19-26-PM.png
+4/22/2015 2:19:37 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:37 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:37 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:37 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:19:37 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:37 PM : Taking screen shot...
+4/22/2015 2:19:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:19:42 PM : d41c9385_currentScreen-2015-04-22_02-19-37-PM.png
+4/22/2015 2:19:46 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:46 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:46 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:46 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:19:46 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:46 PM : Taking screen shot...
+4/22/2015 2:19:46 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:19:48 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:48 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:48 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:48 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:19:48 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:48 PM : Taking screen shot...
+4/22/2015 2:19:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:19:51 PM : cf209085_currentScreen-2015-04-22_02-19-46-PM.png
+4/22/2015 2:19:54 PM : d41c9385_currentScreen-2015-04-22_02-19-48-PM.png
+4/22/2015 2:19:59 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:19:59 PM : Object reference not set to an instance of an object.
+4/22/2015 2:19:59 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:19:59 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:19:59 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:19:59 PM : Taking screen shot...
+4/22/2015 2:19:59 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:05 PM : d41c9385_currentScreen-2015-04-22_02-19-59-PM.png
+4/22/2015 2:20:11 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:20:11 PM : Object reference not set to an instance of an object.
+4/22/2015 2:20:11 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:20:11 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:20:11 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:20:11 PM : Taking screen shot...
+4/22/2015 2:20:11 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:16 PM : d41c9385_currentScreen-2015-04-22_02-20-11-PM.png
+4/22/2015 2:20:22 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:20:22 PM : Object reference not set to an instance of an object.
+4/22/2015 2:20:22 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:20:22 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:20:22 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:20:22 PM : Taking screen shot...
+4/22/2015 2:20:22 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:27 PM : d41c9385_currentScreen-2015-04-22_02-20-22-PM.png
+4/22/2015 2:20:33 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:20:33 PM : Object reference not set to an instance of an object.
+4/22/2015 2:20:33 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:20:33 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:20:33 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:20:33 PM : Taking screen shot...
+4/22/2015 2:20:33 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:39 PM : d41c9385_currentScreen-2015-04-22_02-20-33-PM.png
+4/22/2015 2:20:44 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:20:44 PM : Object reference not set to an instance of an object.
+4/22/2015 2:20:44 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:20:44 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:20:44 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:20:44 PM : Taking screen shot...
+4/22/2015 2:20:45 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:50 PM : d41c9385_currentScreen-2015-04-22_02-20-45-PM.png
+4/22/2015 2:20:52 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:20:52 PM : Object reference not set to an instance of an object.
+4/22/2015 2:20:52 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:20:52 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:20:52 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:20:52 PM : Taking screen shot...
+4/22/2015 2:20:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:56 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:20:56 PM : Object reference not set to an instance of an object.
+4/22/2015 2:20:56 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:20:56 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:20:56 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:20:56 PM : Taking screen shot...
+4/22/2015 2:20:56 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:20:58 PM : cf209085_currentScreen-2015-04-22_02-20-52-PM.png
+4/22/2015 2:21:01 PM : d41c9385_currentScreen-2015-04-22_02-20-56-PM.png
+4/22/2015 2:21:07 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:21:07 PM : Object reference not set to an instance of an object.
+4/22/2015 2:21:07 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:07 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:21:07 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:21:07 PM : Taking screen shot...
+4/22/2015 2:21:07 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:21:13 PM : d41c9385_currentScreen-2015-04-22_02-21-07-PM.png
+4/22/2015 2:21:18 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:21:18 PM : Object reference not set to an instance of an object.
+4/22/2015 2:21:18 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:18 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:21:18 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:21:18 PM : Taking screen shot...
+4/22/2015 2:21:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:21:24 PM : d41c9385_currentScreen-2015-04-22_02-21-18-PM.png
+4/22/2015 2:21:29 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:21:29 PM : Object reference not set to an instance of an object.
+4/22/2015 2:21:29 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:30 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:21:30 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:21:30 PM : Taking screen shot...
+4/22/2015 2:21:30 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:21:35 PM : d41c9385_currentScreen-2015-04-22_02-21-30-PM.png
+4/22/2015 2:21:41 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:21:41 PM : Object reference not set to an instance of an object.
+4/22/2015 2:21:41 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:41 PM : Accuracy is D=0.49196982383728
+4/22/2015 2:21:41 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:21:41 PM : Taking screen shot...
+4/22/2015 2:21:41 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:21:46 PM : d41c9385_currentScreen-2015-04-22_02-21-41-PM.png
+4/22/2015 2:21:52 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:21:52 PM : Object reference not set to an instance of an object.
+4/22/2015 2:21:52 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:52 PM : Accuracy is D=0.999999463558197
+4/22/2015 2:21:52 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/22/2015 2:21:52 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:52 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:52 PM : Accuracy is D=0.999999463558197
+4/22/2015 2:21:52 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/22/2015 2:21:52 PM : Touching on  X=268, Y=588
+4/22/2015 2:21:52 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:21:58 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:21:58 PM : Object reference not set to an instance of an object.
+4/22/2015 2:21:58 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:21:58 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:21:58 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:21:58 PM : Taking screen shot...
+4/22/2015 2:21:58 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:21:59 PM : d41c9385_currentScreen-2015-04-22_02-21-52-PM.png
+4/22/2015 2:21:59 PM : Going Back to Home screen.
+4/22/2015 2:22:00 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:22:05 PM : cf209085_currentScreen-2015-04-22_02-21-58-PM.png
+4/22/2015 2:22:07 PM : d41c9385_currentScreen-2015-04-22_02-22-00-PM.png
+4/22/2015 2:22:08 PM : Pulling TCP Dump from Device
+4/22/2015 2:22:08 PM : tcp-dump command   -s d41c9385  pull  /sdcard/log/tcpdump/ c:/GDrive/tcpump/tcpdump_Pandora_645_4_22_2015
+4/22/2015 2:22:08 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:23:05 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:23:05 PM : Object reference not set to an instance of an object.
+4/22/2015 2:23:05 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:23:05 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:23:05 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:23:05 PM : Taking screen shot...
+4/22/2015 2:23:05 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:23:11 PM : cf209085_currentScreen-2015-04-22_02-23-05-PM.png
+4/22/2015 2:23:48 PM : tcp-dump pulled to  c:/GDrive/tcpump/tcpdump_Pandora_645_4_22_2015
+4/22/2015 2:23:48 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:23:49 PM : ************************End TestCase 0.1************************
+4/22/2015 2:23:49 PM : The number of files starting with c is 4
+4/22/2015 2:23:49 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 2:23:49 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 2:24:11 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:24:11 PM : Object reference not set to an instance of an object.
+4/22/2015 2:24:11 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:24:12 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:24:12 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:24:12 PM : Taking screen shot...
+4/22/2015 2:24:12 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:24:17 PM : cf209085_currentScreen-2015-04-22_02-24-12-PM.png
+4/22/2015 2:25:18 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:25:18 PM : Object reference not set to an instance of an object.
+4/22/2015 2:25:18 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:25:18 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:25:18 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:25:18 PM : Taking screen shot...
+4/22/2015 2:25:18 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:25:24 PM : cf209085_currentScreen-2015-04-22_02-25-18-PM.png
+4/22/2015 2:26:24 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:26:24 PM : Object reference not set to an instance of an object.
+4/22/2015 2:26:24 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:26:24 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:26:24 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:26:24 PM : Taking screen shot...
+4/22/2015 2:26:24 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:26:30 PM : cf209085_currentScreen-2015-04-22_02-26-24-PM.png
+4/22/2015 2:27:30 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:27:30 PM : Object reference not set to an instance of an object.
+4/22/2015 2:27:30 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:27:31 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:27:31 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:27:31 PM : Taking screen shot...
+4/22/2015 2:27:31 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:27:36 PM : cf209085_currentScreen-2015-04-22_02-27-31-PM.png
+4/22/2015 2:28:36 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:28:36 PM : Object reference not set to an instance of an object.
+4/22/2015 2:28:36 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:28:37 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:28:37 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:28:37 PM : Taking screen shot...
+4/22/2015 2:28:37 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:28:42 PM : cf209085_currentScreen-2015-04-22_02-28-37-PM.png
+4/22/2015 2:29:43 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/22/2015 2:29:43 PM : Object reference not set to an instance of an object.
+4/22/2015 2:29:43 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/22/2015 2:29:43 PM : Accuracy is D=0.491148322820663
+4/22/2015 2:29:43 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/22/2015 2:29:43 PM : Taking screen shot...
+4/22/2015 2:29:43 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:29:48 PM : cf209085_currentScreen-2015-04-22_02-29-43-PM.png
+4/22/2015 2:30:49 PM : System.Diagnostics.ProcessStartInfo
+4/22/2015 2:30:49 PM : ************************End TestCase 0.1************************
+4/22/2015 2:35:41 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 2:35:41 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:41 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.
+4/22/2015 2:35:42 PM : Index was outside the bounds of the array.

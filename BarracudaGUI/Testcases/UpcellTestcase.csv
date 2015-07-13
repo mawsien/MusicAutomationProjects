@@ -1,0 +1,4 @@
+﻿TestCaseID,Title,Param,param2,param3,Execute,Num Attempts,Num Phone,param4
+CAT0002, 002 Verify User can upgrade from no data service to 200MB via Upsell page,"",,,0,1,1,1
+CAT0003, 003_Verify data service upgrade options for rate plan with 200MB data service,"",,,1,1,1,1
+CAT0004, 004_Verify User can upgrade from 200MB to 2GB via My Account WAP,"",,,1,1,1,1

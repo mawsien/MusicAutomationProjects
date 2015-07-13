@@ -1,0 +1,15 @@
+6/11/2015 4:12:40 PM : ******************Start TestCase 0.1******************
+6/11/2015 4:12:40 PM : Delete Logs and restart device
+6/11/2015 4:12:40 PM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+6/11/2015 4:12:40 PM : System.Diagnostics.ProcessStartInfo
+6/11/2015 4:12:50 PM : Going Back to Home screen.
+6/11/2015 4:12:50 PM : System.Diagnostics.ProcessStartInfo
+6/11/2015 4:13:01 PM : Problem taking screen shot for deviceID 1b217014 so  take it again, the name is Report\6-11-1b217014\ScreenShots\1b217014_currentScreen-2015-06-11_04-12-50-PM.png
+6/11/2015 4:13:01 PM : Taking screen shot...
+6/11/2015 4:13:01 PM : System.Diagnostics.ProcessStartInfo
+6/11/2015 4:13:08 PM : Problem taking screen shot for deviceID 1b217014 so  take it again, the name is Report\6-11-1b217014\ScreenShots\1b217014_currentScreen-2015-06-11_04-13-01-PM.png
+6/11/2015 4:13:08 PM : Taking screen shot...
+6/11/2015 4:13:08 PM : System.Diagnostics.ProcessStartInfo
+6/11/2015 4:13:15 PM : Problem taking screen shot for deviceID 1b217014 so  take it again, the name is Report\6-11-1b217014\ScreenShots\1b217014_currentScreen-2015-06-11_04-13-08-PM.png
+6/11/2015 4:13:15 PM : Taking screen shot...
+6/11/2015 4:13:15 PM : System.Diagnostics.ProcessStartInfo

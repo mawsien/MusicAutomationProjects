@@ -1,0 +1,808 @@
+6/18/2015 2:21:14 PM : ******************Start TestCase 0.1******************
+6/18/2015 2:21:16 PM : Delete Logs and restart device
+6/18/2015 2:21:16 PM : Delete sdcard/log file  -s db1ad89b shell rm -r /sdcard/log
+6/18/2015 2:21:16 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:21:26 PM : Going Back to Home screen.
+6/18/2015 2:21:26 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:21:34 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-21-26-PM.png
+6/18/2015 2:21:34 PM : Taking screen shot...
+6/18/2015 2:21:34 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:21:41 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-21-34-PM.png
+6/18/2015 2:21:41 PM : Taking screen shot...
+6/18/2015 2:21:41 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:21:48 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-21-41-PM.png
+6/18/2015 2:21:48 PM : Taking screen shot...
+6/18/2015 2:21:48 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:21:55 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-21-48-PM.png
+6/18/2015 2:21:55 PM : Taking screen shot...
+6/18/2015 2:21:55 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:22:01 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-21-55-PM.png
+6/18/2015 2:22:01 PM : Taking screen shot...
+6/18/2015 2:22:01 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:22:08 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-22-01-PM.png
+6/18/2015 2:22:08 PM : Taking screen shot...
+6/18/2015 2:22:08 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:22:15 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-22-08-PM.png
+6/18/2015 2:22:15 PM : Taking screen shot...
+6/18/2015 2:22:15 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:22:22 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-22-15-PM.png
+6/18/2015 2:22:22 PM : Taking screen shot...
+6/18/2015 2:22:22 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:22:28 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-22-22-PM.png
+6/18/2015 2:22:29 PM : Taking screen shot...
+6/18/2015 2:22:29 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:24:04 PM : ******************Start TestCase 0.1******************
+6/18/2015 2:24:05 PM : Delete Logs and restart device
+6/18/2015 2:24:05 PM : Delete sdcard/log file  -s db1ad89b shell rm -r /sdcard/log
+6/18/2015 2:24:05 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:24:15 PM : Going Back to Home screen.
+6/18/2015 2:24:15 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:24:22 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-24-15-PM.png
+6/18/2015 2:24:29 PM : Taking screen shot...
+6/18/2015 2:24:29 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:24:36 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-24-29-PM.png
+6/18/2015 2:24:42 PM : Taking screen shot...
+6/18/2015 2:24:42 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:24:49 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-24-42-PM.png
+6/18/2015 2:24:55 PM : Taking screen shot...
+6/18/2015 2:24:55 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:25:02 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-24-55-PM.png
+6/18/2015 2:25:09 PM : Taking screen shot...
+6/18/2015 2:25:09 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:25:15 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-25-09-PM.png
+6/18/2015 2:25:22 PM : Taking screen shot...
+6/18/2015 2:25:22 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:25:35 PM : db1ad89b_currentScreen-2015-06-18_02-25-22-PM.png
+6/18/2015 2:25:39 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:26:43 PM : ******************Start TestCase 0.1******************
+6/18/2015 2:26:45 PM : Delete Logs and restart device
+6/18/2015 2:26:45 PM : Delete sdcard/log file  -s db1ad89b shell rm -r /sdcard/log
+6/18/2015 2:26:45 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:26:56 PM : Going Back to Home screen.
+6/18/2015 2:26:56 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:27:19 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-26-56-PM.png
+6/18/2015 2:27:25 PM : Taking screen shot...
+6/18/2015 2:27:25 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:28:10 PM : db1ad89b_currentScreen-2015-06-18_02-25-22-PM.png
+6/18/2015 2:28:11 PM : Going Back to Home screen.
+6/18/2015 2:28:11 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:28:11 PM : db1ad89b_currentScreen-2015-06-18_02-27-25-PM.png
+6/18/2015 2:28:13 PM : db1ad89b_currentScreen-2015-06-18_02-26-56-PM.png
+6/18/2015 2:28:14 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:28:25 PM : db1ad89b_currentScreen-2015-06-18_02-28-11-PM.png
+6/18/2015 2:28:25 PM : Clicking by template DialerIconStart.png
+6/18/2015 2:28:26 PM : Verfiying template DialerIconStart.png
+6/18/2015 2:28:27 PM : Accuracy is D=0.679010272026062
+6/18/2015 2:28:27 PM : Template DialerIconStart.png is not Verified!
+6/18/2015 2:28:27 PM : typing #932#
+6/18/2015 2:28:27 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:28:32 PM : db1ad89b_currentScreen-2015-06-18_02-28-11-PM.png
+6/18/2015 2:28:32 PM : Problem taking screen shot for deviceID db1ad89b so  take it again, the name is Report\6-18-db1ad89b\ScreenShots\db1ad89b_currentScreen-2015-06-18_02-28-27-PM.png
+6/18/2015 2:28:39 PM : Clicking by template DialerIconCall.png
+6/18/2015 2:28:39 PM : Taking screen shot...
+6/18/2015 2:28:39 PM : Verfiying template DialerIconCall.png
+6/18/2015 2:28:39 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:28:40 PM : db1ad89b_currentScreen-2015-06-18_02-28-27-PM.png
+6/18/2015 2:28:41 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:28:41 PM : ************************End TestCase 0.1************************
+6/18/2015 2:28:49 PM : db1ad89b_currentScreen-2015-06-18_02-28-39-PM.png
+6/18/2015 2:28:53 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:29:05 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:29:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:29:30 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:29:43 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:29:52 PM : Going Back to Home screen.
+6/18/2015 2:29:52 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:30:03 PM : db1ad89b_currentScreen-2015-06-18_02-29-52-PM.png
+6/18/2015 2:30:04 PM : Clicking by template DialerIconStart.png
+6/18/2015 2:30:05 PM : Verfiying template DialerIconStart.png
+6/18/2015 2:30:05 PM : Accuracy is D=0.679010272026062
+6/18/2015 2:30:05 PM : Template DialerIconStart.png is not Verified!
+6/18/2015 2:30:05 PM : typing #932#
+6/18/2015 2:30:05 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:30:17 PM : db1ad89b_currentScreen-2015-06-18_02-30-05-PM.png
+6/18/2015 2:30:17 PM : Clicking by template DialerIconCall.png
+6/18/2015 2:30:18 PM : Verfiying template DialerIconCall.png
+6/18/2015 2:30:19 PM : Accuracy is D=0.339246720075607
+6/18/2015 2:30:19 PM : Template DialerIconCall.png is not Verified!
+6/18/2015 2:30:19 PM : Wait 10 seconds to get the datausage message
+6/18/2015 2:30:29 PM : Taking screen shot...
+6/18/2015 2:30:29 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:30:39 PM : db1ad89b_currentScreen-2015-06-18_02-30-29-PM.png
+6/18/2015 2:30:57 PM : ProgressValue of '200' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+6/18/2015 2:30:57 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:30:57 PM : ************************End TestCase 0.1************************
+6/18/2015 2:46:14 PM : ******************Start TestCase 0.1******************
+6/18/2015 2:46:14 PM : Delete Logs and restart device
+6/18/2015 2:46:14 PM : Delete sdcard/log file  -s db1ad89b shell rm -r /sdcard/log
+6/18/2015 2:46:14 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:46:24 PM : Going Back to Home screen.
+6/18/2015 2:46:25 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:46:35 PM : db1ad89b_currentScreen-2015-06-18_02-46-25-PM.png
+6/18/2015 2:46:36 PM : Going Back to Home screen.
+6/18/2015 2:46:37 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:46:48 PM : db1ad89b_currentScreen-2015-06-18_02-46-37-PM.png
+6/18/2015 2:46:48 PM : Clicking by template DialerIconStart.png
+6/18/2015 2:46:49 PM : Verfiying template DialerIconStart.png
+6/18/2015 2:46:50 PM : Accuracy is D=0.679010272026062
+6/18/2015 2:46:50 PM : Template DialerIconStart.png is not Verified!
+6/18/2015 2:46:50 PM : typing #932#
+6/18/2015 2:46:50 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:47:02 PM : db1ad89b_currentScreen-2015-06-18_02-46-50-PM.png
+6/18/2015 2:47:02 PM : Clicking by template DialerIconCall.png
+6/18/2015 2:47:02 PM : Verfiying template DialerIconCall.png
+6/18/2015 2:47:03 PM : Accuracy is D=0.339246720075607
+6/18/2015 2:47:03 PM : Template DialerIconCall.png is not Verified!
+6/18/2015 2:47:03 PM : Wait 10 seconds to get the datausage message
+6/18/2015 2:47:13 PM : ******************Start TestCase 0.1******************
+6/18/2015 2:47:13 PM : Delete Logs and restart device
+6/18/2015 2:47:13 PM : Delete sdcard/log file  -s db1ad89b shell rm -r /sdcard/log
+6/18/2015 2:47:13 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:47:13 PM : Taking screen shot...
+6/18/2015 2:47:13 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:47:23 PM : db1ad89b_currentScreen-2015-06-18_02-47-13-PM.png
+6/18/2015 2:47:23 PM : Going Back to Home screen.
+6/18/2015 2:47:24 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:47:27 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:47:28 PM : ************************End TestCase 0.1************************
+6/18/2015 2:47:35 PM : db1ad89b_currentScreen-2015-06-18_02-47-24-PM.png
+6/18/2015 2:47:35 PM : Going Back to Home screen.
+6/18/2015 2:47:36 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:47:47 PM : db1ad89b_currentScreen-2015-06-18_02-47-36-PM.png
+6/18/2015 2:47:47 PM : Clicking by template DialerIconStart.png
+6/18/2015 2:47:48 PM : Verfiying template DialerIconStart.png
+6/18/2015 2:47:49 PM : Accuracy is D=1
+6/18/2015 2:47:49 PM : Template DialerIconStart.png is Verified. 
+6/18/2015 2:47:49 PM : Touching on  X=140, Y=2479
+6/18/2015 2:47:49 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:48:00 PM : db1ad89b_currentScreen-2015-06-18_02-47-49-PM.png
+6/18/2015 2:48:00 PM : typing #932#
+6/18/2015 2:48:01 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:48:12 PM : db1ad89b_currentScreen-2015-06-18_02-48-01-PM.png
+6/18/2015 2:48:12 PM : Clicking by template DialerIconCall.png
+6/18/2015 2:48:13 PM : Verfiying template DialerIconCall.png
+6/18/2015 2:48:14 PM : Accuracy is D=0.999997675418854
+6/18/2015 2:48:14 PM : Template DialerIconCall.png is Verified. 
+6/18/2015 2:48:14 PM : Touching on  X=775, Y=2426
+6/18/2015 2:48:14 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:48:24 PM : db1ad89b_currentScreen-2015-06-18_02-48-14-PM.png
+6/18/2015 2:48:25 PM : Wait 10 seconds to get the datausage message
+6/18/2015 2:48:35 PM : Taking screen shot...
+6/18/2015 2:48:35 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:48:45 PM : db1ad89b_currentScreen-2015-06-18_02-48-35-PM.png
+6/18/2015 2:48:53 PM : ProgressValue of '200' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+6/18/2015 2:48:53 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:48:53 PM : ************************End TestCase 0.1************************
+6/18/2015 2:57:55 PM : ******************Start TestCase 0.1******************
+6/18/2015 2:57:55 PM : Delete Logs and restart device
+6/18/2015 2:57:55 PM : Delete sdcard/log file  -s df328a85 shell rm -r /sdcard/log
+6/18/2015 2:57:55 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:58:05 PM : Going Back to Home screen.
+6/18/2015 2:58:05 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:58:12 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-58-05-PM.png
+6/18/2015 2:58:18 PM : Taking screen shot...
+6/18/2015 2:58:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:58:25 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-58-18-PM.png
+6/18/2015 2:58:32 PM : Taking screen shot...
+6/18/2015 2:58:32 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:58:38 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-58-32-PM.png
+6/18/2015 2:58:45 PM : Taking screen shot...
+6/18/2015 2:58:45 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:58:52 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-58-45-PM.png
+6/18/2015 2:58:58 PM : Taking screen shot...
+6/18/2015 2:58:58 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:59:05 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-58-58-PM.png
+6/18/2015 2:59:12 PM : Taking screen shot...
+6/18/2015 2:59:12 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:59:18 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-59-12-PM.png
+6/18/2015 2:59:25 PM : Taking screen shot...
+6/18/2015 2:59:25 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:59:31 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-59-25-PM.png
+6/18/2015 2:59:38 PM : Taking screen shot...
+6/18/2015 2:59:38 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:59:45 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-59-38-PM.png
+6/18/2015 2:59:51 PM : Taking screen shot...
+6/18/2015 2:59:51 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 2:59:58 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_02-59-51-PM.png
+6/18/2015 3:00:05 PM : Taking screen shot...
+6/18/2015 3:00:05 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:00:11 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-00-05-PM.png
+6/18/2015 3:00:18 PM : Taking screen shot...
+6/18/2015 3:00:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:00:25 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-00-18-PM.png
+6/18/2015 3:00:31 PM : Taking screen shot...
+6/18/2015 3:00:31 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:00:38 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-00-31-PM.png
+6/18/2015 3:00:44 PM : Taking screen shot...
+6/18/2015 3:00:44 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:00:51 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-00-44-PM.png
+6/18/2015 3:00:58 PM : Taking screen shot...
+6/18/2015 3:00:58 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:01:04 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-00-58-PM.png
+6/18/2015 3:01:11 PM : Taking screen shot...
+6/18/2015 3:01:11 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:01:17 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-01-11-PM.png
+6/18/2015 3:01:24 PM : Taking screen shot...
+6/18/2015 3:01:24 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:01:31 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-01-24-PM.png
+6/18/2015 3:01:37 PM : Taking screen shot...
+6/18/2015 3:01:37 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:01:44 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-01-37-PM.png
+6/18/2015 3:01:51 PM : Taking screen shot...
+6/18/2015 3:01:51 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:01:57 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-01-51-PM.png
+6/18/2015 3:02:04 PM : Taking screen shot...
+6/18/2015 3:02:04 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:02:11 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-02-04-PM.png
+6/18/2015 3:02:17 PM : Taking screen shot...
+6/18/2015 3:02:17 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:02:24 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-02-17-PM.png
+6/18/2015 3:02:30 PM : Taking screen shot...
+6/18/2015 3:02:30 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:02:37 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-02-30-PM.png
+6/18/2015 3:02:44 PM : Taking screen shot...
+6/18/2015 3:02:44 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:02:49 PM : df328a85_currentScreen-2015-06-18_03-02-44-PM.png
+6/18/2015 3:02:52 PM : ******************Start TestCase 0.1******************
+6/18/2015 3:02:52 PM : Delete Logs and restart device
+6/18/2015 3:02:52 PM : Delete sdcard/log file  -s df328a85 shell rm -r /sdcard/log
+6/18/2015 3:02:52 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:02:53 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:01 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:02 PM : Going Back to Home screen.
+6/18/2015 3:03:02 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:06 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-03-02-PM.png
+6/18/2015 3:03:09 PM : Going Back to Home screen.
+6/18/2015 3:03:13 PM : Taking screen shot...
+6/18/2015 3:03:13 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:13 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:13 PM : df328a85_currentScreen-2015-06-18_03-03-02-PM.png
+6/18/2015 3:03:19 PM : df328a85_currentScreen-2015-06-18_03-03-13-PM.png
+6/18/2015 3:03:19 PM : Clicking by template DialerIconStart.png
+6/18/2015 3:03:20 PM : Verfiying template DialerIconStart.png
+6/18/2015 3:03:20 PM : Accuracy is D=0.999764204025269
+6/18/2015 3:03:20 PM : Template DialerIconStart.png is Verified. 
+6/18/2015 3:03:20 PM : Touching on  X=47, Y=860
+6/18/2015 3:03:20 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:21 PM : df328a85_currentScreen-2015-06-18_03-03-13-PM.png
+6/18/2015 3:03:22 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-03-20-PM.png
+6/18/2015 3:03:27 PM : typing #932#
+6/18/2015 3:03:29 PM : Taking screen shot...
+6/18/2015 3:03:29 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:29 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:29 PM : df328a85_currentScreen-2015-06-18_03-03-20-PM.png
+6/18/2015 3:03:34 PM : df328a85_currentScreen-2015-06-18_03-03-29-PM.png
+6/18/2015 3:03:35 PM : Clicking by template DialerIconCall.png
+6/18/2015 3:03:35 PM : Verfiying template DialerIconCall.png
+6/18/2015 3:03:35 PM : Accuracy is D=1
+6/18/2015 3:03:35 PM : Template DialerIconCall.png is Verified. 
+6/18/2015 3:03:35 PM : Touching on  X=268, Y=910
+6/18/2015 3:03:35 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:36 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-03-35-PM.png
+6/18/2015 3:03:42 PM : Wait 10 seconds to get the datausage message
+6/18/2015 3:03:43 PM : Taking screen shot...
+6/18/2015 3:03:43 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:43 PM : df328a85_currentScreen-2015-06-18_03-03-35-PM.png
+6/18/2015 3:03:48 PM : df328a85_currentScreen-2015-06-18_03-03-43-PM.png
+6/18/2015 3:03:52 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:53 PM : Taking screen shot...
+6/18/2015 3:03:53 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:03:57 PM : df328a85_currentScreen-2015-06-18_03-03-53-PM.png
+6/18/2015 3:04:01 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:02 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:03 PM : ************************End TestCase 0.1************************
+6/18/2015 3:04:09 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:11 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+6/18/2015 3:04:11 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:12 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:13 PM : Index was outside the bounds of the array.
+6/18/2015 3:04:14 PM : df328a85_currentScreen-2015-06-18_03-03-53-PM.png
+6/18/2015 3:04:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:26 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:31 PM : ******************Start TestCase 0.1******************
+6/18/2015 3:04:31 PM : Delete Logs and restart device
+6/18/2015 3:04:31 PM : Delete sdcard/log file  -s df328a85 shell rm -r /sdcard/log
+6/18/2015 3:04:31 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:35 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:41 PM : Going Back to Home screen.
+6/18/2015 3:04:41 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:43 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:47 PM : df328a85_currentScreen-2015-06-18_03-04-41-PM.png
+6/18/2015 3:04:47 PM : Going Back to Home screen.
+6/18/2015 3:04:48 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:49 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-04-48-PM.png
+6/18/2015 3:04:54 PM : Clicking by template DialerIconStart.png
+6/18/2015 3:04:55 PM : Taking screen shot...
+6/18/2015 3:04:55 PM : Verfiying template DialerIconStart.png
+6/18/2015 3:04:55 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:55 PM : df328a85_currentScreen-2015-06-18_03-04-48-PM.png
+6/18/2015 3:04:57 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:04:57 PM : ************************End TestCase 0.1************************
+6/18/2015 3:05:03 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+6/18/2015 3:05:03 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+6/18/2015 3:05:03 PM : df328a85_currentScreen-2015-06-18_03-04-55-PM.png
+6/18/2015 3:05:03 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:04 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:05 PM : Index was outside the bounds of the array.
+6/18/2015 3:05:06 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:05:30 PM : df328a85_currentScreen-2015-06-18_03-04-55-PM.png
+6/18/2015 3:05:34 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:05:42 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:05:47 PM : ******************Start TestCase 0.1******************
+6/18/2015 3:05:47 PM : Delete Logs and restart device
+6/18/2015 3:05:47 PM : Delete sdcard/log file  -s df328a85 shell rm -r /sdcard/log
+6/18/2015 3:05:47 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:05:51 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:05:57 PM : Going Back to Home screen.
+6/18/2015 3:05:57 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:05:59 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:04 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-05-57-PM.png
+6/18/2015 3:06:11 PM : Taking screen shot...
+6/18/2015 3:06:11 PM : df328a85_currentScreen-2015-06-18_03-05-57-PM.png
+6/18/2015 3:06:11 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:13 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:16 PM : df328a85_currentScreen-2015-06-18_03-06-11-PM.png
+6/18/2015 3:06:20 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:21 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:25 PM : Going Back to Home screen.
+6/18/2015 3:06:25 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:30 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_03-06-25-PM.png
+6/18/2015 3:06:32 PM : Clicking by template DialerIconStart.png
+6/18/2015 3:06:36 PM : Taking screen shot...
+6/18/2015 3:06:36 PM : Verfiying template DialerIconStart.png
+6/18/2015 3:06:36 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:36 PM : df328a85_currentScreen-2015-06-18_03-06-25-PM.png
+6/18/2015 3:06:37 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:38 PM : ************************End TestCase 0.1************************
+6/18/2015 3:06:42 PM : df328a85_currentScreen-2015-06-18_03-06-36-PM.png
+6/18/2015 3:06:45 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:06:54 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:02 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:10 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:27 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:35 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:43 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:07:51 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:00 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:05 PM : Going Back to Home screen.
+6/18/2015 3:08:05 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:10 PM : df328a85_currentScreen-2015-06-18_03-08-05-PM.png
+6/18/2015 3:08:11 PM : Clicking by template DialerIconStart.png
+6/18/2015 3:08:11 PM : Verfiying template DialerIconStart.png
+6/18/2015 3:08:12 PM : Accuracy is D=0.999764204025269
+6/18/2015 3:08:12 PM : Template DialerIconStart.png is Verified. 
+6/18/2015 3:08:12 PM : Touching on  X=47, Y=860
+6/18/2015 3:08:12 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:18 PM : df328a85_currentScreen-2015-06-18_03-08-12-PM.png
+6/18/2015 3:08:18 PM : typing #932#
+6/18/2015 3:08:19 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:26 PM : df328a85_currentScreen-2015-06-18_03-08-19-PM.png
+6/18/2015 3:08:26 PM : Clicking by template DialerIconCall.png
+6/18/2015 3:08:27 PM : Verfiying template DialerIconCall.png
+6/18/2015 3:08:27 PM : Accuracy is D=1
+6/18/2015 3:08:27 PM : Template DialerIconCall.png is Verified. 
+6/18/2015 3:08:27 PM : Touching on  X=268, Y=910
+6/18/2015 3:08:27 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:33 PM : df328a85_currentScreen-2015-06-18_03-08-27-PM.png
+6/18/2015 3:08:34 PM : Wait 10 seconds to get the datausage message
+6/18/2015 3:08:44 PM : Taking screen shot...
+6/18/2015 3:08:44 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:50 PM : df328a85_currentScreen-2015-06-18_03-08-44-PM.png
+6/18/2015 3:08:53 PM : Clicking by template WEB_OK.png
+6/18/2015 3:08:53 PM : Verfiying template WEB_OK.png
+6/18/2015 3:08:53 PM : Accuracy is D=0.999911069869995
+6/18/2015 3:08:53 PM : Template WEB_OK.png is Verified. 
+6/18/2015 3:08:53 PM : Touching on  X=270, Y=590
+6/18/2015 3:08:53 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:08:59 PM : df328a85_currentScreen-2015-06-18_03-08-53-PM.png
+6/18/2015 3:09:00 PM : Start TCPDump
+6/18/2015 3:09:01 PM : Clicking by template DialerIconStart.png
+6/18/2015 3:09:01 PM : Verfiying template DialerIconStart.png
+6/18/2015 3:09:01 PM : Accuracy is D=0.701930820941925
+6/18/2015 3:09:01 PM : Template DialerIconStart.png is not Verified!
+6/18/2015 3:09:01 PM : typing *#9900#
+6/18/2015 3:09:01 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:08 PM : df328a85_currentScreen-2015-06-18_03-09-01-PM.png
+6/18/2015 3:09:09 PM : Taking screen shot...
+6/18/2015 3:09:09 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:15 PM : df328a85_currentScreen-2015-06-18_03-09-09-PM.png
+6/18/2015 3:09:15 PM : Scrolling two page down..
+6/18/2015 3:09:16 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:22 PM : df328a85_currentScreen-2015-06-18_03-09-16-PM.png
+6/18/2015 3:09:23 PM : Taking screen shot...
+6/18/2015 3:09:23 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:28 PM : df328a85_currentScreen-2015-06-18_03-09-23-PM.png
+6/18/2015 3:09:29 PM : Clicking by template TCPDUMPSTART.png
+6/18/2015 3:09:30 PM : Verfiying template TCPDUMPSTART.png
+6/18/2015 3:09:30 PM : Accuracy is D=0.999942898750305
+6/18/2015 3:09:30 PM : Template TCPDUMPSTART.png is Verified. 
+6/18/2015 3:09:30 PM : Touching on  X=269, Y=334
+6/18/2015 3:09:30 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:36 PM : df328a85_currentScreen-2015-06-18_03-09-30-PM.png
+6/18/2015 3:09:37 PM : Clicking by template TCPDUMPSTART_ANY.png
+6/18/2015 3:09:37 PM : Verfiying template TCPDUMPSTART_ANY.png
+6/18/2015 3:09:37 PM : Accuracy is D=1
+6/18/2015 3:09:37 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+6/18/2015 3:09:37 PM : Touching on  X=267, Y=83
+6/18/2015 3:09:37 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:44 PM : df328a85_currentScreen-2015-06-18_03-09-37-PM.png
+6/18/2015 3:09:44 PM : Clicking by template TCPDUMPSTART_OK.png
+6/18/2015 3:09:45 PM : Verfiying template TCPDUMPSTART_OK.png
+6/18/2015 3:09:45 PM : Accuracy is D=1
+6/18/2015 3:09:45 PM : Template TCPDUMPSTART_OK.png is Verified. 
+6/18/2015 3:09:45 PM : Touching on  X=393, Y=912
+6/18/2015 3:09:45 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:51 PM : df328a85_currentScreen-2015-06-18_03-09-45-PM.png
+6/18/2015 3:09:52 PM : Going Back to Home screen.
+6/18/2015 3:09:52 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:09:58 PM : df328a85_currentScreen-2015-06-18_03-09-52-PM.png
+6/18/2015 3:09:59 PM : Going Back to Home screen.
+6/18/2015 3:09:59 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:05 PM : df328a85_currentScreen-2015-06-18_03-09-59-PM.png
+6/18/2015 3:10:05 PM : Play band Ambient
+6/18/2015 3:10:06 PM : Start Pandora
+6/18/2015 3:10:06 PM : Clicking by template PandoraStartIcon.png
+6/18/2015 3:10:06 PM : Verfiying template PandoraStartIcon.png
+6/18/2015 3:10:06 PM : Accuracy is D=0.999990165233612
+6/18/2015 3:10:06 PM : Template PandoraStartIcon.png is Verified. 
+6/18/2015 3:10:06 PM : Touching on  X=69, Y=97
+6/18/2015 3:10:06 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:12 PM : df328a85_currentScreen-2015-06-18_03-10-06-PM.png
+6/18/2015 3:10:13 PM : Taking screen shot...
+6/18/2015 3:10:13 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:19 PM : df328a85_currentScreen-2015-06-18_03-10-13-PM.png
+6/18/2015 3:10:19 PM : Clicking by template PandroaRadioPause.png
+6/18/2015 3:10:20 PM : Verfiying template PandroaRadioPause.png
+6/18/2015 3:10:20 PM : Accuracy is D=0.443522810935974
+6/18/2015 3:10:20 PM : Template PandroaRadioPause.png is not Verified!
+6/18/2015 3:10:20 PM : Clicking by template PandoraBackToList.png
+6/18/2015 3:10:20 PM : Verfiying template PandoraBackToList.png
+6/18/2015 3:10:20 PM : Accuracy is D=0.999733924865723
+6/18/2015 3:10:20 PM : Template PandoraBackToList.png is Verified. 
+6/18/2015 3:10:20 PM : Touching on  X=34, Y=74
+6/18/2015 3:10:20 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:27 PM : df328a85_currentScreen-2015-06-18_03-10-20-PM.png
+6/18/2015 3:10:27 PM : Taking screen shot...
+6/18/2015 3:10:28 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:33 PM : df328a85_currentScreen-2015-06-18_03-10-28-PM.png
+6/18/2015 3:10:36 PM : Going Back to Home screen.
+6/18/2015 3:10:36 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:41 PM : df328a85_currentScreen-2015-06-18_03-10-36-PM.png
+6/18/2015 3:10:42 PM : Play band Cranberries
+6/18/2015 3:10:43 PM : Start Pandora
+6/18/2015 3:10:43 PM : Clicking by template PandoraStartIcon.png
+6/18/2015 3:10:43 PM : Verfiying template PandoraStartIcon.png
+6/18/2015 3:10:43 PM : Accuracy is D=0.477398723363876
+6/18/2015 3:10:43 PM : Template PandoraStartIcon.png is not Verified!
+6/18/2015 3:10:43 PM : Taking screen shot...
+6/18/2015 3:10:43 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:48 PM : df328a85_currentScreen-2015-06-18_03-10-43-PM.png
+6/18/2015 3:10:49 PM : Clicking by template PandroaRadioPause.png
+6/18/2015 3:10:49 PM : Verfiying template PandroaRadioPause.png
+6/18/2015 3:10:49 PM : Accuracy is D=0.443522810935974
+6/18/2015 3:10:49 PM : Template PandroaRadioPause.png is not Verified!
+6/18/2015 3:10:49 PM : Clicking by template PandoraBackToList.png
+6/18/2015 3:10:49 PM : Verfiying template PandoraBackToList.png
+6/18/2015 3:10:49 PM : Accuracy is D=0.999733924865723
+6/18/2015 3:10:49 PM : Template PandoraBackToList.png is Verified. 
+6/18/2015 3:10:50 PM : Touching on  X=34, Y=74
+6/18/2015 3:10:50 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:10:56 PM : df328a85_currentScreen-2015-06-18_03-10-50-PM.png
+6/18/2015 3:10:57 PM : Taking screen shot...
+6/18/2015 3:10:57 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:11:03 PM : df328a85_currentScreen-2015-06-18_03-10-57-PM.png
+6/18/2015 3:11:03 PM : verifying template Cranberries  Cranberries.png
+6/18/2015 3:11:04 PM : Object reference not set to an instance of an object.
+6/18/2015 3:11:04 PM : Verfiying template Cranberries.png
+6/18/2015 3:11:04 PM : Accuracy is D=0.600879073143005
+6/18/2015 3:11:04 PM : Template Cranberries.png is not Verified!
+6/18/2015 3:11:04 PM : Test ended  after 00:01:05
+6/18/2015 3:11:04 PM : Going Back to Home screen.
+6/18/2015 3:11:04 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:11:09 PM : df328a85_currentScreen-2015-06-18_03-11-04-PM.png
+6/18/2015 3:11:10 PM : Going Back to Home screen.
+6/18/2015 3:11:10 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:11:16 PM : df328a85_currentScreen-2015-06-18_03-11-10-PM.png
+6/18/2015 3:11:16 PM : Clicking by template DialerIconStart.png
+6/18/2015 3:11:17 PM : Verfiying template DialerIconStart.png
+6/18/2015 3:11:17 PM : Accuracy is D=0.510784149169922
+6/18/2015 3:11:17 PM : Template DialerIconStart.png is not Verified!
+6/18/2015 3:11:17 PM : typing #932#
+6/18/2015 3:11:17 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:11:24 PM : df328a85_currentScreen-2015-06-18_03-11-17-PM.png
+6/18/2015 3:11:25 PM : Clicking by template DialerIconCall.png
+6/18/2015 3:11:25 PM : Verfiying template DialerIconCall.png
+6/18/2015 3:11:25 PM : Accuracy is D=0.346870452165604
+6/18/2015 3:11:25 PM : Template DialerIconCall.png is not Verified!
+6/18/2015 3:11:25 PM : Wait 10 seconds to get the datausage message
+6/18/2015 3:11:35 PM : Taking screen shot...
+6/18/2015 3:11:35 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:11:41 PM : df328a85_currentScreen-2015-06-18_03-11-35-PM.png
+6/18/2015 3:12:00 PM : ProgressValue of '200' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+6/18/2015 3:12:00 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 3:12:01 PM : ************************End TestCase 0.1************************
+6/18/2015 4:13:53 PM : ******************Start TestCase 0.1******************
+6/18/2015 4:13:54 PM : Delete Logs and restart device
+6/18/2015 4:13:54 PM : Delete sdcard/log file  -s df328a85 shell rm -r /sdcard/log
+6/18/2015 4:13:54 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:04 PM : Going Back to Home screen.
+6/18/2015 4:14:04 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:10 PM : df328a85_currentScreen-2015-06-18_04-14-04-PM.png
+6/18/2015 4:14:11 PM : Going Back to Home screen.
+6/18/2015 4:14:11 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:17 PM : df328a85_currentScreen-2015-06-18_04-14-11-PM.png
+6/18/2015 4:14:18 PM : Clicking by template DialerIconStart.png
+6/18/2015 4:14:18 PM : Verfiying template DialerIconStart.png
+6/18/2015 4:14:18 PM : Accuracy is D=0.999764204025269
+6/18/2015 4:14:18 PM : Template DialerIconStart.png is Verified. 
+6/18/2015 4:14:18 PM : Touching on  X=47, Y=860
+6/18/2015 4:14:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:25 PM : df328a85_currentScreen-2015-06-18_04-14-18-PM.png
+6/18/2015 4:14:26 PM : typing #932#
+6/18/2015 4:14:26 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:33 PM : df328a85_currentScreen-2015-06-18_04-14-26-PM.png
+6/18/2015 4:14:34 PM : Clicking by template DialerIconCall.png
+6/18/2015 4:14:34 PM : Verfiying template DialerIconCall.png
+6/18/2015 4:14:34 PM : Accuracy is D=1
+6/18/2015 4:14:34 PM : Template DialerIconCall.png is Verified. 
+6/18/2015 4:14:34 PM : Touching on  X=268, Y=910
+6/18/2015 4:14:34 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:41 PM : df328a85_currentScreen-2015-06-18_04-14-34-PM.png
+6/18/2015 4:14:42 PM : Wait 10 seconds to get the datausage message
+6/18/2015 4:14:52 PM : Taking screen shot...
+6/18/2015 4:14:52 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:14:58 PM : df328a85_currentScreen-2015-06-18_04-14-52-PM.png
+6/18/2015 4:15:02 PM : Clicking by template WEB_OK.png
+6/18/2015 4:15:02 PM : Verfiying template WEB_OK.png
+6/18/2015 4:15:02 PM : Accuracy is D=0.999911069869995
+6/18/2015 4:15:02 PM : Template WEB_OK.png is Verified. 
+6/18/2015 4:15:02 PM : Touching on  X=270, Y=590
+6/18/2015 4:15:02 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:10 PM : df328a85_currentScreen-2015-06-18_04-15-02-PM.png
+6/18/2015 4:15:10 PM : Start TCPDump
+6/18/2015 4:15:10 PM : Clicking by template DialerIconStart.png
+6/18/2015 4:15:10 PM : Verfiying template DialerIconStart.png
+6/18/2015 4:15:10 PM : Accuracy is D=0.701930820941925
+6/18/2015 4:15:10 PM : Template DialerIconStart.png is not Verified!
+6/18/2015 4:15:10 PM : typing *#9900#
+6/18/2015 4:15:10 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:19 PM : df328a85_currentScreen-2015-06-18_04-15-10-PM.png
+6/18/2015 4:15:19 PM : Taking screen shot...
+6/18/2015 4:15:19 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:25 PM : df328a85_currentScreen-2015-06-18_04-15-19-PM.png
+6/18/2015 4:15:26 PM : Scrolling two page down..
+6/18/2015 4:15:26 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:33 PM : df328a85_currentScreen-2015-06-18_04-15-26-PM.png
+6/18/2015 4:15:34 PM : Taking screen shot...
+6/18/2015 4:15:34 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:40 PM : df328a85_currentScreen-2015-06-18_04-15-34-PM.png
+6/18/2015 4:15:41 PM : Clicking by template TCPDUMPSTART.png
+6/18/2015 4:15:41 PM : Verfiying template TCPDUMPSTART.png
+6/18/2015 4:15:41 PM : Accuracy is D=0.843680679798126
+6/18/2015 4:15:41 PM : Template TCPDUMPSTART.png is not Verified!
+6/18/2015 4:15:41 PM : Clicking by template TCPDUMPSTART_ANY.png
+6/18/2015 4:15:41 PM : Verfiying template TCPDUMPSTART_ANY.png
+6/18/2015 4:15:41 PM : Accuracy is D=0.233017906546593
+6/18/2015 4:15:41 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+6/18/2015 4:15:41 PM : Clicking by template TCPDUMPSTART_OK.png
+6/18/2015 4:15:41 PM : Verfiying template TCPDUMPSTART_OK.png
+6/18/2015 4:15:41 PM : Accuracy is D=0.440428048372269
+6/18/2015 4:15:41 PM : Template TCPDUMPSTART_OK.png is not Verified!
+6/18/2015 4:15:41 PM : Going Back to Home screen.
+6/18/2015 4:15:41 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:48 PM : df328a85_currentScreen-2015-06-18_04-15-41-PM.png
+6/18/2015 4:15:48 PM : Going Back to Home screen.
+6/18/2015 4:15:48 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:15:54 PM : df328a85_currentScreen-2015-06-18_04-15-48-PM.png
+6/18/2015 4:15:55 PM : Play band Ambient
+6/18/2015 4:15:55 PM : Start Pandora
+6/18/2015 4:15:55 PM : Clicking by template PandoraStartIcon.png
+6/18/2015 4:15:55 PM : Verfiying template PandoraStartIcon.png
+6/18/2015 4:15:55 PM : Accuracy is D=0.99998927116394
+6/18/2015 4:15:55 PM : Template PandoraStartIcon.png is Verified. 
+6/18/2015 4:15:55 PM : Touching on  X=69, Y=97
+6/18/2015 4:15:55 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:03 PM : df328a85_currentScreen-2015-06-18_04-15-55-PM.png
+6/18/2015 4:16:03 PM : Taking screen shot...
+6/18/2015 4:16:03 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:11 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-03-PM.png
+6/18/2015 4:16:11 PM : Taking screen shot...
+6/18/2015 4:16:11 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:18 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-11-PM.png
+6/18/2015 4:16:18 PM : Taking screen shot...
+6/18/2015 4:16:18 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:26 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-18-PM.png
+6/18/2015 4:16:26 PM : Taking screen shot...
+6/18/2015 4:16:26 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:33 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-26-PM.png
+6/18/2015 4:16:33 PM : Taking screen shot...
+6/18/2015 4:16:33 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:41 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-33-PM.png
+6/18/2015 4:16:41 PM : Taking screen shot...
+6/18/2015 4:16:41 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:48 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-41-PM.png
+6/18/2015 4:16:48 PM : Taking screen shot...
+6/18/2015 4:16:48 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:16:56 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-48-PM.png
+6/18/2015 4:16:56 PM : Taking screen shot...
+6/18/2015 4:16:56 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:17:03 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-16-56-PM.png
+6/18/2015 4:17:03 PM : Taking screen shot...
+6/18/2015 4:17:03 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:17:10 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-17-03-PM.png
+6/18/2015 4:17:10 PM : Taking screen shot...
+6/18/2015 4:17:10 PM : System.Diagnostics.ProcessStartInfo
+6/18/2015 4:17:18 PM : Problem taking screen shot for deviceID df328a85 so  take it again, the name is Report\6-18-df328a85\ScreenShots\df328a85_currentScreen-2015-06-18_04-17-10-PM.png
+6/18/2015 4:17:18 PM : Taking screen shot...
+6/18/2015 4:17:18 PM : System.Diagnostics.ProcessStartInfo

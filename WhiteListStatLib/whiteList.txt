@@ -1,0 +1,3421 @@
+﻿    ruledef audio-adc-protocols_01
+      p2p protocol = spotify
+      p2p protocol = pandora
+      p2p protocol = google-music
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_01
+      ip server-ip-address = 2607:7700:0:1::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:10::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:11::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:12::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:13::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:14::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:15::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:2::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:3::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:4::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:5::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:6::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:7::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:8::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:9::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:a::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:b::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:c::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:d::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:e::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:f::4e1f:800/117
+      ip server-ip-address = 2607:7700:0:1::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:a::7512:e897/128
+      ip server-ip-address = 2607:7700:0:b::7512:e897/128
+      ip server-ip-address = 2607:7700:0:c::7512:e897/128
+      ip server-ip-address = 2607:7700:0:d::7512:e897/128
+      ip server-ip-address = 2607:7700:0:e::7512:e897/128
+      ip server-ip-address = 2607:7700:0:f::7512:e897/128
+      ip server-ip-address = 2607:7700:0:6::7512:e897/128
+      ip server-ip-address = 2607:7700:0:7::7512:e897/128
+      ip server-ip-address = 2607:7700:0:8::7512:e897/128
+      ip server-ip-address = 2607:7700:0:9::7512:e897/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_02
+      ip server-ip-address = 2607:7700:0:10::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:11::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:12::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:13::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:14::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:15::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:2::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:3::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:4::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:5::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:6::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:7::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:8::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:9::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:a::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:b::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:c::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:d::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:e::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:f::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:1::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:10::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:11::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:12::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:13::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:14::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:15::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:2::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:3::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:4::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:5::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:6::c0a5:a000/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_03
+      ip server-ip-address = 2607:7700:0:7::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:8::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:9::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:a::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:b::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:c::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:d::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:e::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:f::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:1::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:10::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:11::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:12::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:13::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:14::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:15::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:2::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:3::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:4::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:5::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:6::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:7::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:8::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:9::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:a::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:b::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:c::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:d::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:e::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:f::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:1::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:10::c1b5:b400/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_04
+      ip server-ip-address = 2607:7700:0:11::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:12::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:13::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:14::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:15::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:2::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:3::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:4::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:5::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:6::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:7::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:8::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:9::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:a::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:b::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:c::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:d::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:e::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:f::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:1::c247:e800/118
+      ip server-ip-address = 2607:7700:0:10::c247:e800/118
+      ip server-ip-address = 2607:7700:0:11::c247:e800/118
+      ip server-ip-address = 2607:7700:0:12::c247:e800/118
+      ip server-ip-address = 2607:7700:0:13::c247:e800/118
+      ip server-ip-address = 2607:7700:0:14::c247:e800/118
+      ip server-ip-address = 2607:7700:0:15::c247:e800/118
+      ip server-ip-address = 2607:7700:0:2::c247:e800/118
+      ip server-ip-address = 2607:7700:0:3::c247:e800/118
+      ip server-ip-address = 2607:7700:0:4::c247:e800/118
+      ip server-ip-address = 2607:7700:0:5::c247:e800/118
+      ip server-ip-address = 2607:7700:0:6::c247:e800/118
+      ip server-ip-address = 2607:7700:0:7::c247:e800/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_05
+      ip server-ip-address = 2607:7700:0:8::c247:e800/118
+      ip server-ip-address = 2607:7700:0:9::c247:e800/118
+      ip server-ip-address = 2607:7700:0:a::c247:e800/118
+      ip server-ip-address = 2607:7700:0:b::c247:e800/118
+      ip server-ip-address = 2607:7700:0:c::c247:e800/118
+      ip server-ip-address = 2607:7700:0:d::c247:e800/118
+      ip server-ip-address = 2607:7700:0:e::c247:e800/118
+      ip server-ip-address = 2607:7700:0:f::c247:e800/118
+      ip server-ip-address = 2607:7700:0:1::c244:b000/118
+      ip server-ip-address = 2607:7700:0:10::c244:b000/118
+      ip server-ip-address = 2607:7700:0:11::c244:b000/118
+      ip server-ip-address = 2607:7700:0:12::c244:b000/118
+      ip server-ip-address = 2607:7700:0:13::c244:b000/118
+      ip server-ip-address = 2607:7700:0:14::c244:b000/118
+      ip server-ip-address = 2607:7700:0:15::c244:b000/118
+      ip server-ip-address = 2607:7700:0:2::c244:b000/118
+      ip server-ip-address = 2607:7700:0:3::c244:b000/118
+      ip server-ip-address = 2607:7700:0:4::c244:b000/118
+      ip server-ip-address = 2607:7700:0:5::c244:b000/118
+      ip server-ip-address = 2607:7700:0:6::c244:b000/118
+      ip server-ip-address = 2607:7700:0:7::c244:b000/118
+      ip server-ip-address = 2607:7700:0:8::c244:b000/118
+      ip server-ip-address = 2607:7700:0:9::c244:b000/118
+      ip server-ip-address = 2607:7700:0:a::c244:b000/118
+      ip server-ip-address = 2607:7700:0:b::c244:b000/118
+      ip server-ip-address = 2607:7700:0:c::c244:b000/118
+      ip server-ip-address = 2607:7700:0:d::c244:b000/118
+      ip server-ip-address = 2607:7700:0:e::c244:b000/118
+      ip server-ip-address = 2607:7700:0:f::c244:b000/118
+      ip server-ip-address = 2607:7700:0:1::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:10::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:11::c244:1c00/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_06
+      ip server-ip-address = 2607:7700:0:12::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:13::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:14::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:15::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:2::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:3::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:4::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:5::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:6::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:7::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:8::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:9::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:a::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:b::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:c::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:d::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:e::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:f::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:1::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:10::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:11::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:12::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:13::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:14::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:15::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:2::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:3::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:4::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:5::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:6::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:7::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:8::c1ea:f000/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_07
+      ip server-ip-address = 2607:7700:0:9::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:a::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:b::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:c::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:d::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:e::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:f::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:1::c247:9400/118
+      ip server-ip-address = 2607:7700:0:10::c247:9400/118
+      ip server-ip-address = 2607:7700:0:11::c247:9400/118
+      ip server-ip-address = 2607:7700:0:12::c247:9400/118
+      ip server-ip-address = 2607:7700:0:13::c247:9400/118
+      ip server-ip-address = 2607:7700:0:14::c247:9400/118
+      ip server-ip-address = 2607:7700:0:15::c247:9400/118
+      ip server-ip-address = 2607:7700:0:2::c247:9400/118
+      ip server-ip-address = 2607:7700:0:3::c247:9400/118
+      ip server-ip-address = 2607:7700:0:4::c247:9400/118
+      ip server-ip-address = 2607:7700:0:5::c247:9400/118
+      ip server-ip-address = 2607:7700:0:6::c247:9400/118
+      ip server-ip-address = 2607:7700:0:7::c247:9400/118
+      ip server-ip-address = 2607:7700:0:8::c247:9400/118
+      ip server-ip-address = 2607:7700:0:9::c247:9400/118
+      ip server-ip-address = 2607:7700:0:a::c247:9400/118
+      ip server-ip-address = 2607:7700:0:b::c247:9400/118
+      ip server-ip-address = 2607:7700:0:c::c247:9400/118
+      ip server-ip-address = 2607:7700:0:d::c247:9400/118
+      ip server-ip-address = 2607:7700:0:e::c247:9400/118
+      ip server-ip-address = 2607:7700:0:f::c247:9400/118
+      ip server-ip-address = 2607:7700:0:1::c267:2400/118
+      ip server-ip-address = 2607:7700:0:10::c267:2400/118
+      ip server-ip-address = 2607:7700:0:11::c267:2400/118
+      ip server-ip-address = 2607:7700:0:12::c267:2400/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_08
+      ip server-ip-address = 2607:7700:0:13::c267:2400/118
+      ip server-ip-address = 2607:7700:0:14::c267:2400/118
+      ip server-ip-address = 2607:7700:0:15::c267:2400/118
+      ip server-ip-address = 2607:7700:0:2::c267:2400/118
+      ip server-ip-address = 2607:7700:0:3::c267:2400/118
+      ip server-ip-address = 2607:7700:0:4::c267:2400/118
+      ip server-ip-address = 2607:7700:0:5::c267:2400/118
+      ip server-ip-address = 2607:7700:0:6::c267:2400/118
+      ip server-ip-address = 2607:7700:0:7::c267:2400/118
+      ip server-ip-address = 2607:7700:0:8::c267:2400/118
+      ip server-ip-address = 2607:7700:0:9::c267:2400/118
+      ip server-ip-address = 2607:7700:0:a::c267:2400/118
+      ip server-ip-address = 2607:7700:0:b::c267:2400/118
+      ip server-ip-address = 2607:7700:0:c::c267:2400/118
+      ip server-ip-address = 2607:7700:0:d::c267:2400/118
+      ip server-ip-address = 2607:7700:0:e::c267:2400/118
+      ip server-ip-address = 2607:7700:0:f::c267:2400/118
+      ip server-ip-address = 2607:7700:0:1::c284:9800/118
+      ip server-ip-address = 2607:7700:0:10::c284:9800/118
+      ip server-ip-address = 2607:7700:0:11::c284:9800/118
+      ip server-ip-address = 2607:7700:0:12::c284:9800/118
+      ip server-ip-address = 2607:7700:0:13::c284:9800/118
+      ip server-ip-address = 2607:7700:0:14::c284:9800/118
+      ip server-ip-address = 2607:7700:0:15::c284:9800/118
+      ip server-ip-address = 2607:7700:0:2::c284:9800/118
+      ip server-ip-address = 2607:7700:0:3::c284:9800/118
+      ip server-ip-address = 2607:7700:0:4::c284:9800/118
+      ip server-ip-address = 2607:7700:0:5::c284:9800/118
+      ip server-ip-address = 2607:7700:0:6::c284:9800/118
+      ip server-ip-address = 2607:7700:0:7::c284:9800/118
+      ip server-ip-address = 2607:7700:0:8::c284:9800/118
+      ip server-ip-address = 2607:7700:0:9::c284:9800/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_09
+      ip server-ip-address = 2607:7700:0:a::c284:9800/118
+      ip server-ip-address = 2607:7700:0:b::c284:9800/118
+      ip server-ip-address = 2607:7700:0:c::c284:9800/118
+      ip server-ip-address = 2607:7700:0:d::c284:9800/118
+      ip server-ip-address = 2607:7700:0:e::c284:9800/118
+      ip server-ip-address = 2607:7700:0:f::c284:9800/118
+      ip server-ip-address = 2607:7700:0:1::c284:b000/118
+      ip server-ip-address = 2607:7700:0:10::c284:b000/118
+      ip server-ip-address = 2607:7700:0:11::c284:b000/118
+      ip server-ip-address = 2607:7700:0:12::c284:b000/118
+      ip server-ip-address = 2607:7700:0:13::c284:b000/118
+      ip server-ip-address = 2607:7700:0:14::c284:b000/118
+      ip server-ip-address = 2607:7700:0:15::c284:b000/118
+      ip server-ip-address = 2607:7700:0:2::c284:b000/118
+      ip server-ip-address = 2607:7700:0:3::c284:b000/118
+      ip server-ip-address = 2607:7700:0:4::c284:b000/118
+      ip server-ip-address = 2607:7700:0:5::c284:b000/118
+      ip server-ip-address = 2607:7700:0:6::c284:b000/118
+      ip server-ip-address = 2607:7700:0:7::c284:b000/118
+      ip server-ip-address = 2607:7700:0:8::c284:b000/118
+      ip server-ip-address = 2607:7700:0:9::c284:b000/118
+      ip server-ip-address = 2607:7700:0:a::c284:b000/118
+      ip server-ip-address = 2607:7700:0:b::c284:b000/118
+      ip server-ip-address = 2607:7700:0:c::c284:b000/118
+      ip server-ip-address = 2607:7700:0:d::c284:b000/118
+      ip server-ip-address = 2607:7700:0:e::c284:b000/118
+      ip server-ip-address = 2607:7700:0:f::c284:b000/118
+      ip server-ip-address = 2607:7700:0:1::c284:c400/118
+      ip server-ip-address = 2607:7700:0:10::c284:c400/118
+      ip server-ip-address = 2607:7700:0:11::c284:c400/118
+      ip server-ip-address = 2607:7700:0:12::c284:c400/118
+      ip server-ip-address = 2607:7700:0:13::c284:c400/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_10
+      ip server-ip-address = 2607:7700:0:14::c284:c400/118
+      ip server-ip-address = 2607:7700:0:15::c284:c400/118
+      ip server-ip-address = 2607:7700:0:2::c284:c400/118
+      ip server-ip-address = 2607:7700:0:3::c284:c400/118
+      ip server-ip-address = 2607:7700:0:4::c284:c400/118
+      ip server-ip-address = 2607:7700:0:5::c284:c400/118
+      ip server-ip-address = 2607:7700:0:6::c284:c400/118
+      ip server-ip-address = 2607:7700:0:7::c284:c400/118
+      ip server-ip-address = 2607:7700:0:8::c284:c400/118
+      ip server-ip-address = 2607:7700:0:9::c284:c400/118
+      ip server-ip-address = 2607:7700:0:a::c284:c400/118
+      ip server-ip-address = 2607:7700:0:b::c284:c400/118
+      ip server-ip-address = 2607:7700:0:c::c284:c400/118
+      ip server-ip-address = 2607:7700:0:d::c284:c400/118
+      ip server-ip-address = 2607:7700:0:e::c284:c400/118
+      ip server-ip-address = 2607:7700:0:f::c284:c400/118
+      ip server-ip-address = 2607:7700:0:1::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:10::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:11::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:12::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:13::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:14::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:15::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:2::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:3::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:4::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:5::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:6::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:7::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:8::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:9::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:a::c1b5:b800/119
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_11
+      ip server-ip-address = 2607:7700:0:b::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:c::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:d::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:e::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:f::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:1::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:1::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:10::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:11::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:12::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:13::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:14::c1b6:700/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_12
+      ip server-ip-address = 2607:7700:0:15::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:2::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:3::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:4::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:5::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:6::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:7::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:8::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:9::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:a::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:b::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:c::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:d::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:e::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:f::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:1::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:10::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:11::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:12::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:13::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:14::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:15::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:2::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:3::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:4::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:5::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:6::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:7::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:8::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:9::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:a::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:b::c1b6:300/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_13
+      ip server-ip-address = 2607:7700:0:c::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:d::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:e::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:f::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:1::c079:3500/120
+      ip server-ip-address = 2607:7700:0:10::c079:3500/120
+      ip server-ip-address = 2607:7700:0:11::c079:3500/120
+      ip server-ip-address = 2607:7700:0:12::c079:3500/120
+      ip server-ip-address = 2607:7700:0:13::c079:3500/120
+      ip server-ip-address = 2607:7700:0:14::c079:3500/120
+      ip server-ip-address = 2607:7700:0:15::c079:3500/120
+      ip server-ip-address = 2607:7700:0:2::c079:3500/120
+      ip server-ip-address = 2607:7700:0:3::c079:3500/120
+      ip server-ip-address = 2607:7700:0:4::c079:3500/120
+      ip server-ip-address = 2607:7700:0:5::c079:3500/120
+      ip server-ip-address = 2607:7700:0:6::c079:3500/120
+      ip server-ip-address = 2607:7700:0:7::c079:3500/120
+      ip server-ip-address = 2607:7700:0:8::c079:3500/120
+      ip server-ip-address = 2607:7700:0:9::c079:3500/120
+      ip server-ip-address = 2607:7700:0:a::c079:3500/120
+      ip server-ip-address = 2607:7700:0:b::c079:3500/120
+      ip server-ip-address = 2607:7700:0:c::c079:3500/120
+      ip server-ip-address = 2607:7700:0:d::c079:3500/120
+      ip server-ip-address = 2607:7700:0:e::c079:3500/120
+      ip server-ip-address = 2607:7700:0:f::c079:3500/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:2000/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_14
+      ip server-ip-address = 2607:7700:0:2::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:3300/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_15
+      ip server-ip-address = 2607:7700:0:d::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:1::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:10::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:11::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:12::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:13::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:14::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:15::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:2::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:3::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:4::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:5::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:6::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:7::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:8::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:9::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:a::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:b::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:c::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:d::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:e::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:f::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:1::c244:7400/120
+      ip server-ip-address = 2607:7700:0:10::c244:7400/120
+      ip server-ip-address = 2607:7700:0:11::c244:7400/120
+      ip server-ip-address = 2607:7700:0:12::c244:7400/120
+      ip server-ip-address = 2607:7700:0:13::c244:7400/120
+      ip server-ip-address = 2607:7700:0:14::c244:7400/120
+      ip server-ip-address = 2607:7700:0:15::c244:7400/120
+      ip server-ip-address = 2607:7700:0:2::c244:7400/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_16
+      ip server-ip-address = 2607:7700:0:3::c244:7400/120
+      ip server-ip-address = 2607:7700:0:4::c244:7400/120
+      ip server-ip-address = 2607:7700:0:5::c244:7400/120
+      ip server-ip-address = 2607:7700:0:6::c244:7400/120
+      ip server-ip-address = 2607:7700:0:7::c244:7400/120
+      ip server-ip-address = 2607:7700:0:8::c244:7400/120
+      ip server-ip-address = 2607:7700:0:9::c244:7400/120
+      ip server-ip-address = 2607:7700:0:a::c244:7400/120
+      ip server-ip-address = 2607:7700:0:b::c244:7400/120
+      ip server-ip-address = 2607:7700:0:c::c244:7400/120
+      ip server-ip-address = 2607:7700:0:d::c244:7400/120
+      ip server-ip-address = 2607:7700:0:e::c244:7400/120
+      ip server-ip-address = 2607:7700:0:f::c244:7400/120
+      ip server-ip-address = 2607:7700:0:1::c244:a900/120
+      ip server-ip-address = 2607:7700:0:10::c244:a900/120
+      ip server-ip-address = 2607:7700:0:11::c244:a900/120
+      ip server-ip-address = 2607:7700:0:12::c244:a900/120
+      ip server-ip-address = 2607:7700:0:13::c244:a900/120
+      ip server-ip-address = 2607:7700:0:14::c244:a900/120
+      ip server-ip-address = 2607:7700:0:15::c244:a900/120
+      ip server-ip-address = 2607:7700:0:2::c244:a900/120
+      ip server-ip-address = 2607:7700:0:3::c244:a900/120
+      ip server-ip-address = 2607:7700:0:4::c244:a900/120
+      ip server-ip-address = 2607:7700:0:5::c244:a900/120
+      ip server-ip-address = 2607:7700:0:6::c244:a900/120
+      ip server-ip-address = 2607:7700:0:7::c244:a900/120
+      ip server-ip-address = 2607:7700:0:8::c244:a900/120
+      ip server-ip-address = 2607:7700:0:9::c244:a900/120
+      ip server-ip-address = 2607:7700:0:a::c244:a900/120
+      ip server-ip-address = 2607:7700:0:b::c244:a900/120
+      ip server-ip-address = 2607:7700:0:c::c244:a900/120
+      ip server-ip-address = 2607:7700:0:d::c244:a900/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_17
+      ip server-ip-address = 2607:7700:0:e::c244:a900/120
+      ip server-ip-address = 2607:7700:0:f::c244:a900/120
+      ip server-ip-address = 2607:7700:0:1::c244:b500/120
+      ip server-ip-address = 2607:7700:0:10::c244:b500/120
+      ip server-ip-address = 2607:7700:0:11::c244:b500/120
+      ip server-ip-address = 2607:7700:0:12::c244:b500/120
+      ip server-ip-address = 2607:7700:0:13::c244:b500/120
+      ip server-ip-address = 2607:7700:0:14::c244:b500/120
+      ip server-ip-address = 2607:7700:0:15::c244:b500/120
+      ip server-ip-address = 2607:7700:0:2::c244:b500/120
+      ip server-ip-address = 2607:7700:0:3::c244:b500/120
+      ip server-ip-address = 2607:7700:0:4::c244:b500/120
+      ip server-ip-address = 2607:7700:0:5::c244:b500/120
+      ip server-ip-address = 2607:7700:0:6::c244:b500/120
+      ip server-ip-address = 2607:7700:0:7::c244:b500/120
+      ip server-ip-address = 2607:7700:0:8::c244:b500/120
+      ip server-ip-address = 2607:7700:0:9::c244:b500/120
+      ip server-ip-address = 2607:7700:0:a::c244:b500/120
+      ip server-ip-address = 2607:7700:0:b::c244:b500/120
+      ip server-ip-address = 2607:7700:0:c::c244:b500/120
+      ip server-ip-address = 2607:7700:0:d::c244:b500/120
+      ip server-ip-address = 2607:7700:0:e::c244:b500/120
+      ip server-ip-address = 2607:7700:0:f::c244:b500/120
+      ip server-ip-address = 2607:7700:0:1::c244:b700/120
+      ip server-ip-address = 2607:7700:0:10::c244:b700/120
+      ip server-ip-address = 2607:7700:0:11::c244:b700/120
+      ip server-ip-address = 2607:7700:0:12::c244:b700/120
+      ip server-ip-address = 2607:7700:0:13::c244:b700/120
+      ip server-ip-address = 2607:7700:0:14::c244:b700/120
+      ip server-ip-address = 2607:7700:0:15::c244:b700/120
+      ip server-ip-address = 2607:7700:0:2::c244:b700/120
+      ip server-ip-address = 2607:7700:0:3::c244:b700/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_18
+      ip server-ip-address = 2607:7700:0:4::c244:b700/120
+      ip server-ip-address = 2607:7700:0:5::c244:b700/120
+      ip server-ip-address = 2607:7700:0:6::c244:b700/120
+      ip server-ip-address = 2607:7700:0:7::c244:b700/120
+      ip server-ip-address = 2607:7700:0:8::c244:b700/120
+      ip server-ip-address = 2607:7700:0:9::c244:b700/120
+      ip server-ip-address = 2607:7700:0:a::c244:b700/120
+      ip server-ip-address = 2607:7700:0:b::c244:b700/120
+      ip server-ip-address = 2607:7700:0:c::c244:b700/120
+      ip server-ip-address = 2607:7700:0:d::c244:b700/120
+      ip server-ip-address = 2607:7700:0:e::c244:b700/120
+      ip server-ip-address = 2607:7700:0:f::c244:b700/120
+      ip server-ip-address = 2607:7700:0:1::c267:a00/120
+      ip server-ip-address = 2607:7700:0:10::c267:a00/120
+      ip server-ip-address = 2607:7700:0:11::c267:a00/120
+      ip server-ip-address = 2607:7700:0:12::c267:a00/120
+      ip server-ip-address = 2607:7700:0:13::c267:a00/120
+      ip server-ip-address = 2607:7700:0:14::c267:a00/120
+      ip server-ip-address = 2607:7700:0:15::c267:a00/120
+      ip server-ip-address = 2607:7700:0:2::c267:a00/120
+      ip server-ip-address = 2607:7700:0:3::c267:a00/120
+      ip server-ip-address = 2607:7700:0:4::c267:a00/120
+      ip server-ip-address = 2607:7700:0:5::c267:a00/120
+      ip server-ip-address = 2607:7700:0:6::c267:a00/120
+      ip server-ip-address = 2607:7700:0:7::c267:a00/120
+      ip server-ip-address = 2607:7700:0:8::c267:a00/120
+      ip server-ip-address = 2607:7700:0:9::c267:a00/120
+      ip server-ip-address = 2607:7700:0:a::c267:a00/120
+      ip server-ip-address = 2607:7700:0:b::c267:a00/120
+      ip server-ip-address = 2607:7700:0:c::c267:a00/120
+      ip server-ip-address = 2607:7700:0:d::c267:a00/120
+      ip server-ip-address = 2607:7700:0:e::c267:a00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_19
+      ip server-ip-address = 2607:7700:0:f::c267:a00/120
+      ip server-ip-address = 2607:7700:0:1::c267:d00/120
+      ip server-ip-address = 2607:7700:0:10::c267:d00/120
+      ip server-ip-address = 2607:7700:0:11::c267:d00/120
+      ip server-ip-address = 2607:7700:0:12::c267:d00/120
+      ip server-ip-address = 2607:7700:0:13::c267:d00/120
+      ip server-ip-address = 2607:7700:0:14::c267:d00/120
+      ip server-ip-address = 2607:7700:0:15::c267:d00/120
+      ip server-ip-address = 2607:7700:0:2::c267:d00/120
+      ip server-ip-address = 2607:7700:0:3::c267:d00/120
+      ip server-ip-address = 2607:7700:0:4::c267:d00/120
+      ip server-ip-address = 2607:7700:0:5::c267:d00/120
+      ip server-ip-address = 2607:7700:0:6::c267:d00/120
+      ip server-ip-address = 2607:7700:0:7::c267:d00/120
+      ip server-ip-address = 2607:7700:0:8::c267:d00/120
+      ip server-ip-address = 2607:7700:0:9::c267:d00/120
+      ip server-ip-address = 2607:7700:0:a::c267:d00/120
+      ip server-ip-address = 2607:7700:0:b::c267:d00/120
+      ip server-ip-address = 2607:7700:0:c::c267:d00/120
+      ip server-ip-address = 2607:7700:0:d::c267:d00/120
+      ip server-ip-address = 2607:7700:0:e::c267:d00/120
+      ip server-ip-address = 2607:7700:0:f::c267:d00/120
+      ip server-ip-address = 2607:7700:0:1::c284:a200/120
+      ip server-ip-address = 2607:7700:0:10::c284:a200/120
+      ip server-ip-address = 2607:7700:0:11::c284:a200/120
+      ip server-ip-address = 2607:7700:0:12::c284:a200/120
+      ip server-ip-address = 2607:7700:0:13::c284:a200/120
+      ip server-ip-address = 2607:7700:0:14::c284:a200/120
+      ip server-ip-address = 2607:7700:0:15::c284:a200/120
+      ip server-ip-address = 2607:7700:0:2::c284:a200/120
+      ip server-ip-address = 2607:7700:0:3::c284:a200/120
+      ip server-ip-address = 2607:7700:0:4::c284:a200/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_20
+      ip server-ip-address = 2607:7700:0:5::c284:a200/120
+      ip server-ip-address = 2607:7700:0:6::c284:a200/120
+      ip server-ip-address = 2607:7700:0:7::c284:a200/120
+      ip server-ip-address = 2607:7700:0:8::c284:a200/120
+      ip server-ip-address = 2607:7700:0:9::c284:a200/120
+      ip server-ip-address = 2607:7700:0:a::c284:a200/120
+      ip server-ip-address = 2607:7700:0:b::c284:a200/120
+      ip server-ip-address = 2607:7700:0:c::c284:a200/120
+      ip server-ip-address = 2607:7700:0:d::c284:a200/120
+      ip server-ip-address = 2607:7700:0:e::c284:a200/120
+      ip server-ip-address = 2607:7700:0:f::c284:a200/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:e000/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_21
+      ip server-ip-address = 2607:7700:0:1::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:ce00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_22
+      ip server-ip-address = 2607:7700:0:6::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:1::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:10::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:11::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:12::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:13::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:14::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:15::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:2::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:3::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:4::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:5::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:6::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:7::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:8::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:9::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:a::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:b::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:c::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:d::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:e::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:f::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:1::c079:8400/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_23
+      ip server-ip-address = 2607:7700:0:10::c079:8400/120
+      ip server-ip-address = 2607:7700:0:11::c079:8400/120
+      ip server-ip-address = 2607:7700:0:12::c079:8400/120
+      ip server-ip-address = 2607:7700:0:13::c079:8400/120
+      ip server-ip-address = 2607:7700:0:14::c079:8400/120
+      ip server-ip-address = 2607:7700:0:15::c079:8400/120
+      ip server-ip-address = 2607:7700:0:2::c079:8400/120
+      ip server-ip-address = 2607:7700:0:3::c079:8400/120
+      ip server-ip-address = 2607:7700:0:4::c079:8400/120
+      ip server-ip-address = 2607:7700:0:5::c079:8400/120
+      ip server-ip-address = 2607:7700:0:6::c079:8400/120
+      ip server-ip-address = 2607:7700:0:7::c079:8400/120
+      ip server-ip-address = 2607:7700:0:8::c079:8400/120
+      ip server-ip-address = 2607:7700:0:9::c079:8400/120
+      ip server-ip-address = 2607:7700:0:a::c079:8400/120
+      ip server-ip-address = 2607:7700:0:b::c079:8400/120
+      ip server-ip-address = 2607:7700:0:c::c079:8400/120
+      ip server-ip-address = 2607:7700:0:d::c079:8400/120
+      ip server-ip-address = 2607:7700:0:e::c079:8400/120
+      ip server-ip-address = 2607:7700:0:f::c079:8400/120
+      ip server-ip-address = 2607:7700:0:1::504c:9603/128
+      ip server-ip-address = 2607:7700:0:10::504c:9603/128
+      ip server-ip-address = 2607:7700:0:11::504c:9603/128
+      ip server-ip-address = 2607:7700:0:12::504c:9603/128
+      ip server-ip-address = 2607:7700:0:13::504c:9603/128
+      ip server-ip-address = 2607:7700:0:14::504c:9603/128
+      ip server-ip-address = 2607:7700:0:15::504c:9603/128
+      ip server-ip-address = 2607:7700:0:2::504c:9603/128
+      ip server-ip-address = 2607:7700:0:3::504c:9603/128
+      ip server-ip-address = 2607:7700:0:4::504c:9603/128
+      ip server-ip-address = 2607:7700:0:5::504c:9603/128
+      ip server-ip-address = 2607:7700:0:6::504c:9603/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_24
+      ip server-ip-address = 2607:7700:0:7::504c:9603/128
+      ip server-ip-address = 2607:7700:0:8::504c:9603/128
+      ip server-ip-address = 2607:7700:0:9::504c:9603/128
+      ip server-ip-address = 2607:7700:0:a::504c:9603/128
+      ip server-ip-address = 2607:7700:0:b::504c:9603/128
+      ip server-ip-address = 2607:7700:0:c::504c:9603/128
+      ip server-ip-address = 2607:7700:0:d::504c:9603/128
+      ip server-ip-address = 2607:7700:0:e::504c:9603/128
+      ip server-ip-address = 2607:7700:0:f::504c:9603/128
+      ip server-ip-address = 2607:7700:0:1::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:10::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:11::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:12::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:13::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:14::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:15::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:2::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:3::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:4::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:5::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:6::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:7::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:8::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:9::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:a::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:b::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:c::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:d::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:e::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:f::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:1::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:10::3212:2f1a/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_25
+      ip server-ip-address = 2607:7700:0:11::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:12::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:13::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:14::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:15::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:2::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:3::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:4::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:5::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:6::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:7::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:8::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:9::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:a::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:b::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:c::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:d::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:e::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:f::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:1::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:10::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:11::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:12::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:13::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:14::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:15::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:2::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:3::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:4::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:5::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:6::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:7::36f4:ebc5/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_26
+      ip server-ip-address = 2607:7700:0:8::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:9::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:a::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:b::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:c::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:d::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:e::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:f::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:1::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:10::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:11::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:12::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:13::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:14::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:15::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:2::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:3::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:4::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:5::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:6::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:7::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:8::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:9::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:a::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:b::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:c::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:d::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:e::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:f::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:1::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:10::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:11::36fc:71b6/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_27
+      ip server-ip-address = 2607:7700:0:12::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:13::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:14::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:15::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:2::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:3::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:4::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:5::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:6::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:7::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:8::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:9::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:a::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:b::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:c::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:d::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:e::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:f::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:1::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:10::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:11::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:12::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:13::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:14::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:15::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:2::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:3::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:4::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:5::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:6::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:7::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:8::36e8:b314/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_28
+      ip server-ip-address = 2607:7700:0:9::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:a::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:b::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:c::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:d::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:e::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:f::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:1::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:10::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:11::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:12::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:13::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:14::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:15::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:2::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:3::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:4::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:5::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:6::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:7::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:8::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:9::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:a::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:b::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:c::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:d::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:e::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:f::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:1::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:10::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:11::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:12::44e8:2297/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_29
+      ip server-ip-address = 2607:7700:0:13::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:14::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:15::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:2::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:3::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:4::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:5::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:6::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:7::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:8::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:9::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:a::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:b::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:c::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:d::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:e::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:f::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:1::7512:e897/128
+      ip server-ip-address = 2607:7700:0:10::7512:e897/128
+      ip server-ip-address = 2607:7700:0:11::7512:e897/128
+      ip server-ip-address = 2607:7700:0:12::7512:e897/128
+      ip server-ip-address = 2607:7700:0:13::7512:e897/128
+      ip server-ip-address = 2607:7700:0:14::7512:e897/128
+      ip server-ip-address = 2607:7700:0:15::7512:e897/128
+      ip server-ip-address = 2607:7700:0:2::7512:e897/128
+      ip server-ip-address = 2607:7700:0:3::7512:e897/128
+      ip server-ip-address = 2607:7700:0:4::7512:e897/128
+      ip server-ip-address = 2607:7700:0:5::7512:e897/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_30
+      ip server-ip-address = 2607:7700:0:1::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:10::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:11::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:12::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:13::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:14::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:15::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:2::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:3::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:4::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:5::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:6::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:7::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:8::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:9::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:a::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:b::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:c::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:d::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:e::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:f::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:1::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:10::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:11::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:12::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:13::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:14::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:15::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:2::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:3::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:4::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:5::b848:e7c6/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_31
+      ip server-ip-address = 2607:7700:0:6::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:7::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:8::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:9::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:a::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:b::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:c::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:d::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:e::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:f::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:1::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:10::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:11::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:12::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:13::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:14::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:15::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:2::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:3::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:4::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:5::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:6::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:7::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:8::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:9::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:a::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:b::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:c::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:d::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:e::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:f::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:1::b848:ebf3/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_32
+      ip server-ip-address = 2607:7700:0:10::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:11::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:12::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:13::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:14::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:15::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:2::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:3::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:4::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:5::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:6::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:7::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:8::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:9::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:a::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:b::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:c::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:d::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:e::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:f::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:1::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:10::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:11::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:12::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:13::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:14::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:15::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:2::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:3::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:4::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:5::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:6::b849:9d26/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_33
+      ip server-ip-address = 2607:7700:0:7::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:8::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:9::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:a::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:b::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:c::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:d::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:e::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:f::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:1::1717:550d/128
+      ip server-ip-address = 2607:7700:0:10::1717:550d/128
+      ip server-ip-address = 2607:7700:0:11::1717:550d/128
+      ip server-ip-address = 2607:7700:0:12::1717:550d/128
+      ip server-ip-address = 2607:7700:0:13::1717:550d/128
+      ip server-ip-address = 2607:7700:0:14::1717:550d/128
+      ip server-ip-address = 2607:7700:0:15::1717:550d/128
+      ip server-ip-address = 2607:7700:0:2::1717:550d/128
+      ip server-ip-address = 2607:7700:0:3::1717:550d/128
+      ip server-ip-address = 2607:7700:0:4::1717:550d/128
+      ip server-ip-address = 2607:7700:0:5::1717:550d/128
+      ip server-ip-address = 2607:7700:0:6::1717:550d/128
+      ip server-ip-address = 2607:7700:0:7::1717:550d/128
+      ip server-ip-address = 2607:7700:0:8::1717:550d/128
+      ip server-ip-address = 2607:7700:0:9::1717:550d/128
+      ip server-ip-address = 2607:7700:0:a::1717:550d/128
+      ip server-ip-address = 2607:7700:0:b::1717:550d/128
+      ip server-ip-address = 2607:7700:0:c::1717:550d/128
+      ip server-ip-address = 2607:7700:0:d::1717:550d/128
+      ip server-ip-address = 2607:7700:0:e::1717:550d/128
+      ip server-ip-address = 2607:7700:0:f::1717:550d/128
+      ip server-ip-address = 2607:7700:0:1::812:cb00/120
+      ip server-ip-address = 2607:7700:0:10::812:cb00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_34
+      ip server-ip-address = 2607:7700:0:11::812:cb00/120
+      ip server-ip-address = 2607:7700:0:12::812:cb00/120
+      ip server-ip-address = 2607:7700:0:13::812:cb00/120
+      ip server-ip-address = 2607:7700:0:14::812:cb00/120
+      ip server-ip-address = 2607:7700:0:15::812:cb00/120
+      ip server-ip-address = 2607:7700:0:2::812:cb00/120
+      ip server-ip-address = 2607:7700:0:3::812:cb00/120
+      ip server-ip-address = 2607:7700:0:4::812:cb00/120
+      ip server-ip-address = 2607:7700:0:5::812:cb00/120
+      ip server-ip-address = 2607:7700:0:6::812:cb00/120
+      ip server-ip-address = 2607:7700:0:7::812:cb00/120
+      ip server-ip-address = 2607:7700:0:8::812:cb00/120
+      ip server-ip-address = 2607:7700:0:9::812:cb00/120
+      ip server-ip-address = 2607:7700:0:a::812:cb00/120
+      ip server-ip-address = 2607:7700:0:b::812:cb00/120
+      ip server-ip-address = 2607:7700:0:c::812:cb00/120
+      ip server-ip-address = 2607:7700:0:d::812:cb00/120
+      ip server-ip-address = 2607:7700:0:e::812:cb00/120
+      ip server-ip-address = 2607:7700:0:f::812:cb00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_35
+      ip server-ip-address = 2607:7700:0:1::814:d52a/128
+      ip server-ip-address = 2607:7700:0:10::814:d52a/128
+      ip server-ip-address = 2607:7700:0:11::814:d52a/128
+      ip server-ip-address = 2607:7700:0:12::814:d52a/128
+      ip server-ip-address = 2607:7700:0:13::814:d52a/128
+      ip server-ip-address = 2607:7700:0:14::814:d52a/128
+      ip server-ip-address = 2607:7700:0:15::814:d52a/128
+      ip server-ip-address = 2607:7700:0:2::814:d52a/128
+      ip server-ip-address = 2607:7700:0:3::814:d52a/128
+      ip server-ip-address = 2607:7700:0:4::814:d52a/128
+      ip server-ip-address = 2607:7700:0:5::814:d52a/128
+      ip server-ip-address = 2607:7700:0:6::814:d52a/128
+      ip server-ip-address = 2607:7700:0:7::814:d52a/128
+      ip server-ip-address = 2607:7700:0:8::814:d52a/128
+      ip server-ip-address = 2607:7700:0:9::814:d52a/128
+      ip server-ip-address = 2607:7700:0:a::814:d52a/128
+      ip server-ip-address = 2607:7700:0:b::814:d52a/128
+      ip server-ip-address = 2607:7700:0:c::814:d52a/128
+      ip server-ip-address = 2607:7700:0:d::814:d52a/128
+      ip server-ip-address = 2607:7700:0:e::814:d52a/128
+      ip server-ip-address = 2607:7700:0:f::814:d52a/128
+      ip server-ip-address = 2607:7700:0:1::814:d52b/128
+      ip server-ip-address = 2607:7700:0:10::814:d52b/128
+      ip server-ip-address = 2607:7700:0:11::814:d52b/128
+      ip server-ip-address = 2607:7700:0:12::814:d52b/128
+      ip server-ip-address = 2607:7700:0:13::814:d52b/128
+      ip server-ip-address = 2607:7700:0:14::814:d52b/128
+      ip server-ip-address = 2607:7700:0:15::814:d52b/128
+      ip server-ip-address = 2607:7700:0:2::814:d52b/128
+      ip server-ip-address = 2607:7700:0:3::814:d52b/128
+      ip server-ip-address = 2607:7700:0:4::814:d52b/128
+      ip server-ip-address = 2607:7700:0:5::814:d52b/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_36
+      ip server-ip-address = 2607:7700:0:6::814:d52b/128
+      ip server-ip-address = 2607:7700:0:7::814:d52b/128
+      ip server-ip-address = 2607:7700:0:8::814:d52b/128
+      ip server-ip-address = 2607:7700:0:9::814:d52b/128
+      ip server-ip-address = 2607:7700:0:a::814:d52b/128
+      ip server-ip-address = 2607:7700:0:b::814:d52b/128
+      ip server-ip-address = 2607:7700:0:c::814:d52b/128
+      ip server-ip-address = 2607:7700:0:d::814:d52b/128
+      ip server-ip-address = 2607:7700:0:e::814:d52b/128
+      ip server-ip-address = 2607:7700:0:f::814:d52b/128
+      ip server-ip-address = 2607:7700:0:1::814:d52f/128
+      ip server-ip-address = 2607:7700:0:10::814:d52f/128
+      ip server-ip-address = 2607:7700:0:11::814:d52f/128
+      ip server-ip-address = 2607:7700:0:12::814:d52f/128
+      ip server-ip-address = 2607:7700:0:13::814:d52f/128
+      ip server-ip-address = 2607:7700:0:14::814:d52f/128
+      ip server-ip-address = 2607:7700:0:15::814:d52f/128
+      ip server-ip-address = 2607:7700:0:2::814:d52f/128
+      ip server-ip-address = 2607:7700:0:3::814:d52f/128
+      ip server-ip-address = 2607:7700:0:4::814:d52f/128
+      ip server-ip-address = 2607:7700:0:5::814:d52f/128
+      ip server-ip-address = 2607:7700:0:6::814:d52f/128
+      ip server-ip-address = 2607:7700:0:7::814:d52f/128
+      ip server-ip-address = 2607:7700:0:8::814:d52f/128
+      ip server-ip-address = 2607:7700:0:9::814:d52f/128
+      ip server-ip-address = 2607:7700:0:a::814:d52f/128
+      ip server-ip-address = 2607:7700:0:b::814:d52f/128
+      ip server-ip-address = 2607:7700:0:c::814:d52f/128
+      ip server-ip-address = 2607:7700:0:d::814:d52f/128
+      ip server-ip-address = 2607:7700:0:e::814:d52f/128
+      ip server-ip-address = 2607:7700:0:f::814:d52f/128
+      ip server-ip-address = 2607:7700:0:1::813:f0aa/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_37
+      ip server-ip-address = 2607:7700:0:10::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:11::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:12::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:13::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:14::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:15::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:2::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:3::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:4::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:5::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:6::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:7::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:8::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:9::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:a::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:b::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:c::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:d::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:e::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:f::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:1::813:f076/128
+      ip server-ip-address = 2607:7700:0:10::813:f076/128
+      ip server-ip-address = 2607:7700:0:11::813:f076/128
+      ip server-ip-address = 2607:7700:0:12::813:f076/128
+      ip server-ip-address = 2607:7700:0:13::813:f076/128
+      ip server-ip-address = 2607:7700:0:14::813:f076/128
+      ip server-ip-address = 2607:7700:0:15::813:f076/128
+      ip server-ip-address = 2607:7700:0:2::813:f076/128
+      ip server-ip-address = 2607:7700:0:3::813:f076/128
+      ip server-ip-address = 2607:7700:0:4::813:f076/128
+      ip server-ip-address = 2607:7700:0:5::813:f076/128
+      ip server-ip-address = 2607:7700:0:6::813:f076/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_38
+      ip server-ip-address = 2607:7700:0:7::813:f076/128
+      ip server-ip-address = 2607:7700:0:8::813:f076/128
+      ip server-ip-address = 2607:7700:0:9::813:f076/128
+      ip server-ip-address = 2607:7700:0:a::813:f076/128
+      ip server-ip-address = 2607:7700:0:b::813:f076/128
+      ip server-ip-address = 2607:7700:0:c::813:f076/128
+      ip server-ip-address = 2607:7700:0:d::813:f076/128
+      ip server-ip-address = 2607:7700:0:e::813:f076/128
+      ip server-ip-address = 2607:7700:0:f::813:f076/128
+      ip server-ip-address = 2607:7700:0:1::175c:b243/128
+      ip server-ip-address = 2607:7700:0:10::175c:b243/128
+      ip server-ip-address = 2607:7700:0:11::175c:b243/128
+      ip server-ip-address = 2607:7700:0:12::175c:b243/128
+      ip server-ip-address = 2607:7700:0:13::175c:b243/128
+      ip server-ip-address = 2607:7700:0:14::175c:b243/128
+      ip server-ip-address = 2607:7700:0:15::175c:b243/128
+      ip server-ip-address = 2607:7700:0:2::175c:b243/128
+      ip server-ip-address = 2607:7700:0:3::175c:b243/128
+      ip server-ip-address = 2607:7700:0:4::175c:b243/128
+      ip server-ip-address = 2607:7700:0:5::175c:b243/128
+      ip server-ip-address = 2607:7700:0:6::175c:b243/128
+      ip server-ip-address = 2607:7700:0:7::175c:b243/128
+      ip server-ip-address = 2607:7700:0:8::175c:b243/128
+      ip server-ip-address = 2607:7700:0:9::175c:b243/128
+      ip server-ip-address = 2607:7700:0:a::175c:b243/128
+      ip server-ip-address = 2607:7700:0:b::175c:b243/128
+      ip server-ip-address = 2607:7700:0:c::175c:b243/128
+      ip server-ip-address = 2607:7700:0:d::175c:b243/128
+      ip server-ip-address = 2607:7700:0:e::175c:b243/128
+      ip server-ip-address = 2607:7700:0:f::175c:b243/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_39
+      ip server-ip-address = 2607:7700:0:1::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:10::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:11::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:12::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:13::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:14::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:15::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:2::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:3::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:4::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:5::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:6::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:7::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:8::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:9::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:a::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:b::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:c::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:d::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:e::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:f::d20a:a0a/128
+      ip server-ip-address = 2607:7700:0:b::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:b::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:c::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:c::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:d::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:d::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:e::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:e::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:f::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:f::80f2:b190/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_40
+      ip server-ip-address = 2607:7700:0:1::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:1::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:10::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:10::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:11::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:11::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:12::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:12::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:13::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:13::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:14::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:14::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:15::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:15::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:2::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:2::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:3::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:3::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:4::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:4::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:5::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:5::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:6::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:6::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:7::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:7::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:8::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:8::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:9::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:9::80f2:b190/128
+      ip server-ip-address = 2607:7700:0:a::4046:73a9/128
+      ip server-ip-address = 2607:7700:0:a::80f2:b190/128
+    #exit
+    ruledef audio-ipv6_6000_41
+      ip server-ip-address = 2607:7700:0:7::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:8::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:9::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:a::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:b::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:c::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:d::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:e::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:f::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:1::1717:c482/128
+      ip server-ip-address = 2607:7700:0:2::1717:c482/128
+      ip server-ip-address = 2607:7700:0:3::1717:c482/128
+      ip server-ip-address = 2607:7700:0:4::1717:c482/128
+      ip server-ip-address = 2607:7700:0:5::1717:c482/128
+      ip server-ip-address = 2607:7700:0:6::1717:c482/128
+      ip server-ip-address = 2607:7700:0:7::1717:c482/128
+      ip server-ip-address = 2607:7700:0:8::1717:c482/128
+      ip server-ip-address = 2607:7700:0:9::1717:c482/128
+      ip server-ip-address = 2607:7700:0:a::1717:c482/128
+      ip server-ip-address = 2607:7700:0:b::1717:c482/128
+      ip server-ip-address = 2607:7700:0:c::1717:c482/128
+      ip server-ip-address = 2607:7700:0:d::1717:c482/128
+      ip server-ip-address = 2607:7700:0:e::1717:c482/128
+      ip server-ip-address = 2607:7700:0:f::1717:c482/128
+      ip server-ip-address = 2607:7700:0:10::1717:c482/128
+      ip server-ip-address = 2607:7700:0:11::1717:c482/128
+      ip server-ip-address = 2607:7700:0:12::1717:c482/128
+      ip server-ip-address = 2607:7700:0:13::1717:c482/128
+      ip server-ip-address = 2607:7700:0:14::1717:c482/128
+      ip server-ip-address = 2607:7700:0:15::1717:c482/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_42
+      ip server-ip-address = 2607:7700:0:1::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:10::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:11::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:12::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:13::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:14::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:15::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:2::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:3::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:4::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:5::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:6::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:7::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:8::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:9::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:a::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:b::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:c::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:d::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:e::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:f::4815:51a7/128
+      ip server-ip-address = 2607:7700:0:1::4815:514d/128
+      ip server-ip-address = 2607:7700:0:10::4815:514d/128
+      ip server-ip-address = 2607:7700:0:11::4815:514d/128
+      ip server-ip-address = 2607:7700:0:12::4815:514d/128
+      ip server-ip-address = 2607:7700:0:13::4815:514d/128
+      ip server-ip-address = 2607:7700:0:14::4815:514d/128
+      ip server-ip-address = 2607:7700:0:15::4815:514d/128
+      ip server-ip-address = 2607:7700:0:2::4815:514d/128
+      ip server-ip-address = 2607:7700:0:3::4815:514d/128
+      ip server-ip-address = 2607:7700:0:4::4815:514d/128
+      ip server-ip-address = 2607:7700:0:5::4815:514d/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_43
+      ip server-ip-address = 2607:7700:0:6::4815:514d/128
+      ip server-ip-address = 2607:7700:0:7::4815:514d/128
+      ip server-ip-address = 2607:7700:0:8::4815:514d/128
+      ip server-ip-address = 2607:7700:0:9::4815:514d/128
+      ip server-ip-address = 2607:7700:0:a::4815:514d/128
+      ip server-ip-address = 2607:7700:0:b::4815:514d/128
+      ip server-ip-address = 2607:7700:0:c::4815:514d/128
+      ip server-ip-address = 2607:7700:0:d::4815:514d/128
+      ip server-ip-address = 2607:7700:0:e::4815:514d/128
+      ip server-ip-address = 2607:7700:0:f::4815:514d/128
+      ip server-ip-address = 2607:7700:0:1::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:10::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:11::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:12::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:13::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:14::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:15::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:2::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:3::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:4::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:5::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:6::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:7::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:8::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:9::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:a::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:b::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:c::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:d::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:e::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:f::4815:5c57/128
+      ip server-ip-address = 2607:7700:0:1::4815:5b60/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_44
+      ip server-ip-address = 2607:7700:0:10::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:11::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:12::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:13::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:14::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:15::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:2::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:3::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:4::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:5::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:6::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:7::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:8::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:9::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:a::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:b::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:c::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:d::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:e::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:f::4815:5b60/128
+      ip server-ip-address = 2607:7700:0:1::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:10::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:11::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:12::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:13::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:14::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:15::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:2::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:3::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:4::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:5::4815:5b7f/128
+      ip server-ip-address = 2607:7700:0:6::4815:5b7f/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_45
+      ip server-ip-address = 2607:7700:0:1::462a:490a/128
+      ip server-ip-address = 2607:7700:0:10::462a:490a/128
+      ip server-ip-address = 2607:7700:0:11::462a:490a/128
+      ip server-ip-address = 2607:7700:0:12::462a:490a/128
+      ip server-ip-address = 2607:7700:0:13::462a:490a/128
+      ip server-ip-address = 2607:7700:0:14::462a:490a/128
+      ip server-ip-address = 2607:7700:0:15::462a:490a/128
+      ip server-ip-address = 2607:7700:0:2::462a:490a/128
+      ip server-ip-address = 2607:7700:0:3::462a:490a/128
+      ip server-ip-address = 2607:7700:0:4::462a:490a/128
+      ip server-ip-address = 2607:7700:0:5::462a:490a/128
+      ip server-ip-address = 2607:7700:0:6::462a:490a/128
+      ip server-ip-address = 2607:7700:0:7::462a:490a/128
+      ip server-ip-address = 2607:7700:0:8::462a:490a/128
+      ip server-ip-address = 2607:7700:0:9::462a:490a/128
+      ip server-ip-address = 2607:7700:0:a::462a:490a/128
+      ip server-ip-address = 2607:7700:0:b::462a:490a/128
+      ip server-ip-address = 2607:7700:0:c::462a:490a/128
+      ip server-ip-address = 2607:7700:0:d::462a:490a/128
+      ip server-ip-address = 2607:7700:0:e::462a:490a/128
+      ip server-ip-address = 2607:7700:0:f::462a:490a/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_01
+      www url starts-with http://stream.iheart.com
+      www url contains rangestream.iheart.com
+      www url contains s-gin.com
+      www url contains listen.vo.llnwd.net
+      www url contains listeng.vo.llnwd.net
+      www url contains listenm.vo.llnwd.net
+      www url contains rhapsodyev.hs.llnwd.net
+      www url contains rhapsody.s.llnwi.net
+      www url contains rhapsody.s.loris.llnwd.net
+      www url contains rhapsodytr.vo.llnwd.net
+      www url contains llnw.listen.com
+      www url contains llnwm.listen.com
+      www url contains llnwm-s.listen.com
+      www url contains llnw-s.listen.com
+      www url contains ll-test-playback.rhapsody.com
+      www url contains ll-test-www.rhapsody.com
+      www url contains secure-ll-test-www.rhapsody.com
+      www url contains vivo-rhapsody.hs.llnwd.net
+      www url contains vivo-rhapsody.vo.llnwd.net
+      www url contains pandora.com
+      www url contains p-cdn.com
+      www url contains streamingaudio.itunes.apple.com
+      www url contains audio.itunes.apple.com
+      www url starts-with http://direct-ns.rhapsody.com
+      www url contains spotify.com/heads
+      www url contains spotify.com/audio
+      www url contains play.spotify.com
+      www url contains gslb.spotify.com
+      www url contains iheart.com
+      www url contains iheartradio
+      www url contains static.rhap.com
+      www url contains 8tracks.com
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_02
+      www url contains /v1/auth.akacast.akamaistream.net
+      www url contains akacast.akamaistream.net/7/
+    #exit
+    ruledef audio_6000_03
+      ip server-ip-address = 78.31.8.0/21
+      ip server-ip-address = 192.165.160.0/22
+      ip server-ip-address = 193.181.4.0/22
+      ip server-ip-address = 193.181.180.0/22
+      ip server-ip-address = 193.182.8.0/21
+      ip server-ip-address = 194.71.232.0/22
+      ip server-ip-address = 193.235.232.0/24
+      ip server-ip-address = 194.68.176.0/22
+      ip server-ip-address = 194.68.28.0/22
+      ip server-ip-address = 193.181.184.0/23
+      ip server-ip-address = 193.182.7.0/24
+      ip server-ip-address = 193.182.3.0/24
+      ip server-ip-address = 192.121.53.0/24
+      ip server-ip-address = 193.234.240.0/22
+      ip server-ip-address = 193.235.32.0/24
+      ip server-ip-address = 193.235.51.0/24
+      ip server-ip-address = 194.14.177.0/24
+      ip server-ip-address = 194.68.116.0/24
+      ip server-ip-address = 194.68.169.0/24
+      ip server-ip-address = 194.68.181.0/24
+      ip server-ip-address = 194.68.183.0/24
+      ip server-ip-address = 194.71.148.0/22
+      ip server-ip-address = 194.103.10.0/24
+      ip server-ip-address = 194.103.13.0/24
+      ip server-ip-address = 194.103.36.0/22
+      ip server-ip-address = 194.132.152.0/22
+      ip server-ip-address = 194.132.162.0/24
+      ip server-ip-address = 193.235.224.0/24
+      ip server-ip-address = 194.132.176.0/22
+      ip server-ip-address = 194.132.196.0/22
+      ip server-ip-address = 193.235.203.0/24
+      ip server-ip-address = 193.235.206.0/24
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_04
+      ip server-ip-address = 192.121.140.0/24
+      ip server-ip-address = 192.121.132.0/24
+      ip server-ip-address = 80.76.150.3/32
+      ip server-ip-address = 54.243.193.18/32
+      ip server-ip-address = 50.18.47.26/32
+      ip server-ip-address = 54.244.235.197/32
+      ip server-ip-address = 46.137.204.223/32
+      ip server-ip-address = 54.252.113.182/32
+      ip server-ip-address = 54.232.179.20/32
+      ip server-ip-address = 2001:67c:a0::/48
+      ip server-ip-address = 2a01:280:100::/48
+      ip server-ip-address = 2a01:280:101::/48
+      ip server-ip-address = 2a01:280:102::/48
+      ip server-ip-address = 2a01:280:103::/48
+      ip server-ip-address = 2a01:280:104::/48
+      ip server-ip-address = 93.184.215.151/32
+      ip server-ip-address = 68.232.34.151/32
+      ip server-ip-address = 117.18.232.151/32
+      www url starts-with http://54.176.103.109
+      www url starts-with http://54.193.223.79
+      www url starts-with http://54.198.96.139
+      www url starts-with http://54.228.217.83
+      www url starts-with http://54.235.167.237
+      www url starts-with http://54.237.58.174
+      www url starts-with http://54.247.76.135
+      www url starts-with http://54.251.112.60
+      www url starts-with http://54.68.101.38
+      www url starts-with http://54.75.61.230
+      www url starts-with http://54.90.20.114
+      www url starts-with http://58.69.143.152
+      www url starts-with http://60.242.79.61
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_05
+      www url contains securenetsystems.net
+      www url contains iheartradioversion
+    #exit
+    ruledef audio_6000_06
+      www url contains stream
+      www url contains iheartradioversion
+    #exit
+    ruledef audio_6000_07
+      tcp either-port = 1935
+      ip server-ip-address = 68.142.64.0/18
+    #exit
+    ruledef audio_6000_08
+      tcp either-port = 1935
+      ip server-ip-address = 208.111.128.0/18
+    #exit
+    ruledef audio_6000_09
+      tcp either-port = 1935
+      ip server-ip-address = 69.164.0.0/18
+    #exit
+    ruledef audio_6000_10
+      tcp either-port = 1935
+      ip server-ip-address = 87.248.192.0/19
+    #exit
+    ruledef audio_6000_100
+      www url starts-with http://184.173.113.194
+      www url starts-with http://184.173.125.252
+      www url starts-with http://184.173.203.21
+      www url starts-with http://184.95.47.140
+      www url starts-with http://184.95.62.170
+      www url starts-with http://185.12.109.172
+      www url starts-with http://185.14.85.162
+      www url starts-with http://185.2.138.236
+      www url starts-with http://185.28.3.7
+      www url starts-with http://185.28.3.8
+      www url starts-with http://185.73.170.43
+      www url starts-with http://186.103.134.238
+      www url starts-with http://186.155.250.200
+      www url starts-with http://186.64.110.67
+      www url starts-with http://187.17.175.143
+      www url starts-with http://187.17.67.228
+      www url starts-with http://187.4.83.28
+      www url starts-with http://188.10.254.101
+      www url starts-with http://188.117.44.133
+      www url starts-with http://188.122.72.18
+      www url starts-with http://188.132.229.234
+      www url starts-with http://188.132.230.252
+      www url starts-with http://188.132.233.227
+      www url starts-with http://188.132.238.2
+      www url starts-with http://188.138.1.183
+      www url starts-with http://188.138.1.220
+      www url starts-with http://188.138.100.101
+      www url starts-with http://188.138.109.77
+      www url starts-with http://188.138.113.133
+      www url starts-with http://188.138.113.70
+      www url starts-with http://188.138.116.46
+      www url starts-with http://188.138.125.234
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_101
+      www url starts-with http://188.138.16.143
+      www url starts-with http://188.138.16.171
+      www url starts-with http://188.138.19.96
+      www url starts-with http://188.138.75.83
+      www url starts-with http://188.165.1.47
+      www url starts-with http://188.165.131.33
+      www url starts-with http://188.165.156.97
+      www url starts-with http://188.165.187.84
+      www url starts-with http://188.165.193.62
+      www url starts-with http://188.165.195.176
+      www url starts-with http://188.165.196.212
+      www url starts-with http://188.165.196.22
+      www url starts-with http://188.165.20.29
+      www url starts-with http://188.165.202.131
+      www url starts-with http://188.165.202.221
+      www url starts-with http://188.165.206.81
+      www url starts-with http://188.165.21.29
+      www url starts-with http://188.165.22.29
+      www url starts-with http://188.165.222.163
+      www url starts-with http://188.165.23.150
+      www url starts-with http://188.165.232.7
+      www url starts-with http://188.165.236.217
+      www url starts-with http://188.165.236.90
+      www url starts-with http://188.165.241.117
+      www url starts-with http://188.165.242.32
+      www url starts-with http://188.165.251.104
+      www url starts-with http://188.165.35.60
+      www url starts-with http://188.226.147.117
+      www url starts-with http://188.226.209.184
+      www url starts-with http://188.247.133.170
+      www url starts-with http://188.247.86.67
+      www url starts-with http://188.40.107.251
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_102
+      www url starts-with http://188.40.135.39
+      www url starts-with http://188.40.136.67
+      www url starts-with http://188.40.136.81
+      www url starts-with http://188.40.137.148
+      www url starts-with http://188.40.32.140
+      www url starts-with http://188.40.68.77
+      www url starts-with http://188.40.95.74
+      www url starts-with http://188.93.73.98
+      www url starts-with http://188.94.98.216
+      www url starts-with http://188.94.98.227
+      www url starts-with http://188.95.253.110
+      www url starts-with http://189.1.163.240
+      www url starts-with http://189.1.170.75
+      www url starts-with http://189.254.25.183
+      www url starts-with http://189.38.80.144
+      www url starts-with http://190.10.15.67
+      www url starts-with http://190.107.65.14
+      www url starts-with http://190.108.193.26
+      www url starts-with http://190.114.252.91
+      www url starts-with http://190.114.255.93
+      www url starts-with http://190.12.43.34
+      www url starts-with http://190.120.96.7
+      www url starts-with http://190.140.49.230
+      www url starts-with http://190.183.60.141
+      www url starts-with http://190.210.119.66
+      www url starts-with http://190.210.151.227
+      www url starts-with http://190.220.149.204
+      www url starts-with http://190.242.54.147
+      www url starts-with http://190.35.127.138
+      www url starts-with http://190.72.62.79
+      www url starts-with http://190.85.129.205
+      www url starts-with http://190.85.246.23
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_103
+      www url starts-with http://190.9.128.238
+      www url starts-with http://192.111.151.130
+      www url starts-with http://192.155.227.178
+      www url starts-with http://192.163.201.249
+      www url starts-with http://192.163.211.103
+      www url starts-with http://192.165.96.9
+      www url starts-with http://192.171.209.149
+      www url starts-with http://192.184.9.158
+      www url starts-with http://192.184.9.79
+      www url starts-with http://192.184.9.81
+      www url starts-with http://192.187.120.226
+      www url starts-with http://192.198.204.194
+      www url starts-with http://192.240.102.130
+      www url starts-with http://192.240.102.194
+      www url starts-with http://192.240.102.2
+      www url starts-with http://192.240.102.3
+      www url starts-with http://192.240.102.5
+      www url starts-with http://192.240.97.67
+      www url starts-with http://192.240.97.68
+      www url starts-with http://192.240.97.69
+      www url starts-with http://192.241.115.134
+      www url starts-with http://192.241.137.115
+      www url starts-with http://192.241.185.108
+      www url starts-with http://192.241.198.63
+      www url starts-with http://192.241.254.172
+      www url starts-with http://192.254.97.17
+      www url starts-with http://192.81.248.192
+      www url starts-with http://192.81.248.193
+      www url starts-with http://192.81.248.194
+      www url starts-with http://192.81.248.32
+      www url starts-with http://192.81.248.70
+      www url starts-with http://192.81.248.91
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_104
+      www url starts-with http://192.95.16.140
+      www url starts-with http://192.95.17.109
+      www url starts-with http://192.95.18.72
+      www url starts-with http://192.95.23.135
+      www url starts-with http://192.95.29.131
+      www url starts-with http://192.95.29.97
+      www url starts-with http://192.95.32.122
+      www url starts-with http://192.96.217.232
+      www url starts-with http://192.99.0.170
+      www url starts-with http://192.99.11.208
+      www url starts-with http://192.99.150.31
+      www url starts-with http://192.99.20.78
+      www url starts-with http://192.99.200.174
+      www url starts-with http://192.99.34.205
+      www url starts-with http://192.99.35.215
+      www url starts-with http://192.99.4.210
+      www url starts-with http://192.99.8.192
+      www url starts-with http://192.99.99.195
+      www url starts-with http://193.0.98.66
+      www url starts-with http://193.105.67.24
+      www url starts-with http://193.111.136.110
+      www url starts-with http://193.111.136.213
+      www url starts-with http://193.126.13.200
+      www url starts-with http://193.142.61.22
+      www url starts-with http://193.190.253.57
+      www url starts-with http://193.197.85.26
+      www url starts-with http://193.205.23.53
+      www url starts-with http://193.206.74.236
+      www url starts-with http://193.218.160.20
+      www url starts-with http://193.231.242.46
+      www url starts-with http://193.238.59.90
+      www url starts-with http://193.238.59.91
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_105
+      www url starts-with http://193.34.51.34
+      www url starts-with http://193.34.51.69
+      www url starts-with http://193.45.227.222
+      www url starts-with http://193.93.112.145
+      www url starts-with http://193.95.206.178
+      www url starts-with http://194.116.73.162
+      www url starts-with http://194.152.206.205
+      www url starts-with http://194.16.21.227
+      www url starts-with http://194.219.98.110
+      www url starts-with http://194.23.24.51
+      www url starts-with http://194.232.200.145
+      www url starts-with http://194.232.200.146
+      www url starts-with http://194.232.200.147
+      www url starts-with http://194.232.200.148
+      www url starts-with http://194.232.200.149
+      www url starts-with http://194.232.200.165
+      www url starts-with http://194.232.200.32
+      www url starts-with http://194.255.31.57
+      www url starts-with http://194.27.17.6
+      www url starts-with http://194.36.160.248
+      www url starts-with http://195.10.10.201
+      www url starts-with http://195.10.10.203
+      www url starts-with http://195.10.10.209
+      www url starts-with http://195.10.10.222
+      www url starts-with http://195.10.10.225
+      www url starts-with http://195.10.228.6
+      www url starts-with http://195.138.240.189
+      www url starts-with http://195.150.20.4
+      www url starts-with http://195.154.10.199
+      www url starts-with http://195.154.104.70
+      www url starts-with http://195.154.104.99
+      www url starts-with http://195.154.113.150
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_106
+      www url starts-with http://195.154.116.117
+      www url starts-with http://195.154.166.226
+      www url starts-with http://195.154.167.62
+      www url starts-with http://195.154.181.100
+      www url starts-with http://195.154.182.216
+      www url starts-with http://195.154.191.116
+      www url starts-with http://195.154.217.103
+      www url starts-with http://195.154.240.161
+      www url starts-with http://195.154.7.22
+      www url starts-with http://195.154.80.65
+      www url starts-with http://195.162.25.64
+      www url starts-with http://195.169.148.57
+      www url starts-with http://195.184.101.203
+      www url starts-with http://195.191.180.5
+      www url starts-with http://195.194.74.201
+      www url starts-with http://195.202.170.154
+      www url starts-with http://195.23.102.196
+      www url starts-with http://195.234.100.234
+      www url starts-with http://195.235.215.98
+      www url starts-with http://195.244.58.101
+      www url starts-with http://195.245.168.21
+      www url starts-with http://195.252.68.166
+      www url starts-with http://195.47.238.40
+      www url starts-with http://195.54.103.117
+      www url starts-with http://195.66.134.40
+      www url starts-with http://195.8.58.141
+      www url starts-with http://195.8.58.150
+      www url starts-with http://195.88.63.114
+      www url starts-with http://195.94.205.211
+      www url starts-with http://195.95.158.129
+      www url starts-with http://195.95.158.131
+      www url starts-with http://196.33.130.35
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_107
+      www url starts-with http://196.33.130.36
+      www url starts-with http://196.33.130.40
+      www url starts-with http://196.35.64.36
+      www url starts-with http://196.35.68.110
+      www url starts-with http://196.44.136.119
+      www url starts-with http://198.100.144.46
+      www url starts-with http://198.100.145.120
+      www url starts-with http://198.100.148.141
+      www url starts-with http://198.100.150.194
+      www url starts-with http://198.100.152.234
+      www url starts-with http://198.101.13.204
+      www url starts-with http://198.105.215.28
+      www url starts-with http://198.105.220.12
+      www url starts-with http://198.136.56.226
+      www url starts-with http://198.136.58.42
+      www url starts-with http://198.143.191.226
+      www url starts-with http://198.15.94.34
+      www url starts-with http://198.154.106.101
+      www url starts-with http://198.154.106.102
+      www url starts-with http://198.154.106.103
+      www url starts-with http://198.154.106.104
+      www url starts-with http://198.154.106.109
+      www url starts-with http://198.154.106.111
+      www url starts-with http://198.154.106.116
+      www url starts-with http://198.154.112.230
+      www url starts-with http://198.154.112.233
+      www url starts-with http://198.154.217.70
+      www url starts-with http://198.154.228.82
+      www url starts-with http://198.154.246.178
+      www url starts-with http://198.178.123.11
+      www url starts-with http://198.178.123.14
+      www url starts-with http://198.178.123.23
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_108
+      www url starts-with http://198.199.71.224
+      www url starts-with http://198.20.181.105
+      www url starts-with http://198.20.181.73
+      www url starts-with http://198.202.242.238
+      www url starts-with http://198.204.232.221
+      www url starts-with http://198.209.246.63
+      www url starts-with http://198.24.147.107
+      www url starts-with http://198.24.165.180
+      www url starts-with http://198.24.172.106
+      www url starts-with http://198.24.186.218
+      www url starts-with http://198.245.61.65
+      www url starts-with http://198.245.62.81
+      www url starts-with http://198.245.63.66
+      www url starts-with http://198.27.110.50
+      www url starts-with http://198.27.125.20
+      www url starts-with http://198.27.127.29
+      www url starts-with http://198.27.64.63
+      www url starts-with http://198.27.80.37
+      www url starts-with http://198.27.83.198
+      www url starts-with http://198.27.88.38
+      www url starts-with http://198.50.113.170
+      www url starts-with http://198.50.118.50
+      www url starts-with http://198.50.153.143
+      www url starts-with http://198.50.159.56
+      www url starts-with http://198.50.175.193
+      www url starts-with http://198.50.175.199
+      www url starts-with http://198.50.197.80
+      www url starts-with http://198.50.197.90
+      www url starts-with http://198.50.238.110
+      www url starts-with http://198.50.238.188
+      www url starts-with http://198.50.242.228
+      www url starts-with http://198.57.165.187
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_109
+      www url starts-with http://198.57.197.194
+      www url starts-with http://198.58.114.102
+      www url starts-with http://198.74.51.37
+      www url starts-with http://198.98.98.194
+      www url starts-with http://199.101.100.42
+      www url starts-with http://199.101.184.67
+      www url starts-with http://199.101.184.68
+      www url starts-with http://199.101.48.167
+      www url starts-with http://199.104.126.36
+      www url starts-with http://199.176.235.218
+      www url starts-with http://199.180.72.2
+      www url starts-with http://199.180.72.29
+      www url starts-with http://199.180.72.6
+      www url starts-with http://199.180.75.2
+      www url starts-with http://199.189.111.28
+      www url starts-with http://199.189.115.207
+      www url starts-with http://199.189.87.97
+      www url starts-with http://199.195.128.244
+      www url starts-with http://199.195.192.207
+      www url starts-with http://199.195.194.140
+      www url starts-with http://199.195.194.92
+      www url starts-with http://199.201.89.29
+      www url starts-with http://199.217.117.162
+      www url starts-with http://199.217.118.10
+      www url starts-with http://199.217.118.14
+      www url starts-with http://199.217.118.140
+      www url starts-with http://199.217.118.218
+      www url starts-with http://199.217.118.42
+      www url starts-with http://199.217.118.97
+      www url starts-with http://199.217.119.57
+      www url starts-with http://199.233.235.141
+      www url starts-with http://199.91.172.100
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_11
+      tcp either-port = 1935
+      ip server-ip-address = 95.140.224.0/20
+    #exit
+    ruledef audio_6000_110
+      www url starts-with http://2.139.144.101
+      www url starts-with http://2.225.43.247
+      www url starts-with http://2.232.73.66
+      www url starts-with http://200.105.233.4
+      www url starts-with http://200.105.239.46
+      www url starts-with http://200.108.115.38
+      www url starts-with http://200.110.156.14
+      www url starts-with http://200.111.175.34
+      www url starts-with http://200.136.27.19
+      www url starts-with http://200.144.185.22
+      www url starts-with http://200.170.207.244
+      www url starts-with http://200.170.207.3
+      www url starts-with http://200.175.79.171
+      www url starts-with http://200.192.112.45
+      www url starts-with http://200.192.246.14
+      www url starts-with http://200.24.229.253
+      www url starts-with http://200.29.218.67
+      www url starts-with http://200.31.177.122
+      www url starts-with http://200.31.177.123
+      www url starts-with http://200.34.44.240
+      www url starts-with http://200.35.183.236
+      www url starts-with http://200.41.47.36
+      www url starts-with http://200.55.179.20
+      www url starts-with http://200.58.101.247
+      www url starts-with http://200.58.116.222
+      www url starts-with http://200.58.116.225
+      www url starts-with http://200.58.118.108
+      www url starts-with http://200.58.123.233
+      www url starts-with http://200.60.37.50
+      www url starts-with http://200.69.103.51
+      www url starts-with http://200.69.120.170
+      www url starts-with http://200.69.195.16
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_111
+      www url starts-with http://200.7.47.254
+      www url starts-with http://200.87.173.12
+      www url starts-with http://201.148.81.100
+      www url starts-with http://201.148.81.101
+      www url starts-with http://201.159.48.105
+      www url starts-with http://201.159.48.107
+      www url starts-with http://201.174.81.234
+      www url starts-with http://201.212.5.144
+      www url starts-with http://201.221.13.10
+      www url starts-with http://201.45.252.188
+      www url starts-with http://201.54.48.18
+      www url starts-with http://202.129.207.240
+      www url starts-with http://202.160.15.86
+      www url starts-with http://202.162.77.38
+      www url starts-with http://202.3.38.195
+      www url starts-with http://202.44.54.186
+      www url starts-with http://203.121.207.78
+      www url starts-with http://203.150.224.142
+      www url starts-with http://203.150.225.77
+      www url starts-with http://203.177.3.42
+      www url starts-with http://203.215.79.149
+      www url starts-with http://203.217.8.125
+      www url starts-with http://203.45.159.151
+      www url starts-with http://203.45.83.69
+      www url starts-with http://203.59.129.151
+      www url starts-with http://203.97.214.251
+      www url starts-with http://204.12.202.163
+      www url starts-with http://204.248.57.186
+      www url starts-with http://204.45.126.170
+      www url starts-with http://204.45.139.90
+      www url starts-with http://204.45.38.115
+      www url starts-with http://204.45.73.122
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_112
+      www url starts-with http://204.93.192.138
+      www url starts-with http://204.93.219.66
+      www url starts-with http://205.134.192.90
+      www url starts-with http://205.149.155.114
+      www url starts-with http://205.164.41.34
+      www url starts-with http://205.186.144.137
+      www url starts-with http://206.130.108.33
+      www url starts-with http://206.174.50.205
+      www url starts-with http://206.180.232.42
+      www url starts-with http://206.190.130.180
+      www url starts-with http://206.190.131.100
+      www url starts-with http://206.190.135.140
+      www url starts-with http://206.190.136.141
+      www url starts-with http://206.190.136.212
+      www url starts-with http://206.190.150.90
+      www url starts-with http://206.190.150.92
+      www url starts-with http://206.190.152.194
+      www url starts-with http://206.217.201.136
+      www url starts-with http://206.217.201.137
+      www url starts-with http://206.217.201.45
+      www url starts-with http://206.217.207.207
+      www url starts-with http://206.217.213.16
+      www url starts-with http://206.217.213.236
+      www url starts-with http://206.225.82.174
+      www url starts-with http://206.72.199.178
+      www url starts-with http://206.72.199.179
+      www url starts-with http://207.150.251.87
+      www url starts-with http://207.198.106.33
+      www url starts-with http://207.210.96.241
+      www url starts-with http://207.245.67.206
+      www url starts-with http://207.245.67.209
+      www url starts-with http://208.115.213.242
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_113
+      www url starts-with http://208.167.236.13
+      www url starts-with http://208.43.121.133
+      www url starts-with http://208.43.207.221
+      www url starts-with http://208.43.207.222
+      www url starts-with http://208.43.231.209
+      www url starts-with http://208.43.33.114
+      www url starts-with http://208.43.42.26
+      www url starts-with http://208.43.42.27
+      www url starts-with http://208.43.60.66
+      www url starts-with http://208.43.60.68
+      www url starts-with http://208.43.60.69
+      www url starts-with http://208.43.60.70
+      www url starts-with http://208.43.60.79
+      www url starts-with http://208.43.9.106
+      www url starts-with http://208.43.9.96
+      www url starts-with http://208.53.138.151
+      www url starts-with http://208.53.138.30
+      www url starts-with http://208.53.158.48
+      www url starts-with http://208.70.184.33
+      www url starts-with http://208.79.238.78
+      www url starts-with http://208.80.52.66
+      www url starts-with http://208.80.53.107
+      www url starts-with http://208.80.53.108
+      www url starts-with http://208.80.54.26
+      www url starts-with http://208.80.54.30
+      www url starts-with http://208.85.242.70
+      www url starts-with http://208.85.243.168
+      www url starts-with http://208.87.25.4
+      www url starts-with http://208.90.216.248
+      www url starts-with http://208.92.53.105
+      www url starts-with http://208.92.53.88
+      www url starts-with http://208.92.53.99
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_114
+      www url starts-with http://208.93.223.232
+      www url starts-with http://208.98.41.72
+      www url starts-with http://209.105.232.152
+      www url starts-with http://209.105.232.215
+      www url starts-with http://209.105.232.220
+      www url starts-with http://209.105.238.75
+      www url starts-with http://209.105.250.69
+      www url starts-with http://209.105.250.72
+      www url starts-with http://209.105.250.73
+      www url starts-with http://209.126.100.213
+      www url starts-with http://209.126.99.40
+      www url starts-with http://209.159.144.182
+      www url starts-with http://209.159.150.242
+      www url starts-with http://209.159.154.90
+      www url starts-with http://209.160.41.56
+      www url starts-with http://209.190.30.82
+      www url starts-with http://209.191.211.194
+      www url starts-with http://209.213.100.133
+      www url starts-with http://209.222.129.133
+      www url starts-with http://209.222.129.134
+      www url starts-with http://209.222.145.134
+      www url starts-with http://209.239.114.182
+      www url starts-with http://209.27.53.53
+      www url starts-with http://209.59.248.37
+      www url starts-with http://209.73.138.42
+      www url starts-with http://209.85.88.195
+      www url starts-with http://209.85.88.199
+      www url starts-with http://209.88.205.232
+      www url starts-with http://209.9.238.26
+      www url starts-with http://209.9.238.6
+      www url starts-with http://210.48.73.162
+      www url starts-with http://211.1.40.129
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_115
+      www url starts-with http://211.31.16.98
+      www url starts-with http://212.103.156.222
+      www url starts-with http://212.105.73.74
+      www url starts-with http://212.106.154.230
+      www url starts-with http://212.109.136.69
+      www url starts-with http://212.111.2.151
+      www url starts-with http://212.112.224.166
+      www url starts-with http://212.129.33.202
+      www url starts-with http://212.129.7.85
+      www url starts-with http://212.129.9.26
+      www url starts-with http://212.174.252.22
+      www url starts-with http://212.175.65.102
+      www url starts-with http://212.18.39.42
+      www url starts-with http://212.18.63.51
+      www url starts-with http://212.25.58.203
+      www url starts-with http://212.26.129.197
+      www url starts-with http://212.29.254.129
+      www url starts-with http://212.31.164.21
+      www url starts-with http://212.37.80.142
+      www url starts-with http://212.4.58.7
+      www url starts-with http://212.44.99.35
+      www url starts-with http://212.45.53.237
+      www url starts-with http://212.45.98.191
+      www url starts-with http://212.48.126.114
+      www url starts-with http://212.48.67.46
+      www url starts-with http://212.68.63.76
+      www url starts-with http://212.74.123.36
+      www url starts-with http://212.77.178.166
+      www url starts-with http://212.83.135.226
+      www url starts-with http://212.83.143.231
+      www url starts-with http://212.83.151.18
+      www url starts-with http://212.83.164.82
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_116
+      www url starts-with http://212.83.60.2
+      www url starts-with http://212.92.219.12
+      www url starts-with http://213.125.9.66
+      www url starts-with http://213.128.77.142
+      www url starts-with http://213.132.182.124
+      www url starts-with http://213.132.182.42
+      www url starts-with http://213.133.109.74
+      www url starts-with http://213.136.71.3
+      www url starts-with http://213.136.96.14
+      www url starts-with http://213.146.164.221
+      www url starts-with http://213.158.233.199
+      www url starts-with http://213.166.52.107
+      www url starts-with http://213.184.18.156
+      www url starts-with http://213.185.182.230
+      www url starts-with http://213.186.227.18
+      www url starts-with http://213.186.61.62
+      www url starts-with http://213.191.133.173
+      www url starts-with http://213.193.109.103
+      www url starts-with http://213.193.236.7
+      www url starts-with http://213.193.236.8
+      www url starts-with http://213.239.205.210
+      www url starts-with http://213.239.218.99
+      www url starts-with http://213.239.220.196
+      www url starts-with http://213.240.61.51
+      www url starts-with http://213.246.51.78
+      www url starts-with http://213.246.53.78
+      www url starts-with http://213.251.157.145
+      www url starts-with http://213.251.186.148
+      www url starts-with http://213.251.187.13
+      www url starts-with http://213.75.129.39
+      www url starts-with http://213.75.89.223
+      www url starts-with http://213.96.195.21
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_117
+      www url starts-with http://216.104.43.226
+      www url starts-with http://216.104.46.130
+      www url starts-with http://216.105.188.14
+      www url starts-with http://216.119.144.221
+      www url starts-with http://216.119.152.213
+      www url starts-with http://216.119.157.86
+      www url starts-with http://216.158.67.68
+      www url starts-with http://216.231.129.18
+      www url starts-with http://216.235.81.101
+      www url starts-with http://216.235.81.102
+      www url starts-with http://216.235.91.31
+      www url starts-with http://216.235.91.33
+      www url starts-with http://216.235.91.34
+      www url starts-with http://216.235.91.36
+      www url starts-with http://216.235.94.10
+      www url starts-with http://216.235.94.11
+      www url starts-with http://216.235.94.13
+      www url starts-with http://216.235.94.14
+      www url starts-with http://216.235.94.16
+      www url starts-with http://216.240.139.89
+      www url starts-with http://216.245.196.226
+      www url starts-with http://216.245.196.234
+      www url starts-with http://216.246.26.42
+      www url starts-with http://216.246.37.218
+      www url starts-with http://216.246.37.51
+      www url starts-with http://216.246.37.52
+      www url starts-with http://216.3.109.212
+      www url starts-with http://216.38.31.199
+      www url starts-with http://216.55.165.146
+      www url starts-with http://216.59.16.57
+      www url starts-with http://216.59.21.117
+      www url starts-with http://216.87.171.58
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_118
+      www url starts-with http://217.114.200.100
+      www url starts-with http://217.114.200.118
+      www url starts-with http://217.114.200.126
+      www url starts-with http://217.114.211.181
+      www url starts-with http://217.114.217.101
+      www url starts-with http://217.128.133.215
+      www url starts-with http://217.146.93.134
+      www url starts-with http://217.151.151.90
+      www url starts-with http://217.151.152.244
+      www url starts-with http://217.151.152.245
+      www url starts-with http://217.16.69.17
+      www url starts-with http://217.160.130.207
+      www url starts-with http://217.160.140.108
+      www url starts-with http://217.160.168.253
+      www url starts-with http://217.172.177.56
+      www url starts-with http://217.172.179.47
+      www url starts-with http://217.172.188.35
+      www url starts-with http://217.172.190.185
+      www url starts-with http://217.19.105.43
+      www url starts-with http://217.21.199.146
+      www url starts-with http://217.24.17.31
+      www url starts-with http://217.28.20.20
+      www url starts-with http://217.66.226.47
+      www url starts-with http://217.73.17.42
+      www url starts-with http://217.74.72.11
+      www url starts-with http://217.75.92.14
+      www url starts-with http://217.76.201.26
+      www url starts-with http://218.208.228.62
+      www url starts-with http://218.225.125.210
+      www url starts-with http://220.233.75.195
+      www url starts-with http://220.247.224.117
+      www url starts-with http://220.247.227.1
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_119
+      www url starts-with http://220.247.227.2
+      www url starts-with http://220.247.227.3
+      www url starts-with http://220.247.227.4
+      www url starts-with http://220.247.227.51
+      www url starts-with http://220.247.227.6
+      www url starts-with http://23.235.227.98
+      www url starts-with http://23.254.128.128
+      www url starts-with http://23.29.123.98
+      www url starts-with http://23.29.71.154
+      www url starts-with http://23.29.72.146
+      www url starts-with http://24.107.26.102
+      www url starts-with http://24.159.164.34
+      www url starts-with http://24.172.53.150
+      www url starts-with http://24.43.22.10
+      www url starts-with http://27.50.86.104
+      www url starts-with http://31.12.64.204
+      www url starts-with http://31.14.40.102
+      www url starts-with http://31.14.40.241
+      www url starts-with http://31.186.169.92
+      www url starts-with http://31.220.4.253
+      www url starts-with http://31.3.230.124
+      www url starts-with http://37.1.144.106
+      www url starts-with http://37.123.113.7
+      www url starts-with http://37.123.97.70
+      www url starts-with http://37.130.229.188
+      www url starts-with http://37.130.230.92
+      www url starts-with http://37.159.178.85
+      www url starts-with http://37.187.107.88
+      www url starts-with http://37.187.118.33
+      www url starts-with http://37.187.120.51
+      www url starts-with http://37.187.135.123
+      www url starts-with http://37.187.135.140
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_12
+      tcp either-port = 1935
+      ip server-ip-address = 178.79.192.0/18
+    #exit
+    ruledef audio_6000_120
+      www url starts-with http://37.187.47.208
+      www url starts-with http://37.187.5.67
+      www url starts-with http://37.187.59.149
+      www url starts-with http://37.187.70.49
+      www url starts-with http://37.187.73.145
+      www url starts-with http://37.187.79.153
+      www url starts-with http://37.187.79.56
+      www url starts-with http://37.187.79.93
+      www url starts-with http://37.187.90.121
+      www url starts-with http://37.187.90.201
+      www url starts-with http://37.221.197.14
+      www url starts-with http://37.247.103.50
+      www url starts-with http://37.48.82.48
+      www url starts-with http://37.48.82.50
+      www url starts-with http://37.48.83.43
+      www url starts-with http://37.48.83.45
+      www url starts-with http://37.48.86.228
+      www url starts-with http://37.48.86.232
+      www url starts-with http://37.58.51.188
+      www url starts-with http://37.58.72.235
+      www url starts-with http://37.58.75.162
+      www url starts-with http://37.58.75.163
+      www url starts-with http://37.58.75.166
+      www url starts-with http://37.59.10.197
+      www url starts-with http://37.59.117.238
+      www url starts-with http://37.59.16.198
+      www url starts-with http://37.59.24.148
+      www url starts-with http://37.59.34.33
+      www url starts-with http://37.59.37.201
+      www url starts-with http://37.59.41.148
+      www url starts-with http://37.59.6.82
+      www url starts-with http://37.72.100.39
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_121
+      www url starts-with http://38.106.56.119
+      www url starts-with http://38.127.70.219
+      www url starts-with http://38.96.148.138
+      www url starts-with http://38.96.148.173
+      www url starts-with http://38.96.148.18
+      www url starts-with http://38.96.148.217
+      www url starts-with http://38.96.148.253
+      www url starts-with http://38.96.148.254
+      www url starts-with http://38.96.148.26
+      www url starts-with http://38.96.148.39
+      www url starts-with http://38.96.148.40
+      www url starts-with http://38.96.148.69
+      www url starts-with http://38.96.175.97
+      www url starts-with http://38.99.182.49
+      www url starts-with http://4.59.53.62
+      www url starts-with http://41.220.132.5
+      www url starts-with http://41.221.192.2
+      www url starts-with http://46.10.150.243
+      www url starts-with http://46.105.102.17
+      www url starts-with http://46.105.111.94
+      www url starts-with http://46.105.118.14
+      www url starts-with http://46.105.121.125
+      www url starts-with http://46.105.121.31
+      www url starts-with http://46.105.131.0
+      www url starts-with http://46.105.171.200
+      www url starts-with http://46.105.172.166
+      www url starts-with http://46.137.18.79
+      www url starts-with http://46.150.34.194
+      www url starts-with http://46.163.108.110
+      www url starts-with http://46.163.108.200
+      www url starts-with http://46.163.111.200
+      www url starts-with http://46.163.117.44
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_122
+      www url starts-with http://46.163.124.61
+      www url starts-with http://46.163.64.164
+      www url starts-with http://46.163.73.200
+      www url starts-with http://46.163.75.84
+      www url starts-with http://46.165.195.133
+      www url starts-with http://46.165.197.36
+      www url starts-with http://46.165.207.50
+      www url starts-with http://46.165.233.174
+      www url starts-with http://46.165.233.175
+      www url starts-with http://46.18.33.24
+      www url starts-with http://46.20.3.195
+      www url starts-with http://46.20.3.198
+      www url starts-with http://46.20.3.204
+      www url starts-with http://46.20.3.230
+      www url starts-with http://46.20.4.3
+      www url starts-with http://46.20.7.125
+      www url starts-with http://46.21.146.43
+      www url starts-with http://46.21.174.43
+      www url starts-with http://46.214.212.101
+      www url starts-with http://46.227.60.32
+      www url starts-with http://46.23.68.170
+      www url starts-with http://46.235.13.59
+      www url starts-with http://46.249.47.55
+      www url starts-with http://46.249.57.193
+      www url starts-with http://46.28.49.164
+      www url starts-with http://46.28.49.180
+      www url starts-with http://46.28.53.118
+      www url starts-with http://46.28.53.198
+      www url starts-with http://46.29.255.39
+      www url starts-with http://46.37.13.184
+      www url starts-with http://46.39.192.8
+      www url starts-with http://46.4.100.174
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_123
+      www url starts-with http://46.4.107.109
+      www url starts-with http://46.4.11.250
+      www url starts-with http://46.4.174.196
+      www url starts-with http://46.4.33.73
+      www url starts-with http://46.4.37.132
+      www url starts-with http://46.4.73.140
+      www url starts-with http://46.4.76.142
+      www url starts-with http://46.4.77.85
+      www url starts-with http://46.41.129.195
+      www url starts-with http://46.45.87.3
+      www url starts-with http://46.7.97.5
+      www url starts-with http://49.50.246.42
+      www url starts-with http://5.10.34.52
+      www url starts-with http://5.103.128.66
+      www url starts-with http://5.135.144.250
+      www url starts-with http://5.135.152.181
+      www url starts-with http://5.135.153.24
+      www url starts-with http://5.135.155.232
+      www url starts-with http://5.135.158.160
+      www url starts-with http://5.135.160.122
+      www url starts-with http://5.135.182.167
+      www url starts-with http://5.135.182.168
+      www url starts-with http://5.135.182.169
+      www url starts-with http://5.135.183.124
+      www url starts-with http://5.135.230.144
+      www url starts-with http://5.135.238.89
+      www url starts-with http://5.152.208.98
+      www url starts-with http://5.153.19.4
+      www url starts-with http://5.154.242.35
+      www url starts-with http://5.154.64.16
+      www url starts-with http://5.172.194.10
+      www url starts-with http://5.172.194.206
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_126
+      www url starts-with http://5.178.64.149
+      www url starts-with http://5.199.142.80
+      www url starts-with http://5.199.169.190
+      www url starts-with http://5.2.81.131
+      www url starts-with http://5.201.13.191
+      www url starts-with http://5.35.255.134
+      www url starts-with http://5.39.54.107
+      www url starts-with http://5.39.66.128
+      www url starts-with http://5.39.79.33
+      www url starts-with http://5.39.8.147
+      www url starts-with http://5.39.82.140
+      www url starts-with http://5.39.86.108
+      www url starts-with http://5.39.86.44
+      www url starts-with http://5.39.87.10
+      www url starts-with http://5.39.92.86
+      www url starts-with http://5.39.95.210
+      www url starts-with http://5.39.95.59
+      www url starts-with http://5.44.97.45
+      www url starts-with http://5.45.105.72
+      www url starts-with http://5.57.225.135
+      www url starts-with http://5.63.144.4
+      www url starts-with http://5.63.145.172
+      www url starts-with http://5.63.145.173
+      www url starts-with http://5.63.151.52
+      www url starts-with http://5.9.174.66
+      www url starts-with http://5.9.65.9
+      www url starts-with http://5.9.71.20
+      www url starts-with http://5.9.94.144
+      www url starts-with http://50.115.119.50
+      www url starts-with http://50.115.5.149
+      www url starts-with http://50.117.26.26
+      www url starts-with http://50.117.8.242
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_127
+      www url starts-with http://50.121.0.35
+      www url starts-with http://50.199.104.53
+      www url starts-with http://50.22.212.194
+      www url starts-with http://50.22.212.195
+      www url starts-with http://50.22.212.196
+      www url starts-with http://50.22.212.203
+      www url starts-with http://50.22.212.204
+      www url starts-with http://50.22.212.205
+      www url starts-with http://50.22.217.204
+      www url starts-with http://50.22.223.16
+      www url starts-with http://50.22.253.43
+      www url starts-with http://50.22.253.45
+      www url starts-with http://50.22.253.46
+      www url starts-with http://50.23.34.220
+      www url starts-with http://50.30.34.5
+      www url starts-with http://50.30.40.140
+      www url starts-with http://50.30.47.58
+      www url starts-with http://50.31.135.114
+      www url starts-with http://50.31.135.43
+      www url starts-with http://50.31.167.236
+      www url starts-with http://50.31.185.133
+      www url starts-with http://50.31.192.100
+      www url starts-with http://50.31.192.102
+      www url starts-with http://50.31.192.99
+      www url starts-with http://50.31.200.125
+      www url starts-with http://50.31.252.7
+      www url starts-with http://50.56.237.164
+      www url starts-with http://50.62.164.158
+      www url starts-with http://50.7.129.122
+      www url starts-with http://50.7.158.44
+      www url starts-with http://50.7.16.114
+      www url starts-with http://50.7.173.162
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_128
+      www url starts-with http://50.7.181.186
+      www url starts-with http://50.7.184.106
+      www url starts-with http://50.7.242.154
+      www url starts-with http://50.7.244.74
+      www url starts-with http://50.7.29.178
+      www url starts-with http://50.7.53.2
+      www url starts-with http://50.7.56.2
+      www url starts-with http://50.7.6.66
+      www url starts-with http://50.7.66.226
+      www url starts-with http://50.7.66.3
+      www url starts-with http://50.7.66.66
+      www url starts-with http://50.7.70.130
+      www url starts-with http://50.7.70.42
+      www url starts-with http://50.7.70.58
+      www url starts-with http://50.7.70.66
+      www url starts-with http://50.7.71.27
+      www url starts-with http://50.7.71.30
+      www url starts-with http://50.7.76.250
+      www url starts-with http://50.7.77.114
+      www url starts-with http://50.7.77.115
+      www url starts-with http://50.7.77.116
+      www url starts-with http://50.7.77.178
+      www url starts-with http://50.7.77.179
+      www url starts-with http://50.7.77.180
+      www url starts-with http://50.7.96.138
+      www url starts-with http://50.7.96.210
+      www url starts-with http://50.7.98.106
+      www url starts-with http://50.7.98.234
+      www url starts-with http://50.73.118.237
+      www url starts-with http://50.97.204.42
+      www url starts-with http://50.97.204.44
+      www url contains ihrhls.com
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_13
+      tcp either-port = 1935
+      ip server-ip-address = 203.77.184.0/21
+    #exit
+    ruledef audio_6000_14
+      tcp either-port = 1935
+      ip server-ip-address = 117.121.248.0/21
+    #exit
+    ruledef audio_6000_15
+      tcp either-port = 1935
+      ip server-ip-address = 111.119.0.0/19
+    #exit
+    ruledef audio_6000_16
+      tcp either-port = 1935
+      ip server-ip-address = 111.221.32.0/21
+    #exit
+    ruledef audio_6000_17
+      tcp either-port = 1935
+      ip server-ip-address = 202.59.216.0/21
+    #exit
+    ruledef audio_6000_18
+      tcp either-port = 1935
+      ip server-ip-address = 41.63.64.0/18
+    #exit
+    ruledef audio_6000_19
+      tcp either-port = 1935
+      ip server-ip-address = 69.28.128.0/18
+    #exit
+    ruledef audio_6000_20
+      www url contains espn.edge-1
+      www url contains abacast.net
+    #exit
+    ruledef audio_6000_21
+      www url contains slacker.com
+      www url contains espnradiouhls-lh.akamaihd.net
+      www url contains stream.espnradio.com/ESPNRadio
+      www url contains playerservices.streamtheworld.com/api/livestream-redirect
+      www url contains icy3.abacast.com/dialglobal-NCAA
+      www url contains v1/espn.akacast.akamaistream.net/espn
+      www url contains edge.espn.cdn.abacast.net/espn
+      www url contains slkimg.com
+      www url contains streaming.radionomy.com
+      www url contains streaming64.radionomy.com
+      www url contains api.radio.com
+      www url contains relay.play.it
+      www url contains yourday.cbslocal.com
+      www url contains images.play.it
+      www url contains assets.play.it
+      www url contains yahoomedia.cbs.cust.cbici.net
+      www url contains mobile.townsquareblogs.com
+      www url contains ws.audioscrobbler.com
+      www url starts-with http://62.113.211.175
+      www url starts-with http://62.133.128.18
+      www url starts-with http://62.133.128.22
+      www url starts-with http://62.149.196.16
+      www url starts-with http://62.161.48.48
+      www url starts-with http://62.163.113.43
+      www url starts-with http://62.193.220.149
+      www url starts-with http://62.196.56.14
+      www url starts-with http://62.196.56.141
+      www url starts-with http://62.199.157.71
+      www url starts-with http://62.20.28.156
+      www url starts-with http://62.209.164.60
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_22
+    #exit
+    ruledef audio_6000_23
+    #exit
+    ruledef audio_6000_24
+    #exit
+    ruledef audio_6000_25
+    #exit
+    ruledef audio_6000_26
+    #exit
+    ruledef audio_6000_27
+    #exit
+    ruledef audio_6000_28
+    #exit
+    ruledef audio_6000_29
+    #exit
+    ruledef audio_6000_30
+    #exit
+    ruledef audio_6000_31
+      www url contains abacastcis.edgesuite.net
+      www url contains aac
+    #exit
+    ruledef audio_6000_32
+      www url contains mzstatic.com
+      http content type contains image/jp
+    #exit
+    ruledef audio_6000_62
+      www url contains radioparadise.com
+      www url contains d2t03vq6udg69j.cloudfront.net
+      www url contains fp-limelight.musicnet.com
+      www url contains images.mndigital.com
+      www url contains songza.com
+      www url contains songza.songs.s3.amazonaws.com
+      www url contains ak.rdio.com
+      www url contains m.cdn2.rd.io
+      www url contains grooveshark.com
+      www url starts-with images.gs-cdn.net
+      www url starts-with static-a.gs-cdn.net
+      www url contains cdn2-rdio.com
+      www url contains accu.fm
+      www url contains www.accuradio.com
+      www url contains d3tv6s6imp7430.cloudfront.net
+      www url contains d1qg6pckcqcdk0.cloudfront.net/
+      www url contains a47fe18f54.site.internapcdn.net/
+      www url contains edge-dl.andomedia.com/
+      www url contains lt160.tritondigital.com
+      www url contains runspot4.tritondigital.com/
+      www url contains player.cdn.targetspot.com/
+      www url contains saavn
+      www url contains UA-3091287
+      www url contains di.fm
+      www url contains audioaddict.com
+      www url contains frescaradio.com
+      www url contains music.stream.com
+      www url contains rockradio.com
+      www url contains sky.fm
+      www url contains radiotunes.com
+      www url contains radiox.streaming.com
+      www url contains jazzradio.com
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_63
+      ip server-ip-address = 23.227.171.52/32
+      ip server-ip-address = 184.72.231.198/32
+      ip server-ip-address = 184.72.232.108/32
+      ip server-ip-address = 184.72.235.243/32
+      ip server-ip-address = 184.73.157.38/32
+      ip server-ip-address = 23.23.85.13/32
+      ip server-ip-address = 8.18.203.0/24
+      ip server-ip-address = 23.92.178.67/32
+      ip server-ip-address = 8.20.213.42/32
+      ip server-ip-address = 8.20.213.43/32
+      ip server-ip-address = 8.20.213.47/32
+      ip server-ip-address = 8.19.240.170/32
+      ip server-ip-address = 8.19.240.118/32
+      ip server-ip-address = 54.251.109.70/32
+      www url starts-with http://62.210.131.213
+      www url starts-with http://62.210.193.211
+      www url starts-with http://62.210.204.202
+      www url starts-with http://62.210.209.179
+      www url starts-with http://62.210.214.169
+      www url starts-with http://62.210.77.87
+      www url starts-with http://62.212.72.241
+      www url starts-with http://62.27.87.90
+      www url starts-with http://62.27.87.91
+      www url starts-with http://62.45.72.38
+      www url starts-with http://62.63.40.146
+      www url starts-with http://62.65.107.19
+      www url starts-with http://62.75.143.87
+      www url starts-with http://62.75.215.7
+      www url starts-with http://62.75.229.89
+      www url starts-with http://62.75.243.150
+      www url starts-with http://62.75.253.117
+      www url starts-with http://62.75.254.88
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_64
+      www url contains rdio
+      www url contains akamaihd.net
+    #exit
+    ruledef audio_6000_65
+      ip server-ip-address = 199.27.128.0/21
+      ip server-ip-address = 173.245.48.0/20
+      ip server-ip-address = 103.21.244.0/22
+      ip server-ip-address = 103.22.200.0/22
+      ip server-ip-address = 103.31.4.0/22
+      ip server-ip-address = 141.101.64.0/18
+      ip server-ip-address = 108.162.192.0/18
+      ip server-ip-address = 190.93.240.0/20
+      ip server-ip-address = 188.114.96.0/20
+      ip server-ip-address = 197.234.240.0/22
+      ip server-ip-address = 198.41.128.0/17
+      ip server-ip-address = 162.158.0.0/15
+      ip server-ip-address = 104.16.0.0/12
+      ip server-ip-address = 2400:cb00::/32
+      ip server-ip-address = 2606:4700::/32
+      ip server-ip-address = 2803:f800::/32
+      ip server-ip-address = 2405:b500::/32
+      ip server-ip-address = 2405:8100::/32
+      ip server-ip-address = 210.10.10.10/32
+      ip server-ip-address = 64.70.115.169/32
+      ip server-ip-address = 128.242.177.144/32
+      ip server-ip-address = 23.23.196.130/32
+      www url starts-with http://62.80.190.247
+      www url starts-with http://63.243.149.5
+      www url starts-with http://63.247.76.50
+      www url starts-with http://64.111.18.90
+      www url starts-with http://64.131.80.52
+      www url starts-with http://64.15.147.216
+      www url starts-with http://64.15.147.220
+      www url starts-with http://64.15.147.221
+      www url starts-with http://64.15.155.49
+      www url starts-with http://64.150.176.192
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_66
+      www url contains streamtheworld.com
+      http content type contains audio/
+    #exit
+    ruledef audio_6000_67
+      www url contains live.streamtheworld.com
+      www url contains SRC=CBS
+      www url contains DIST=CBS
+    #exit
+    ruledef audio_6000_68
+      www url starts-with http://www.live365.com
+      www url contains soundclound.com
+      www url starts-with http://runner.fitradio.com
+      www url starts-with http://www.fitradio.com/
+      www url starts-with http://fp-limelight.musicnet.com/
+      ip server-ip-address = 72.21.81.167/32
+      ip server-ip-address = 72.21.81.77/32
+      ip server-ip-address = 72.21.92.87/32
+      ip server-ip-address = 72.21.91.96/32
+      ip server-ip-address = 72.21.91.127/32
+      www url starts-with http://musicimage.xboxlive.com/catalog/
+      www url starts-with http://64.150.176.87
+      www url starts-with http://64.150.176.9
+      www url starts-with http://64.150.191.39
+      www url starts-with http://64.18.173.6
+      www url starts-with http://64.191.133.210
+      www url starts-with http://64.20.55.42
+      www url starts-with http://64.202.109.5
+      www url starts-with http://64.202.98.203
+      www url starts-with http://64.202.98.32
+      www url starts-with http://64.202.98.55
+      www url starts-with http://64.202.98.76
+      www url starts-with http://64.202.98.81
+      www url starts-with http://64.22.99.222
+      www url starts-with http://64.235.54.14
+      www url starts-with http://64.237.34.50
+      www url starts-with http://64.239.211.6
+      www url starts-with http://64.27.3.104
+      www url starts-with http://64.31.14.42
+      www url starts-with http://64.31.59.118
+      www url starts-with http://64.34.170.177
+      www url starts-with http://64.37.55.229
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_70
+      www url starts-with http://103.14.3.137
+      www url starts-with http://103.16.199.241
+      www url starts-with http://103.18.108.75
+      www url starts-with http://103.246.18.17
+      www url starts-with http://103.28.148.18
+      www url starts-with http://104.130.146.201
+      www url starts-with http://104.206.180.20
+      www url starts-with http://107.1.6.13
+      www url starts-with http://107.152.137.180
+      www url starts-with http://107.155.111.170
+      www url starts-with http://107.155.111.234
+      www url starts-with http://107.155.126.42
+      www url starts-with http://107.155.126.58
+      www url starts-with http://107.155.190.96
+      www url starts-with http://107.161.123.146
+      www url starts-with http://107.170.141.102
+      www url starts-with http://107.170.188.129
+      www url starts-with http://107.170.95.131
+      www url starts-with http://107.181.227.250
+      www url starts-with http://107.181.233.74
+      www url starts-with http://107.181.234.250
+      www url starts-with http://108.163.164.123
+      www url starts-with http://108.163.166.98
+      www url starts-with http://108.163.177.42
+      www url starts-with http://108.163.197.114
+      www url starts-with http://108.163.215.90
+      www url starts-with http://108.163.223.242
+      www url starts-with http://108.163.229.102
+      www url starts-with http://108.166.161.206
+      www url starts-with http://108.166.161.210
+      www url starts-with http://108.170.44.115
+      www url starts-with http://108.175.12.19
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_71
+      www url starts-with http://108.175.169.145
+      www url starts-with http://108.175.169.34
+      www url starts-with http://108.178.57.196
+      www url starts-with http://108.59.9.75
+      www url starts-with http://108.78.58.210
+      www url starts-with http://109.123.114.172
+      www url starts-with http://109.123.114.30
+      www url starts-with http://109.123.114.74
+      www url starts-with http://109.123.116.202
+      www url starts-with http://109.169.26.139
+      www url starts-with http://109.169.37.164
+      www url starts-with http://109.169.59.107
+      www url starts-with http://109.169.87.103
+      www url starts-with http://109.169.87.184
+      www url starts-with http://109.169.96.11
+      www url starts-with http://109.190.81.136
+      www url starts-with http://109.199.57.91
+      www url starts-with http://109.199.58.93
+      www url starts-with http://109.200.2.91
+      www url starts-with http://109.206.96.18
+      www url starts-with http://109.230.229.141
+      www url starts-with http://109.230.231.217
+      www url starts-with http://109.69.219.69
+      www url starts-with http://109.71.41.230
+      www url starts-with http://109.71.41.250
+      www url starts-with http://109.72.87.233
+      www url starts-with http://112.121.150.133
+      www url starts-with http://112.121.150.38
+      www url starts-with http://114.31.201.3
+      www url starts-with http://115.178.31.101
+      www url starts-with http://115.178.48.43
+      www url starts-with http://117.103.65.146
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_72
+      www url starts-with http://118.97.130.210
+      www url starts-with http://119.235.255.206
+      www url starts-with http://119.252.116.151
+      www url starts-with http://119.252.120.70
+      www url starts-with http://120.29.10.249
+      www url starts-with http://122.155.18.152
+      www url starts-with http://124.82.221.133
+      www url starts-with http://124.82.221.137
+      www url starts-with http://128.163.13.116
+      www url starts-with http://128.163.9.136
+      www url starts-with http://128.199.137.214
+      www url starts-with http://128.42.201.25
+      www url starts-with http://128.97.251.120
+      www url starts-with http://128.gherlafm.ro
+      www url starts-with http://129.15.80.6
+      www url starts-with http://129.207.137.200
+      www url starts-with http://129.237.213.244
+      www url starts-with http://129.25.22.28
+      www url starts-with http://129.65.35.106
+      www url starts-with http://129.8.40.34
+      www url starts-with http://129.81.156.83
+      www url starts-with http://129.82.126.74
+      www url starts-with http://129.93.42.12
+      www url starts-with http://129.93.42.17
+      www url starts-with http://130.160.176.235
+      www url starts-with http://130.166.82.14
+      www url starts-with http://130.166.82.184
+      www url starts-with http://130.191.35.35
+      www url starts-with http://130.216.72.72
+      www url starts-with http://130.225.157.185
+      www url starts-with http://130.238.166.180
+      www url starts-with http://130.86.148.243
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_73
+      www url starts-with http://130.86.239.231
+      www url starts-with http://130.86.239.232
+      www url starts-with http://130.89.167.80
+      www url starts-with http://131.123.202.81
+      www url starts-with http://131.128.158.230
+      www url starts-with http://131.175.119.97
+      www url starts-with http://131.217.118.2
+      www url starts-with http://131.230.242.36
+      www url starts-with http://131.230.242.37
+      www url starts-with http://132.252.179.253
+      www url starts-with http://134.121.170.48
+      www url starts-with http://134.121.234.129
+      www url starts-with http://134.255.219.182
+      www url starts-with http://136.183.11.171
+      www url starts-with http://137.92.68.220
+      www url starts-with http://138.23.75.92
+      www url starts-with http://138.25.219.25
+      www url starts-with http://139.78.176.129
+      www url starts-with http://139.78.176.130
+      www url starts-with http://140.144.90.20
+      www url starts-with http://141.217.119.14
+      www url starts-with http://141.99.154.10
+      www url starts-with http://142.4.201.73
+      www url starts-with http://142.4.202.125
+      www url starts-with http://142.4.216.91
+      www url starts-with http://142.4.222.101
+      www url starts-with http://142.4.30.107
+      www url starts-with http://143.226.67.217
+      www url starts-with http://143.239.169.110
+      www url starts-with http://143.51.142.148
+      www url starts-with http://143.95.95.223
+      www url starts-with http://144.76.109.79
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_74
+      www url starts-with http://144.76.172.23
+      www url starts-with http://144.76.174.181
+      www url starts-with http://144.76.196.180
+      www url starts-with http://144.76.84.8
+      www url starts-with http://145.58.83.152
+      www url starts-with http://146.0.79.5
+      www url starts-with http://146.155.190.111
+      www url starts-with http://146.155.201.150
+      www url starts-with http://146.185.139.197
+      www url starts-with http://146.185.18.251
+      www url starts-with http://146.186.73.195
+      www url starts-with http://146.201.215.226
+      www url starts-with http://146.255.248.166
+      www url starts-with http://146.66.240.84
+      www url starts-with http://146.71.118.154
+      www url starts-with http://147.102.82.129
+      www url starts-with http://147.144.1.205
+      www url starts-with http://147.162.19.241
+      www url starts-with http://147.174.55.27
+      www url starts-with http://147.175.61.101
+      www url starts-with http://147.175.61.250
+      www url starts-with http://147.175.61.55
+      www url starts-with http://147.27.23.40
+      www url starts-with http://148.202.165.1
+      www url starts-with http://148.214.7.23
+      www url starts-with http://148.228.154.24
+      www url starts-with http://148.231.3.56
+      www url starts-with http://148.243.214.11
+      www url starts-with http://148.251.128.213
+      www url starts-with http://148.251.146.100
+      www url starts-with http://148.251.182.223
+      www url starts-with http://148.251.68.37
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_75
+      www url starts-with http://149.13.0.80
+      www url starts-with http://149.13.0.81
+      www url starts-with http://149.255.33.72
+      www url starts-with http://149.255.33.76
+      www url starts-with http://149.255.33.77
+      www url starts-with http://149.255.59.162
+      www url starts-with http://150.161.93.174
+      www url starts-with http://151.78.64.221
+      www url starts-with http://151.97.15.7
+      www url starts-with http://152.1.144.198
+      www url starts-with http://152.2.63.68
+      www url starts-with http://153.1.15.26
+      www url starts-with http://154.41.66.146
+      www url starts-with http://154.66.224.11
+      www url starts-with http://155.42.90.13
+      www url starts-with http://155.94.65.114
+      www url starts-with http://157.181.47.204
+      www url starts-with http://157.27.6.40
+      www url starts-with http://158.125.14.12
+      www url starts-with http://158.170.20.250
+      www url starts-with http://158.170.20.252
+      www url starts-with http://158.58.168.204
+      www url starts-with http://158.58.168.218
+      www url starts-with http://158.85.69.148
+      www url starts-with http://158.85.69.150
+      www url starts-with http://159.237.114.83
+      www url starts-with http://159.253.131.114
+      www url starts-with http://159.253.149.12
+      www url starts-with http://159.8.16.16
+      www url starts-with http://160.39.103.190
+      www url starts-with http://160.75.86.29
+      www url starts-with http://161.53.122.184
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_76
+      www url starts-with http://162.144.96.212
+      www url starts-with http://162.210.36.10
+      www url starts-with http://162.210.39.218
+      www url starts-with http://162.218.115.213
+      www url starts-with http://162.243.167.103
+      www url starts-with http://162.244.81.101
+      www url starts-with http://162.244.81.155
+      www url starts-with http://162.249.57.143
+      www url starts-with http://162.249.57.149
+      www url starts-with http://162.251.160.2
+      www url starts-with http://162.251.160.98
+      www url starts-with http://162.252.57.90
+      www url starts-with http://162.253.154.151
+      www url starts-with http://165.228.147.198
+      www url starts-with http://165.95.101.52
+      www url starts-with http://165.98.68.45
+      www url starts-with http://167.88.241.163
+      www url starts-with http://168.144.38.188
+      www url starts-with http://168.144.82.115
+      www url starts-with http://169.130.138.162
+      www url starts-with http://169.237.101.239
+      www url starts-with http://170.75.146.130
+      www url starts-with http://170.75.146.162
+      www url starts-with http://170.75.146.178
+      www url starts-with http://171.66.118.51
+      www url starts-with http://173.10.90.186
+      www url starts-with http://173.178.86.106
+      www url starts-with http://173.192.137.34
+      www url starts-with http://173.192.185.162
+      www url starts-with http://173.192.198.244
+      www url starts-with http://173.192.205.185
+      www url starts-with http://173.192.207.51
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_77
+      www url starts-with http://173.192.228.34
+      www url starts-with http://173.192.32.199
+      www url starts-with http://173.192.70.138
+      www url starts-with http://173.192.81.140
+      www url starts-with http://173.193.14.162
+      www url starts-with http://173.193.14.170
+      www url starts-with http://173.193.156.98
+      www url starts-with http://173.193.195.155
+      www url starts-with http://173.193.202.68
+      www url starts-with http://173.193.205.96
+      www url starts-with http://173.193.219.163
+      www url starts-with http://173.193.32.145
+      www url starts-with http://173.193.9.69
+      www url starts-with http://173.197.161.194
+      www url starts-with http://173.197.161.195
+      www url starts-with http://173.198.200.66
+      www url starts-with http://173.199.149.246
+      www url starts-with http://173.208.128.10
+      www url starts-with http://173.208.166.12
+      www url starts-with http://173.208.210.42
+      www url starts-with http://173.208.235.233
+      www url starts-with http://173.214.175.16
+      www url starts-with http://173.224.124.211
+      www url starts-with http://173.231.43.82
+      www url starts-with http://173.236.19.90
+      www url starts-with http://173.236.28.138
+      www url starts-with http://173.236.29.50
+      www url starts-with http://173.236.29.52
+      www url starts-with http://173.236.29.53
+      www url starts-with http://173.236.30.162
+      www url starts-with http://173.236.59.83
+      www url starts-with http://173.243.114.138
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_78
+      www url starts-with http://173.243.114.50
+      www url starts-with http://173.244.196.111
+      www url starts-with http://173.244.196.114
+      www url starts-with http://173.244.215.162
+      www url starts-with http://173.244.215.163
+      www url starts-with http://173.249.145.57
+      www url starts-with http://173.249.152.73
+      www url starts-with http://173.255.205.241
+      www url starts-with http://173.255.212.74
+      www url starts-with http://173.255.245.111
+      www url starts-with http://173.44.38.117
+      www url starts-with http://173.52.82.167
+      www url starts-with http://173.52.93.241
+      www url starts-with http://173.68.130.170
+      www url starts-with http://174.121.28.11
+      www url starts-with http://174.122.121.106
+      www url starts-with http://174.122.246.146
+      www url starts-with http://174.122.74.82
+      www url starts-with http://174.123.174.50
+      www url starts-with http://174.123.174.52
+      www url starts-with http://174.123.20.130
+      www url starts-with http://174.123.20.131
+      www url starts-with http://174.123.20.132
+      www url starts-with http://174.123.211.119
+      www url starts-with http://174.123.84.169
+      www url starts-with http://174.127.101.183
+      www url starts-with http://174.127.126.169
+      www url starts-with http://174.127.65.10
+      www url starts-with http://174.127.65.11
+      www url starts-with http://174.133.198.34
+      www url starts-with http://174.142.111.104
+      www url starts-with http://174.142.131.163
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_79
+      www url starts-with http://174.142.166.198
+      www url starts-with http://174.142.176.108
+      www url starts-with http://174.142.198.110
+      www url starts-with http://174.142.207.145
+      www url starts-with http://174.142.210.40
+      www url starts-with http://174.142.97.107
+      www url starts-with http://174.36.1.92
+      www url starts-with http://174.36.196.156
+      www url starts-with http://174.36.206.197
+      www url starts-with http://174.36.232.226
+      www url starts-with http://174.36.232.227
+      www url starts-with http://174.36.237.118
+      www url starts-with http://174.36.237.66
+      www url starts-with http://174.36.254.8
+      www url starts-with http://174.36.3.237
+      www url starts-with http://174.36.42.123
+      www url starts-with http://174.36.51.212
+      www url starts-with http://174.36.60.195
+      www url starts-with http://174.36.75.194
+      www url starts-with http://174.37.110.72
+      www url starts-with http://174.37.117.138
+      www url starts-with http://174.37.159.206
+      www url starts-with http://174.37.16.73
+      www url starts-with http://174.37.188.123
+      www url starts-with http://174.37.194.139
+      www url starts-with http://174.37.252.208
+      www url starts-with http://174.37.99.198
+      www url starts-with http://174.37.99.199
+      www url starts-with http://174.75.34.50
+      www url starts-with http://175.103.49.108
+      www url starts-with http://175.103.49.43
+      www url starts-with http://175.103.56.9
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_80
+      www url starts-with http://175.103.58.72
+      www url starts-with http://176.28.19.156
+      www url starts-with http://176.28.22.114
+      www url starts-with http://176.28.22.65
+      www url starts-with http://176.28.53.207
+      www url starts-with http://176.31.105.44
+      www url starts-with http://176.31.111.221
+      www url starts-with http://176.31.113.37
+      www url starts-with http://176.31.114.46
+      www url starts-with http://176.31.115.208
+      www url starts-with http://176.31.119.177
+      www url starts-with http://176.31.127.147
+      www url starts-with http://176.31.132.102
+      www url starts-with http://176.31.189.172
+      www url starts-with http://176.31.224.21
+      www url starts-with http://176.31.235.193
+      www url starts-with http://176.31.239.83
+      www url starts-with http://176.31.240.114
+      www url starts-with http://176.31.242.141
+      www url starts-with http://176.31.245.161
+      www url starts-with http://176.31.246.109
+      www url starts-with http://176.31.251.17
+      www url starts-with http://176.31.254.217
+      www url starts-with http://176.31.97.5
+      www url starts-with http://176.31.97.6
+      www url starts-with http://176.56.233.51
+      www url starts-with http://176.57.242.50
+      www url starts-with http://176.9.112.207
+      www url starts-with http://176.9.138.209
+      www url starts-with http://176.9.30.66
+      www url starts-with http://176.9.4.50
+      www url starts-with http://177.105.192.70
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_81
+      www url starts-with http://177.220.215.22
+      www url starts-with http://177.221.161.198
+      www url starts-with http://177.5.225.79
+      www url starts-with http://177.70.1.42
+      www url starts-with http://177.73.236.56
+      www url starts-with http://177.91.101.3
+      www url starts-with http://177.99.199.58
+      www url starts-with http://178.18.137.245
+      www url starts-with http://178.18.26.132
+      www url starts-with http://178.19.114.124
+      www url starts-with http://178.19.114.50
+      www url starts-with http://178.19.114.74
+      www url starts-with http://178.19.116.3
+      www url starts-with http://178.19.127.3
+      www url starts-with http://178.19.127.9
+      www url starts-with http://178.20.171.34
+      www url starts-with http://178.20.171.36
+      www url starts-with http://178.20.247.205
+      www url starts-with http://178.21.16.120
+      www url starts-with http://178.21.169.118
+      www url starts-with http://178.21.19.165
+      www url starts-with http://178.22.251.65
+      www url starts-with http://178.238.239.195
+      www url starts-with http://178.248.214.128
+      www url starts-with http://178.250.66.145
+      www url starts-with http://178.251.24.84
+      www url starts-with http://178.254.42.218
+      www url starts-with http://178.254.55.9
+      www url starts-with http://178.32.136.160
+      www url starts-with http://178.32.136.9
+      www url starts-with http://178.32.137.180
+      www url starts-with http://178.32.139.167
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_82
+      www url starts-with http://178.32.139.86
+      www url starts-with http://178.32.140.82
+      www url starts-with http://178.32.218.97
+      www url starts-with http://178.32.222.164
+      www url starts-with http://178.33.108.145
+      www url starts-with http://178.33.114.254
+      www url starts-with http://178.33.115.87
+      www url starts-with http://178.33.116.6
+      www url starts-with http://178.33.162.8
+      www url starts-with http://178.33.166.7
+      www url starts-with http://178.33.23.241
+      www url starts-with http://178.33.32.91
+      www url starts-with http://178.59.22.125
+      www url starts-with http://178.63.21.75
+      www url starts-with http://178.63.30.140
+      www url starts-with http://178.77.76.9
+      www url starts-with http://178.77.98.74
+      www url starts-with http://178.79.145.127
+      www url starts-with http://178.79.25.9
+      www url starts-with http://184.105.134.25
+      www url starts-with http://184.107.159.242
+      www url starts-with http://184.107.172.74
+      www url starts-with http://184.107.174.42
+      www url starts-with http://184.107.179.162
+      www url starts-with http://184.107.186.22
+      www url starts-with http://184.107.187.146
+      www url starts-with http://184.107.195.130
+      www url starts-with http://184.107.197.155
+      www url starts-with http://184.107.199.178
+      www url starts-with http://184.107.202.178
+      www url starts-with http://184.107.210.203
+      www url starts-with http://184.107.217.186
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_83
+      www url starts-with http://184.107.221.58
+      www url starts-with http://184.107.228.117
+      www url starts-with http://184.107.232.106
+      www url starts-with http://184.107.242.186
+      www url starts-with http://184.107.27.99
+      www url starts-with http://184.107.58.100
+      www url starts-with http://184.154.142.234
+      www url starts-with http://184.154.145.114
+      www url starts-with http://184.154.150.93
+      www url starts-with http://184.154.177.178
+      www url starts-with http://184.154.185.170
+      www url starts-with http://184.154.185.171
+      www url starts-with http://184.154.185.173
+      www url starts-with http://184.154.185.179
+      www url starts-with http://184.154.185.181
+      www url starts-with http://184.154.202.243
+      www url starts-with http://184.154.33.118
+      www url starts-with http://184.154.43.106
+      www url starts-with http://184.154.45.106
+      www url starts-with http://184.154.45.91
+      www url starts-with http://184.154.57.230
+      www url starts-with http://184.154.74.51
+      www url starts-with http://184.154.90.186
+      www url starts-with http://184.154.93.14
+      www url starts-with http://184.164.128.38
+      www url starts-with http://184.164.138.163
+      www url starts-with http://184.164.158.139
+      www url starts-with http://184.168.106.59
+      www url starts-with http://184.171.104.41
+      www url starts-with http://184.171.244.66
+      www url starts-with http://184.171.255.241
+      www url starts-with http://184.172.153.2
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_99
+      http content type contains audio/mpeg
+      http content type contains mp3
+      http content type contains aac
+      http content type contains audio/mp4
+      http content type contains audio/x-ms-wma
+      http content type contains audio/isma
+      www url starts-with http://64.71.133.122
+      www url starts-with http://64.71.144.72
+      www url starts-with http://64.72.118.14
+      www url starts-with http://64.74.176.23
+      www url starts-with http://64.79.213.52
+      www url starts-with http://64.85.165.155
+      www url starts-with http://64.85.167.180
+      www url starts-with http://64.95.243.144
+      www url starts-with http://65.111.185.113
+      www url starts-with http://65.182.104.113
+      www url starts-with http://65.19.131.152
+      www url starts-with https://mysxm.quickplay.com
+      www url starts-with http://mysxm-vlog.quickplay.com
+      www url starts-with http://sxmradio-aod-chunks.quickplay.ca
+      www url starts-with http://sxmradio-aod-chunks.quickplay.com
+      www url starts-with http://sxm.quickplay.ca
+      www url starts-with http://sxm-live-chunks.quickplay.ca
+      www url starts-with http://sxmsaltlake-vlog.quickplay.com
+      www url starts-with http://www.siriusxm.com/albumart
+      www url starts-with http://*.ribob02.net
+      www url starts-with http://*.ribob03.net
+      www url contains api-k2prod.mountain.siriusxm.com
+      www url contains primary.hls-streaming.production.streaming.siriusxm.com
+      www url contains secondary.hls-streaming.production.streaming.siriusxm.com
+      www url contains concdn.ribob02.net
+      www url contains concdnsecure.ribob02.net
+      multi-line-or all-lines
+    #exit
+    ruledef audio_ads_6000_01
+      www url contains wpc.250f.edgecastcdn.net
+      www url contains iadctest.qwapi.com
+      www url contains doubleclick.net
+      http user-agent contains pandora
+      www url starts-with http://deliveryengine.di.adswizz.com/afr
+      www url starts-with http://ads.millennialmedia.com
+      www url starts-with http://ads.mopub.com
+      www url starts-with http://cdn1.inner-active.mobi
+      www url starts-with http://m2m1.inner-active.mobi
+      www url starts-with http://wv.inner-active.mobi
+      www url starts-with http://ad3.liverail.com
+      www url starts-with http://ad4.liverail.com
+      www url starts-with http://cdn.liverail.com
+      www url starts-with http://cdn-static.liverail.com
+      www url starts-with http://t4.liverail.com
+      www url starts-with http://vox-static.liverail.com
+      ip server-ip-address = 70.42.73.10/32
+      multi-line-or all-lines
+    #exit

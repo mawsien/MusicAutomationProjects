@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GibbonGUI.Qik">
+    <Position X="0.75" Y="3.25" Width="2.5" />
+    <NestedTypes>
+      <Delegate Name="GibbonGUI.Qik.QikCallStatusChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AndroidDevice.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="GibbonGUI.Qik.QikStatisticChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AndroidDevice.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAQBIAEAQJAAQBBAIgBECQAIAAFAAAAAAEEAAASA=</HashCode>
+      <FileName>AndroidDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GibbonGUI.CallStatusEnum">
+    <Position X="2" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAJAAAAAAAAAAAAAAAAgAAIABAAAAAAAAAA=</HashCode>
+      <FileName>AndroidDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GibbonGUI.MainForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>vRKGkgLVgTNgSVS2KWGcQtCmDXAMAE8moCBNGYWB7IY=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GibbonGUI.Program" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandLine" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAI=</HashCode>
+      <FileName>CommandLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GListBoxItem" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEIAAAAAAAAAAAAAAAAAAACAAAQAA=</HashCode>
+      <FileName>FlickerFreeListView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlickerFreeListView" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>FlickerFreeListView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogForm" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAAAAAAAiBAAAGAAgAAAAAICAEEACgAAA=</HashCode>
+      <FileName>LogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GibbonGUI.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAIAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GibbonGUI.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAhAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GibbonGUI.QikCallStatusEnum">
+    <Position X="3.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACCAJAAAAAAAAAAAAAAAAgAAIABAAAAAAAAAA=</HashCode>
+      <FileName>AndroidDevice.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LogMsgType">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>LogForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

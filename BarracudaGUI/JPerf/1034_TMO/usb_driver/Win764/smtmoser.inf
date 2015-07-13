@@ -1,0 +1,85 @@
+; Windows Virtual Serial Port Setup File
+; Copyright (c) 2006-2007 Huawei Incorporated
+; Manufacturer: Huawei Incorporated
+;
+; This INF file installs a virtual COM port on Windows 64bit system.
+
+[Version]
+signature  = "$WINDOWS NT$"
+Class      = Ports
+Provider   = %HUAWEI%
+ClassGuid  = {4D36E978-E325-11CE-BFC1-08002BE10318}
+DriverVer=02/02/2010,2.0.6.601
+CatalogFile= smtmoser.cat
+
+[ControlFlags]
+ExcludeFromSelect = *
+
+[Manufacturer]
+%HUAWEI% = QcomSerialPort, NTia64, NTamd64
+
+[SourceDisksNames]
+1000 = %HuaweiSrcDisk%,"",,
+
+[SourceDisksFiles]
+smtmoser.sys = 1000
+
+[QcomSerialPort]
+%HwDevice1%  = QportInstall00, USB\VID_12D1&PID_1034&MI_01
+%HwDevice4%  = QportInstall00, USB\VID_12D1&PID_1034&MI_04
+%HwDevice5%  = QportInstall00, USB\VID_12D1&PID_1034&MI_05
+
+;for window logo test
+%HwDeviceLogoTest%  = QportInstall00, USB\VID_12D1&PID_1032&MI_01
+
+[QcomSerialPort.NTia64]
+%HwDevice1%  = QportInstall00, USB\VID_12D1&PID_1034&MI_01
+%HwDevice4%  = QportInstall00, USB\VID_12D1&PID_1034&MI_04
+%HwDevice5%  = QportInstall00, USB\VID_12D1&PID_1034&MI_05
+
+;for window logo test
+%HwDeviceLogoTest%  = QportInstall00, USB\VID_12D1&PID_1032&MI_01
+
+[QcomSerialPort.NTamd64]
+%HwDevice1%  = QportInstall00, USB\VID_12D1&PID_1034&MI_01
+%HwDevice4%  = QportInstall00, USB\VID_12D1&PID_1034&MI_04
+%HwDevice5%  = QportInstall00, USB\VID_12D1&PID_1034&MI_05
+
+;for window logo test
+%HwDeviceLogoTest%  = QportInstall00, USB\VID_12D1&PID_1032&MI_01
+
+[QportInstall00.NT]
+CopyFiles=QCUsbDriverFiles
+AddReg = All00, AddReg
+
+[QCUsbDriverFiles]
+smtmoser.sys
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+[QportInstall00.NT.Services]
+AddService=smtmoser,  0x00000002, QC_USBSerialService
+
+[QC_USBSerialService]
+DisplayName   = %HWUSBSER%
+ServiceType   = 1
+StartType     = 3
+ErrorControl  = 1
+ServiceBinary = %12%\smtmoser.sys
+
+[All00]
+HKR,,NTMPDriver,,smtmoser.sys
+
+[AddReg]
+HKR,,PortSubClass,1,01
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[Strings]
+HWUSBSER = "USB Device for Legacy Serial Communication (T-Mobile)"
+HuaweiSrcDisk = "Huawei USB Driver Disk"
+HUAWEI	      = "Huawei Incorporated"
+HwDevice1 = "T-Mobile 3G Phone PCUI"
+HwDevice4 = "DBAdapter Reserved Interface"
+HwDevice5 = "DBConsole Reserved Interface"
+HwDeviceLogoTest="T-Mobile 3G Phone PCUI (for Logo Test)"

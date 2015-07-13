@@ -1,0 +1,18 @@
+﻿TestCaseID,Title,Param,param2,Execute,Num Attempts,Num Phone
+2.1,	Wi-Fi Preferred mode; Open Wi-Fi network - registration and calling,,,0,1,1
+2.2,	Wi-Fi Preferred mode;  Wi-Fi network secured with WEP- registration and calling,,,0,1,1
+2.3,	Wi-Fi Preferred mode;  Wi-Fi network secured with WPA - registration and calling,,,0,1,1
+2.4,	Wi-Fi Preferred mode;  Wi-Fi network secured with WPA2 - registration and calling,,,0,1,1
+2.5,	Wi-Fi Only mode; Open Wi-Fi network - registration and calling,,,0,1,1
+2.6,	Wi-Fi Only mode;  Wi-Fi network secured with WEP- registration and calling,,,0,1,1
+2.7,	Wi-Fi Only mode;  Wi-Fi network secured with WPA - registration and calling,,,0,1,1
+2.8,	Wi-Fi Only mode;  Wi-Fi network secured with WPA2 - registration and calling,,,0,1,1
+2.9,	Cellular Preferred mode; Open Wi-Fi network - registration and calling,,,0,1,1
+2.10,	Cellular Preferred;  Wi-Fi network secured with WEP- registration and calling,,,0,1,1
+2.11,	Cellular Preferred;  Wi-Fi network secured with WPA - registration and calling,,,0,1,1
+2.12,	Cellular Preferred;  Wi-Fi network secured with WPA2 - registration and calling,,,0,1,1
+2.13,	Wi-Fi Preferred - SIM lock enable,,,1,1,1
+2.14,	Wi-Fi Preferred - SIM lock disable,,,0,1,1
+2.15,	Wi-Fi Preferred - SIM lock,,,0,1,1
+2.16,	Error Code: DNS,,,0,1,1
+2.17,	DHCP lease renews on Standby,,,1,1,1

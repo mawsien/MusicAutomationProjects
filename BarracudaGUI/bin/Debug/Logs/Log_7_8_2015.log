@@ -1,0 +1,903 @@
+7/8/2015 10:48:12 AM : ******************Start TestCase 0.1******************
+7/8/2015 10:48:12 AM : Going Back to Home screen.
+7/8/2015 10:48:12 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:48:21 AM : d41c9385_currentScreen-2015-07-08_10-48-12-AM.png
+7/8/2015 10:48:22 AM : Play band Ambient
+7/8/2015 10:48:23 AM : Start music service
+7/8/2015 10:48:23 AM : Clicking by template StartIcon.png
+7/8/2015 10:48:23 AM : Verfiying template StartIcon.png
+7/8/2015 10:48:23 AM : Accuracy is D=0.999999165534973
+7/8/2015 10:48:23 AM : Template StartIcon.png is Verified. 
+7/8/2015 10:48:23 AM : Touching on  X=335, Y=98
+7/8/2015 10:48:23 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:48:30 AM : d41c9385_currentScreen-2015-07-08_10-48-23-AM.png
+7/8/2015 10:48:31 AM : Clicking by template MenuLines.png
+7/8/2015 10:48:31 AM : Verfiying template MenuLines.png
+7/8/2015 10:48:32 AM : Accuracy is D=0.999998271465302
+7/8/2015 10:48:32 AM : Template MenuLines.png is Verified. 
+7/8/2015 10:48:32 AM : Touching on  X=43, Y=73
+7/8/2015 10:48:32 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:48:39 AM : d41c9385_currentScreen-2015-07-08_10-48-32-AM.png
+7/8/2015 10:48:39 AM : Clicking by template SearchMusic.png
+7/8/2015 10:48:40 AM : Verfiying template SearchMusic.png
+7/8/2015 10:48:40 AM : Accuracy is D=0.999999761581421
+7/8/2015 10:48:40 AM : Template SearchMusic.png is Verified. 
+7/8/2015 10:48:40 AM : Touching on  X=123, Y=151
+7/8/2015 10:48:40 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:48:47 AM : d41c9385_currentScreen-2015-07-08_10-48-40-AM.png
+7/8/2015 10:48:48 AM : typing Ambient
+7/8/2015 10:48:48 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:48:57 AM : d41c9385_currentScreen-2015-07-08_10-48-48-AM.png
+7/8/2015 10:49:02 AM : Taking screen shot...
+7/8/2015 10:49:02 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:49:08 AM : d41c9385_currentScreen-2015-07-08_10-49-02-AM.png
+7/8/2015 10:49:09 AM : Clicking by template Ambient
+7/8/2015 10:49:09 AM : Verfiying template Ambient
+7/8/2015 10:49:11 AM : Template Ambient is Verified. 
+7/8/2015 10:49:11 AM : Touching on  X=206, Y=73
+7/8/2015 10:49:11 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:49:18 AM : d41c9385_currentScreen-2015-07-08_10-49-11-AM.png
+7/8/2015 10:49:18 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 10:49:19 AM : Object reference not set to an instance of an object.
+7/8/2015 10:49:19 AM : Verfiying template SufflePlay.png
+7/8/2015 10:49:19 AM : Accuracy is D=0.302394956350327
+7/8/2015 10:49:19 AM : Template SufflePlay.png is not Verified!
+7/8/2015 10:49:19 AM : Waitting 35 for Ambient to play and skip and ads
+7/8/2015 10:49:54 AM : Taking screen shot...
+7/8/2015 10:49:54 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:50:00 AM : d41c9385_currentScreen-2015-07-08_10-49-54-AM.png
+7/8/2015 10:50:01 AM : Checking if music service Playing
+7/8/2015 10:50:02 AM : Taking screen shot...
+7/8/2015 10:50:02 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:50:08 AM : d41c9385_currentScreen-2015-07-08_10-50-02-AM.png
+7/8/2015 10:50:08 AM : verifying template Pause  Pause.png
+7/8/2015 10:50:09 AM : Object reference not set to an instance of an object.
+7/8/2015 10:50:09 AM : Verfiying template Pause.png
+7/8/2015 10:50:09 AM : Accuracy is D=0.999197542667389
+7/8/2015 10:50:09 AM : Template Pause.png is Verified. 
+7/8/2015 10:50:09 AM : Music is playing, will check every 1 minutes...........
+7/8/2015 10:51:09 AM : Test still playing  , duration is  00:01:07
+7/8/2015 10:51:09 AM : Taking screen shot...
+7/8/2015 10:51:09 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:51:16 AM : d41c9385_currentScreen-2015-07-08_10-51-09-AM.png
+7/8/2015 10:51:16 AM : verifying template Pause  Pause.png
+7/8/2015 10:51:17 AM : Object reference not set to an instance of an object.
+7/8/2015 10:51:17 AM : Verfiying template Pause.png
+7/8/2015 10:51:17 AM : Accuracy is D=0.999197542667389
+7/8/2015 10:51:17 AM : Template Pause.png is Verified. 
+7/8/2015 10:51:17 AM : Music is playing, will check every 1 minutes...........
+7/8/2015 10:52:17 AM : Test still playing  , duration is  00:02:15
+7/8/2015 10:52:17 AM : Taking screen shot...
+7/8/2015 10:52:17 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:52:23 AM : d41c9385_currentScreen-2015-07-08_10-52-17-AM.png
+7/8/2015 10:52:24 AM : verifying template Pause  Pause.png
+7/8/2015 10:52:24 AM : Object reference not set to an instance of an object.
+7/8/2015 10:52:24 AM : Verfiying template Pause.png
+7/8/2015 10:52:24 AM : Accuracy is D=0.99919718503952
+7/8/2015 10:52:24 AM : Template Pause.png is Verified. 
+7/8/2015 10:52:24 AM : Music is playing, will check every 1 minutes...........
+7/8/2015 10:53:24 AM : Test still playing  , duration is  00:03:22
+7/8/2015 10:53:24 AM : Going Back to Home screen.
+7/8/2015 10:53:24 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:53:32 AM : d41c9385_currentScreen-2015-07-08_10-53-24-AM.png
+7/8/2015 10:53:32 AM : Play band Cranberries
+7/8/2015 10:53:33 AM : Start music service
+7/8/2015 10:53:33 AM : Clicking by template StartIcon.png
+7/8/2015 10:53:33 AM : Verfiying template StartIcon.png
+7/8/2015 10:53:33 AM : Accuracy is D=0.347406536340714
+7/8/2015 10:53:33 AM : Template StartIcon.png is not Verified!
+7/8/2015 10:53:33 AM : Clicking by template MenuLines.png
+7/8/2015 10:53:33 AM : Verfiying template MenuLines.png
+7/8/2015 10:53:33 AM : Accuracy is D=1
+7/8/2015 10:53:33 AM : Template MenuLines.png is Verified. 
+7/8/2015 10:53:33 AM : Touching on  X=43, Y=73
+7/8/2015 10:53:33 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:53:40 AM : d41c9385_currentScreen-2015-07-08_10-53-33-AM.png
+7/8/2015 10:53:41 AM : Clicking by template SearchMusic.png
+7/8/2015 10:53:41 AM : Verfiying template SearchMusic.png
+7/8/2015 10:53:42 AM : Accuracy is D=0.999999761581421
+7/8/2015 10:53:42 AM : Template SearchMusic.png is Verified. 
+7/8/2015 10:53:42 AM : Touching on  X=123, Y=151
+7/8/2015 10:53:42 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:53:49 AM : d41c9385_currentScreen-2015-07-08_10-53-42-AM.png
+7/8/2015 10:53:49 AM : typing Cranberries
+7/8/2015 10:53:50 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:53:59 AM : d41c9385_currentScreen-2015-07-08_10-53-50-AM.png
+7/8/2015 10:54:05 AM : Taking screen shot...
+7/8/2015 10:54:05 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:54:11 AM : d41c9385_currentScreen-2015-07-08_10-54-05-AM.png
+7/8/2015 10:54:12 AM : Clicking by template Cranberries
+7/8/2015 10:54:12 AM : Verfiying template Cranberries
+7/8/2015 10:54:13 AM : Template Cranberries is Verified. 
+7/8/2015 10:54:13 AM : Touching on  X=226, Y=75
+7/8/2015 10:54:13 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:54:20 AM : d41c9385_currentScreen-2015-07-08_10-54-13-AM.png
+7/8/2015 10:54:20 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 10:54:21 AM : Object reference not set to an instance of an object.
+7/8/2015 10:54:21 AM : Verfiying template SufflePlay.png
+7/8/2015 10:54:21 AM : Accuracy is D=0.302395224571228
+7/8/2015 10:54:21 AM : Template SufflePlay.png is not Verified!
+7/8/2015 10:54:21 AM : Waitting 35 for Cranberries to play and skip and ads
+7/8/2015 10:54:56 AM : Taking screen shot...
+7/8/2015 10:54:56 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:02 AM : d41c9385_currentScreen-2015-07-08_10-54-56-AM.png
+7/8/2015 10:55:03 AM : Checking if music service Playing
+7/8/2015 10:55:03 AM : Taking screen shot...
+7/8/2015 10:55:03 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:10 AM : d41c9385_currentScreen-2015-07-08_10-55-03-AM.png
+7/8/2015 10:55:10 AM : verifying template Pause  Pause.png
+7/8/2015 10:55:11 AM : Object reference not set to an instance of an object.
+7/8/2015 10:55:11 AM : Verfiying template Pause.png
+7/8/2015 10:55:11 AM : Accuracy is D=0.33230185508728
+7/8/2015 10:55:11 AM : Template Pause.png is not Verified!
+7/8/2015 10:55:11 AM : Music is not detected
+7/8/2015 10:55:11 AM : Going Back to Home screen.
+7/8/2015 10:55:11 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:18 AM : d41c9385_currentScreen-2015-07-08_10-55-11-AM.png
+7/8/2015 10:55:18 AM : Will play another band
+7/8/2015 10:55:19 AM : Going Back to Home screen.
+7/8/2015 10:55:19 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:25 AM : d41c9385_currentScreen-2015-07-08_10-55-19-AM.png
+7/8/2015 10:55:26 AM : Play band No Doubt
+7/8/2015 10:55:26 AM : Start music service
+7/8/2015 10:55:26 AM : Clicking by template StartIcon.png
+7/8/2015 10:55:26 AM : Verfiying template StartIcon.png
+7/8/2015 10:55:27 AM : Accuracy is D=0.999999165534973
+7/8/2015 10:55:27 AM : Template StartIcon.png is Verified. 
+7/8/2015 10:55:27 AM : Touching on  X=335, Y=98
+7/8/2015 10:55:27 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:34 AM : d41c9385_currentScreen-2015-07-08_10-55-27-AM.png
+7/8/2015 10:55:34 AM : Clicking by template MenuLines.png
+7/8/2015 10:55:35 AM : Verfiying template MenuLines.png
+7/8/2015 10:55:35 AM : Accuracy is D=0.99999988079071
+7/8/2015 10:55:35 AM : Template MenuLines.png is Verified. 
+7/8/2015 10:55:35 AM : Touching on  X=43, Y=73
+7/8/2015 10:55:35 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:43 AM : d41c9385_currentScreen-2015-07-08_10-55-35-AM.png
+7/8/2015 10:55:43 AM : Clicking by template SearchMusic.png
+7/8/2015 10:55:44 AM : Verfiying template SearchMusic.png
+7/8/2015 10:55:44 AM : Accuracy is D=0.999999940395355
+7/8/2015 10:55:44 AM : Template SearchMusic.png is Verified. 
+7/8/2015 10:55:44 AM : Touching on  X=123, Y=151
+7/8/2015 10:55:44 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:55:51 AM : d41c9385_currentScreen-2015-07-08_10-55-44-AM.png
+7/8/2015 10:55:52 AM : typing No Doubt
+7/8/2015 10:55:52 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:56:01 AM : d41c9385_currentScreen-2015-07-08_10-55-52-AM.png
+7/8/2015 10:56:06 AM : Taking screen shot...
+7/8/2015 10:56:06 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:56:13 AM : d41c9385_currentScreen-2015-07-08_10-56-06-AM.png
+7/8/2015 10:56:13 AM : Clicking by template No Doubt
+7/8/2015 10:56:14 AM : Verfiying template No Doubt
+7/8/2015 10:56:19 AM : Template No Doubt is not Verified!
+7/8/2015 10:56:19 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 10:56:19 AM : Object reference not set to an instance of an object.
+7/8/2015 10:56:19 AM : Verfiying template SufflePlay.png
+7/8/2015 10:56:19 AM : Accuracy is D=0.306966930627823
+7/8/2015 10:56:19 AM : Template SufflePlay.png is not Verified!
+7/8/2015 10:56:19 AM : Waitting 35 for No Doubt to play and skip and ads
+7/8/2015 10:56:54 AM : Taking screen shot...
+7/8/2015 10:56:54 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:00 AM : d41c9385_currentScreen-2015-07-08_10-56-54-AM.png
+7/8/2015 10:57:01 AM : Checking if music service Playing
+7/8/2015 10:57:01 AM : Taking screen shot...
+7/8/2015 10:57:01 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:08 AM : d41c9385_currentScreen-2015-07-08_10-57-01-AM.png
+7/8/2015 10:57:08 AM : verifying template Pause  Pause.png
+7/8/2015 10:57:09 AM : Object reference not set to an instance of an object.
+7/8/2015 10:57:09 AM : Verfiying template Pause.png
+7/8/2015 10:57:09 AM : Accuracy is D=0.329745590686798
+7/8/2015 10:57:09 AM : Template Pause.png is not Verified!
+7/8/2015 10:57:09 AM : Music is not detected
+7/8/2015 10:57:09 AM : Going Back to Home screen.
+7/8/2015 10:57:09 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:16 AM : d41c9385_currentScreen-2015-07-08_10-57-09-AM.png
+7/8/2015 10:57:16 AM : Will play another band
+7/8/2015 10:57:17 AM : Going Back to Home screen.
+7/8/2015 10:57:17 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:23 AM : d41c9385_currentScreen-2015-07-08_10-57-17-AM.png
+7/8/2015 10:57:24 AM : Play band Nirvana
+7/8/2015 10:57:24 AM : Start music service
+7/8/2015 10:57:24 AM : Clicking by template StartIcon.png
+7/8/2015 10:57:24 AM : Verfiying template StartIcon.png
+7/8/2015 10:57:24 AM : Accuracy is D=0.999999523162842
+7/8/2015 10:57:24 AM : Template StartIcon.png is Verified. 
+7/8/2015 10:57:24 AM : Touching on  X=335, Y=98
+7/8/2015 10:57:24 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:32 AM : d41c9385_currentScreen-2015-07-08_10-57-24-AM.png
+7/8/2015 10:57:32 AM : Clicking by template MenuLines.png
+7/8/2015 10:57:33 AM : Verfiying template MenuLines.png
+7/8/2015 10:57:33 AM : Accuracy is D=0.99999988079071
+7/8/2015 10:57:33 AM : Template MenuLines.png is Verified. 
+7/8/2015 10:57:33 AM : Touching on  X=43, Y=73
+7/8/2015 10:57:33 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:40 AM : d41c9385_currentScreen-2015-07-08_10-57-33-AM.png
+7/8/2015 10:57:41 AM : Clicking by template SearchMusic.png
+7/8/2015 10:57:41 AM : Verfiying template SearchMusic.png
+7/8/2015 10:57:42 AM : Accuracy is D=0.999999940395355
+7/8/2015 10:57:42 AM : Template SearchMusic.png is Verified. 
+7/8/2015 10:57:42 AM : Touching on  X=123, Y=151
+7/8/2015 10:57:42 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:49 AM : d41c9385_currentScreen-2015-07-08_10-57-42-AM.png
+7/8/2015 10:57:49 AM : typing Nirvana
+7/8/2015 10:57:50 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:57:58 AM : d41c9385_currentScreen-2015-07-08_10-57-50-AM.png
+7/8/2015 10:58:04 AM : Taking screen shot...
+7/8/2015 10:58:04 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:58:10 AM : d41c9385_currentScreen-2015-07-08_10-58-04-AM.png
+7/8/2015 10:58:11 AM : Clicking by template Nirvana
+7/8/2015 10:58:11 AM : Verfiying template Nirvana
+7/8/2015 10:58:12 AM : Template Nirvana is Verified. 
+7/8/2015 10:58:12 AM : Touching on  X=163, Y=430
+7/8/2015 10:58:12 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:58:19 AM : d41c9385_currentScreen-2015-07-08_10-58-12-AM.png
+7/8/2015 10:58:19 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 10:58:20 AM : Object reference not set to an instance of an object.
+7/8/2015 10:58:20 AM : Verfiying template SufflePlay.png
+7/8/2015 10:58:20 AM : Accuracy is D=0.999978065490723
+7/8/2015 10:58:20 AM : Template SufflePlay.png is Verified. 
+7/8/2015 10:58:20 AM : Clicking by template SufflePlay.png
+7/8/2015 10:58:20 AM : Verfiying template SufflePlay.png
+7/8/2015 10:58:20 AM : Accuracy is D=0.999978065490723
+7/8/2015 10:58:20 AM : Template SufflePlay.png is Verified. 
+7/8/2015 10:58:20 AM : Touching on  X=276, Y=583
+7/8/2015 10:58:20 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:58:27 AM : d41c9385_currentScreen-2015-07-08_10-58-20-AM.png
+7/8/2015 10:58:28 AM : Waitting 35 for Nirvana to play and skip and ads
+7/8/2015 10:59:03 AM : Taking screen shot...
+7/8/2015 10:59:03 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:10 AM : d41c9385_currentScreen-2015-07-08_10-59-03-AM.png
+7/8/2015 10:59:10 AM : Checking if music service Playing
+7/8/2015 10:59:11 AM : Taking screen shot...
+7/8/2015 10:59:11 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:17 AM : d41c9385_currentScreen-2015-07-08_10-59-11-AM.png
+7/8/2015 10:59:18 AM : verifying template Pause  Pause.png
+7/8/2015 10:59:18 AM : Object reference not set to an instance of an object.
+7/8/2015 10:59:18 AM : Verfiying template Pause.png
+7/8/2015 10:59:18 AM : Accuracy is D=0.422634392976761
+7/8/2015 10:59:18 AM : Template Pause.png is not Verified!
+7/8/2015 10:59:19 AM : Music is not detected
+7/8/2015 10:59:19 AM : Going Back to Home screen.
+7/8/2015 10:59:19 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:26 AM : d41c9385_currentScreen-2015-07-08_10-59-19-AM.png
+7/8/2015 10:59:26 AM : Will play another band
+7/8/2015 10:59:27 AM : Going Back to Home screen.
+7/8/2015 10:59:27 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:33 AM : d41c9385_currentScreen-2015-07-08_10-59-27-AM.png
+7/8/2015 10:59:34 AM : Play band Ambient
+7/8/2015 10:59:34 AM : Start music service
+7/8/2015 10:59:34 AM : Clicking by template StartIcon.png
+7/8/2015 10:59:34 AM : Verfiying template StartIcon.png
+7/8/2015 10:59:34 AM : Accuracy is D=0.999999523162842
+7/8/2015 10:59:34 AM : Template StartIcon.png is Verified. 
+7/8/2015 10:59:34 AM : Touching on  X=335, Y=98
+7/8/2015 10:59:34 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:42 AM : d41c9385_currentScreen-2015-07-08_10-59-34-AM.png
+7/8/2015 10:59:42 AM : Clicking by template MenuLines.png
+7/8/2015 10:59:43 AM : Verfiying template MenuLines.png
+7/8/2015 10:59:43 AM : Accuracy is D=0.99999988079071
+7/8/2015 10:59:43 AM : Template MenuLines.png is Verified. 
+7/8/2015 10:59:43 AM : Touching on  X=43, Y=73
+7/8/2015 10:59:43 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:50 AM : d41c9385_currentScreen-2015-07-08_10-59-43-AM.png
+7/8/2015 10:59:51 AM : Clicking by template SearchMusic.png
+7/8/2015 10:59:51 AM : Verfiying template SearchMusic.png
+7/8/2015 10:59:52 AM : Accuracy is D=0.999999761581421
+7/8/2015 10:59:52 AM : Template SearchMusic.png is Verified. 
+7/8/2015 10:59:52 AM : Touching on  X=123, Y=151
+7/8/2015 10:59:52 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 10:59:59 AM : d41c9385_currentScreen-2015-07-08_10-59-52-AM.png
+7/8/2015 10:59:59 AM : typing Ambient
+7/8/2015 11:00:00 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:00:08 AM : d41c9385_currentScreen-2015-07-08_11-00-00-AM.png
+7/8/2015 11:00:14 AM : Taking screen shot...
+7/8/2015 11:00:14 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:00:20 AM : d41c9385_currentScreen-2015-07-08_11-00-14-AM.png
+7/8/2015 11:00:20 AM : Clicking by template Ambient
+7/8/2015 11:00:21 AM : Verfiying template Ambient
+7/8/2015 11:00:21 AM : Template Ambient is Verified. 
+7/8/2015 11:00:21 AM : Touching on  X=206, Y=73
+7/8/2015 11:00:21 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:00:28 AM : d41c9385_currentScreen-2015-07-08_11-00-21-AM.png
+7/8/2015 11:00:29 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 11:00:29 AM : Object reference not set to an instance of an object.
+7/8/2015 11:00:30 AM : Verfiying template SufflePlay.png
+7/8/2015 11:00:30 AM : Accuracy is D=0.302395224571228
+7/8/2015 11:00:30 AM : Template SufflePlay.png is not Verified!
+7/8/2015 11:00:30 AM : Waitting 35 for Ambient to play and skip and ads
+7/8/2015 11:01:05 AM : Taking screen shot...
+7/8/2015 11:01:05 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:01:11 AM : d41c9385_currentScreen-2015-07-08_11-01-05-AM.png
+7/8/2015 11:01:12 AM : Checking if music service Playing
+7/8/2015 11:01:12 AM : Taking screen shot...
+7/8/2015 11:01:12 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:01:18 AM : d41c9385_currentScreen-2015-07-08_11-01-12-AM.png
+7/8/2015 11:01:19 AM : verifying template Pause  Pause.png
+7/8/2015 11:01:19 AM : Object reference not set to an instance of an object.
+7/8/2015 11:01:19 AM : Verfiying template Pause.png
+7/8/2015 11:01:20 AM : Accuracy is D=0.463037937879562
+7/8/2015 11:01:20 AM : Template Pause.png is not Verified!
+7/8/2015 11:01:20 AM : Music is not detected
+7/8/2015 11:01:20 AM : Going Back to Home screen.
+7/8/2015 11:01:20 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:01:26 AM : d41c9385_currentScreen-2015-07-08_11-01-20-AM.png
+7/8/2015 11:01:27 AM : Will play another band
+7/8/2015 11:01:27 AM : Going Back to Home screen.
+7/8/2015 11:01:27 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:01:34 AM : d41c9385_currentScreen-2015-07-08_11-01-27-AM.png
+7/8/2015 11:01:34 AM : Play band Cranberries
+7/8/2015 11:01:35 AM : Start music service
+7/8/2015 11:01:35 AM : Clicking by template StartIcon.png
+7/8/2015 11:01:35 AM : Verfiying template StartIcon.png
+7/8/2015 11:01:35 AM : Accuracy is D=0.999999523162842
+7/8/2015 11:01:35 AM : Template StartIcon.png is Verified. 
+7/8/2015 11:01:35 AM : Touching on  X=335, Y=98
+7/8/2015 11:01:35 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:01:42 AM : d41c9385_currentScreen-2015-07-08_11-01-35-AM.png
+7/8/2015 11:01:43 AM : Clicking by template MenuLines.png
+7/8/2015 11:01:44 AM : Verfiying template MenuLines.png
+7/8/2015 11:01:44 AM : Accuracy is D=0.99999988079071
+7/8/2015 11:01:44 AM : Template MenuLines.png is Verified. 
+7/8/2015 11:01:44 AM : Touching on  X=43, Y=73
+7/8/2015 11:01:44 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:01:51 AM : d41c9385_currentScreen-2015-07-08_11-01-44-AM.png
+7/8/2015 11:01:52 AM : Clicking by template SearchMusic.png
+7/8/2015 11:01:52 AM : Verfiying template SearchMusic.png
+7/8/2015 11:01:52 AM : Accuracy is D=0.999999940395355
+7/8/2015 11:01:52 AM : Template SearchMusic.png is Verified. 
+7/8/2015 11:01:52 AM : Touching on  X=123, Y=151
+7/8/2015 11:01:52 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:02:00 AM : d41c9385_currentScreen-2015-07-08_11-01-52-AM.png
+7/8/2015 11:02:00 AM : typing Cranberries
+7/8/2015 11:02:01 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:02:10 AM : d41c9385_currentScreen-2015-07-08_11-02-01-AM.png
+7/8/2015 11:02:16 AM : Taking screen shot...
+7/8/2015 11:02:16 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:02:22 AM : d41c9385_currentScreen-2015-07-08_11-02-16-AM.png
+7/8/2015 11:02:23 AM : Clicking by template Cranberries
+7/8/2015 11:02:23 AM : Verfiying template Cranberries
+7/8/2015 11:02:24 AM : Template Cranberries is Verified. 
+7/8/2015 11:02:24 AM : Touching on  X=226, Y=75
+7/8/2015 11:02:24 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:02:31 AM : d41c9385_currentScreen-2015-07-08_11-02-24-AM.png
+7/8/2015 11:02:31 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 11:02:32 AM : Object reference not set to an instance of an object.
+7/8/2015 11:02:32 AM : Verfiying template SufflePlay.png
+7/8/2015 11:02:32 AM : Accuracy is D=0.302398920059204
+7/8/2015 11:02:32 AM : Template SufflePlay.png is not Verified!
+7/8/2015 11:02:32 AM : Waitting 35 for Cranberries to play and skip and ads
+7/8/2015 11:03:07 AM : Taking screen shot...
+7/8/2015 11:03:07 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:03:13 AM : d41c9385_currentScreen-2015-07-08_11-03-07-AM.png
+7/8/2015 11:03:14 AM : Checking if music service Playing
+7/8/2015 11:03:14 AM : Taking screen shot...
+7/8/2015 11:03:14 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:03:21 AM : d41c9385_currentScreen-2015-07-08_11-03-14-AM.png
+7/8/2015 11:03:21 AM : verifying template Pause  Pause.png
+7/8/2015 11:03:22 AM : Object reference not set to an instance of an object.
+7/8/2015 11:03:22 AM : Verfiying template Pause.png
+7/8/2015 11:03:22 AM : Accuracy is D=0.33230185508728
+7/8/2015 11:03:22 AM : Template Pause.png is not Verified!
+7/8/2015 11:03:22 AM : Music is not detected
+7/8/2015 11:03:22 AM : Going Back to Home screen.
+7/8/2015 11:03:22 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:03:29 AM : d41c9385_currentScreen-2015-07-08_11-03-22-AM.png
+7/8/2015 11:03:30 AM : Will play another band
+7/8/2015 11:03:30 AM : Going Back to Home screen.
+7/8/2015 11:03:30 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:03:36 AM : d41c9385_currentScreen-2015-07-08_11-03-30-AM.png
+7/8/2015 11:03:37 AM : Play band No Doubt
+7/8/2015 11:03:38 AM : Start music service
+7/8/2015 11:03:38 AM : Clicking by template StartIcon.png
+7/8/2015 11:03:38 AM : Verfiying template StartIcon.png
+7/8/2015 11:03:38 AM : Accuracy is D=0.999999821186066
+7/8/2015 11:03:38 AM : Template StartIcon.png is Verified. 
+7/8/2015 11:03:38 AM : Touching on  X=335, Y=98
+7/8/2015 11:03:38 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:03:45 AM : d41c9385_currentScreen-2015-07-08_11-03-38-AM.png
+7/8/2015 11:03:45 AM : Clicking by template MenuLines.png
+7/8/2015 11:03:46 AM : Verfiying template MenuLines.png
+7/8/2015 11:03:46 AM : Accuracy is D=0.99999988079071
+7/8/2015 11:03:46 AM : Template MenuLines.png is Verified. 
+7/8/2015 11:03:46 AM : Touching on  X=43, Y=73
+7/8/2015 11:03:46 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:03:53 AM : d41c9385_currentScreen-2015-07-08_11-03-46-AM.png
+7/8/2015 11:03:54 AM : Clicking by template SearchMusic.png
+7/8/2015 11:03:55 AM : Verfiying template SearchMusic.png
+7/8/2015 11:03:55 AM : Accuracy is D=0.999999761581421
+7/8/2015 11:03:55 AM : Template SearchMusic.png is Verified. 
+7/8/2015 11:03:55 AM : Touching on  X=123, Y=151
+7/8/2015 11:03:55 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:04:02 AM : d41c9385_currentScreen-2015-07-08_11-03-55-AM.png
+7/8/2015 11:04:03 AM : typing No Doubt
+7/8/2015 11:04:03 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:04:12 AM : d41c9385_currentScreen-2015-07-08_11-04-03-AM.png
+7/8/2015 11:04:17 AM : Taking screen shot...
+7/8/2015 11:04:17 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:04:23 AM : d41c9385_currentScreen-2015-07-08_11-04-17-AM.png
+7/8/2015 11:04:24 AM : Clicking by template No Doubt
+7/8/2015 11:04:25 AM : Verfiying template No Doubt
+7/8/2015 11:04:29 AM : Template No Doubt is not Verified!
+7/8/2015 11:04:29 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 11:04:29 AM : Object reference not set to an instance of an object.
+7/8/2015 11:04:29 AM : Verfiying template SufflePlay.png
+7/8/2015 11:04:29 AM : Accuracy is D=0.306966930627823
+7/8/2015 11:04:29 AM : Template SufflePlay.png is not Verified!
+7/8/2015 11:04:29 AM : Waitting 35 for No Doubt to play and skip and ads
+7/8/2015 11:05:04 AM : Taking screen shot...
+7/8/2015 11:05:05 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:05:11 AM : d41c9385_currentScreen-2015-07-08_11-05-05-AM.png
+7/8/2015 11:05:11 AM : Checking if music service Playing
+7/8/2015 11:05:12 AM : Taking screen shot...
+7/8/2015 11:05:12 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:05:18 AM : d41c9385_currentScreen-2015-07-08_11-05-12-AM.png
+7/8/2015 11:05:19 AM : verifying template Pause  Pause.png
+7/8/2015 11:05:19 AM : Object reference not set to an instance of an object.
+7/8/2015 11:05:19 AM : Verfiying template Pause.png
+7/8/2015 11:05:20 AM : Accuracy is D=0.329745590686798
+7/8/2015 11:05:20 AM : Template Pause.png is not Verified!
+7/8/2015 11:05:20 AM : Music is not detected
+7/8/2015 11:05:20 AM : Going Back to Home screen.
+7/8/2015 11:05:20 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:05:27 AM : d41c9385_currentScreen-2015-07-08_11-05-20-AM.png
+7/8/2015 11:05:27 AM : Will play another band
+7/8/2015 11:05:28 AM : Going Back to Home screen.
+7/8/2015 11:05:28 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:05:34 AM : d41c9385_currentScreen-2015-07-08_11-05-28-AM.png
+7/8/2015 11:05:35 AM : Play band Nirvana
+7/8/2015 11:05:35 AM : Start music service
+7/8/2015 11:05:35 AM : Clicking by template StartIcon.png
+7/8/2015 11:05:35 AM : Verfiying template StartIcon.png
+7/8/2015 11:05:35 AM : Accuracy is D=0.999999523162842
+7/8/2015 11:05:35 AM : Template StartIcon.png is Verified. 
+7/8/2015 11:05:35 AM : Touching on  X=335, Y=98
+7/8/2015 11:05:36 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:05:43 AM : d41c9385_currentScreen-2015-07-08_11-05-36-AM.png
+7/8/2015 11:05:43 AM : Clicking by template MenuLines.png
+7/8/2015 11:05:44 AM : Verfiying template MenuLines.png
+7/8/2015 11:05:44 AM : Accuracy is D=0.99999988079071
+7/8/2015 11:05:44 AM : Template MenuLines.png is Verified. 
+7/8/2015 11:05:44 AM : Touching on  X=43, Y=73
+7/8/2015 11:05:44 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:05:52 AM : d41c9385_currentScreen-2015-07-08_11-05-44-AM.png
+7/8/2015 11:05:52 AM : Clicking by template SearchMusic.png
+7/8/2015 11:05:53 AM : Verfiying template SearchMusic.png
+7/8/2015 11:05:53 AM : Accuracy is D=0.999999761581421
+7/8/2015 11:05:53 AM : Template SearchMusic.png is Verified. 
+7/8/2015 11:05:53 AM : Touching on  X=123, Y=151
+7/8/2015 11:05:53 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:06:00 AM : d41c9385_currentScreen-2015-07-08_11-05-53-AM.png
+7/8/2015 11:06:01 AM : typing Nirvana
+7/8/2015 11:06:01 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:06:10 AM : d41c9385_currentScreen-2015-07-08_11-06-01-AM.png
+7/8/2015 11:06:16 AM : Taking screen shot...
+7/8/2015 11:06:16 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:06:22 AM : d41c9385_currentScreen-2015-07-08_11-06-16-AM.png
+7/8/2015 11:06:23 AM : Clicking by template Nirvana
+7/8/2015 11:06:23 AM : Verfiying template Nirvana
+7/8/2015 11:06:24 AM : Template Nirvana is Verified. 
+7/8/2015 11:06:24 AM : Touching on  X=186, Y=75
+7/8/2015 11:06:24 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:06:31 AM : d41c9385_currentScreen-2015-07-08_11-06-24-AM.png
+7/8/2015 11:06:31 AM : verifying template SufflePlay  SufflePlay.png
+7/8/2015 11:06:32 AM : Object reference not set to an instance of an object.
+7/8/2015 11:06:32 AM : Verfiying template SufflePlay.png
+7/8/2015 11:06:32 AM : Accuracy is D=0.293068259954453
+7/8/2015 11:06:32 AM : Template SufflePlay.png is not Verified!
+7/8/2015 11:06:32 AM : Waitting 35 for Nirvana to play and skip and ads
+7/8/2015 11:07:07 AM : Taking screen shot...
+7/8/2015 11:07:07 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:07:13 AM : d41c9385_currentScreen-2015-07-08_11-07-07-AM.png
+7/8/2015 11:07:14 AM : Checking if music service Playing
+7/8/2015 11:07:14 AM : Taking screen shot...
+7/8/2015 11:07:14 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:07:21 AM : d41c9385_currentScreen-2015-07-08_11-07-14-AM.png
+7/8/2015 11:07:21 AM : verifying template Pause  Pause.png
+7/8/2015 11:07:22 AM : Object reference not set to an instance of an object.
+7/8/2015 11:07:22 AM : Verfiying template Pause.png
+7/8/2015 11:07:22 AM : Accuracy is D=0.423946529626846
+7/8/2015 11:07:22 AM : Template Pause.png is not Verified!
+7/8/2015 11:07:22 AM : Music is not detected
+7/8/2015 11:07:22 AM : Going Back to Home screen.
+7/8/2015 11:07:22 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:07:29 AM : d41c9385_currentScreen-2015-07-08_11-07-22-AM.png
+7/8/2015 11:07:29 AM : Will play another band
+7/8/2015 11:07:30 AM : Test ended  after 00:05:08
+7/8/2015 11:07:30 AM : Going Back to Home screen.
+7/8/2015 11:07:30 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:07:36 AM : d41c9385_currentScreen-2015-07-08_11-07-30-AM.png
+7/8/2015 11:07:37 AM : Going Back to Home screen.
+7/8/2015 11:07:38 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:07:44 AM : d41c9385_currentScreen-2015-07-08_11-07-38-AM.png
+7/8/2015 11:07:44 AM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 11:07:45 AM : System.Diagnostics.ProcessStartInfo
+7/8/2015 11:07:45 AM : ************************End TestCase 0.1************************
+7/8/2015 3:59:26 PM : ******************Start TestCase 0.1******************
+7/8/2015 3:59:26 PM : Delete Logs and restart device
+7/8/2015 3:59:26 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+7/8/2015 3:59:26 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 3:59:36 PM : Going Back to Home screen.
+7/8/2015 3:59:36 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 3:59:44 PM : d41c9385_currentScreen-2015-07-08_03-59-36-PM.png
+7/8/2015 3:59:45 PM : Going Back to Home screen.
+7/8/2015 3:59:45 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 3:59:51 PM : d41c9385_currentScreen-2015-07-08_03-59-45-PM.png
+7/8/2015 3:59:51 PM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 3:59:52 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 3:59:52 PM : ************************End TestCase 0.1************************
+7/8/2015 3:59:55 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+7/8/2015 3:59:55 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:56 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 3:59:57 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:33 PM : ******************Start TestCase 0.1******************
+7/8/2015 4:01:33 PM : Delete Logs and restart device
+7/8/2015 4:01:33 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+7/8/2015 4:01:33 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:01:43 PM : Going Back to Home screen.
+7/8/2015 4:01:43 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:01:48 PM : d41c9385_currentScreen-2015-07-08_04-01-43-PM.png
+7/8/2015 4:01:49 PM : Going Back to Home screen.
+7/8/2015 4:01:50 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:01:55 PM : d41c9385_currentScreen-2015-07-08_04-01-50-PM.png
+7/8/2015 4:01:55 PM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 4:01:56 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:01:56 PM : ************************End TestCase 0.1************************
+7/8/2015 4:01:59 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+7/8/2015 4:01:59 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:01:59 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:02:00 PM : Index was outside the bounds of the array.
+7/8/2015 4:03:59 PM : ******************Start TestCase 0.1******************
+7/8/2015 4:03:59 PM : Delete Logs and restart device
+7/8/2015 4:03:59 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+7/8/2015 4:03:59 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:09 PM : Going Back to Home screen.
+7/8/2015 4:04:09 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:15 PM : d41c9385_currentScreen-2015-07-08_04-04-09-PM.png
+7/8/2015 4:04:15 PM : Going Back to Home screen.
+7/8/2015 4:04:15 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:21 PM : d41c9385_currentScreen-2015-07-08_04-04-15-PM.png
+7/8/2015 4:04:21 PM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 4:04:21 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:22 PM : ************************End TestCase 0.1************************
+7/8/2015 4:04:22 PM : ******************Start TestCase 0.1******************
+7/8/2015 4:04:22 PM : Delete Logs and restart device
+7/8/2015 4:04:22 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+7/8/2015 4:04:22 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:32 PM : Going Back to Home screen.
+7/8/2015 4:04:32 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:38 PM : d41c9385_currentScreen-2015-07-08_04-04-32-PM.png
+7/8/2015 4:04:38 PM : Going Back to Home screen.
+7/8/2015 4:04:39 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:44 PM : d41c9385_currentScreen-2015-07-08_04-04-39-PM.png
+7/8/2015 4:04:44 PM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 4:04:45 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:04:46 PM : ************************End TestCase 0.1************************
+7/8/2015 4:05:26 PM : ******************Start TestCase 0.1******************
+7/8/2015 4:05:26 PM : Going Back to Home screen.
+7/8/2015 4:05:26 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:05:31 PM : d41c9385_currentScreen-2015-07-08_04-05-26-PM.png
+7/8/2015 4:05:32 PM : Play band Ambient
+7/8/2015 4:05:33 PM : Start Pandora
+7/8/2015 4:05:33 PM : Clicking by template StartIcon.png
+7/8/2015 4:05:33 PM : Verfiying template StartIcon.png
+7/8/2015 4:05:33 PM : Accuracy is D=1
+7/8/2015 4:05:33 PM : Template StartIcon.png is Verified. 
+7/8/2015 4:05:33 PM : Touching on  X=339, Y=266
+7/8/2015 4:05:33 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:05:39 PM : d41c9385_currentScreen-2015-07-08_04-05-33-PM.png
+7/8/2015 4:05:40 PM : Clicking by template SearchMusic.png
+7/8/2015 4:05:40 PM : Verfiying template SearchMusic.png
+7/8/2015 4:05:40 PM : Accuracy is D=1
+7/8/2015 4:05:40 PM : Template SearchMusic.png is Verified. 
+7/8/2015 4:05:40 PM : Touching on  X=430, Y=79
+7/8/2015 4:05:40 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:05:47 PM : d41c9385_currentScreen-2015-07-08_04-05-40-PM.png
+7/8/2015 4:05:47 PM : Taking screen shot...
+7/8/2015 4:05:48 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:05:53 PM : d41c9385_currentScreen-2015-07-08_04-05-48-PM.png
+7/8/2015 4:05:54 PM : typing Ambient
+7/8/2015 4:05:54 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:06:01 PM : d41c9385_currentScreen-2015-07-08_04-05-54-PM.png
+7/8/2015 4:06:02 PM : Taking screen shot...
+7/8/2015 4:06:03 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:06:08 PM : d41c9385_currentScreen-2015-07-08_04-06-03-PM.png
+7/8/2015 4:06:08 PM : Clicking by template Ambient
+7/8/2015 4:06:09 PM : Verfiying template Ambient
+7/8/2015 4:06:10 PM : Template Ambient is Verified. 
+7/8/2015 4:06:10 PM : Touching on  X=71, Y=150
+7/8/2015 4:06:10 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:06:16 PM : d41c9385_currentScreen-2015-07-08_04-06-10-PM.png
+7/8/2015 4:06:17 PM : Waitting 35 for Ambient to play and skip and ads
+7/8/2015 4:06:52 PM : Taking screen shot...
+7/8/2015 4:06:52 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:06:58 PM : d41c9385_currentScreen-2015-07-08_04-06-52-PM.png
+7/8/2015 4:06:58 PM : PandoraRadioStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 4:06:59 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:06:59 PM : ************************End TestCase 0.1************************
+7/8/2015 4:08:56 PM : ******************Start TestCase 0.1******************
+7/8/2015 4:08:59 PM : Going Back to Home screen.
+7/8/2015 4:08:59 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:04 PM : d41c9385_currentScreen-2015-07-08_04-08-59-PM.png
+7/8/2015 4:09:05 PM : Play band Ambient
+7/8/2015 4:09:05 PM : Start Pandora
+7/8/2015 4:09:05 PM : Clicking by template StartIcon.png
+7/8/2015 4:09:05 PM : Verfiying template StartIcon.png
+7/8/2015 4:09:06 PM : Accuracy is D=1
+7/8/2015 4:09:06 PM : Template StartIcon.png is Verified. 
+7/8/2015 4:09:06 PM : Touching on  X=339, Y=266
+7/8/2015 4:09:06 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:12 PM : d41c9385_currentScreen-2015-07-08_04-09-06-PM.png
+7/8/2015 4:09:12 PM : Clicking by template SearchMusic.png
+7/8/2015 4:09:13 PM : Verfiying template SearchMusic.png
+7/8/2015 4:09:13 PM : Accuracy is D=1
+7/8/2015 4:09:13 PM : Template SearchMusic.png is Verified. 
+7/8/2015 4:09:13 PM : Touching on  X=430, Y=79
+7/8/2015 4:09:13 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:19 PM : d41c9385_currentScreen-2015-07-08_04-09-13-PM.png
+7/8/2015 4:09:20 PM : Taking screen shot...
+7/8/2015 4:09:21 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:26 PM : d41c9385_currentScreen-2015-07-08_04-09-21-PM.png
+7/8/2015 4:09:26 PM : typing Ambient
+7/8/2015 4:09:27 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:34 PM : d41c9385_currentScreen-2015-07-08_04-09-27-PM.png
+7/8/2015 4:09:35 PM : Taking screen shot...
+7/8/2015 4:09:35 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:41 PM : d41c9385_currentScreen-2015-07-08_04-09-35-PM.png
+7/8/2015 4:09:41 PM : Clicking by template Ambient
+7/8/2015 4:09:42 PM : Verfiying template Ambient
+7/8/2015 4:09:42 PM : Template Ambient is Verified. 
+7/8/2015 4:09:42 PM : Touching on  X=71, Y=150
+7/8/2015 4:09:42 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:09:48 PM : d41c9385_currentScreen-2015-07-08_04-09-42-PM.png
+7/8/2015 4:09:49 PM : Waitting 35 for Ambient to play and skip and ads
+7/8/2015 4:10:24 PM : Taking screen shot...
+7/8/2015 4:10:24 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:10:30 PM : d41c9385_currentScreen-2015-07-08_04-10-24-PM.png
+7/8/2015 4:10:30 PM : verifying template Play  Play.png
+7/8/2015 4:10:31 PM : Object reference not set to an instance of an object.
+7/8/2015 4:10:31 PM : Verfiying template Play.png
+7/8/2015 4:10:31 PM : Accuracy is D=0.991591036319733
+7/8/2015 4:10:31 PM : Template Play.png is Verified. 
+7/8/2015 4:10:31 PM : Clicking by template Play.png
+7/8/2015 4:10:31 PM : Verfiying template Play.png
+7/8/2015 4:10:31 PM : Accuracy is D=0.991591036319733
+7/8/2015 4:10:31 PM : Template Play.png is Verified. 
+7/8/2015 4:10:31 PM : Touching on  X=43, Y=440
+7/8/2015 4:10:31 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:10:38 PM : d41c9385_currentScreen-2015-07-08_04-10-31-PM.png
+7/8/2015 4:10:38 PM : Checking if Pandora Playing
+7/8/2015 4:10:39 PM : Taking screen shot...
+7/8/2015 4:10:39 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:10:44 PM : d41c9385_currentScreen-2015-07-08_04-10-39-PM.png
+7/8/2015 4:10:45 PM : verifying template Pause  Pause.png
+7/8/2015 4:10:45 PM : Object reference not set to an instance of an object.
+7/8/2015 4:10:45 PM : Verfiying template Pause.png
+7/8/2015 4:10:45 PM : Accuracy is D=1
+7/8/2015 4:10:45 PM : Template Pause.png is Verified. 
+7/8/2015 4:10:45 PM : Pandora song is playing, will check every 1 minutes...........
+7/8/2015 4:11:45 PM : Test still playing  , duration is  00:01:06
+7/8/2015 4:11:45 PM : Taking screen shot...
+7/8/2015 4:11:45 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:11:51 PM : d41c9385_currentScreen-2015-07-08_04-11-45-PM.png
+7/8/2015 4:11:51 PM : verifying template Pause  Pause.png
+7/8/2015 4:11:52 PM : Object reference not set to an instance of an object.
+7/8/2015 4:11:52 PM : Verfiying template Pause.png
+7/8/2015 4:11:52 PM : Accuracy is D=0.999999821186066
+7/8/2015 4:11:52 PM : Template Pause.png is Verified. 
+7/8/2015 4:11:52 PM : Pandora song is playing, will check every 1 minutes...........
+7/8/2015 4:12:52 PM : Test still playing  , duration is  00:02:13
+7/8/2015 4:12:52 PM : Taking screen shot...
+7/8/2015 4:12:52 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:12:57 PM : d41c9385_currentScreen-2015-07-08_04-12-52-PM.png
+7/8/2015 4:12:58 PM : verifying template Pause  Pause.png
+7/8/2015 4:12:58 PM : Object reference not set to an instance of an object.
+7/8/2015 4:12:58 PM : Verfiying template Pause.png
+7/8/2015 4:12:58 PM : Accuracy is D=0.999999821186066
+7/8/2015 4:12:58 PM : Template Pause.png is Verified. 
+7/8/2015 4:12:58 PM : Pandora song is playing, will check every 1 minutes...........
+7/8/2015 4:13:58 PM : Test still playing  , duration is  00:03:19
+7/8/2015 4:13:58 PM : Taking screen shot...
+7/8/2015 4:13:58 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:14:04 PM : d41c9385_currentScreen-2015-07-08_04-13-58-PM.png
+7/8/2015 4:14:04 PM : verifying template Pause  Pause.png
+7/8/2015 4:14:05 PM : Object reference not set to an instance of an object.
+7/8/2015 4:14:05 PM : Verfiying template Pause.png
+7/8/2015 4:14:05 PM : Accuracy is D=1
+7/8/2015 4:14:05 PM : Template Pause.png is Verified. 
+7/8/2015 4:14:05 PM : Pandora song is playing, will check every 1 minutes...........
+7/8/2015 4:15:05 PM : Test still playing  , duration is  00:04:26
+7/8/2015 4:15:05 PM : Taking screen shot...
+7/8/2015 4:15:05 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:15:10 PM : d41c9385_currentScreen-2015-07-08_04-15-05-PM.png
+7/8/2015 4:15:11 PM : verifying template Pause  Pause.png
+7/8/2015 4:15:11 PM : Object reference not set to an instance of an object.
+7/8/2015 4:15:11 PM : Verfiying template Pause.png
+7/8/2015 4:15:12 PM : Accuracy is D=0.999999821186066
+7/8/2015 4:15:12 PM : Template Pause.png is Verified. 
+7/8/2015 4:15:12 PM : Pandora song is playing, will check every 1 minutes...........
+7/8/2015 4:16:12 PM : Test ended  after 00:05:32
+7/8/2015 4:16:12 PM : Test ended  after 00:05:32
+7/8/2015 4:16:12 PM : Going Back to Home screen.
+7/8/2015 4:16:12 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:16:18 PM : d41c9385_currentScreen-2015-07-08_04-16-12-PM.png
+7/8/2015 4:16:18 PM : Going Back to Home screen.
+7/8/2015 4:16:19 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:16:25 PM : d41c9385_currentScreen-2015-07-08_04-16-19-PM.png
+7/8/2015 4:16:26 PM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/8/2015 4:16:26 PM : System.Diagnostics.ProcessStartInfo
+7/8/2015 4:16:27 PM : ************************End TestCase 0.1************************

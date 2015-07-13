@@ -1,0 +1,30 @@
+6/25/2015 1:37:16 PM : ******************Start TestCase 0.1******************
+6/25/2015 1:37:18 PM : Delete Logs and restart device
+6/25/2015 1:37:18 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+6/25/2015 1:37:18 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:37:28 PM : Going Back to Home screen.
+6/25/2015 1:37:29 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:37:37 PM : d41c9385_currentScreen-2015-06-25_01-37-29-PM.png
+6/25/2015 1:37:38 PM : Going Back to Home screen.
+6/25/2015 1:37:38 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:37:44 PM : d41c9385_currentScreen-2015-06-25_01-37-38-PM.png
+6/25/2015 1:37:44 PM : Clicking by template DialerIconStart.png
+6/25/2015 1:37:45 PM : Verfiying template DialerIconStart.png
+6/25/2015 1:37:45 PM : Accuracy is D=1
+6/25/2015 1:37:45 PM : Template DialerIconStart.png is Verified. 
+6/25/2015 1:37:45 PM : Touching on  X=55, Y=862
+6/25/2015 1:37:45 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:37:51 PM : d41c9385_currentScreen-2015-06-25_01-37-45-PM.png
+6/25/2015 1:37:52 PM : typing #932#
+6/25/2015 1:37:53 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:37:59 PM : d41c9385_currentScreen-2015-06-25_01-37-52-PM.png
+6/25/2015 1:38:00 PM : Clicking by template DialerIconCall.png
+6/25/2015 1:38:01 PM : Verfiying template DialerIconCall.png
+6/25/2015 1:38:01 PM : Accuracy is D=0.357850164175034
+6/25/2015 1:38:01 PM : Template DialerIconCall.png is not Verified!
+6/25/2015 1:38:01 PM : Wait 10 seconds to get the datausage message
+6/25/2015 1:38:11 PM : Taking screen shot...
+6/25/2015 1:38:11 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:38:16 PM : d41c9385_currentScreen-2015-06-25_01-38-11-PM.png
+6/25/2015 1:38:20 PM : System.Diagnostics.ProcessStartInfo
+6/25/2015 1:38:21 PM : ************************End TestCase 0.1************************

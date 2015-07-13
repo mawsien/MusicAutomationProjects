@@ -1,0 +1,196 @@
+3/16/2015 3:54:55 PM : ******************Start TestCase 0.1******************
+3/16/2015 3:54:55 PM : Delete Logs and restart device
+3/16/2015 3:54:55 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+3/16/2015 3:54:55 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:55:05 PM : Going Back to Home screen.
+3/16/2015 3:55:05 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:55:15 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-55-05-PM.png
+3/16/2015 3:55:22 PM : Taking screen shot...
+3/16/2015 3:55:22 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:55:29 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-55-22-PM.png
+3/16/2015 3:55:35 PM : Taking screen shot...
+3/16/2015 3:55:35 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:55:42 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-55-35-PM.png
+3/16/2015 3:55:48 PM : Taking screen shot...
+3/16/2015 3:55:48 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:55:55 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-55-48-PM.png
+3/16/2015 3:56:02 PM : Taking screen shot...
+3/16/2015 3:56:02 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:56:08 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-56-02-PM.png
+3/16/2015 3:56:15 PM : Taking screen shot...
+3/16/2015 3:56:15 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:56:21 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-56-15-PM.png
+3/16/2015 3:56:28 PM : Taking screen shot...
+3/16/2015 3:56:28 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:56:34 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-56-28-PM.png
+3/16/2015 3:56:41 PM : Taking screen shot...
+3/16/2015 3:56:41 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:56:48 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-56-41-PM.png
+3/16/2015 3:56:54 PM : Taking screen shot...
+3/16/2015 3:56:54 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:57:01 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-56-54-PM.png
+3/16/2015 3:57:07 PM : Taking screen shot...
+3/16/2015 3:57:07 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:57:14 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-57-07-PM.png
+3/16/2015 3:57:21 PM : Taking screen shot...
+3/16/2015 3:57:21 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:57:28 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-57-21-PM.png
+3/16/2015 3:57:34 PM : Taking screen shot...
+3/16/2015 3:57:34 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:57:41 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-57-34-PM.png
+3/16/2015 3:57:47 PM : Taking screen shot...
+3/16/2015 3:57:47 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:57:54 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-57-47-PM.png
+3/16/2015 3:58:01 PM : Taking screen shot...
+3/16/2015 3:58:01 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:07 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-58-01-PM.png
+3/16/2015 3:58:14 PM : Taking screen shot...
+3/16/2015 3:58:14 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:19 PM : d41c9385_currentScreen-2015-03-16_03-58-14-PM.png
+3/16/2015 3:58:22 PM : ******************Start TestCase 0.1******************
+3/16/2015 3:58:22 PM : Delete Logs and restart device
+3/16/2015 3:58:22 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+3/16/2015 3:58:22 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:23 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:31 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:32 PM : Going Back to Home screen.
+3/16/2015 3:58:32 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:38 PM : d41c9385_currentScreen-2015-03-16_03-58-32-PM.png
+3/16/2015 3:58:39 PM : Going Back to Home screen.
+3/16/2015 3:58:39 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:39 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:45 PM : Problem taking screen shot for deviceID d41c9385 so  take it again, the name is Report\3-16-d41c9385\ScreenShots\d41c9385_currentScreen-2015-03-16_03-58-39-PM.png
+3/16/2015 3:58:49 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:51 PM : Taking screen shot...
+3/16/2015 3:58:51 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:58:58 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:03 PM : d41c9385_currentScreen-2015-03-16_03-58-51-PM.png
+3/16/2015 3:59:06 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:08 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:12 PM : Clicking by template DialerIconStart.png
+3/16/2015 3:59:12 PM : Verfiying template DialerIconStart.png
+3/16/2015 3:59:12 PM : Accuracy is D=1
+3/16/2015 3:59:12 PM : Template DialerIconStart.png is Verified. 
+3/16/2015 3:59:12 PM : Touching on  X=54, Y=863
+3/16/2015 3:59:12 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:20 PM : d41c9385_currentScreen-2015-03-16_03-59-12-PM.png
+3/16/2015 3:59:20 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:21 PM : typing #932#
+3/16/2015 3:59:21 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:28 PM : d41c9385_currentScreen-2015-03-16_03-59-21-PM.png
+3/16/2015 3:59:28 PM : d41c9385_currentScreen-2015-03-16_03-59-21-PM.png
+3/16/2015 3:59:31 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:31 PM : Clicking by template DialerIconCall.png
+3/16/2015 3:59:31 PM : Verfiying template DialerIconCall.png
+3/16/2015 3:59:31 PM : Accuracy is D=0.206453114748001
+3/16/2015 3:59:31 PM : Template DialerIconCall.png is not Verified!
+3/16/2015 3:59:31 PM : Wait 10 seconds to get the datausage message
+3/16/2015 3:59:39 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:41 PM : Taking screen shot...
+3/16/2015 3:59:41 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:48 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:52 PM : d41c9385_currentScreen-2015-03-16_03-59-41-PM.png
+3/16/2015 3:59:57 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:58 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 3:59:59 PM : ************************End TestCase 0.1************************
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:05 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:06 PM : Index was outside the bounds of the array.
+3/16/2015 4:00:14 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 4:00:23 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 4:00:28 PM : Going Back to Home screen.
+3/16/2015 4:00:28 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 4:00:34 PM : d41c9385_currentScreen-2015-03-16_04-00-28-PM.png
+3/16/2015 4:00:34 PM : Clicking by template DialerIconStart.png
+3/16/2015 4:00:34 PM : Verfiying template DialerIconStart.png
+3/16/2015 4:00:34 PM : Accuracy is D=0.999999582767487
+3/16/2015 4:00:34 PM : Template DialerIconStart.png is Verified. 
+3/16/2015 4:00:34 PM : Touching on  X=54, Y=863
+3/16/2015 4:00:34 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 4:00:41 PM : d41c9385_currentScreen-2015-03-16_04-00-34-PM.png
+3/16/2015 4:00:41 PM : typing #932#
+3/16/2015 4:00:41 PM : System.Diagnostics.ProcessStartInfo
+3/16/2015 4:00:48 PM : d41c9385_currentScreen-2015-03-16_04-00-41-PM.png

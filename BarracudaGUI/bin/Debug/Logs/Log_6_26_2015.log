@@ -1,0 +1,306 @@
+6/26/2015 2:26:07 PM : ******************Start TestCase 0.1******************
+6/26/2015 2:26:07 PM : Delete Logs and restart device
+6/26/2015 2:26:07 PM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+6/26/2015 2:26:07 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:26:17 PM : Going Back to Home screen.
+6/26/2015 2:26:17 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:26:28 PM : 1b217014_currentScreen-2015-06-26_02-26-17-PM.png
+6/26/2015 2:26:28 PM : Going Back to Home screen.
+6/26/2015 2:26:28 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:26:34 PM : 1b217014_currentScreen-2015-06-26_02-26-28-PM.png
+6/26/2015 2:26:34 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:26:34 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:26:34 PM : Accuracy is D=0.999764204025269
+6/26/2015 2:26:34 PM : Template DialerIconStart.png is Verified. 
+6/26/2015 2:26:34 PM : Touching on  X=47, Y=860
+6/26/2015 2:26:34 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:26:41 PM : 1b217014_currentScreen-2015-06-26_02-26-34-PM.png
+6/26/2015 2:26:42 PM : typing #932#
+6/26/2015 2:26:42 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:26:48 PM : 1b217014_currentScreen-2015-06-26_02-26-42-PM.png
+6/26/2015 2:26:49 PM : Clicking by template DialerIconCall.png
+6/26/2015 2:26:49 PM : Verfiying template DialerIconCall.png
+6/26/2015 2:26:49 PM : Accuracy is D=1
+6/26/2015 2:26:49 PM : Template DialerIconCall.png is Verified. 
+6/26/2015 2:26:49 PM : Touching on  X=268, Y=910
+6/26/2015 2:26:49 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:26:55 PM : 1b217014_currentScreen-2015-06-26_02-26-49-PM.png
+6/26/2015 2:26:56 PM : Wait 10 seconds to get the datausage message
+6/26/2015 2:27:06 PM : Taking screen shot...
+6/26/2015 2:27:06 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:11 PM : 1b217014_currentScreen-2015-06-26_02-27-06-PM.png
+6/26/2015 2:27:14 PM : Clicking by template WEB_OK.png
+6/26/2015 2:27:14 PM : Verfiying template WEB_OK.png
+6/26/2015 2:27:14 PM : Accuracy is D=0.999911069869995
+6/26/2015 2:27:14 PM : Template WEB_OK.png is Verified. 
+6/26/2015 2:27:14 PM : Touching on  X=270, Y=590
+6/26/2015 2:27:14 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:21 PM : 1b217014_currentScreen-2015-06-26_02-27-14-PM.png
+6/26/2015 2:27:21 PM : Start TCPDump
+6/26/2015 2:27:21 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:27:21 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:27:21 PM : Accuracy is D=0.701930820941925
+6/26/2015 2:27:21 PM : Template DialerIconStart.png is not Verified!
+6/26/2015 2:27:21 PM : typing *#9900#
+6/26/2015 2:27:21 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:29 PM : 1b217014_currentScreen-2015-06-26_02-27-21-PM.png
+6/26/2015 2:27:29 PM : Taking screen shot...
+6/26/2015 2:27:29 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:34 PM : 1b217014_currentScreen-2015-06-26_02-27-29-PM.png
+6/26/2015 2:27:35 PM : Scrolling two page down..
+6/26/2015 2:27:35 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:41 PM : 1b217014_currentScreen-2015-06-26_02-27-35-PM.png
+6/26/2015 2:27:42 PM : Taking screen shot...
+6/26/2015 2:27:42 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:47 PM : 1b217014_currentScreen-2015-06-26_02-27-42-PM.png
+6/26/2015 2:27:48 PM : Clicking by template TCPDUMPSTART.png
+6/26/2015 2:27:48 PM : Verfiying template TCPDUMPSTART.png
+6/26/2015 2:27:48 PM : Accuracy is D=0.843780338764191
+6/26/2015 2:27:48 PM : Template TCPDUMPSTART.png is not Verified!
+6/26/2015 2:27:48 PM : Clicking by template TCPDUMPSTART_ANY.png
+6/26/2015 2:27:48 PM : Verfiying template TCPDUMPSTART_ANY.png
+6/26/2015 2:27:48 PM : Accuracy is D=0.233018636703491
+6/26/2015 2:27:48 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+6/26/2015 2:27:48 PM : Clicking by template TCPDUMPSTART_OK.png
+6/26/2015 2:27:48 PM : Verfiying template TCPDUMPSTART_OK.png
+6/26/2015 2:27:48 PM : Accuracy is D=0.440427213907242
+6/26/2015 2:27:48 PM : Template TCPDUMPSTART_OK.png is not Verified!
+6/26/2015 2:27:48 PM : Going Back to Home screen.
+6/26/2015 2:27:48 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:27:54 PM : 1b217014_currentScreen-2015-06-26_02-27-48-PM.png
+6/26/2015 2:27:54 PM : Going Back to Home screen.
+6/26/2015 2:27:54 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:28:00 PM : 1b217014_currentScreen-2015-06-26_02-27-54-PM.png
+6/26/2015 2:28:00 PM : Play band Hop
+6/26/2015 2:28:00 PM : Start Pandora
+6/26/2015 2:30:58 PM : Clicking by template PandoraStartIcon.png
+6/26/2015 2:32:18 PM : Verfiying template PandoraStartIcon.png
+6/26/2015 2:34:03 PM : ******************Start TestCase 0.1******************
+6/26/2015 2:34:03 PM : Delete Logs and restart device
+6/26/2015 2:34:03 PM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+6/26/2015 2:34:03 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:34:13 PM : Going Back to Home screen.
+6/26/2015 2:34:13 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:34:19 PM : 1b217014_currentScreen-2015-06-26_02-34-13-PM.png
+6/26/2015 2:34:19 PM : Going Back to Home screen.
+6/26/2015 2:34:19 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:34:24 PM : 1b217014_currentScreen-2015-06-26_02-34-19-PM.png
+6/26/2015 2:34:25 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:34:25 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:34:25 PM : Accuracy is D=0.999764204025269
+6/26/2015 2:34:25 PM : Template DialerIconStart.png is Verified. 
+6/26/2015 2:34:25 PM : Touching on  X=47, Y=860
+6/26/2015 2:34:25 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:34:31 PM : 1b217014_currentScreen-2015-06-26_02-34-25-PM.png
+6/26/2015 2:34:32 PM : typing #932#
+6/26/2015 2:34:32 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:34:38 PM : 1b217014_currentScreen-2015-06-26_02-34-32-PM.png
+6/26/2015 2:34:39 PM : Clicking by template DialerIconCall.png
+6/26/2015 2:34:39 PM : Verfiying template DialerIconCall.png
+6/26/2015 2:34:39 PM : Accuracy is D=1
+6/26/2015 2:34:39 PM : Template DialerIconCall.png is Verified. 
+6/26/2015 2:34:39 PM : Touching on  X=268, Y=910
+6/26/2015 2:34:39 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:34:45 PM : 1b217014_currentScreen-2015-06-26_02-34-39-PM.png
+6/26/2015 2:34:46 PM : Wait 10 seconds to get the datausage message
+6/26/2015 2:34:56 PM : Taking screen shot...
+6/26/2015 2:34:56 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:01 PM : 1b217014_currentScreen-2015-06-26_02-34-56-PM.png
+6/26/2015 2:35:04 PM : Clicking by template WEB_OK.png
+6/26/2015 2:35:04 PM : Verfiying template WEB_OK.png
+6/26/2015 2:35:04 PM : Accuracy is D=0.999911069869995
+6/26/2015 2:35:04 PM : Template WEB_OK.png is Verified. 
+6/26/2015 2:35:04 PM : Touching on  X=270, Y=590
+6/26/2015 2:35:04 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:10 PM : 1b217014_currentScreen-2015-06-26_02-35-04-PM.png
+6/26/2015 2:35:11 PM : Start TCPDump
+6/26/2015 2:35:11 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:35:11 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:35:11 PM : Accuracy is D=0.701930820941925
+6/26/2015 2:35:11 PM : Template DialerIconStart.png is not Verified!
+6/26/2015 2:35:11 PM : typing *#9900#
+6/26/2015 2:35:11 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:18 PM : 1b217014_currentScreen-2015-06-26_02-35-11-PM.png
+6/26/2015 2:35:19 PM : Taking screen shot...
+6/26/2015 2:35:19 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:24 PM : 1b217014_currentScreen-2015-06-26_02-35-19-PM.png
+6/26/2015 2:35:24 PM : Scrolling two page down..
+6/26/2015 2:35:24 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:31 PM : 1b217014_currentScreen-2015-06-26_02-35-24-PM.png
+6/26/2015 2:35:31 PM : Taking screen shot...
+6/26/2015 2:35:31 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:36 PM : 1b217014_currentScreen-2015-06-26_02-35-31-PM.png
+6/26/2015 2:35:37 PM : Clicking by template TCPDUMPSTART.png
+6/26/2015 2:35:37 PM : Verfiying template TCPDUMPSTART.png
+6/26/2015 2:35:37 PM : Accuracy is D=0.843780338764191
+6/26/2015 2:35:37 PM : Template TCPDUMPSTART.png is not Verified!
+6/26/2015 2:35:37 PM : Clicking by template TCPDUMPSTART_ANY.png
+6/26/2015 2:35:37 PM : Verfiying template TCPDUMPSTART_ANY.png
+6/26/2015 2:35:37 PM : Accuracy is D=0.233017191290855
+6/26/2015 2:35:37 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+6/26/2015 2:35:37 PM : Clicking by template TCPDUMPSTART_OK.png
+6/26/2015 2:35:37 PM : Verfiying template TCPDUMPSTART_OK.png
+6/26/2015 2:35:37 PM : Accuracy is D=0.440427213907242
+6/26/2015 2:35:37 PM : Template TCPDUMPSTART_OK.png is not Verified!
+6/26/2015 2:35:37 PM : Going Back to Home screen.
+6/26/2015 2:35:37 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:43 PM : 1b217014_currentScreen-2015-06-26_02-35-37-PM.png
+6/26/2015 2:35:43 PM : Going Back to Home screen.
+6/26/2015 2:35:43 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:35:49 PM : 1b217014_currentScreen-2015-06-26_02-35-43-PM.png
+6/26/2015 2:35:49 PM : Play band Hop
+6/26/2015 2:35:49 PM : Start Pandora
+6/26/2015 2:36:06 PM : Clicking by template PandoraStartIcon.png
+6/26/2015 2:36:06 PM : Verfiying template PandoraStartIcon.png
+6/26/2015 2:39:08 PM : ******************Start TestCase 0.1******************
+6/26/2015 2:39:08 PM : Delete Logs and restart device
+6/26/2015 2:39:08 PM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+6/26/2015 2:39:08 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:39:18 PM : Going Back to Home screen.
+6/26/2015 2:39:18 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:39:24 PM : 1b217014_currentScreen-2015-06-26_02-39-18-PM.png
+6/26/2015 2:39:24 PM : Going Back to Home screen.
+6/26/2015 2:39:24 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:39:29 PM : 1b217014_currentScreen-2015-06-26_02-39-24-PM.png
+6/26/2015 2:39:30 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:39:30 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:39:30 PM : Accuracy is D=0.999764204025269
+6/26/2015 2:39:30 PM : Template DialerIconStart.png is Verified. 
+6/26/2015 2:39:30 PM : Touching on  X=47, Y=860
+6/26/2015 2:39:30 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:39:36 PM : 1b217014_currentScreen-2015-06-26_02-39-30-PM.png
+6/26/2015 2:39:37 PM : typing #932#
+6/26/2015 2:39:37 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:39:43 PM : 1b217014_currentScreen-2015-06-26_02-39-37-PM.png
+6/26/2015 2:39:44 PM : Clicking by template DialerIconCall.png
+6/26/2015 2:39:44 PM : Verfiying template DialerIconCall.png
+6/26/2015 2:39:44 PM : Accuracy is D=1
+6/26/2015 2:39:44 PM : Template DialerIconCall.png is Verified. 
+6/26/2015 2:39:44 PM : Touching on  X=268, Y=910
+6/26/2015 2:39:44 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:39:50 PM : 1b217014_currentScreen-2015-06-26_02-39-44-PM.png
+6/26/2015 2:39:51 PM : Wait 10 seconds to get the datausage message
+6/26/2015 2:40:01 PM : Taking screen shot...
+6/26/2015 2:40:01 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:06 PM : 1b217014_currentScreen-2015-06-26_02-40-01-PM.png
+6/26/2015 2:40:09 PM : Clicking by template WEB_OK.png
+6/26/2015 2:40:09 PM : Verfiying template WEB_OK.png
+6/26/2015 2:40:09 PM : Accuracy is D=0.999911069869995
+6/26/2015 2:40:09 PM : Template WEB_OK.png is Verified. 
+6/26/2015 2:40:09 PM : Touching on  X=270, Y=590
+6/26/2015 2:40:09 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:15 PM : 1b217014_currentScreen-2015-06-26_02-40-09-PM.png
+6/26/2015 2:40:16 PM : Start TCPDump
+6/26/2015 2:40:16 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:40:16 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:40:16 PM : Accuracy is D=0.701930820941925
+6/26/2015 2:40:16 PM : Template DialerIconStart.png is not Verified!
+6/26/2015 2:40:16 PM : typing *#9900#
+6/26/2015 2:40:16 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:23 PM : 1b217014_currentScreen-2015-06-26_02-40-16-PM.png
+6/26/2015 2:40:24 PM : Taking screen shot...
+6/26/2015 2:40:24 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:29 PM : 1b217014_currentScreen-2015-06-26_02-40-24-PM.png
+6/26/2015 2:40:29 PM : Scrolling two page down..
+6/26/2015 2:40:29 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:36 PM : 1b217014_currentScreen-2015-06-26_02-40-29-PM.png
+6/26/2015 2:40:36 PM : Taking screen shot...
+6/26/2015 2:40:36 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:41 PM : 1b217014_currentScreen-2015-06-26_02-40-36-PM.png
+6/26/2015 2:40:42 PM : Clicking by template TCPDUMPSTART.png
+6/26/2015 2:40:42 PM : Verfiying template TCPDUMPSTART.png
+6/26/2015 2:40:42 PM : Accuracy is D=0.843780338764191
+6/26/2015 2:40:42 PM : Template TCPDUMPSTART.png is not Verified!
+6/26/2015 2:40:42 PM : Clicking by template TCPDUMPSTART_ANY.png
+6/26/2015 2:40:42 PM : Verfiying template TCPDUMPSTART_ANY.png
+6/26/2015 2:40:42 PM : Accuracy is D=0.233017906546593
+6/26/2015 2:40:42 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+6/26/2015 2:40:42 PM : Clicking by template TCPDUMPSTART_OK.png
+6/26/2015 2:40:42 PM : Verfiying template TCPDUMPSTART_OK.png
+6/26/2015 2:40:42 PM : Accuracy is D=0.440427213907242
+6/26/2015 2:40:42 PM : Template TCPDUMPSTART_OK.png is not Verified!
+6/26/2015 2:40:42 PM : Going Back to Home screen.
+6/26/2015 2:40:42 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:48 PM : 1b217014_currentScreen-2015-06-26_02-40-42-PM.png
+6/26/2015 2:40:48 PM : Going Back to Home screen.
+6/26/2015 2:40:48 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:40:54 PM : 1b217014_currentScreen-2015-06-26_02-40-48-PM.png
+6/26/2015 2:40:54 PM : Play band Hop
+6/26/2015 2:40:54 PM : Start Pandora
+6/26/2015 2:41:13 PM : Clicking by template PandoraStartIcon.png
+6/26/2015 2:41:13 PM : Verfiying template PandoraStartIcon.png
+6/26/2015 2:42:06 PM : ******************Start TestCase 0.1******************
+6/26/2015 2:42:06 PM : Delete Logs and restart device
+6/26/2015 2:42:06 PM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+6/26/2015 2:42:06 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:42:16 PM : Going Back to Home screen.
+6/26/2015 2:42:16 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:42:21 PM : 1b217014_currentScreen-2015-06-26_02-42-16-PM.png
+6/26/2015 2:42:22 PM : Going Back to Home screen.
+6/26/2015 2:42:22 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:42:27 PM : 1b217014_currentScreen-2015-06-26_02-42-22-PM.png
+6/26/2015 2:42:28 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:42:28 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:42:28 PM : Accuracy is D=0.999764204025269
+6/26/2015 2:42:28 PM : Template DialerIconStart.png is Verified. 
+6/26/2015 2:42:28 PM : Touching on  X=47, Y=860
+6/26/2015 2:42:28 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:42:34 PM : 1b217014_currentScreen-2015-06-26_02-42-28-PM.png
+6/26/2015 2:42:35 PM : typing #932#
+6/26/2015 2:42:35 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:42:41 PM : 1b217014_currentScreen-2015-06-26_02-42-35-PM.png
+6/26/2015 2:42:42 PM : Clicking by template DialerIconCall.png
+6/26/2015 2:42:42 PM : Verfiying template DialerIconCall.png
+6/26/2015 2:42:42 PM : Accuracy is D=1
+6/26/2015 2:42:42 PM : Template DialerIconCall.png is Verified. 
+6/26/2015 2:42:42 PM : Touching on  X=268, Y=910
+6/26/2015 2:42:42 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:42:48 PM : 1b217014_currentScreen-2015-06-26_02-42-42-PM.png
+6/26/2015 2:42:49 PM : Wait 10 seconds to get the datausage message
+6/26/2015 2:42:59 PM : Taking screen shot...
+6/26/2015 2:42:59 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:04 PM : 1b217014_currentScreen-2015-06-26_02-42-59-PM.png
+6/26/2015 2:43:07 PM : Clicking by template WEB_OK.png
+6/26/2015 2:43:07 PM : Verfiying template WEB_OK.png
+6/26/2015 2:43:07 PM : Accuracy is D=0.99990975856781
+6/26/2015 2:43:07 PM : Template WEB_OK.png is Verified. 
+6/26/2015 2:43:07 PM : Touching on  X=270, Y=590
+6/26/2015 2:43:07 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:13 PM : 1b217014_currentScreen-2015-06-26_02-43-07-PM.png
+6/26/2015 2:43:14 PM : Start TCPDump
+6/26/2015 2:43:14 PM : Clicking by template DialerIconStart.png
+6/26/2015 2:43:14 PM : Verfiying template DialerIconStart.png
+6/26/2015 2:43:14 PM : Accuracy is D=0.701930820941925
+6/26/2015 2:43:14 PM : Template DialerIconStart.png is not Verified!
+6/26/2015 2:43:14 PM : typing *#9900#
+6/26/2015 2:43:14 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:21 PM : 1b217014_currentScreen-2015-06-26_02-43-14-PM.png
+6/26/2015 2:43:22 PM : Taking screen shot...
+6/26/2015 2:43:22 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:27 PM : 1b217014_currentScreen-2015-06-26_02-43-22-PM.png
+6/26/2015 2:43:28 PM : Scrolling two page down..
+6/26/2015 2:43:28 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:34 PM : 1b217014_currentScreen-2015-06-26_02-43-28-PM.png
+6/26/2015 2:43:35 PM : Taking screen shot...
+6/26/2015 2:43:35 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:40 PM : 1b217014_currentScreen-2015-06-26_02-43-35-PM.png
+6/26/2015 2:43:40 PM : Clicking by template TCPDUMPSTART.png
+6/26/2015 2:43:40 PM : Verfiying template TCPDUMPSTART.png
+6/26/2015 2:43:40 PM : Accuracy is D=0.843780338764191
+6/26/2015 2:43:40 PM : Template TCPDUMPSTART.png is not Verified!
+6/26/2015 2:43:40 PM : Clicking by template TCPDUMPSTART_ANY.png
+6/26/2015 2:43:40 PM : Verfiying template TCPDUMPSTART_ANY.png
+6/26/2015 2:43:41 PM : Accuracy is D=0.233017191290855
+6/26/2015 2:43:41 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+6/26/2015 2:43:41 PM : Clicking by template TCPDUMPSTART_OK.png
+6/26/2015 2:43:41 PM : Verfiying template TCPDUMPSTART_OK.png
+6/26/2015 2:43:41 PM : Accuracy is D=0.440427213907242
+6/26/2015 2:43:41 PM : Template TCPDUMPSTART_OK.png is not Verified!
+6/26/2015 2:43:41 PM : Going Back to Home screen.
+6/26/2015 2:43:41 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:46 PM : 1b217014_currentScreen-2015-06-26_02-43-41-PM.png
+6/26/2015 2:43:47 PM : Going Back to Home screen.
+6/26/2015 2:43:47 PM : System.Diagnostics.ProcessStartInfo
+6/26/2015 2:43:52 PM : 1b217014_currentScreen-2015-06-26_02-43-47-PM.png
+6/26/2015 2:43:53 PM : Play band Hop
+6/26/2015 2:43:53 PM : Start Pandora

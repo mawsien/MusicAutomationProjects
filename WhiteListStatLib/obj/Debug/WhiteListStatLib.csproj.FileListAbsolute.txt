@@ -1,0 +1,17 @@
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\WhiteListStatLib.dll.config
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\WhiteListStatLib.dll
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\WhiteListStatLib.pdb
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\eExNetworkLibrary.dll
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\LukeSkywalker.IPNetwork.dll
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\eExNetworkLibrary.pdb
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\eExNetworkLibrary.xml
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\bin\Debug\LukeSkywalker.IPNetwork.pdb
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\obj\Debug\WhiteListStatLib.csprojResolveAssemblyReference.cache
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\obj\Debug\WhiteListStatLib.dll
+D:\GDrive\Google Drive\T-Mobile\GibbonSolution\WhiteListStatLib\obj\Debug\WhiteListStatLib.pdb
+C:\Automation\MusicAutomationProjects\WhiteListStatLib\bin\Debug\WhiteListStatLib.dll.config
+C:\Automation\MusicAutomationProjects\WhiteListStatLib\bin\Debug\WhiteListStatLib.dll
+C:\Automation\MusicAutomationProjects\WhiteListStatLib\bin\Debug\WhiteListStatLib.pdb
+C:\Automation\MusicAutomationProjects\WhiteListStatLib\obj\Debug\WhiteListStatLib.csprojResolveAssemblyReference.cache
+C:\Automation\MusicAutomationProjects\WhiteListStatLib\obj\Debug\WhiteListStatLib.dll
+C:\Automation\MusicAutomationProjects\WhiteListStatLib\obj\Debug\WhiteListStatLib.pdb

@@ -1,0 +1,1829 @@
+﻿ruledef audio-ipv6_6000_01
+ruledef audio-ipv6_6000_02
+      ip server-ip-address = 2607:7700:0:10::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:11::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:12::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:13::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:14::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:15::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:2::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:3::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:4::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:5::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:6::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:7::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:8::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:9::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:a::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:b::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:c::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:d::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:e::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:f::c1b6:800/117
+      ip server-ip-address = 2607:7700:0:1::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:10::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:11::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:12::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:13::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:14::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:15::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:2::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:3::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:4::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:5::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:6::c0a5:a000/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_03
+      ip server-ip-address = 2607:7700:0:7::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:8::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:9::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:a::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:b::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:c::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:d::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:e::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:f::c0a5:a000/118
+      ip server-ip-address = 2607:7700:0:1::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:10::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:11::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:12::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:13::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:14::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:15::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:2::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:3::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:4::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:5::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:6::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:7::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:8::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:9::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:a::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:b::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:c::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:d::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:e::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:f::c1b5:400/118
+      ip server-ip-address = 2607:7700:0:1::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:10::c1b5:b400/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_04
+      ip server-ip-address = 2607:7700:0:11::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:12::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:13::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:14::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:15::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:2::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:3::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:4::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:5::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:6::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:7::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:8::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:9::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:a::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:b::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:c::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:d::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:e::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:f::c1b5:b400/118
+      ip server-ip-address = 2607:7700:0:1::c247:e800/118
+      ip server-ip-address = 2607:7700:0:10::c247:e800/118
+      ip server-ip-address = 2607:7700:0:11::c247:e800/118
+      ip server-ip-address = 2607:7700:0:12::c247:e800/118
+      ip server-ip-address = 2607:7700:0:13::c247:e800/118
+      ip server-ip-address = 2607:7700:0:14::c247:e800/118
+      ip server-ip-address = 2607:7700:0:15::c247:e800/118
+      ip server-ip-address = 2607:7700:0:2::c247:e800/118
+      ip server-ip-address = 2607:7700:0:3::c247:e800/118
+      ip server-ip-address = 2607:7700:0:4::c247:e800/118
+      ip server-ip-address = 2607:7700:0:5::c247:e800/118
+      ip server-ip-address = 2607:7700:0:6::c247:e800/118
+      ip server-ip-address = 2607:7700:0:7::c247:e800/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_05
+      ip server-ip-address = 2607:7700:0:8::c247:e800/118
+      ip server-ip-address = 2607:7700:0:9::c247:e800/118
+      ip server-ip-address = 2607:7700:0:a::c247:e800/118
+      ip server-ip-address = 2607:7700:0:b::c247:e800/118
+      ip server-ip-address = 2607:7700:0:c::c247:e800/118
+      ip server-ip-address = 2607:7700:0:d::c247:e800/118
+      ip server-ip-address = 2607:7700:0:e::c247:e800/118
+      ip server-ip-address = 2607:7700:0:f::c247:e800/118
+      ip server-ip-address = 2607:7700:0:1::c244:b000/118
+      ip server-ip-address = 2607:7700:0:10::c244:b000/118
+      ip server-ip-address = 2607:7700:0:11::c244:b000/118
+      ip server-ip-address = 2607:7700:0:12::c244:b000/118
+      ip server-ip-address = 2607:7700:0:13::c244:b000/118
+      ip server-ip-address = 2607:7700:0:14::c244:b000/118
+      ip server-ip-address = 2607:7700:0:15::c244:b000/118
+      ip server-ip-address = 2607:7700:0:2::c244:b000/118
+      ip server-ip-address = 2607:7700:0:3::c244:b000/118
+      ip server-ip-address = 2607:7700:0:4::c244:b000/118
+      ip server-ip-address = 2607:7700:0:5::c244:b000/118
+      ip server-ip-address = 2607:7700:0:6::c244:b000/118
+      ip server-ip-address = 2607:7700:0:7::c244:b000/118
+      ip server-ip-address = 2607:7700:0:8::c244:b000/118
+      ip server-ip-address = 2607:7700:0:9::c244:b000/118
+      ip server-ip-address = 2607:7700:0:a::c244:b000/118
+      ip server-ip-address = 2607:7700:0:b::c244:b000/118
+      ip server-ip-address = 2607:7700:0:c::c244:b000/118
+      ip server-ip-address = 2607:7700:0:d::c244:b000/118
+      ip server-ip-address = 2607:7700:0:e::c244:b000/118
+      ip server-ip-address = 2607:7700:0:f::c244:b000/118
+      ip server-ip-address = 2607:7700:0:1::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:10::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:11::c244:1c00/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_06
+      ip server-ip-address = 2607:7700:0:12::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:13::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:14::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:15::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:2::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:3::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:4::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:5::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:6::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:7::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:8::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:9::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:a::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:b::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:c::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:d::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:e::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:f::c244:1c00/118
+      ip server-ip-address = 2607:7700:0:1::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:10::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:11::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:12::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:13::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:14::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:15::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:2::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:3::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:4::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:5::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:6::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:7::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:8::c1ea:f000/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_07
+      ip server-ip-address = 2607:7700:0:9::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:a::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:b::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:c::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:d::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:e::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:f::c1ea:f000/118
+      ip server-ip-address = 2607:7700:0:1::c247:9400/118
+      ip server-ip-address = 2607:7700:0:10::c247:9400/118
+      ip server-ip-address = 2607:7700:0:11::c247:9400/118
+      ip server-ip-address = 2607:7700:0:12::c247:9400/118
+      ip server-ip-address = 2607:7700:0:13::c247:9400/118
+      ip server-ip-address = 2607:7700:0:14::c247:9400/118
+      ip server-ip-address = 2607:7700:0:15::c247:9400/118
+      ip server-ip-address = 2607:7700:0:2::c247:9400/118
+      ip server-ip-address = 2607:7700:0:3::c247:9400/118
+      ip server-ip-address = 2607:7700:0:4::c247:9400/118
+      ip server-ip-address = 2607:7700:0:5::c247:9400/118
+      ip server-ip-address = 2607:7700:0:6::c247:9400/118
+      ip server-ip-address = 2607:7700:0:7::c247:9400/118
+      ip server-ip-address = 2607:7700:0:8::c247:9400/118
+      ip server-ip-address = 2607:7700:0:9::c247:9400/118
+      ip server-ip-address = 2607:7700:0:a::c247:9400/118
+      ip server-ip-address = 2607:7700:0:b::c247:9400/118
+      ip server-ip-address = 2607:7700:0:c::c247:9400/118
+      ip server-ip-address = 2607:7700:0:d::c247:9400/118
+      ip server-ip-address = 2607:7700:0:e::c247:9400/118
+      ip server-ip-address = 2607:7700:0:f::c247:9400/118
+      ip server-ip-address = 2607:7700:0:1::c267:2400/118
+      ip server-ip-address = 2607:7700:0:10::c267:2400/118
+      ip server-ip-address = 2607:7700:0:11::c267:2400/118
+      ip server-ip-address = 2607:7700:0:12::c267:2400/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_08
+      ip server-ip-address = 2607:7700:0:13::c267:2400/118
+      ip server-ip-address = 2607:7700:0:14::c267:2400/118
+      ip server-ip-address = 2607:7700:0:15::c267:2400/118
+      ip server-ip-address = 2607:7700:0:2::c267:2400/118
+      ip server-ip-address = 2607:7700:0:3::c267:2400/118
+      ip server-ip-address = 2607:7700:0:4::c267:2400/118
+      ip server-ip-address = 2607:7700:0:5::c267:2400/118
+      ip server-ip-address = 2607:7700:0:6::c267:2400/118
+      ip server-ip-address = 2607:7700:0:7::c267:2400/118
+      ip server-ip-address = 2607:7700:0:8::c267:2400/118
+      ip server-ip-address = 2607:7700:0:9::c267:2400/118
+      ip server-ip-address = 2607:7700:0:a::c267:2400/118
+      ip server-ip-address = 2607:7700:0:b::c267:2400/118
+      ip server-ip-address = 2607:7700:0:c::c267:2400/118
+      ip server-ip-address = 2607:7700:0:d::c267:2400/118
+      ip server-ip-address = 2607:7700:0:e::c267:2400/118
+      ip server-ip-address = 2607:7700:0:f::c267:2400/118
+      ip server-ip-address = 2607:7700:0:1::c284:9800/118
+      ip server-ip-address = 2607:7700:0:10::c284:9800/118
+      ip server-ip-address = 2607:7700:0:11::c284:9800/118
+      ip server-ip-address = 2607:7700:0:12::c284:9800/118
+      ip server-ip-address = 2607:7700:0:13::c284:9800/118
+      ip server-ip-address = 2607:7700:0:14::c284:9800/118
+      ip server-ip-address = 2607:7700:0:15::c284:9800/118
+      ip server-ip-address = 2607:7700:0:2::c284:9800/118
+      ip server-ip-address = 2607:7700:0:3::c284:9800/118
+      ip server-ip-address = 2607:7700:0:4::c284:9800/118
+      ip server-ip-address = 2607:7700:0:5::c284:9800/118
+      ip server-ip-address = 2607:7700:0:6::c284:9800/118
+      ip server-ip-address = 2607:7700:0:7::c284:9800/118
+      ip server-ip-address = 2607:7700:0:8::c284:9800/118
+      ip server-ip-address = 2607:7700:0:9::c284:9800/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_09
+      ip server-ip-address = 2607:7700:0:a::c284:9800/118
+      ip server-ip-address = 2607:7700:0:b::c284:9800/118
+      ip server-ip-address = 2607:7700:0:c::c284:9800/118
+      ip server-ip-address = 2607:7700:0:d::c284:9800/118
+      ip server-ip-address = 2607:7700:0:e::c284:9800/118
+      ip server-ip-address = 2607:7700:0:f::c284:9800/118
+      ip server-ip-address = 2607:7700:0:1::c284:b000/118
+      ip server-ip-address = 2607:7700:0:10::c284:b000/118
+      ip server-ip-address = 2607:7700:0:11::c284:b000/118
+      ip server-ip-address = 2607:7700:0:12::c284:b000/118
+      ip server-ip-address = 2607:7700:0:13::c284:b000/118
+      ip server-ip-address = 2607:7700:0:14::c284:b000/118
+      ip server-ip-address = 2607:7700:0:15::c284:b000/118
+      ip server-ip-address = 2607:7700:0:2::c284:b000/118
+      ip server-ip-address = 2607:7700:0:3::c284:b000/118
+      ip server-ip-address = 2607:7700:0:4::c284:b000/118
+      ip server-ip-address = 2607:7700:0:5::c284:b000/118
+      ip server-ip-address = 2607:7700:0:6::c284:b000/118
+      ip server-ip-address = 2607:7700:0:7::c284:b000/118
+      ip server-ip-address = 2607:7700:0:8::c284:b000/118
+      ip server-ip-address = 2607:7700:0:9::c284:b000/118
+      ip server-ip-address = 2607:7700:0:a::c284:b000/118
+      ip server-ip-address = 2607:7700:0:b::c284:b000/118
+      ip server-ip-address = 2607:7700:0:c::c284:b000/118
+      ip server-ip-address = 2607:7700:0:d::c284:b000/118
+      ip server-ip-address = 2607:7700:0:e::c284:b000/118
+      ip server-ip-address = 2607:7700:0:f::c284:b000/118
+      ip server-ip-address = 2607:7700:0:1::c284:c400/118
+      ip server-ip-address = 2607:7700:0:10::c284:c400/118
+      ip server-ip-address = 2607:7700:0:11::c284:c400/118
+      ip server-ip-address = 2607:7700:0:12::c284:c400/118
+      ip server-ip-address = 2607:7700:0:13::c284:c400/118
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_10
+      ip server-ip-address = 2607:7700:0:14::c284:c400/118
+      ip server-ip-address = 2607:7700:0:15::c284:c400/118
+      ip server-ip-address = 2607:7700:0:2::c284:c400/118
+      ip server-ip-address = 2607:7700:0:3::c284:c400/118
+      ip server-ip-address = 2607:7700:0:4::c284:c400/118
+      ip server-ip-address = 2607:7700:0:5::c284:c400/118
+      ip server-ip-address = 2607:7700:0:6::c284:c400/118
+      ip server-ip-address = 2607:7700:0:7::c284:c400/118
+      ip server-ip-address = 2607:7700:0:8::c284:c400/118
+      ip server-ip-address = 2607:7700:0:9::c284:c400/118
+      ip server-ip-address = 2607:7700:0:a::c284:c400/118
+      ip server-ip-address = 2607:7700:0:b::c284:c400/118
+      ip server-ip-address = 2607:7700:0:c::c284:c400/118
+      ip server-ip-address = 2607:7700:0:d::c284:c400/118
+      ip server-ip-address = 2607:7700:0:e::c284:c400/118
+      ip server-ip-address = 2607:7700:0:f::c284:c400/118
+      ip server-ip-address = 2607:7700:0:1::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:10::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:11::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:12::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:13::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:14::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:15::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:2::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:3::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:4::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:5::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:6::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:7::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:8::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:9::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:a::c1b5:b800/119
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_11
+      ip server-ip-address = 2607:7700:0:b::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:c::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:d::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:e::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:f::c1b5:b800/119
+      ip server-ip-address = 2607:7700:0:1::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:e800/120
+      ip server-ip-address = 2607:7700:0:1::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:10::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:11::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:12::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:13::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:14::c1b6:700/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_12
+      ip server-ip-address = 2607:7700:0:15::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:2::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:3::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:4::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:5::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:6::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:7::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:8::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:9::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:a::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:b::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:c::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:d::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:e::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:f::c1b6:700/120
+      ip server-ip-address = 2607:7700:0:1::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:10::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:11::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:12::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:13::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:14::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:15::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:2::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:3::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:4::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:5::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:6::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:7::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:8::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:9::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:a::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:b::c1b6:300/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_13
+      ip server-ip-address = 2607:7700:0:c::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:d::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:e::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:f::c1b6:300/120
+      ip server-ip-address = 2607:7700:0:1::c079:3500/120
+      ip server-ip-address = 2607:7700:0:10::c079:3500/120
+      ip server-ip-address = 2607:7700:0:11::c079:3500/120
+      ip server-ip-address = 2607:7700:0:12::c079:3500/120
+      ip server-ip-address = 2607:7700:0:13::c079:3500/120
+      ip server-ip-address = 2607:7700:0:14::c079:3500/120
+      ip server-ip-address = 2607:7700:0:15::c079:3500/120
+      ip server-ip-address = 2607:7700:0:2::c079:3500/120
+      ip server-ip-address = 2607:7700:0:3::c079:3500/120
+      ip server-ip-address = 2607:7700:0:4::c079:3500/120
+      ip server-ip-address = 2607:7700:0:5::c079:3500/120
+      ip server-ip-address = 2607:7700:0:6::c079:3500/120
+      ip server-ip-address = 2607:7700:0:7::c079:3500/120
+      ip server-ip-address = 2607:7700:0:8::c079:3500/120
+      ip server-ip-address = 2607:7700:0:9::c079:3500/120
+      ip server-ip-address = 2607:7700:0:a::c079:3500/120
+      ip server-ip-address = 2607:7700:0:b::c079:3500/120
+      ip server-ip-address = 2607:7700:0:c::c079:3500/120
+      ip server-ip-address = 2607:7700:0:d::c079:3500/120
+      ip server-ip-address = 2607:7700:0:e::c079:3500/120
+      ip server-ip-address = 2607:7700:0:f::c079:3500/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:2000/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_14
+      ip server-ip-address = 2607:7700:0:2::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:2000/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:3300/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_15
+      ip server-ip-address = 2607:7700:0:d::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:3300/120
+      ip server-ip-address = 2607:7700:0:1::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:10::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:11::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:12::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:13::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:14::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:15::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:2::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:3::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:4::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:5::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:6::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:7::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:8::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:9::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:a::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:b::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:c::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:d::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:e::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:f::c20e:b100/120
+      ip server-ip-address = 2607:7700:0:1::c244:7400/120
+      ip server-ip-address = 2607:7700:0:10::c244:7400/120
+      ip server-ip-address = 2607:7700:0:11::c244:7400/120
+      ip server-ip-address = 2607:7700:0:12::c244:7400/120
+      ip server-ip-address = 2607:7700:0:13::c244:7400/120
+      ip server-ip-address = 2607:7700:0:14::c244:7400/120
+      ip server-ip-address = 2607:7700:0:15::c244:7400/120
+      ip server-ip-address = 2607:7700:0:2::c244:7400/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_16
+      ip server-ip-address = 2607:7700:0:3::c244:7400/120
+      ip server-ip-address = 2607:7700:0:4::c244:7400/120
+      ip server-ip-address = 2607:7700:0:5::c244:7400/120
+      ip server-ip-address = 2607:7700:0:6::c244:7400/120
+      ip server-ip-address = 2607:7700:0:7::c244:7400/120
+      ip server-ip-address = 2607:7700:0:8::c244:7400/120
+      ip server-ip-address = 2607:7700:0:9::c244:7400/120
+      ip server-ip-address = 2607:7700:0:a::c244:7400/120
+      ip server-ip-address = 2607:7700:0:b::c244:7400/120
+      ip server-ip-address = 2607:7700:0:c::c244:7400/120
+      ip server-ip-address = 2607:7700:0:d::c244:7400/120
+      ip server-ip-address = 2607:7700:0:e::c244:7400/120
+      ip server-ip-address = 2607:7700:0:f::c244:7400/120
+      ip server-ip-address = 2607:7700:0:1::c244:a900/120
+      ip server-ip-address = 2607:7700:0:10::c244:a900/120
+      ip server-ip-address = 2607:7700:0:11::c244:a900/120
+      ip server-ip-address = 2607:7700:0:12::c244:a900/120
+      ip server-ip-address = 2607:7700:0:13::c244:a900/120
+      ip server-ip-address = 2607:7700:0:14::c244:a900/120
+      ip server-ip-address = 2607:7700:0:15::c244:a900/120
+      ip server-ip-address = 2607:7700:0:2::c244:a900/120
+      ip server-ip-address = 2607:7700:0:3::c244:a900/120
+      ip server-ip-address = 2607:7700:0:4::c244:a900/120
+      ip server-ip-address = 2607:7700:0:5::c244:a900/120
+      ip server-ip-address = 2607:7700:0:6::c244:a900/120
+      ip server-ip-address = 2607:7700:0:7::c244:a900/120
+      ip server-ip-address = 2607:7700:0:8::c244:a900/120
+      ip server-ip-address = 2607:7700:0:9::c244:a900/120
+      ip server-ip-address = 2607:7700:0:a::c244:a900/120
+      ip server-ip-address = 2607:7700:0:b::c244:a900/120
+      ip server-ip-address = 2607:7700:0:c::c244:a900/120
+      ip server-ip-address = 2607:7700:0:d::c244:a900/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_17
+      ip server-ip-address = 2607:7700:0:e::c244:a900/120
+      ip server-ip-address = 2607:7700:0:f::c244:a900/120
+      ip server-ip-address = 2607:7700:0:1::c244:b500/120
+      ip server-ip-address = 2607:7700:0:10::c244:b500/120
+      ip server-ip-address = 2607:7700:0:11::c244:b500/120
+      ip server-ip-address = 2607:7700:0:12::c244:b500/120
+      ip server-ip-address = 2607:7700:0:13::c244:b500/120
+      ip server-ip-address = 2607:7700:0:14::c244:b500/120
+      ip server-ip-address = 2607:7700:0:15::c244:b500/120
+      ip server-ip-address = 2607:7700:0:2::c244:b500/120
+      ip server-ip-address = 2607:7700:0:3::c244:b500/120
+      ip server-ip-address = 2607:7700:0:4::c244:b500/120
+      ip server-ip-address = 2607:7700:0:5::c244:b500/120
+      ip server-ip-address = 2607:7700:0:6::c244:b500/120
+      ip server-ip-address = 2607:7700:0:7::c244:b500/120
+      ip server-ip-address = 2607:7700:0:8::c244:b500/120
+      ip server-ip-address = 2607:7700:0:9::c244:b500/120
+      ip server-ip-address = 2607:7700:0:a::c244:b500/120
+      ip server-ip-address = 2607:7700:0:b::c244:b500/120
+      ip server-ip-address = 2607:7700:0:c::c244:b500/120
+      ip server-ip-address = 2607:7700:0:d::c244:b500/120
+      ip server-ip-address = 2607:7700:0:e::c244:b500/120
+      ip server-ip-address = 2607:7700:0:f::c244:b500/120
+      ip server-ip-address = 2607:7700:0:1::c244:b700/120
+      ip server-ip-address = 2607:7700:0:10::c244:b700/120
+      ip server-ip-address = 2607:7700:0:11::c244:b700/120
+      ip server-ip-address = 2607:7700:0:12::c244:b700/120
+      ip server-ip-address = 2607:7700:0:13::c244:b700/120
+      ip server-ip-address = 2607:7700:0:14::c244:b700/120
+      ip server-ip-address = 2607:7700:0:15::c244:b700/120
+      ip server-ip-address = 2607:7700:0:2::c244:b700/120
+      ip server-ip-address = 2607:7700:0:3::c244:b700/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_18
+      ip server-ip-address = 2607:7700:0:4::c244:b700/120
+      ip server-ip-address = 2607:7700:0:5::c244:b700/120
+      ip server-ip-address = 2607:7700:0:6::c244:b700/120
+      ip server-ip-address = 2607:7700:0:7::c244:b700/120
+      ip server-ip-address = 2607:7700:0:8::c244:b700/120
+      ip server-ip-address = 2607:7700:0:9::c244:b700/120
+      ip server-ip-address = 2607:7700:0:a::c244:b700/120
+      ip server-ip-address = 2607:7700:0:b::c244:b700/120
+      ip server-ip-address = 2607:7700:0:c::c244:b700/120
+      ip server-ip-address = 2607:7700:0:d::c244:b700/120
+      ip server-ip-address = 2607:7700:0:e::c244:b700/120
+      ip server-ip-address = 2607:7700:0:f::c244:b700/120
+      ip server-ip-address = 2607:7700:0:1::c267:a00/120
+      ip server-ip-address = 2607:7700:0:10::c267:a00/120
+      ip server-ip-address = 2607:7700:0:11::c267:a00/120
+      ip server-ip-address = 2607:7700:0:12::c267:a00/120
+      ip server-ip-address = 2607:7700:0:13::c267:a00/120
+      ip server-ip-address = 2607:7700:0:14::c267:a00/120
+      ip server-ip-address = 2607:7700:0:15::c267:a00/120
+      ip server-ip-address = 2607:7700:0:2::c267:a00/120
+      ip server-ip-address = 2607:7700:0:3::c267:a00/120
+      ip server-ip-address = 2607:7700:0:4::c267:a00/120
+      ip server-ip-address = 2607:7700:0:5::c267:a00/120
+      ip server-ip-address = 2607:7700:0:6::c267:a00/120
+      ip server-ip-address = 2607:7700:0:7::c267:a00/120
+      ip server-ip-address = 2607:7700:0:8::c267:a00/120
+      ip server-ip-address = 2607:7700:0:9::c267:a00/120
+      ip server-ip-address = 2607:7700:0:a::c267:a00/120
+      ip server-ip-address = 2607:7700:0:b::c267:a00/120
+      ip server-ip-address = 2607:7700:0:c::c267:a00/120
+      ip server-ip-address = 2607:7700:0:d::c267:a00/120
+      ip server-ip-address = 2607:7700:0:e::c267:a00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_19
+      ip server-ip-address = 2607:7700:0:f::c267:a00/120
+      ip server-ip-address = 2607:7700:0:1::c267:d00/120
+      ip server-ip-address = 2607:7700:0:10::c267:d00/120
+      ip server-ip-address = 2607:7700:0:11::c267:d00/120
+      ip server-ip-address = 2607:7700:0:12::c267:d00/120
+      ip server-ip-address = 2607:7700:0:13::c267:d00/120
+      ip server-ip-address = 2607:7700:0:14::c267:d00/120
+      ip server-ip-address = 2607:7700:0:15::c267:d00/120
+      ip server-ip-address = 2607:7700:0:2::c267:d00/120
+      ip server-ip-address = 2607:7700:0:3::c267:d00/120
+      ip server-ip-address = 2607:7700:0:4::c267:d00/120
+      ip server-ip-address = 2607:7700:0:5::c267:d00/120
+      ip server-ip-address = 2607:7700:0:6::c267:d00/120
+      ip server-ip-address = 2607:7700:0:7::c267:d00/120
+      ip server-ip-address = 2607:7700:0:8::c267:d00/120
+      ip server-ip-address = 2607:7700:0:9::c267:d00/120
+      ip server-ip-address = 2607:7700:0:a::c267:d00/120
+      ip server-ip-address = 2607:7700:0:b::c267:d00/120
+      ip server-ip-address = 2607:7700:0:c::c267:d00/120
+      ip server-ip-address = 2607:7700:0:d::c267:d00/120
+      ip server-ip-address = 2607:7700:0:e::c267:d00/120
+      ip server-ip-address = 2607:7700:0:f::c267:d00/120
+      ip server-ip-address = 2607:7700:0:1::c284:a200/120
+      ip server-ip-address = 2607:7700:0:10::c284:a200/120
+      ip server-ip-address = 2607:7700:0:11::c284:a200/120
+      ip server-ip-address = 2607:7700:0:12::c284:a200/120
+      ip server-ip-address = 2607:7700:0:13::c284:a200/120
+      ip server-ip-address = 2607:7700:0:14::c284:a200/120
+      ip server-ip-address = 2607:7700:0:15::c284:a200/120
+      ip server-ip-address = 2607:7700:0:2::c284:a200/120
+      ip server-ip-address = 2607:7700:0:3::c284:a200/120
+      ip server-ip-address = 2607:7700:0:4::c284:a200/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_20
+      ip server-ip-address = 2607:7700:0:5::c284:a200/120
+      ip server-ip-address = 2607:7700:0:6::c284:a200/120
+      ip server-ip-address = 2607:7700:0:7::c284:a200/120
+      ip server-ip-address = 2607:7700:0:8::c284:a200/120
+      ip server-ip-address = 2607:7700:0:9::c284:a200/120
+      ip server-ip-address = 2607:7700:0:a::c284:a200/120
+      ip server-ip-address = 2607:7700:0:b::c284:a200/120
+      ip server-ip-address = 2607:7700:0:c::c284:a200/120
+      ip server-ip-address = 2607:7700:0:d::c284:a200/120
+      ip server-ip-address = 2607:7700:0:e::c284:a200/120
+      ip server-ip-address = 2607:7700:0:f::c284:a200/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:e000/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:e000/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_21
+      ip server-ip-address = 2607:7700:0:1::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:6::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:cb00/120
+      ip server-ip-address = 2607:7700:0:1::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:10::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:11::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:12::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:13::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:14::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:15::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:2::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:3::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:4::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:5::c1eb:ce00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_22
+      ip server-ip-address = 2607:7700:0:6::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:7::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:8::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:9::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:a::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:b::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:c::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:d::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:e::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:f::c1eb:ce00/120
+      ip server-ip-address = 2607:7700:0:1::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:10::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:11::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:12::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:13::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:14::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:15::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:2::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:3::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:4::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:5::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:6::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:7::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:8::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:9::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:a::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:b::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:c::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:d::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:e::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:f::c079:8c00/120
+      ip server-ip-address = 2607:7700:0:1::c079:8400/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_23
+      ip server-ip-address = 2607:7700:0:10::c079:8400/120
+      ip server-ip-address = 2607:7700:0:11::c079:8400/120
+      ip server-ip-address = 2607:7700:0:12::c079:8400/120
+      ip server-ip-address = 2607:7700:0:13::c079:8400/120
+      ip server-ip-address = 2607:7700:0:14::c079:8400/120
+      ip server-ip-address = 2607:7700:0:15::c079:8400/120
+      ip server-ip-address = 2607:7700:0:2::c079:8400/120
+      ip server-ip-address = 2607:7700:0:3::c079:8400/120
+      ip server-ip-address = 2607:7700:0:4::c079:8400/120
+      ip server-ip-address = 2607:7700:0:5::c079:8400/120
+      ip server-ip-address = 2607:7700:0:6::c079:8400/120
+      ip server-ip-address = 2607:7700:0:7::c079:8400/120
+      ip server-ip-address = 2607:7700:0:8::c079:8400/120
+      ip server-ip-address = 2607:7700:0:9::c079:8400/120
+      ip server-ip-address = 2607:7700:0:a::c079:8400/120
+      ip server-ip-address = 2607:7700:0:b::c079:8400/120
+      ip server-ip-address = 2607:7700:0:c::c079:8400/120
+      ip server-ip-address = 2607:7700:0:d::c079:8400/120
+      ip server-ip-address = 2607:7700:0:e::c079:8400/120
+      ip server-ip-address = 2607:7700:0:f::c079:8400/120
+      ip server-ip-address = 2607:7700:0:1::504c:9603/128
+      ip server-ip-address = 2607:7700:0:10::504c:9603/128
+      ip server-ip-address = 2607:7700:0:11::504c:9603/128
+      ip server-ip-address = 2607:7700:0:12::504c:9603/128
+      ip server-ip-address = 2607:7700:0:13::504c:9603/128
+      ip server-ip-address = 2607:7700:0:14::504c:9603/128
+      ip server-ip-address = 2607:7700:0:15::504c:9603/128
+      ip server-ip-address = 2607:7700:0:2::504c:9603/128
+      ip server-ip-address = 2607:7700:0:3::504c:9603/128
+      ip server-ip-address = 2607:7700:0:4::504c:9603/128
+      ip server-ip-address = 2607:7700:0:5::504c:9603/128
+      ip server-ip-address = 2607:7700:0:6::504c:9603/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_24
+      ip server-ip-address = 2607:7700:0:7::504c:9603/128
+      ip server-ip-address = 2607:7700:0:8::504c:9603/128
+      ip server-ip-address = 2607:7700:0:9::504c:9603/128
+      ip server-ip-address = 2607:7700:0:a::504c:9603/128
+      ip server-ip-address = 2607:7700:0:b::504c:9603/128
+      ip server-ip-address = 2607:7700:0:c::504c:9603/128
+      ip server-ip-address = 2607:7700:0:d::504c:9603/128
+      ip server-ip-address = 2607:7700:0:e::504c:9603/128
+      ip server-ip-address = 2607:7700:0:f::504c:9603/128
+      ip server-ip-address = 2607:7700:0:1::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:10::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:11::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:12::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:13::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:14::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:15::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:2::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:3::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:4::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:5::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:6::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:7::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:8::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:9::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:a::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:b::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:c::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:d::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:e::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:f::36f3:c112/128
+      ip server-ip-address = 2607:7700:0:1::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:10::3212:2f1a/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_25
+      ip server-ip-address = 2607:7700:0:11::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:12::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:13::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:14::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:15::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:2::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:3::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:4::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:5::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:6::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:7::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:8::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:9::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:a::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:b::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:c::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:d::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:e::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:f::3212:2f1a/128
+      ip server-ip-address = 2607:7700:0:1::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:10::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:11::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:12::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:13::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:14::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:15::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:2::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:3::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:4::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:5::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:6::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:7::36f4:ebc5/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_26
+      ip server-ip-address = 2607:7700:0:8::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:9::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:a::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:b::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:c::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:d::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:e::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:f::36f4:ebc5/128
+      ip server-ip-address = 2607:7700:0:1::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:10::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:11::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:12::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:13::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:14::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:15::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:2::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:3::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:4::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:5::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:6::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:7::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:8::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:9::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:a::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:b::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:c::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:d::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:e::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:f::2e89:ccdf/128
+      ip server-ip-address = 2607:7700:0:1::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:10::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:11::36fc:71b6/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_27
+      ip server-ip-address = 2607:7700:0:12::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:13::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:14::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:15::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:2::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:3::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:4::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:5::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:6::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:7::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:8::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:9::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:a::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:b::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:c::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:d::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:e::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:f::36fc:71b6/128
+      ip server-ip-address = 2607:7700:0:1::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:10::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:11::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:12::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:13::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:14::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:15::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:2::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:3::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:4::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:5::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:6::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:7::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:8::36e8:b314/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_28
+      ip server-ip-address = 2607:7700:0:9::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:a::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:b::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:c::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:d::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:e::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:f::36e8:b314/128
+      ip server-ip-address = 2607:7700:0:1::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:10::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:11::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:12::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:13::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:14::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:15::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:2::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:3::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:4::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:5::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:6::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:7::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:8::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:9::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:a::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:b::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:c::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:d::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:e::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:f::5db8:d797/128
+      ip server-ip-address = 2607:7700:0:1::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:10::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:11::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:12::44e8:2297/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_29
+      ip server-ip-address = 2607:7700:0:13::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:14::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:15::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:2::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:3::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:4::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:5::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:6::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:7::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:8::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:9::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:a::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:b::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:c::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:d::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:e::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:f::44e8:2297/128
+      ip server-ip-address = 2607:7700:0:1::7512:e897/128
+      ip server-ip-address = 2607:7700:0:10::7512:e897/128
+      ip server-ip-address = 2607:7700:0:11::7512:e897/128
+      ip server-ip-address = 2607:7700:0:12::7512:e897/128
+      ip server-ip-address = 2607:7700:0:13::7512:e897/128
+      ip server-ip-address = 2607:7700:0:14::7512:e897/128
+      ip server-ip-address = 2607:7700:0:15::7512:e897/128
+      ip server-ip-address = 2607:7700:0:2::7512:e897/128
+      ip server-ip-address = 2607:7700:0:3::7512:e897/128
+      ip server-ip-address = 2607:7700:0:4::7512:e897/128
+      ip server-ip-address = 2607:7700:0:5::7512:e897/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_30
+      ip server-ip-address = 2607:7700:0:1::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:10::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:11::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:12::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:13::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:14::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:15::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:2::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:3::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:4::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:5::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:6::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:7::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:8::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:9::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:a::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:b::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:c::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:d::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:e::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:f::17e3:ab34/128
+      ip server-ip-address = 2607:7700:0:1::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:10::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:11::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:12::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:13::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:14::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:15::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:2::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:3::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:4::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:5::b848:e7c6/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_31
+      ip server-ip-address = 2607:7700:0:6::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:7::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:8::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:9::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:a::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:b::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:c::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:d::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:e::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:f::b848:e7c6/128
+      ip server-ip-address = 2607:7700:0:1::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:10::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:11::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:12::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:13::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:14::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:15::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:2::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:3::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:4::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:5::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:6::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:7::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:8::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:9::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:a::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:b::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:c::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:d::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:e::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:f::b848:e86c/128
+      ip server-ip-address = 2607:7700:0:1::b848:ebf3/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_32
+      ip server-ip-address = 2607:7700:0:10::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:11::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:12::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:13::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:14::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:15::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:2::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:3::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:4::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:5::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:6::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:7::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:8::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:9::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:a::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:b::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:c::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:d::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:e::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:f::b848:ebf3/128
+      ip server-ip-address = 2607:7700:0:1::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:10::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:11::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:12::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:13::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:14::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:15::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:2::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:3::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:4::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:5::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:6::b849:9d26/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_33
+      ip server-ip-address = 2607:7700:0:7::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:8::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:9::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:a::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:b::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:c::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:d::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:e::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:f::b849:9d26/128
+      ip server-ip-address = 2607:7700:0:1::1717:550d/128
+      ip server-ip-address = 2607:7700:0:10::1717:550d/128
+      ip server-ip-address = 2607:7700:0:11::1717:550d/128
+      ip server-ip-address = 2607:7700:0:12::1717:550d/128
+      ip server-ip-address = 2607:7700:0:13::1717:550d/128
+      ip server-ip-address = 2607:7700:0:14::1717:550d/128
+      ip server-ip-address = 2607:7700:0:15::1717:550d/128
+      ip server-ip-address = 2607:7700:0:2::1717:550d/128
+      ip server-ip-address = 2607:7700:0:3::1717:550d/128
+      ip server-ip-address = 2607:7700:0:4::1717:550d/128
+      ip server-ip-address = 2607:7700:0:5::1717:550d/128
+      ip server-ip-address = 2607:7700:0:6::1717:550d/128
+      ip server-ip-address = 2607:7700:0:7::1717:550d/128
+      ip server-ip-address = 2607:7700:0:8::1717:550d/128
+      ip server-ip-address = 2607:7700:0:9::1717:550d/128
+      ip server-ip-address = 2607:7700:0:a::1717:550d/128
+      ip server-ip-address = 2607:7700:0:b::1717:550d/128
+      ip server-ip-address = 2607:7700:0:c::1717:550d/128
+      ip server-ip-address = 2607:7700:0:d::1717:550d/128
+      ip server-ip-address = 2607:7700:0:e::1717:550d/128
+      ip server-ip-address = 2607:7700:0:f::1717:550d/128
+      ip server-ip-address = 2607:7700:0:1::812:cb00/120
+      ip server-ip-address = 2607:7700:0:10::812:cb00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_34
+      ip server-ip-address = 2607:7700:0:11::812:cb00/120
+      ip server-ip-address = 2607:7700:0:12::812:cb00/120
+      ip server-ip-address = 2607:7700:0:13::812:cb00/120
+      ip server-ip-address = 2607:7700:0:14::812:cb00/120
+      ip server-ip-address = 2607:7700:0:15::812:cb00/120
+      ip server-ip-address = 2607:7700:0:2::812:cb00/120
+      ip server-ip-address = 2607:7700:0:3::812:cb00/120
+      ip server-ip-address = 2607:7700:0:4::812:cb00/120
+      ip server-ip-address = 2607:7700:0:5::812:cb00/120
+      ip server-ip-address = 2607:7700:0:6::812:cb00/120
+      ip server-ip-address = 2607:7700:0:7::812:cb00/120
+      ip server-ip-address = 2607:7700:0:8::812:cb00/120
+      ip server-ip-address = 2607:7700:0:9::812:cb00/120
+      ip server-ip-address = 2607:7700:0:a::812:cb00/120
+      ip server-ip-address = 2607:7700:0:b::812:cb00/120
+      ip server-ip-address = 2607:7700:0:c::812:cb00/120
+      ip server-ip-address = 2607:7700:0:d::812:cb00/120
+      ip server-ip-address = 2607:7700:0:e::812:cb00/120
+      ip server-ip-address = 2607:7700:0:f::812:cb00/120
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_35
+      ip server-ip-address = 2607:7700:0:1::814:d52a/128
+      ip server-ip-address = 2607:7700:0:10::814:d52a/128
+      ip server-ip-address = 2607:7700:0:11::814:d52a/128
+      ip server-ip-address = 2607:7700:0:12::814:d52a/128
+      ip server-ip-address = 2607:7700:0:13::814:d52a/128
+      ip server-ip-address = 2607:7700:0:14::814:d52a/128
+      ip server-ip-address = 2607:7700:0:15::814:d52a/128
+      ip server-ip-address = 2607:7700:0:2::814:d52a/128
+      ip server-ip-address = 2607:7700:0:3::814:d52a/128
+      ip server-ip-address = 2607:7700:0:4::814:d52a/128
+      ip server-ip-address = 2607:7700:0:5::814:d52a/128
+      ip server-ip-address = 2607:7700:0:6::814:d52a/128
+      ip server-ip-address = 2607:7700:0:7::814:d52a/128
+      ip server-ip-address = 2607:7700:0:8::814:d52a/128
+      ip server-ip-address = 2607:7700:0:9::814:d52a/128
+      ip server-ip-address = 2607:7700:0:a::814:d52a/128
+      ip server-ip-address = 2607:7700:0:b::814:d52a/128
+      ip server-ip-address = 2607:7700:0:c::814:d52a/128
+      ip server-ip-address = 2607:7700:0:d::814:d52a/128
+      ip server-ip-address = 2607:7700:0:e::814:d52a/128
+      ip server-ip-address = 2607:7700:0:f::814:d52a/128
+      ip server-ip-address = 2607:7700:0:1::814:d52b/128
+      ip server-ip-address = 2607:7700:0:10::814:d52b/128
+      ip server-ip-address = 2607:7700:0:11::814:d52b/128
+      ip server-ip-address = 2607:7700:0:12::814:d52b/128
+      ip server-ip-address = 2607:7700:0:13::814:d52b/128
+      ip server-ip-address = 2607:7700:0:14::814:d52b/128
+      ip server-ip-address = 2607:7700:0:15::814:d52b/128
+      ip server-ip-address = 2607:7700:0:2::814:d52b/128
+      ip server-ip-address = 2607:7700:0:3::814:d52b/128
+      ip server-ip-address = 2607:7700:0:4::814:d52b/128
+      ip server-ip-address = 2607:7700:0:5::814:d52b/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_36
+      ip server-ip-address = 2607:7700:0:6::814:d52b/128
+      ip server-ip-address = 2607:7700:0:7::814:d52b/128
+      ip server-ip-address = 2607:7700:0:8::814:d52b/128
+      ip server-ip-address = 2607:7700:0:9::814:d52b/128
+      ip server-ip-address = 2607:7700:0:a::814:d52b/128
+      ip server-ip-address = 2607:7700:0:b::814:d52b/128
+      ip server-ip-address = 2607:7700:0:c::814:d52b/128
+      ip server-ip-address = 2607:7700:0:d::814:d52b/128
+      ip server-ip-address = 2607:7700:0:e::814:d52b/128
+      ip server-ip-address = 2607:7700:0:f::814:d52b/128
+      ip server-ip-address = 2607:7700:0:1::814:d52f/128
+      ip server-ip-address = 2607:7700:0:10::814:d52f/128
+      ip server-ip-address = 2607:7700:0:11::814:d52f/128
+      ip server-ip-address = 2607:7700:0:12::814:d52f/128
+      ip server-ip-address = 2607:7700:0:13::814:d52f/128
+      ip server-ip-address = 2607:7700:0:14::814:d52f/128
+      ip server-ip-address = 2607:7700:0:15::814:d52f/128
+      ip server-ip-address = 2607:7700:0:2::814:d52f/128
+      ip server-ip-address = 2607:7700:0:3::814:d52f/128
+      ip server-ip-address = 2607:7700:0:4::814:d52f/128
+      ip server-ip-address = 2607:7700:0:5::814:d52f/128
+      ip server-ip-address = 2607:7700:0:6::814:d52f/128
+      ip server-ip-address = 2607:7700:0:7::814:d52f/128
+      ip server-ip-address = 2607:7700:0:8::814:d52f/128
+      ip server-ip-address = 2607:7700:0:9::814:d52f/128
+      ip server-ip-address = 2607:7700:0:a::814:d52f/128
+      ip server-ip-address = 2607:7700:0:b::814:d52f/128
+      ip server-ip-address = 2607:7700:0:c::814:d52f/128
+      ip server-ip-address = 2607:7700:0:d::814:d52f/128
+      ip server-ip-address = 2607:7700:0:e::814:d52f/128
+      ip server-ip-address = 2607:7700:0:f::814:d52f/128
+      ip server-ip-address = 2607:7700:0:1::813:f0aa/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_37
+      ip server-ip-address = 2607:7700:0:10::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:11::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:12::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:13::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:14::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:15::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:2::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:3::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:4::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:5::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:6::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:7::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:8::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:9::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:a::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:b::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:c::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:d::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:e::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:f::813:f0aa/128
+      ip server-ip-address = 2607:7700:0:1::813:f076/128
+      ip server-ip-address = 2607:7700:0:10::813:f076/128
+      ip server-ip-address = 2607:7700:0:11::813:f076/128
+      ip server-ip-address = 2607:7700:0:12::813:f076/128
+      ip server-ip-address = 2607:7700:0:13::813:f076/128
+      ip server-ip-address = 2607:7700:0:14::813:f076/128
+      ip server-ip-address = 2607:7700:0:15::813:f076/128
+      ip server-ip-address = 2607:7700:0:2::813:f076/128
+      ip server-ip-address = 2607:7700:0:3::813:f076/128
+      ip server-ip-address = 2607:7700:0:4::813:f076/128
+      ip server-ip-address = 2607:7700:0:5::813:f076/128
+      ip server-ip-address = 2607:7700:0:6::813:f076/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio-ipv6_6000_38
+      ip server-ip-address = 2607:7700:0:7::813:f076/128
+      ip server-ip-address = 2607:7700:0:8::813:f076/128
+      ip server-ip-address = 2607:7700:0:9::813:f076/128
+      ip server-ip-address = 2607:7700:0:a::813:f076/128
+      ip server-ip-address = 2607:7700:0:b::813:f076/128
+      ip server-ip-address = 2607:7700:0:c::813:f076/128
+      ip server-ip-address = 2607:7700:0:d::813:f076/128
+      ip server-ip-address = 2607:7700:0:e::813:f076/128
+      ip server-ip-address = 2607:7700:0:f::813:f076/128
+      ip server-ip-address = 2607:7700:0:1::175c:b243/128
+      ip server-ip-address = 2607:7700:0:10::175c:b243/128
+      ip server-ip-address = 2607:7700:0:11::175c:b243/128
+      ip server-ip-address = 2607:7700:0:12::175c:b243/128
+      ip server-ip-address = 2607:7700:0:13::175c:b243/128
+      ip server-ip-address = 2607:7700:0:14::175c:b243/128
+      ip server-ip-address = 2607:7700:0:15::175c:b243/128
+      ip server-ip-address = 2607:7700:0:2::175c:b243/128
+      ip server-ip-address = 2607:7700:0:3::175c:b243/128
+      ip server-ip-address = 2607:7700:0:4::175c:b243/128
+      ip server-ip-address = 2607:7700:0:5::175c:b243/128
+      ip server-ip-address = 2607:7700:0:6::175c:b243/128
+      ip server-ip-address = 2607:7700:0:7::175c:b243/128
+      ip server-ip-address = 2607:7700:0:8::175c:b243/128
+      ip server-ip-address = 2607:7700:0:9::175c:b243/128
+      ip server-ip-address = 2607:7700:0:a::175c:b243/128
+      ip server-ip-address = 2607:7700:0:b::175c:b243/128
+      ip server-ip-address = 2607:7700:0:c::175c:b243/128
+      ip server-ip-address = 2607:7700:0:d::175c:b243/128
+      ip server-ip-address = 2607:7700:0:e::175c:b243/128
+      ip server-ip-address = 2607:7700:0:f::175c:b243/128
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_01
+      www url starts-with http://stream.iheart.com
+      www url contains rangestream.iheart.com
+      www url contains s-gin.com
+      www url contains listen.vo.llnwd.net
+      www url contains listeng.vo.llnwd.net
+      www url contains listenm.vo.llnwd.net
+      www url contains rhapsodyev.hs.llnwd.net
+      www url contains rhapsody.s.llnwi.net
+      www url contains rhapsody.s.loris.llnwd.net
+      www url contains rhapsodytr.vo.llnwd.net
+      www url contains llnw.listen.com
+      www url contains llnwm.listen.com
+      www url contains llnwm-s.listen.com
+      www url contains llnw-s.listen.com
+      www url contains ll-test-playback.rhapsody.com
+      www url contains ll-test-www.rhapsody.com
+      www url contains secure-ll-test-www.rhapsody.com
+      www url contains vivo-rhapsody.hs.llnwd.net
+      www url contains vivo-rhapsody.vo.llnwd.net
+      www url contains pandora.com
+      www url contains p-cdn.com
+      www url contains streamingaudio.itunes.apple.com
+      www url contains audio.itunes.apple.com
+      www url starts-with http://direct-ns.rhapsody.com
+      www url contains spotify.com/heads
+      www url contains spotify.com/audio
+      www url contains play.spotify.com
+      www url contains gslb.spotify.com
+      www url contains iheart.com
+      www url contains iheartradio
+      www url contains static.rhap.com
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_02
+      www url contains /v1/auth.akacast.akamaistream.net
+      www url contains akacast.akamaistream.net/7/
+    #exit
+    ruledef audio_6000_03
+      ip server-ip-address = 78.31.8.0/21
+      ip server-ip-address = 192.165.160.0/22
+      ip server-ip-address = 193.181.4.0/22
+      ip server-ip-address = 193.181.180.0/22
+      ip server-ip-address = 193.182.8.0/21
+      ip server-ip-address = 194.71.232.0/22
+      ip server-ip-address = 193.235.232.0/24
+      ip server-ip-address = 194.68.176.0/22
+      ip server-ip-address = 194.68.28.0/22
+      ip server-ip-address = 193.181.184.0/23
+      ip server-ip-address = 193.182.7.0/24
+      ip server-ip-address = 193.182.3.0/24
+      ip server-ip-address = 192.121.53.0/24
+      ip server-ip-address = 193.234.240.0/22
+      ip server-ip-address = 193.235.32.0/24
+      ip server-ip-address = 193.235.51.0/24
+      ip server-ip-address = 194.14.177.0/24
+      ip server-ip-address = 194.68.116.0/24
+      ip server-ip-address = 194.68.169.0/24
+      ip server-ip-address = 194.68.181.0/24
+      ip server-ip-address = 194.68.183.0/24
+      ip server-ip-address = 194.71.148.0/22
+      ip server-ip-address = 194.103.10.0/24
+      ip server-ip-address = 194.103.13.0/24
+      ip server-ip-address = 194.103.36.0/22
+      ip server-ip-address = 194.132.152.0/22
+      ip server-ip-address = 194.132.162.0/24
+      ip server-ip-address = 193.235.224.0/24
+      ip server-ip-address = 194.132.176.0/22
+      ip server-ip-address = 194.132.196.0/22
+      ip server-ip-address = 193.235.203.0/24
+      ip server-ip-address = 193.235.206.0/24
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_04
+      ip server-ip-address = 192.121.140.0/24
+      ip server-ip-address = 192.121.132.0/24
+      ip server-ip-address = 80.76.150.3/32
+      ip server-ip-address = 54.243.193.18/32
+      ip server-ip-address = 50.18.47.26/32
+      ip server-ip-address = 54.244.235.197/32
+      ip server-ip-address = 46.137.204.223/32
+      ip server-ip-address = 54.252.113.182/32
+      ip server-ip-address = 54.232.179.20/32
+      ip server-ip-address = 2001:67c:a0::/48
+      ip server-ip-address = 2a01:280:100::/48
+      ip server-ip-address = 2a01:280:101::/48
+      ip server-ip-address = 2a01:280:102::/48
+      ip server-ip-address = 2a01:280:103::/48
+      ip server-ip-address = 2a01:280:104::/48
+      ip server-ip-address = 93.184.215.151/32
+      ip server-ip-address = 68.232.34.151/32
+      ip server-ip-address = 117.18.232.151/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_05
+      www url contains securenetsystems.net
+      www url contains iheartradioversion
+    #exit
+    ruledef audio_6000_06
+      www url contains stream
+      www url contains iheartradioversion
+    #exit
+    ruledef audio_6000_07
+      tcp either-port = 1935
+      ip server-ip-address = 68.142.64.0/18
+    #exit
+    ruledef audio_6000_08
+      tcp either-port = 1935
+      ip server-ip-address = 208.111.128.0/18
+    #exit
+    ruledef audio_6000_09
+      tcp either-port = 1935
+      ip server-ip-address = 69.164.0.0/18
+    #exit
+    ruledef audio_6000_10
+      tcp either-port = 1935
+      ip server-ip-address = 87.248.192.0/19
+    #exit
+    ruledef audio_6000_11
+      tcp either-port = 1935
+      ip server-ip-address = 95.140.224.0/20
+    #exit
+    ruledef audio_6000_12
+      tcp either-port = 1935
+      ip server-ip-address = 178.79.192.0/18
+    #exit
+    ruledef audio_6000_13
+      tcp either-port = 1935
+      ip server-ip-address = 203.77.184.0/21
+    #exit
+    ruledef audio_6000_14
+      tcp either-port = 1935
+      ip server-ip-address = 117.121.248.0/21
+    #exit
+    ruledef audio_6000_15
+      tcp either-port = 1935
+      ip server-ip-address = 111.119.0.0/19
+    #exit
+    ruledef audio_6000_16
+      tcp either-port = 1935
+      ip server-ip-address = 111.221.32.0/21
+    #exit
+    ruledef audio_6000_17
+      tcp either-port = 1935
+      ip server-ip-address = 202.59.216.0/21
+    #exit
+    ruledef audio_6000_18
+      tcp either-port = 1935
+      ip server-ip-address = 41.63.64.0/18
+    #exit
+    ruledef audio_6000_19
+      tcp either-port = 1935
+      ip server-ip-address = 69.28.128.0/18
+    #exit
+    ruledef audio_6000_20
+      www url contains espn.edge-1
+      www url contains abacast.net
+    #exit
+    ruledef audio_6000_21
+      www url contains slacker.com
+      www url contains espnradiouhls-lh.akamaihd.net
+      www url contains stream.espnradio.com/ESPNRadio
+      www url contains playerservices.streamtheworld.com/api/livestream-redirect
+      www url contains icy3.abacast.com/dialglobal-NCAA
+      www url contains v1/espn.akacast.akamaistream.net/espn
+      www url contains edge.espn.cdn.abacast.net/espn
+      www url contains slkimg.com
+      www url contains wpc.250f.edgecastcdn.net
+      www url contains iadctest.qwapi.com
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_22
+      ip server-ip-address = 117.53.175.113/32
+      ip server-ip-address = 152.19.134.10/32
+      ip server-ip-address = 162.249.57.169/32
+      ip server-ip-address = 173.192.70.138/32
+      ip server-ip-address = 173.244.215.162/32
+      ip server-ip-address = 173.244.215.163/32
+      ip server-ip-address = 174.37.110.72/32
+      ip server-ip-address = 176.31.228.196/32
+      ip server-ip-address = 176.9.22.6/32
+      ip server-ip-address = 178.33.116.6/32
+      ip server-ip-address = 184.107.179.162/32
+      ip server-ip-address = 208.43.60.66/32
+      ip server-ip-address = 208.43.9.96/32
+      ip server-ip-address = 208.53.138.151/32
+      ip server-ip-address = 208.53.158.48/32
+      ip server-ip-address = 208.77.21.13/32
+      ip server-ip-address = 208.77.21.15/32
+      ip server-ip-address = 208.80.52.108/32
+      ip server-ip-address = 208.80.52.126/32
+      ip server-ip-address = 208.80.52.136/32
+      ip server-ip-address = 208.80.52.138/32
+      ip server-ip-address = 208.80.52.146/32
+      ip server-ip-address = 208.80.52.156/32
+      ip server-ip-address = 208.80.52.158/32
+      ip server-ip-address = 208.80.52.160/32
+      ip server-ip-address = 208.80.52.166/32
+      ip server-ip-address = 208.80.52.186/32
+      ip server-ip-address = 208.80.52.188/32
+      ip server-ip-address = 208.80.52.46/32
+      ip server-ip-address = 208.80.52.48/32
+      ip server-ip-address = 208.80.52.50/32
+      ip server-ip-address = 208.80.52.56/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_23
+      ip server-ip-address = 208.80.52.58/32
+      ip server-ip-address = 208.80.52.6/32
+      ip server-ip-address = 208.80.52.66/32
+      ip server-ip-address = 208.80.52.68/32
+      ip server-ip-address = 208.80.52.76/32
+      ip server-ip-address = 208.80.52.88/32
+      ip server-ip-address = 208.80.54.100/32
+      ip server-ip-address = 208.80.54.106/32
+      ip server-ip-address = 208.80.54.108/32
+      ip server-ip-address = 208.80.54.118/32
+      ip server-ip-address = 208.80.54.120/32
+      ip server-ip-address = 208.80.54.142/32
+      ip server-ip-address = 208.80.54.39/32
+      ip server-ip-address = 208.80.54.41/32
+      ip server-ip-address = 208.80.54.47/32
+      ip server-ip-address = 208.92.52.40/32
+      ip server-ip-address = 208.92.55.48/32
+      ip server-ip-address = 208.92.55.59/32
+      ip server-ip-address = 208.92.55.61/32
+      ip server-ip-address = 209.212.144.144/32
+      ip server-ip-address = 209.212.144.173/32
+      ip server-ip-address = 209.222.145.140/32
+      ip server-ip-address = 209.9.238.5/32
+      ip server-ip-address = 212.47.220.117/32
+      ip server-ip-address = 213.246.61.40/32
+      ip server-ip-address = 213.251.186.148/32
+      ip server-ip-address = 213.5.57.150/32
+      ip server-ip-address = 216.235.95.145/32
+      ip server-ip-address = 216.246.37.52/32
+      ip server-ip-address = 217.172.190.185/32
+      ip server-ip-address = 23.29.123.242/32
+      ip server-ip-address = 23.29.123.245/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_24
+      ip server-ip-address = 23.29.123.246/32
+      ip server-ip-address = 23.29.123.248/32
+      ip server-ip-address = 23.29.123.249/32
+      ip server-ip-address = 23.92.23.71/32
+      ip server-ip-address = 31.12.64.201/32
+      ip server-ip-address = 31.12.64.202/32
+      ip server-ip-address = 31.12.64.203/32
+      ip server-ip-address = 31.12.64.204/32
+      ip server-ip-address = 31.12.64.208/32
+      ip server-ip-address = 31.12.64.60/32
+      ip server-ip-address = 31.12.68.205/32
+      ip server-ip-address = 31.12.68.206/32
+      ip server-ip-address = 31.12.68.207/32
+      ip server-ip-address = 37.130.230.92/32
+      ip server-ip-address = 37.187.79.56/32
+      ip server-ip-address = 37.48.82.50/32
+      ip server-ip-address = 37.59.10.197/32
+      ip server-ip-address = 37.59.45.148/32
+      ip server-ip-address = 38.100.101.65/32
+      ip server-ip-address = 38.100.101.67/32
+      ip server-ip-address = 38.101.195.5/32
+      ip server-ip-address = 38.96.148.12/32
+      ip server-ip-address = 38.96.148.134/32
+      ip server-ip-address = 38.96.148.18/32
+      ip server-ip-address = 38.96.148.253/32
+      ip server-ip-address = 46.105.171.212/32
+      ip server-ip-address = 46.28.49.164/32
+      ip server-ip-address = 46.4.73.140/32
+      ip server-ip-address = 5.63.145.172/32
+      ip server-ip-address = 5.63.151.52/32
+      ip server-ip-address = 50.22.253.45/32
+      ip server-ip-address = 50.22.253.46/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_25
+      ip server-ip-address = 50.30.36.14/32
+      ip server-ip-address = 50.30.40.140/32
+      ip server-ip-address = 50.7.129.122/32
+      ip server-ip-address = 50.7.66.3/32
+      ip server-ip-address = 50.7.70.58/32
+      ip server-ip-address = 50.7.70.66/32
+      ip server-ip-address = 50.7.77.114/32
+      ip server-ip-address = 50.7.77.178/32
+      ip server-ip-address = 50.7.96.210/32
+      ip server-ip-address = 50.7.98.106/32
+      ip server-ip-address = 62.168.92.250/32
+      ip server-ip-address = 62.212.132.50/32
+      ip server-ip-address = 62.212.73.51/32
+      ip server-ip-address = 62.27.26.45/32
+      ip server-ip-address = 62.27.47.60/32
+      ip server-ip-address = 62.27.87.79/32
+      ip server-ip-address = 62.75.229.17/32
+      ip server-ip-address = 63.243.143.144/32
+      ip server-ip-address = 63.243.143.154/32
+      ip server-ip-address = 64.15.137.228/32
+      ip server-ip-address = 64.202.98.32/32
+      ip server-ip-address = 64.202.98.33/32
+      ip server-ip-address = 64.202.98.51/32
+      ip server-ip-address = 64.234.192.37/32
+      ip server-ip-address = 64.250.34.254/32
+      ip server-ip-address = 64.34.161.123/32
+      ip server-ip-address = 64.34.163.103/32
+      ip server-ip-address = 64.62.214.134/32
+      ip server-ip-address = 64.62.214.136/32
+      ip server-ip-address = 64.62.214.138/32
+      ip server-ip-address = 64.62.214.140/32
+      ip server-ip-address = 64.78.234.173/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_26
+      ip server-ip-address = 65.19.131.134/32
+      ip server-ip-address = 65.19.131.138/32
+      ip server-ip-address = 65.19.131.146/32
+      ip server-ip-address = 65.19.173.132/32
+      ip server-ip-address = 66.117.15.237/32
+      ip server-ip-address = 66.135.55.42/32
+      ip server-ip-address = 66.210.221.106/32
+      ip server-ip-address = 66.225.205.8/32
+      ip server-ip-address = 66.55.144.67/32
+      ip server-ip-address = 66.7.201.163/32
+      ip server-ip-address = 67.212.165.106/32
+      ip server-ip-address = 67.212.166.178/32
+      ip server-ip-address = 67.212.179.138/32
+      ip server-ip-address = 67.213.213.143/32
+      ip server-ip-address = 67.213.221.48/32
+      ip server-ip-address = 67.228.150.175/32
+      ip server-ip-address = 67.228.150.184/32
+      ip server-ip-address = 67.228.177.153/32
+      ip server-ip-address = 67.228.18.36/32
+      ip server-ip-address = 68.168.101.146/32
+      ip server-ip-address = 69.175.122.50/32
+      ip server-ip-address = 69.22.149.199/32
+      ip server-ip-address = 69.28.148.73/32
+      ip server-ip-address = 69.28.148.74/32
+      ip server-ip-address = 69.28.151.253/32
+      ip server-ip-address = 69.28.213.61/32
+      ip server-ip-address = 69.31.54.131/32
+      ip server-ip-address = 69.31.54.140/32
+      ip server-ip-address = 69.31.54.141/32
+      ip server-ip-address = 69.64.39.113/32
+      ip server-ip-address = 69.64.92.79/32
+      ip server-ip-address = 69.65.5.105/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_27
+      ip server-ip-address = 69.80.74.94/32
+      ip server-ip-address = 70.35.120.203/32
+      ip server-ip-address = 70.36.97.10/32
+      ip server-ip-address = 70.38.12.44/32
+      ip server-ip-address = 70.38.84.120/32
+      ip server-ip-address = 70.42.73.201/32
+      ip server-ip-address = 72.47.252.150/32
+      ip server-ip-address = 72.52.254.4/32
+      ip server-ip-address = 72.52.254.89/32
+      ip server-ip-address = 74.202.111.236/32
+      ip server-ip-address = 74.222.5.106/32
+      ip server-ip-address = 74.222.7.27/32
+      ip server-ip-address = 74.50.122.103/32
+      ip server-ip-address = 74.52.37.26/32
+      ip server-ip-address = 74.55.244.98/32
+      ip server-ip-address = 74.63.198.162/32
+      ip server-ip-address = 74.86.4.155/32
+      ip server-ip-address = 76.73.3.138/32
+      ip server-ip-address = 76.74.239.14/32
+      ip server-ip-address = 77.241.4.100/32
+      ip server-ip-address = 77.92.76.134/32
+      ip server-ip-address = 77.92.76.190/32
+      ip server-ip-address = 78.129.226.12/32
+      ip server-ip-address = 78.140.251.2/32
+      ip server-ip-address = 78.46.246.97/32
+      ip server-ip-address = 78.46.246.98/32
+      ip server-ip-address = 79.140.78.106/32
+      ip server-ip-address = 80.245.113.11/32
+      ip server-ip-address = 81.95.4.68/32
+      ip server-ip-address = 82.138.87.100/32
+      ip server-ip-address = 82.140.15.22/32
+      ip server-ip-address = 82.197.66.101/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_28
+      ip server-ip-address = 82.200.65.254/32
+      ip server-ip-address = 82.201.100.10/32
+      ip server-ip-address = 83.137.145.141/32
+      ip server-ip-address = 83.142.228.37/32
+      ip server-ip-address = 83.170.104.71/32
+      ip server-ip-address = 83.170.104.91/32
+      ip server-ip-address = 83.170.117.137/32
+      ip server-ip-address = 83.170.119.174/32
+      ip server-ip-address = 84.16.67.150/32
+      ip server-ip-address = 84.16.67.205/32
+      ip server-ip-address = 84.16.67.212/32
+      ip server-ip-address = 85.17.121.103/32
+      ip server-ip-address = 85.17.121.228/32
+      ip server-ip-address = 85.17.122.39/32
+      ip server-ip-address = 85.17.177.8/32
+      ip server-ip-address = 85.17.30.50/32
+      ip server-ip-address = 85.196.91.162/32
+      ip server-ip-address = 85.204.238.206/32
+      ip server-ip-address = 85.214.37.43/32
+      ip server-ip-address = 85.214.50.175/32
+      ip server-ip-address = 87.106.173.138/32
+      ip server-ip-address = 87.106.247.182/32
+      ip server-ip-address = 87.117.202.97/32
+      ip server-ip-address = 87.239.163.114/32
+      ip server-ip-address = 87.98.180.164/32
+      ip server-ip-address = 87.98.230.251/32
+      ip server-ip-address = 88.150.190.188/32
+      ip server-ip-address = 88.190.229.29/32
+      ip server-ip-address = 89.105.200.190/32
+      ip server-ip-address = 89.105.32.8/32
+      ip server-ip-address = 89.111.189.3/32
+      ip server-ip-address = 89.233.146.151/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_29
+      ip server-ip-address = 90.183.101.210/32
+      ip server-ip-address = 91.121.102.218/32
+      ip server-ip-address = 91.121.103.187/32
+      ip server-ip-address = 91.121.111.156/32
+      ip server-ip-address = 91.121.119.60/32
+      ip server-ip-address = 91.121.121.15/32
+      ip server-ip-address = 91.121.134.23/32
+      ip server-ip-address = 91.121.147.57/32
+      ip server-ip-address = 91.121.159.50/32
+      ip server-ip-address = 91.121.164.186/32
+      ip server-ip-address = 91.121.166.38/32
+      ip server-ip-address = 91.121.219.80/32
+      ip server-ip-address = 91.121.24.12/32
+      ip server-ip-address = 91.121.25.89/32
+      ip server-ip-address = 91.121.38.100/32
+      ip server-ip-address = 91.121.62.121/32
+      ip server-ip-address = 91.121.68.52/32
+      ip server-ip-address = 91.121.77.187/32
+      ip server-ip-address = 91.121.77.67/32
+      ip server-ip-address = 91.121.89.153/32
+      ip server-ip-address = 91.121.89.198/32
+      ip server-ip-address = 91.121.92.167/32
+      ip server-ip-address = 91.193.244.56/32
+      ip server-ip-address = 91.194.251.92/32
+      ip server-ip-address = 91.197.137.145/32
+      ip server-ip-address = 91.197.138.9/32
+      ip server-ip-address = 91.213.196.95/32
+      ip server-ip-address = 91.213.196.99/32
+      ip server-ip-address = 91.232.4.20/32
+      ip server-ip-address = 91.232.4.22/32
+      ip server-ip-address = 92.48.107.35/32
+      ip server-ip-address = 93.184.66.213/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_30
+      ip server-ip-address = 93.186.192.160/32
+      ip server-ip-address = 93.81.239.10/32
+      ip server-ip-address = 94.23.159.187/32
+      ip server-ip-address = 94.23.2.73/32
+      ip server-ip-address = 94.23.200.43/32
+      ip server-ip-address = 94.23.207.112/32
+      ip server-ip-address = 94.23.219.205/32
+      ip server-ip-address = 94.23.22.181/32
+      ip server-ip-address = 94.23.240.167/32
+      ip server-ip-address = 94.23.29.154/32
+      ip server-ip-address = 94.23.59.77/32
+      ip server-ip-address = 94.23.67.172/32
+      ip server-ip-address = 95.211.113.141/32
+      ip server-ip-address = 95.81.165.3/32
+      ip server-ip-address = 99.198.110.162/32
+      ip server-ip-address = 99.198.118.250/32
+      ip server-ip-address = 23.92.23.71/32
+      ip server-ip-address = 107.161.122.244/32
+      ip server-ip-address = 83.170.117.137/32
+    #exit
+    ruledef audio_6000_31
+      www url contains abacastcis.edgesuite.net
+      www url contains aac
+    #exit
+    ruledef audio_6000_32
+      www url contains mzstatic.com
+      http content type contains image/jp
+    #exit
+    ruledef audio_6000_62
+      www url contains radioparadise.com
+      www url contains d2t03vq6udg69j.cloudfront.net
+      www url contains fp-limelight.musicnet.com
+      www url contains images.mndigital.com
+      www url contains songza.com
+      www url contains songza.songs.s3.amazonaws.com
+      www url contains ak.rdio.com
+      www url contains m.cdn2.rd.io
+      www url contains grooveshark.com
+      www url starts-with images.gs-cdn.net
+      www url starts-with static-a.gs-cdn.net
+      www url contains cdn2-rdio.com
+      www url contains accu.fm
+      www url contains www.accuradio.com
+      www url contains d3tv6s6imp7430.cloudfront.net
+      www url contains d1qg6pckcqcdk0.cloudfront.net/
+      www url contains a47fe18f54.site.internapcdn.net/
+      www url contains edge-dl.andomedia.com/
+      www url contains lt160.tritondigital.com
+      www url contains runspot4.tritondigital.com/
+      www url contains player.cdn.targetspot.com/
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_63
+      ip server-ip-address = 23.227.171.52/32
+      ip server-ip-address = 184.72.231.198/32
+      ip server-ip-address = 184.72.232.108/32
+      ip server-ip-address = 184.72.235.243/32
+      ip server-ip-address = 184.73.157.38/32
+      ip server-ip-address = 23.23.85.13/32
+      ip server-ip-address = 8.18.203.0/24
+      ip server-ip-address = 23.92.178.67/32
+      ip server-ip-address = 8.20.213.42/32
+      ip server-ip-address = 8.20.213.43/32
+      ip server-ip-address = 8.20.213.47/32
+      ip server-ip-address = 8.19.240.170/32
+      ip server-ip-address = 8.19.240.118/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_64
+      www url contains rdio
+      www url contains akamaihd.net
+    #exit
+    ruledef audio_6000_65
+      ip server-ip-address = 199.27.128.0/21
+      ip server-ip-address = 173.245.48.0/20
+      ip server-ip-address = 103.21.244.0/22
+      ip server-ip-address = 103.22.200.0/22
+      ip server-ip-address = 103.31.4.0/22
+      ip server-ip-address = 141.101.64.0/18
+      ip server-ip-address = 108.162.192.0/18
+      ip server-ip-address = 190.93.240.0/20
+      ip server-ip-address = 188.114.96.0/20
+      ip server-ip-address = 197.234.240.0/22
+      ip server-ip-address = 198.41.128.0/17
+      ip server-ip-address = 162.158.0.0/15
+      ip server-ip-address = 104.16.0.0/12
+      ip server-ip-address = 2400:cb00::/32
+      ip server-ip-address = 2606:4700::/32
+      ip server-ip-address = 2803:f800::/32
+      ip server-ip-address = 2405:b500::/32
+      ip server-ip-address = 2405:8100::/32
+      multi-line-or all-lines
+    #exit
+    ruledef audio_6000_99
+      http content type contains audio/mpeg
+      http content type contains mp3
+      http content type contains aac
+      http content type contains audio/mp4
+      multi-line-or all-lines
+    #exit

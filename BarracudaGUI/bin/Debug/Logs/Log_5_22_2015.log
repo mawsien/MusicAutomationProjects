@@ -1,0 +1,1925 @@
+5/22/2015 3:15:17 PM : ******************Start TestCase 0.1******************
+5/22/2015 3:15:17 PM : Delete Logs and restart device
+5/22/2015 3:15:18 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/22/2015 3:15:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:15:28 PM : Going Back to Home screen.
+5/22/2015 3:15:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:15:37 PM : cf289085_currentScreen-2015-05-22_03-15-28-PM.png
+5/22/2015 3:15:37 PM : Going Back to Home screen.
+5/22/2015 3:15:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:15:42 PM : cf289085_currentScreen-2015-05-22_03-15-37-PM.png
+5/22/2015 3:15:43 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:15:43 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:15:43 PM : Accuracy is D=1
+5/22/2015 3:15:43 PM : Template DialerIconStart.png is Verified. 
+5/22/2015 3:15:43 PM : Touching on  X=69, Y=860
+5/22/2015 3:15:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:15:50 PM : cf289085_currentScreen-2015-05-22_03-15-43-PM.png
+5/22/2015 3:15:50 PM : typing #932#
+5/22/2015 3:15:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:15:57 PM : cf289085_currentScreen-2015-05-22_03-15-50-PM.png
+5/22/2015 3:15:58 PM : Clicking by template DialerIconCall.png
+5/22/2015 3:15:58 PM : Verfiying template DialerIconCall.png
+5/22/2015 3:15:58 PM : Accuracy is D=1
+5/22/2015 3:15:58 PM : Template DialerIconCall.png is Verified. 
+5/22/2015 3:15:58 PM : Touching on  X=268, Y=910
+5/22/2015 3:15:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:04 PM : cf289085_currentScreen-2015-05-22_03-15-58-PM.png
+5/22/2015 3:16:05 PM : Wait 10 seconds to get the datausage message
+5/22/2015 3:16:15 PM : Taking screen shot...
+5/22/2015 3:16:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:20 PM : cf289085_currentScreen-2015-05-22_03-16-15-PM.png
+5/22/2015 3:16:24 PM : Clicking by template WEB_OK.png
+5/22/2015 3:16:24 PM : Verfiying template WEB_OK.png
+5/22/2015 3:16:24 PM : Accuracy is D=0.999911069869995
+5/22/2015 3:16:24 PM : Template WEB_OK.png is Verified. 
+5/22/2015 3:16:24 PM : Touching on  X=270, Y=590
+5/22/2015 3:16:24 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:31 PM : cf289085_currentScreen-2015-05-22_03-16-24-PM.png
+5/22/2015 3:16:31 PM : Start TCPDump
+5/22/2015 3:16:31 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:16:31 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:16:31 PM : Accuracy is D=0.701930820941925
+5/22/2015 3:16:31 PM : Template DialerIconStart.png is not Verified!
+5/22/2015 3:16:31 PM : typing *#9900#
+5/22/2015 3:16:31 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:39 PM : cf289085_currentScreen-2015-05-22_03-16-31-PM.png
+5/22/2015 3:16:39 PM : Taking screen shot...
+5/22/2015 3:16:39 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:45 PM : cf289085_currentScreen-2015-05-22_03-16-39-PM.png
+5/22/2015 3:16:45 PM : Scrolling two page down..
+5/22/2015 3:16:45 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:52 PM : cf289085_currentScreen-2015-05-22_03-16-45-PM.png
+5/22/2015 3:16:52 PM : Taking screen shot...
+5/22/2015 3:16:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:16:57 PM : cf289085_currentScreen-2015-05-22_03-16-52-PM.png
+5/22/2015 3:16:58 PM : Clicking by template TCPDUMPSTART.png
+5/22/2015 3:16:58 PM : Verfiying template TCPDUMPSTART.png
+5/22/2015 3:16:58 PM : Accuracy is D=0.999942898750305
+5/22/2015 3:16:58 PM : Template TCPDUMPSTART.png is Verified. 
+5/22/2015 3:16:58 PM : Touching on  X=269, Y=334
+5/22/2015 3:16:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:04 PM : cf289085_currentScreen-2015-05-22_03-16-58-PM.png
+5/22/2015 3:17:05 PM : Clicking by template TCPDUMPSTART_ANY.png
+5/22/2015 3:17:05 PM : Verfiying template TCPDUMPSTART_ANY.png
+5/22/2015 3:17:05 PM : Accuracy is D=1
+5/22/2015 3:17:05 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+5/22/2015 3:17:05 PM : Touching on  X=267, Y=83
+5/22/2015 3:17:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:11 PM : cf289085_currentScreen-2015-05-22_03-17-05-PM.png
+5/22/2015 3:17:12 PM : Clicking by template TCPDUMPSTART_OK.png
+5/22/2015 3:17:12 PM : Verfiying template TCPDUMPSTART_OK.png
+5/22/2015 3:17:12 PM : Accuracy is D=1
+5/22/2015 3:17:12 PM : Template TCPDUMPSTART_OK.png is Verified. 
+5/22/2015 3:17:12 PM : Touching on  X=393, Y=912
+5/22/2015 3:17:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:18 PM : cf289085_currentScreen-2015-05-22_03-17-12-PM.png
+5/22/2015 3:17:19 PM : Going Back to Home screen.
+5/22/2015 3:17:19 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:24 PM : cf289085_currentScreen-2015-05-22_03-17-19-PM.png
+5/22/2015 3:17:25 PM : Going Back to Home screen.
+5/22/2015 3:17:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:30 PM : cf289085_currentScreen-2015-05-22_03-17-25-PM.png
+5/22/2015 3:17:31 PM : Play band Hop
+5/22/2015 3:17:31 PM : Start Black Planet
+5/22/2015 3:17:31 PM : Clicking by template StartIcon.png
+5/22/2015 3:17:31 PM : Verfiying template StartIcon.png
+5/22/2015 3:17:31 PM : Accuracy is D=1
+5/22/2015 3:17:31 PM : Template StartIcon.png is Verified. 
+5/22/2015 3:17:31 PM : Touching on  X=69, Y=99
+5/22/2015 3:17:31 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:38 PM : cf289085_currentScreen-2015-05-22_03-17-31-PM.png
+5/22/2015 3:17:38 PM : verifying template Pause  Pause.png
+5/22/2015 3:17:38 PM : Verfiying template Pause.png
+5/22/2015 3:17:38 PM : Accuracy is D=1
+5/22/2015 3:17:38 PM : Template Pause.png is Verified. 
+5/22/2015 3:17:38 PM : Clicking by template Pause.png
+5/22/2015 3:17:38 PM : Verfiying template Pause.png
+5/22/2015 3:17:38 PM : Accuracy is D=1
+5/22/2015 3:17:38 PM : Template Pause.png is Verified. 
+5/22/2015 3:17:38 PM : Touching on  X=269, Y=877
+5/22/2015 3:17:38 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:45 PM : cf289085_currentScreen-2015-05-22_03-17-38-PM.png
+5/22/2015 3:17:45 PM : verifying template Menu  Menu.png
+5/22/2015 3:17:45 PM : Verfiying template Menu.png
+5/22/2015 3:17:45 PM : Accuracy is D=0.999940931797028
+5/22/2015 3:17:45 PM : Template Menu.png is Verified. 
+5/22/2015 3:17:45 PM : Clicking by template Menu.png
+5/22/2015 3:17:45 PM : Verfiying template Menu.png
+5/22/2015 3:17:46 PM : Accuracy is D=0.999940931797028
+5/22/2015 3:17:46 PM : Template Menu.png is Verified. 
+5/22/2015 3:17:46 PM : Touching on  X=448, Y=827
+5/22/2015 3:17:46 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:52 PM : cf289085_currentScreen-2015-05-22_03-17-46-PM.png
+5/22/2015 3:17:53 PM : Clicking by template Stations.png
+5/22/2015 3:17:53 PM : Verfiying template Stations.png
+5/22/2015 3:17:53 PM : Accuracy is D=0.999703943729401
+5/22/2015 3:17:53 PM : Template Stations.png is Verified. 
+5/22/2015 3:17:53 PM : Touching on  X=107, Y=572
+5/22/2015 3:17:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:17:59 PM : cf289085_currentScreen-2015-05-22_03-17-53-PM.png
+5/22/2015 3:18:00 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:18:15 PM : Clicking by template CloseAds.png
+5/22/2015 3:18:15 PM : Verfiying template CloseAds.png
+5/22/2015 3:18:15 PM : Accuracy is D=0.450834900140762
+5/22/2015 3:18:15 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:18:15 PM : Hop key is not found
+The given key was not present in the dictionary.
+5/22/2015 3:18:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:18:15 PM : ************************End TestCase 0.1************************
+5/22/2015 3:18:43 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+5/22/2015 3:18:43 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+5/22/2015 3:18:43 PM : Exception : Invoke or BeginInvoke cannot be called on a control until the window handle has been created.
+5/22/2015 3:21:09 PM : ******************Start TestCase 0.1******************
+5/22/2015 3:21:11 PM : Delete Logs and restart device
+5/22/2015 3:21:11 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/22/2015 3:21:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:21:21 PM : Going Back to Home screen.
+5/22/2015 3:21:21 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:21:27 PM : cf289085_currentScreen-2015-05-22_03-21-21-PM.png
+5/22/2015 3:21:27 PM : Going Back to Home screen.
+5/22/2015 3:21:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:21:33 PM : cf289085_currentScreen-2015-05-22_03-21-27-PM.png
+5/22/2015 3:21:33 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:21:33 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:21:33 PM : Accuracy is D=0.492413640022278
+5/22/2015 3:21:33 PM : Template DialerIconStart.png is not Verified!
+5/22/2015 3:21:33 PM : typing #932#
+5/22/2015 3:21:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:21:40 PM : cf289085_currentScreen-2015-05-22_03-21-33-PM.png
+5/22/2015 3:21:41 PM : Clicking by template DialerIconCall.png
+5/22/2015 3:21:41 PM : Verfiying template DialerIconCall.png
+5/22/2015 3:21:41 PM : Accuracy is D=0.330587118864059
+5/22/2015 3:21:41 PM : Template DialerIconCall.png is not Verified!
+5/22/2015 3:21:41 PM : Wait 10 seconds to get the datausage message
+5/22/2015 3:21:51 PM : Taking screen shot...
+5/22/2015 3:21:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:21:57 PM : cf289085_currentScreen-2015-05-22_03-21-51-PM.png
+5/22/2015 3:22:04 PM : Clicking by template WEB_OK.png
+5/22/2015 3:22:04 PM : Verfiying template WEB_OK.png
+5/22/2015 3:22:04 PM : Accuracy is D=0.408411890268326
+5/22/2015 3:22:04 PM : Template WEB_OK.png is not Verified!
+5/22/2015 3:22:04 PM : Start TCPDump
+5/22/2015 3:22:04 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:22:04 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:22:04 PM : Accuracy is D=0.562773764133453
+5/22/2015 3:22:04 PM : Template DialerIconStart.png is not Verified!
+5/22/2015 3:22:04 PM : typing *#9900#
+5/22/2015 3:22:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:12 PM : cf289085_currentScreen-2015-05-22_03-22-04-PM.png
+5/22/2015 3:22:13 PM : Taking screen shot...
+5/22/2015 3:22:13 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:17 PM : ******************Start TestCase 0.1******************
+5/22/2015 3:22:17 PM : Delete Logs and restart device
+5/22/2015 3:22:17 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/22/2015 3:22:17 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:18 PM : cf289085_currentScreen-2015-05-22_03-22-13-PM.png
+5/22/2015 3:22:19 PM : Scrolling two page down..
+5/22/2015 3:22:19 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:25 PM : cf289085_currentScreen-2015-05-22_03-22-19-PM.png
+5/22/2015 3:22:26 PM : Taking screen shot...
+5/22/2015 3:22:26 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:27 PM : Going Back to Home screen.
+5/22/2015 3:22:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:31 PM : cf289085_currentScreen-2015-05-22_03-22-27-PM.png
+5/22/2015 3:22:32 PM : Clicking by template TCPDUMPSTART.png
+5/22/2015 3:22:32 PM : Verfiying template TCPDUMPSTART.png
+5/22/2015 3:22:32 PM : Accuracy is D=0.255853116512299
+5/22/2015 3:22:32 PM : Template TCPDUMPSTART.png is not Verified!
+5/22/2015 3:22:32 PM : Clicking by template TCPDUMPSTART_ANY.png
+5/22/2015 3:22:32 PM : Verfiying template TCPDUMPSTART_ANY.png
+5/22/2015 3:22:32 PM : Accuracy is D=0.304311692714691
+5/22/2015 3:22:32 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+5/22/2015 3:22:32 PM : Clicking by template TCPDUMPSTART_OK.png
+5/22/2015 3:22:32 PM : Verfiying template TCPDUMPSTART_OK.png
+5/22/2015 3:22:32 PM : Accuracy is D=0.444730073213577
+5/22/2015 3:22:32 PM : Template TCPDUMPSTART_OK.png is not Verified!
+5/22/2015 3:22:32 PM : Going Back to Home screen.
+5/22/2015 3:22:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:34 PM : cf289085_currentScreen-2015-05-22_03-22-27-PM.png
+5/22/2015 3:22:34 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-32-PM.png
+5/22/2015 3:22:34 PM : Taking screen shot...
+5/22/2015 3:22:34 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:38 PM : cf289085_currentScreen-2015-05-22_03-22-32-PM.png
+5/22/2015 3:22:38 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-34-PM.png
+5/22/2015 3:22:38 PM : Taking screen shot...
+5/22/2015 3:22:38 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:40 PM : cf289085_currentScreen-2015-05-22_03-22-34-PM.png
+5/22/2015 3:22:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-38-PM.png
+5/22/2015 3:22:40 PM : Taking screen shot...
+5/22/2015 3:22:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:44 PM : cf289085_currentScreen-2015-05-22_03-22-38-PM.png
+5/22/2015 3:22:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-40-PM.png
+5/22/2015 3:22:44 PM : Taking screen shot...
+5/22/2015 3:22:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:46 PM : cf289085_currentScreen-2015-05-22_03-22-40-PM.png
+5/22/2015 3:22:46 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-44-PM.png
+5/22/2015 3:22:46 PM : Taking screen shot...
+5/22/2015 3:22:46 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:49 PM : cf289085_currentScreen-2015-05-22_03-22-44-PM.png
+5/22/2015 3:22:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-46-PM.png
+5/22/2015 3:22:50 PM : Taking screen shot...
+5/22/2015 3:22:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:55 PM : cf289085_currentScreen-2015-05-22_03-22-46-PM.png
+5/22/2015 3:22:55 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-50-PM.png
+5/22/2015 3:22:55 PM : Taking screen shot...
+5/22/2015 3:22:55 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:22:57 PM : cf289085_currentScreen-2015-05-22_03-22-50-PM.png
+5/22/2015 3:22:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-55-PM.png
+5/22/2015 3:22:57 PM : Taking screen shot...
+5/22/2015 3:22:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:01 PM : cf289085_currentScreen-2015-05-22_03-22-55-PM.png
+5/22/2015 3:23:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-22-57-PM.png
+5/22/2015 3:23:01 PM : Taking screen shot...
+5/22/2015 3:23:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:06 PM : cf289085_currentScreen-2015-05-22_03-22-57-PM.png
+5/22/2015 3:23:06 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-01-PM.png
+5/22/2015 3:23:06 PM : Taking screen shot...
+5/22/2015 3:23:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:08 PM : cf289085_currentScreen-2015-05-22_03-23-01-PM.png
+5/22/2015 3:23:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-06-PM.png
+5/22/2015 3:23:09 PM : Taking screen shot...
+5/22/2015 3:23:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:12 PM : cf289085_currentScreen-2015-05-22_03-23-06-PM.png
+5/22/2015 3:23:12 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-09-PM.png
+5/22/2015 3:23:12 PM : Taking screen shot...
+5/22/2015 3:23:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:17 PM : cf289085_currentScreen-2015-05-22_03-23-09-PM.png
+5/22/2015 3:23:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-12-PM.png
+5/22/2015 3:23:18 PM : Taking screen shot...
+5/22/2015 3:23:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:19 PM : cf289085_currentScreen-2015-05-22_03-23-12-PM.png
+5/22/2015 3:23:20 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-18-PM.png
+5/22/2015 3:23:20 PM : Taking screen shot...
+5/22/2015 3:23:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:23 PM : cf289085_currentScreen-2015-05-22_03-23-18-PM.png
+5/22/2015 3:23:23 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-20-PM.png
+5/22/2015 3:23:23 PM : Taking screen shot...
+5/22/2015 3:23:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:25 PM : cf289085_currentScreen-2015-05-22_03-23-20-PM.png
+5/22/2015 3:23:26 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-23-PM.png
+5/22/2015 3:23:26 PM : Taking screen shot...
+5/22/2015 3:23:26 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:29 PM : cf289085_currentScreen-2015-05-22_03-23-23-PM.png
+5/22/2015 3:23:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-26-PM.png
+5/22/2015 3:23:29 PM : Taking screen shot...
+5/22/2015 3:23:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:34 PM : cf289085_currentScreen-2015-05-22_03-23-26-PM.png
+5/22/2015 3:23:35 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-29-PM.png
+5/22/2015 3:23:35 PM : Taking screen shot...
+5/22/2015 3:23:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:36 PM : cf289085_currentScreen-2015-05-22_03-23-29-PM.png
+5/22/2015 3:23:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-35-PM.png
+5/22/2015 3:23:37 PM : Taking screen shot...
+5/22/2015 3:23:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:40 PM : cf289085_currentScreen-2015-05-22_03-23-35-PM.png
+5/22/2015 3:23:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-37-PM.png
+5/22/2015 3:23:40 PM : Taking screen shot...
+5/22/2015 3:23:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:45 PM : cf289085_currentScreen-2015-05-22_03-23-37-PM.png
+5/22/2015 3:23:46 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-40-PM.png
+5/22/2015 3:23:46 PM : Taking screen shot...
+5/22/2015 3:23:46 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:48 PM : cf289085_currentScreen-2015-05-22_03-23-40-PM.png
+5/22/2015 3:23:48 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-46-PM.png
+5/22/2015 3:23:48 PM : Taking screen shot...
+5/22/2015 3:23:48 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:51 PM : cf289085_currentScreen-2015-05-22_03-23-46-PM.png
+5/22/2015 3:23:52 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-48-PM.png
+5/22/2015 3:23:52 PM : Taking screen shot...
+5/22/2015 3:23:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:53 PM : cf289085_currentScreen-2015-05-22_03-23-48-PM.png
+5/22/2015 3:23:54 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-52-PM.png
+5/22/2015 3:23:54 PM : Taking screen shot...
+5/22/2015 3:23:54 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:57 PM : cf289085_currentScreen-2015-05-22_03-23-52-PM.png
+5/22/2015 3:23:58 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-54-PM.png
+5/22/2015 3:23:58 PM : Taking screen shot...
+5/22/2015 3:23:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:23:59 PM : cf289085_currentScreen-2015-05-22_03-23-54-PM.png
+5/22/2015 3:24:00 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-23-58-PM.png
+5/22/2015 3:24:00 PM : Taking screen shot...
+5/22/2015 3:24:00 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:03 PM : cf289085_currentScreen-2015-05-22_03-23-58-PM.png
+5/22/2015 3:24:04 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-00-PM.png
+5/22/2015 3:24:04 PM : Taking screen shot...
+5/22/2015 3:24:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:05 PM : cf289085_currentScreen-2015-05-22_03-24-00-PM.png
+5/22/2015 3:24:06 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-04-PM.png
+5/22/2015 3:24:06 PM : Taking screen shot...
+5/22/2015 3:24:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:09 PM : cf289085_currentScreen-2015-05-22_03-24-04-PM.png
+5/22/2015 3:24:10 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-06-PM.png
+5/22/2015 3:24:10 PM : Taking screen shot...
+5/22/2015 3:24:10 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:12 PM : cf289085_currentScreen-2015-05-22_03-24-06-PM.png
+5/22/2015 3:24:12 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-10-PM.png
+5/22/2015 3:24:12 PM : Taking screen shot...
+5/22/2015 3:24:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:15 PM : cf289085_currentScreen-2015-05-22_03-24-10-PM.png
+5/22/2015 3:24:16 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-12-PM.png
+5/22/2015 3:24:16 PM : Taking screen shot...
+5/22/2015 3:24:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:18 PM : cf289085_currentScreen-2015-05-22_03-24-12-PM.png
+5/22/2015 3:24:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-16-PM.png
+5/22/2015 3:24:18 PM : Taking screen shot...
+5/22/2015 3:24:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:21 PM : cf289085_currentScreen-2015-05-22_03-24-16-PM.png
+5/22/2015 3:24:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-18-PM.png
+5/22/2015 3:24:22 PM : Taking screen shot...
+5/22/2015 3:24:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:27 PM : cf289085_currentScreen-2015-05-22_03-24-18-PM.png
+5/22/2015 3:24:27 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-22-PM.png
+5/22/2015 3:24:27 PM : Taking screen shot...
+5/22/2015 3:24:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:29 PM : cf289085_currentScreen-2015-05-22_03-24-22-PM.png
+5/22/2015 3:24:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-27-PM.png
+5/22/2015 3:24:29 PM : Taking screen shot...
+5/22/2015 3:24:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:32 PM : cf289085_currentScreen-2015-05-22_03-24-27-PM.png
+5/22/2015 3:24:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-29-PM.png
+5/22/2015 3:24:33 PM : Taking screen shot...
+5/22/2015 3:24:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:35 PM : cf289085_currentScreen-2015-05-22_03-24-29-PM.png
+5/22/2015 3:24:35 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-33-PM.png
+5/22/2015 3:24:35 PM : Taking screen shot...
+5/22/2015 3:24:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:39 PM : cf289085_currentScreen-2015-05-22_03-24-33-PM.png
+5/22/2015 3:24:39 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-35-PM.png
+5/22/2015 3:24:39 PM : Taking screen shot...
+5/22/2015 3:24:39 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:41 PM : cf289085_currentScreen-2015-05-22_03-24-35-PM.png
+5/22/2015 3:24:41 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-39-PM.png
+5/22/2015 3:24:41 PM : Taking screen shot...
+5/22/2015 3:24:41 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:44 PM : cf289085_currentScreen-2015-05-22_03-24-39-PM.png
+5/22/2015 3:24:45 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-41-PM.png
+5/22/2015 3:24:45 PM : Taking screen shot...
+5/22/2015 3:24:45 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:47 PM : cf289085_currentScreen-2015-05-22_03-24-41-PM.png
+5/22/2015 3:24:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-45-PM.png
+5/22/2015 3:24:47 PM : Taking screen shot...
+5/22/2015 3:24:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:50 PM : cf289085_currentScreen-2015-05-22_03-24-45-PM.png
+5/22/2015 3:24:51 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-47-PM.png
+5/22/2015 3:24:51 PM : Taking screen shot...
+5/22/2015 3:24:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:53 PM : cf289085_currentScreen-2015-05-22_03-24-47-PM.png
+5/22/2015 3:24:53 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-51-PM.png
+5/22/2015 3:24:53 PM : Taking screen shot...
+5/22/2015 3:24:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:56 PM : cf289085_currentScreen-2015-05-22_03-24-51-PM.png
+5/22/2015 3:24:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-53-PM.png
+5/22/2015 3:24:57 PM : Taking screen shot...
+5/22/2015 3:24:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:24:58 PM : cf289085_currentScreen-2015-05-22_03-24-53-PM.png
+5/22/2015 3:24:59 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-57-PM.png
+5/22/2015 3:24:59 PM : Taking screen shot...
+5/22/2015 3:24:59 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:25:02 PM : cf289085_currentScreen-2015-05-22_03-24-57-PM.png
+5/22/2015 3:25:03 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-24-59-PM.png
+5/22/2015 3:25:03 PM : Taking screen shot...
+5/22/2015 3:25:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:25:04 PM : cf289085_currentScreen-2015-05-22_03-24-59-PM.png
+5/22/2015 3:25:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-25-03-PM.png
+5/22/2015 3:25:05 PM : Taking screen shot...
+5/22/2015 3:25:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:25:07 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-25-05-PM.png
+5/22/2015 3:25:07 PM : Taking screen shot...
+5/22/2015 3:25:07 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:25:12 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-25-07-PM.png
+5/22/2015 3:25:12 PM : Taking screen shot...
+5/22/2015 3:25:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:25:34 PM : ******************Start TestCase 0.1******************
+5/22/2015 3:25:34 PM : Delete Logs and restart device
+5/22/2015 3:25:34 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/22/2015 3:25:34 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:25:44 PM : Going Back to Home screen.
+5/22/2015 3:25:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:32 PM : cf289085_currentScreen-2015-05-22_03-25-07-PM.png
+5/22/2015 3:26:32 PM : cf289085_currentScreen-2015-05-22_03-25-12-PM.png
+5/22/2015 3:26:32 PM : cf289085_currentScreen-2015-05-22_03-25-44-PM.png
+5/22/2015 3:26:32 PM : Going Back to Home screen.
+5/22/2015 3:26:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:38 PM : cf289085_currentScreen-2015-05-22_03-26-32-PM.png
+5/22/2015 3:26:38 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:26:38 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:26:39 PM : Accuracy is D=1
+5/22/2015 3:26:39 PM : Template DialerIconStart.png is Verified. 
+5/22/2015 3:26:39 PM : Touching on  X=69, Y=860
+5/22/2015 3:26:39 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-39-PM.png
+5/22/2015 3:26:43 PM : Taking screen shot...
+5/22/2015 3:26:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-43-PM.png
+5/22/2015 3:26:44 PM : Taking screen shot...
+5/22/2015 3:26:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:45 PM : cf289085_currentScreen-2015-05-22_03-26-39-PM.png
+5/22/2015 3:26:46 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-44-PM.png
+5/22/2015 3:26:46 PM : Taking screen shot...
+5/22/2015 3:26:46 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:48 PM : cf289085_currentScreen-2015-05-22_03-26-43-PM.png
+5/22/2015 3:26:49 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-46-PM.png
+5/22/2015 3:26:49 PM : Taking screen shot...
+5/22/2015 3:26:49 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:50 PM : cf289085_currentScreen-2015-05-22_03-26-44-PM.png
+5/22/2015 3:26:51 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-49-PM.png
+5/22/2015 3:26:51 PM : Taking screen shot...
+5/22/2015 3:26:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:53 PM : cf289085_currentScreen-2015-05-22_03-26-46-PM.png
+5/22/2015 3:26:54 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-51-PM.png
+5/22/2015 3:26:54 PM : Taking screen shot...
+5/22/2015 3:26:54 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:55 PM : cf289085_currentScreen-2015-05-22_03-26-49-PM.png
+5/22/2015 3:26:56 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-54-PM.png
+5/22/2015 3:26:56 PM : Taking screen shot...
+5/22/2015 3:26:56 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:26:58 PM : cf289085_currentScreen-2015-05-22_03-26-51-PM.png
+5/22/2015 3:26:59 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-56-PM.png
+5/22/2015 3:26:59 PM : Taking screen shot...
+5/22/2015 3:26:59 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:01 PM : cf289085_currentScreen-2015-05-22_03-26-54-PM.png
+5/22/2015 3:27:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-26-59-PM.png
+5/22/2015 3:27:01 PM : Taking screen shot...
+5/22/2015 3:27:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:04 PM : cf289085_currentScreen-2015-05-22_03-26-56-PM.png
+5/22/2015 3:27:04 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-01-PM.png
+5/22/2015 3:27:04 PM : Taking screen shot...
+5/22/2015 3:27:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:06 PM : cf289085_currentScreen-2015-05-22_03-26-59-PM.png
+5/22/2015 3:27:06 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-04-PM.png
+5/22/2015 3:27:06 PM : Taking screen shot...
+5/22/2015 3:27:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:09 PM : cf289085_currentScreen-2015-05-22_03-27-01-PM.png
+5/22/2015 3:27:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-06-PM.png
+5/22/2015 3:27:09 PM : Taking screen shot...
+5/22/2015 3:27:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:11 PM : cf289085_currentScreen-2015-05-22_03-27-04-PM.png
+5/22/2015 3:27:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-09-PM.png
+5/22/2015 3:27:11 PM : Taking screen shot...
+5/22/2015 3:27:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-11-PM.png
+5/22/2015 3:27:18 PM : Taking screen shot...
+5/22/2015 3:27:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:25 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-18-PM.png
+5/22/2015 3:27:25 PM : Taking screen shot...
+5/22/2015 3:27:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:29 PM : cf289085_currentScreen-2015-05-22_03-27-09-PM.png
+5/22/2015 3:27:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-25-PM.png
+5/22/2015 3:27:29 PM : Taking screen shot...
+5/22/2015 3:27:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:31 PM : cf289085_currentScreen-2015-05-22_03-27-25-PM.png
+5/22/2015 3:27:31 PM : cf289085_currentScreen-2015-05-22_03-27-06-PM.png
+5/22/2015 3:27:32 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-29-PM.png
+5/22/2015 3:27:32 PM : Taking screen shot...
+5/22/2015 3:27:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:32 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-32-PM.png
+5/22/2015 3:27:32 PM : Taking screen shot...
+5/22/2015 3:27:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:35 PM : cf289085_currentScreen-2015-05-22_03-27-29-PM.png
+5/22/2015 3:27:36 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-32-PM.png
+5/22/2015 3:27:36 PM : Taking screen shot...
+5/22/2015 3:27:36 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:40 PM : cf289085_currentScreen-2015-05-22_03-27-32-PM.png
+5/22/2015 3:27:41 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-36-PM.png
+5/22/2015 3:27:41 PM : Taking screen shot...
+5/22/2015 3:27:41 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-41-PM.png
+5/22/2015 3:27:43 PM : Taking screen shot...
+5/22/2015 3:27:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:43 PM : cf289085_currentScreen-2015-05-22_03-27-36-PM.png
+5/22/2015 3:27:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-43-PM.png
+5/22/2015 3:27:43 PM : Taking screen shot...
+5/22/2015 3:27:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:46 PM : cf289085_currentScreen-2015-05-22_03-27-41-PM.png
+5/22/2015 3:27:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-43-PM.png
+5/22/2015 3:27:47 PM : Taking screen shot...
+5/22/2015 3:27:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:49 PM : cf289085_currentScreen-2015-05-22_03-27-43-PM.png
+5/22/2015 3:27:49 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-47-PM.png
+5/22/2015 3:27:49 PM : Taking screen shot...
+5/22/2015 3:27:49 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:52 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-49-PM.png
+5/22/2015 3:27:52 PM : Taking screen shot...
+5/22/2015 3:27:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:54 PM : cf289085_currentScreen-2015-05-22_03-27-47-PM.png
+5/22/2015 3:27:54 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-52-PM.png
+5/22/2015 3:27:54 PM : Taking screen shot...
+5/22/2015 3:27:54 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:57 PM : cf289085_currentScreen-2015-05-22_03-27-49-PM.png
+5/22/2015 3:27:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-54-PM.png
+5/22/2015 3:27:57 PM : Taking screen shot...
+5/22/2015 3:27:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:27:59 PM : cf289085_currentScreen-2015-05-22_03-27-52-PM.png
+5/22/2015 3:28:00 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-27-57-PM.png
+5/22/2015 3:28:00 PM : Taking screen shot...
+5/22/2015 3:28:00 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:02 PM : cf289085_currentScreen-2015-05-22_03-27-54-PM.png
+5/22/2015 3:28:03 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-00-PM.png
+5/22/2015 3:28:03 PM : Taking screen shot...
+5/22/2015 3:28:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:05 PM : cf289085_currentScreen-2015-05-22_03-27-57-PM.png
+5/22/2015 3:28:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-03-PM.png
+5/22/2015 3:28:05 PM : Taking screen shot...
+5/22/2015 3:28:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:08 PM : cf289085_currentScreen-2015-05-22_03-28-00-PM.png
+5/22/2015 3:28:08 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-05-PM.png
+5/22/2015 3:28:08 PM : Taking screen shot...
+5/22/2015 3:28:08 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:10 PM : cf289085_currentScreen-2015-05-22_03-28-03-PM.png
+5/22/2015 3:28:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-08-PM.png
+5/22/2015 3:28:11 PM : Taking screen shot...
+5/22/2015 3:28:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:16 PM : cf289085_currentScreen-2015-05-22_03-28-05-PM.png
+5/22/2015 3:28:16 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-11-PM.png
+5/22/2015 3:28:16 PM : Taking screen shot...
+5/22/2015 3:28:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:18 PM : cf289085_currentScreen-2015-05-22_03-28-08-PM.png
+5/22/2015 3:28:19 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-16-PM.png
+5/22/2015 3:28:19 PM : Taking screen shot...
+5/22/2015 3:28:19 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:21 PM : cf289085_currentScreen-2015-05-22_03-28-16-PM.png
+5/22/2015 3:28:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-19-PM.png
+5/22/2015 3:28:22 PM : Taking screen shot...
+5/22/2015 3:28:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:23 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-22-PM.png
+5/22/2015 3:28:23 PM : Taking screen shot...
+5/22/2015 3:28:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:25 PM : cf289085_currentScreen-2015-05-22_03-28-19-PM.png
+5/22/2015 3:28:26 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-23-PM.png
+5/22/2015 3:28:26 PM : Taking screen shot...
+5/22/2015 3:28:26 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:28 PM : cf289085_currentScreen-2015-05-22_03-28-22-PM.png
+5/22/2015 3:28:28 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-26-PM.png
+5/22/2015 3:28:28 PM : Taking screen shot...
+5/22/2015 3:28:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:29 PM : cf289085_currentScreen-2015-05-22_03-28-23-PM.png
+5/22/2015 3:28:30 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-28-PM.png
+5/22/2015 3:28:30 PM : Taking screen shot...
+5/22/2015 3:28:30 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:32 PM : cf289085_currentScreen-2015-05-22_03-28-26-PM.png
+5/22/2015 3:28:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-30-PM.png
+5/22/2015 3:28:33 PM : Taking screen shot...
+5/22/2015 3:28:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:34 PM : cf289085_currentScreen-2015-05-22_03-28-28-PM.png
+5/22/2015 3:28:35 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-33-PM.png
+5/22/2015 3:28:35 PM : Taking screen shot...
+5/22/2015 3:28:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:37 PM : cf289085_currentScreen-2015-05-22_03-28-30-PM.png
+5/22/2015 3:28:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-35-PM.png
+5/22/2015 3:28:37 PM : Taking screen shot...
+5/22/2015 3:28:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:39 PM : cf289085_currentScreen-2015-05-22_03-28-33-PM.png
+5/22/2015 3:28:39 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-37-PM.png
+5/22/2015 3:28:39 PM : Taking screen shot...
+5/22/2015 3:28:39 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:42 PM : cf289085_currentScreen-2015-05-22_03-28-35-PM.png
+5/22/2015 3:28:42 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-39-PM.png
+5/22/2015 3:28:42 PM : Taking screen shot...
+5/22/2015 3:28:42 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:43 PM : cf289085_currentScreen-2015-05-22_03-28-37-PM.png
+5/22/2015 3:28:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-42-PM.png
+5/22/2015 3:28:44 PM : Taking screen shot...
+5/22/2015 3:28:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:47 PM : cf289085_currentScreen-2015-05-22_03-28-39-PM.png
+5/22/2015 3:28:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-44-PM.png
+5/22/2015 3:28:47 PM : Taking screen shot...
+5/22/2015 3:28:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:49 PM : cf289085_currentScreen-2015-05-22_03-28-42-PM.png
+5/22/2015 3:28:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-47-PM.png
+5/22/2015 3:28:50 PM : Taking screen shot...
+5/22/2015 3:28:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:52 PM : cf289085_currentScreen-2015-05-22_03-28-44-PM.png
+5/22/2015 3:28:53 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-50-PM.png
+5/22/2015 3:28:53 PM : Taking screen shot...
+5/22/2015 3:28:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:55 PM : cf289085_currentScreen-2015-05-22_03-28-47-PM.png
+5/22/2015 3:28:55 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-53-PM.png
+5/22/2015 3:28:55 PM : Taking screen shot...
+5/22/2015 3:28:55 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:28:58 PM : cf289085_currentScreen-2015-05-22_03-28-50-PM.png
+5/22/2015 3:28:58 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-55-PM.png
+5/22/2015 3:28:58 PM : Taking screen shot...
+5/22/2015 3:28:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:00 PM : cf289085_currentScreen-2015-05-22_03-28-53-PM.png
+5/22/2015 3:29:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-28-58-PM.png
+5/22/2015 3:29:01 PM : Taking screen shot...
+5/22/2015 3:29:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:02 PM : cf289085_currentScreen-2015-05-22_03-28-55-PM.png
+5/22/2015 3:29:02 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-01-PM.png
+5/22/2015 3:29:02 PM : Taking screen shot...
+5/22/2015 3:29:02 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:04 PM : cf289085_currentScreen-2015-05-22_03-28-58-PM.png
+5/22/2015 3:29:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-02-PM.png
+5/22/2015 3:29:05 PM : Taking screen shot...
+5/22/2015 3:29:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:06 PM : cf289085_currentScreen-2015-05-22_03-29-01-PM.png
+5/22/2015 3:29:07 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-05-PM.png
+5/22/2015 3:29:07 PM : Taking screen shot...
+5/22/2015 3:29:07 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:09 PM : cf289085_currentScreen-2015-05-22_03-29-02-PM.png
+5/22/2015 3:29:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-07-PM.png
+5/22/2015 3:29:09 PM : Taking screen shot...
+5/22/2015 3:29:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:10 PM : cf289085_currentScreen-2015-05-22_03-29-05-PM.png
+5/22/2015 3:29:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-09-PM.png
+5/22/2015 3:29:11 PM : Taking screen shot...
+5/22/2015 3:29:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:13 PM : cf289085_currentScreen-2015-05-22_03-29-07-PM.png
+5/22/2015 3:29:13 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-11-PM.png
+5/22/2015 3:29:13 PM : Taking screen shot...
+5/22/2015 3:29:13 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:15 PM : cf289085_currentScreen-2015-05-22_03-29-09-PM.png
+5/22/2015 3:29:15 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-13-PM.png
+5/22/2015 3:29:15 PM : Taking screen shot...
+5/22/2015 3:29:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:17 PM : cf289085_currentScreen-2015-05-22_03-29-11-PM.png
+5/22/2015 3:29:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-15-PM.png
+5/22/2015 3:29:18 PM : Taking screen shot...
+5/22/2015 3:29:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:19 PM : cf289085_currentScreen-2015-05-22_03-29-13-PM.png
+5/22/2015 3:29:20 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-18-PM.png
+5/22/2015 3:29:20 PM : Taking screen shot...
+5/22/2015 3:29:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:22 PM : cf289085_currentScreen-2015-05-22_03-29-15-PM.png
+5/22/2015 3:29:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-20-PM.png
+5/22/2015 3:29:22 PM : Taking screen shot...
+5/22/2015 3:29:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:23 PM : cf289085_currentScreen-2015-05-22_03-29-18-PM.png
+5/22/2015 3:29:24 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-22-PM.png
+5/22/2015 3:29:24 PM : Taking screen shot...
+5/22/2015 3:29:24 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:26 PM : cf289085_currentScreen-2015-05-22_03-29-20-PM.png
+5/22/2015 3:29:26 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-24-PM.png
+5/22/2015 3:29:26 PM : Taking screen shot...
+5/22/2015 3:29:26 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:28 PM : cf289085_currentScreen-2015-05-22_03-29-22-PM.png
+5/22/2015 3:29:28 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-26-PM.png
+5/22/2015 3:29:28 PM : Taking screen shot...
+5/22/2015 3:29:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:30 PM : cf289085_currentScreen-2015-05-22_03-29-24-PM.png
+5/22/2015 3:29:31 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-28-PM.png
+5/22/2015 3:29:31 PM : Taking screen shot...
+5/22/2015 3:29:31 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:32 PM : cf289085_currentScreen-2015-05-22_03-29-26-PM.png
+5/22/2015 3:29:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-31-PM.png
+5/22/2015 3:29:33 PM : Taking screen shot...
+5/22/2015 3:29:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:34 PM : cf289085_currentScreen-2015-05-22_03-29-28-PM.png
+5/22/2015 3:29:35 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-33-PM.png
+5/22/2015 3:29:35 PM : Taking screen shot...
+5/22/2015 3:29:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:37 PM : cf289085_currentScreen-2015-05-22_03-29-31-PM.png
+5/22/2015 3:29:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-35-PM.png
+5/22/2015 3:29:37 PM : Taking screen shot...
+5/22/2015 3:29:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:39 PM : cf289085_currentScreen-2015-05-22_03-29-33-PM.png
+5/22/2015 3:29:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-37-PM.png
+5/22/2015 3:29:40 PM : Taking screen shot...
+5/22/2015 3:29:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:41 PM : cf289085_currentScreen-2015-05-22_03-29-35-PM.png
+5/22/2015 3:29:41 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-40-PM.png
+5/22/2015 3:29:41 PM : Taking screen shot...
+5/22/2015 3:29:41 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:43 PM : cf289085_currentScreen-2015-05-22_03-29-37-PM.png
+5/22/2015 3:29:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-41-PM.png
+5/22/2015 3:29:44 PM : Taking screen shot...
+5/22/2015 3:29:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:46 PM : cf289085_currentScreen-2015-05-22_03-29-40-PM.png
+5/22/2015 3:29:46 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-44-PM.png
+5/22/2015 3:29:46 PM : Taking screen shot...
+5/22/2015 3:29:46 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:48 PM : cf289085_currentScreen-2015-05-22_03-29-41-PM.png
+5/22/2015 3:29:48 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-46-PM.png
+5/22/2015 3:29:48 PM : Taking screen shot...
+5/22/2015 3:29:48 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:50 PM : cf289085_currentScreen-2015-05-22_03-29-44-PM.png
+5/22/2015 3:29:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-48-PM.png
+5/22/2015 3:29:50 PM : Taking screen shot...
+5/22/2015 3:29:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:52 PM : cf289085_currentScreen-2015-05-22_03-29-46-PM.png
+5/22/2015 3:29:53 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-50-PM.png
+5/22/2015 3:29:53 PM : Taking screen shot...
+5/22/2015 3:29:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:54 PM : cf289085_currentScreen-2015-05-22_03-29-48-PM.png
+5/22/2015 3:29:55 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-53-PM.png
+5/22/2015 3:29:55 PM : Taking screen shot...
+5/22/2015 3:29:55 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:56 PM : cf289085_currentScreen-2015-05-22_03-29-50-PM.png
+5/22/2015 3:29:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-55-PM.png
+5/22/2015 3:29:57 PM : Taking screen shot...
+5/22/2015 3:29:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:29:58 PM : cf289085_currentScreen-2015-05-22_03-29-53-PM.png
+5/22/2015 3:29:59 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-57-PM.png
+5/22/2015 3:29:59 PM : Taking screen shot...
+5/22/2015 3:29:59 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:01 PM : cf289085_currentScreen-2015-05-22_03-29-55-PM.png
+5/22/2015 3:30:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-29-59-PM.png
+5/22/2015 3:30:01 PM : Taking screen shot...
+5/22/2015 3:30:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:03 PM : cf289085_currentScreen-2015-05-22_03-29-57-PM.png
+5/22/2015 3:30:03 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-01-PM.png
+5/22/2015 3:30:03 PM : Taking screen shot...
+5/22/2015 3:30:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:05 PM : cf289085_currentScreen-2015-05-22_03-29-59-PM.png
+5/22/2015 3:30:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-03-PM.png
+5/22/2015 3:30:05 PM : Taking screen shot...
+5/22/2015 3:30:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:07 PM : cf289085_currentScreen-2015-05-22_03-30-01-PM.png
+5/22/2015 3:30:07 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-05-PM.png
+5/22/2015 3:30:07 PM : Taking screen shot...
+5/22/2015 3:30:07 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:09 PM : cf289085_currentScreen-2015-05-22_03-30-03-PM.png
+5/22/2015 3:30:10 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-07-PM.png
+5/22/2015 3:30:10 PM : Taking screen shot...
+5/22/2015 3:30:10 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:11 PM : cf289085_currentScreen-2015-05-22_03-30-05-PM.png
+5/22/2015 3:30:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-10-PM.png
+5/22/2015 3:30:11 PM : Taking screen shot...
+5/22/2015 3:30:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:14 PM : cf289085_currentScreen-2015-05-22_03-30-07-PM.png
+5/22/2015 3:30:15 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-11-PM.png
+5/22/2015 3:30:15 PM : Taking screen shot...
+5/22/2015 3:30:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:17 PM : cf289085_currentScreen-2015-05-22_03-30-10-PM.png
+5/22/2015 3:30:17 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-15-PM.png
+5/22/2015 3:30:17 PM : Taking screen shot...
+5/22/2015 3:30:17 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:20 PM : cf289085_currentScreen-2015-05-22_03-30-11-PM.png
+5/22/2015 3:30:20 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-17-PM.png
+5/22/2015 3:30:20 PM : Taking screen shot...
+5/22/2015 3:30:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:22 PM : cf289085_currentScreen-2015-05-22_03-30-15-PM.png
+5/22/2015 3:30:23 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-20-PM.png
+5/22/2015 3:30:23 PM : Taking screen shot...
+5/22/2015 3:30:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:25 PM : cf289085_currentScreen-2015-05-22_03-30-17-PM.png
+5/22/2015 3:30:25 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-23-PM.png
+5/22/2015 3:30:25 PM : Taking screen shot...
+5/22/2015 3:30:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:27 PM : cf289085_currentScreen-2015-05-22_03-30-20-PM.png
+5/22/2015 3:30:28 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-25-PM.png
+5/22/2015 3:30:28 PM : Taking screen shot...
+5/22/2015 3:30:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:30 PM : cf289085_currentScreen-2015-05-22_03-30-23-PM.png
+5/22/2015 3:30:31 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-28-PM.png
+5/22/2015 3:30:31 PM : Taking screen shot...
+5/22/2015 3:30:31 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:33 PM : cf289085_currentScreen-2015-05-22_03-30-25-PM.png
+5/22/2015 3:30:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-31-PM.png
+5/22/2015 3:30:33 PM : Taking screen shot...
+5/22/2015 3:30:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:36 PM : cf289085_currentScreen-2015-05-22_03-30-28-PM.png
+5/22/2015 3:30:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-33-PM.png
+5/22/2015 3:30:37 PM : Taking screen shot...
+5/22/2015 3:30:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:38 PM : cf289085_currentScreen-2015-05-22_03-30-31-PM.png
+5/22/2015 3:30:39 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-37-PM.png
+5/22/2015 3:30:39 PM : Taking screen shot...
+5/22/2015 3:30:39 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:42 PM : cf289085_currentScreen-2015-05-22_03-30-33-PM.png
+5/22/2015 3:30:42 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-39-PM.png
+5/22/2015 3:30:42 PM : Taking screen shot...
+5/22/2015 3:30:42 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:44 PM : cf289085_currentScreen-2015-05-22_03-30-37-PM.png
+5/22/2015 3:30:45 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-42-PM.png
+5/22/2015 3:30:45 PM : Taking screen shot...
+5/22/2015 3:30:45 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:47 PM : cf289085_currentScreen-2015-05-22_03-30-39-PM.png
+5/22/2015 3:30:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-45-PM.png
+5/22/2015 3:30:47 PM : Taking screen shot...
+5/22/2015 3:30:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:49 PM : cf289085_currentScreen-2015-05-22_03-30-42-PM.png
+5/22/2015 3:30:49 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-47-PM.png
+5/22/2015 3:30:49 PM : Taking screen shot...
+5/22/2015 3:30:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:52 PM : cf289085_currentScreen-2015-05-22_03-30-45-PM.png
+5/22/2015 3:30:52 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-50-PM.png
+5/22/2015 3:30:52 PM : Taking screen shot...
+5/22/2015 3:30:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:54 PM : cf289085_currentScreen-2015-05-22_03-30-47-PM.png
+5/22/2015 3:30:55 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-52-PM.png
+5/22/2015 3:30:55 PM : Taking screen shot...
+5/22/2015 3:30:55 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:57 PM : cf289085_currentScreen-2015-05-22_03-30-50-PM.png
+5/22/2015 3:30:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-55-PM.png
+5/22/2015 3:30:57 PM : Taking screen shot...
+5/22/2015 3:30:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:30:59 PM : cf289085_currentScreen-2015-05-22_03-30-52-PM.png
+5/22/2015 3:31:00 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-30-57-PM.png
+5/22/2015 3:31:00 PM : Taking screen shot...
+5/22/2015 3:31:00 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:02 PM : cf289085_currentScreen-2015-05-22_03-30-55-PM.png
+5/22/2015 3:31:03 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-00-PM.png
+5/22/2015 3:31:03 PM : Taking screen shot...
+5/22/2015 3:31:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:05 PM : cf289085_currentScreen-2015-05-22_03-30-57-PM.png
+5/22/2015 3:31:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-03-PM.png
+5/22/2015 3:31:05 PM : Taking screen shot...
+5/22/2015 3:31:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:08 PM : cf289085_currentScreen-2015-05-22_03-31-00-PM.png
+5/22/2015 3:31:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-05-PM.png
+5/22/2015 3:31:09 PM : Taking screen shot...
+5/22/2015 3:31:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-09-PM.png
+5/22/2015 3:31:10 PM : Taking screen shot...
+5/22/2015 3:31:10 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:16 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-10-PM.png
+5/22/2015 3:31:16 PM : Taking screen shot...
+5/22/2015 3:31:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:16 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-16-PM.png
+5/22/2015 3:31:16 PM : Taking screen shot...
+5/22/2015 3:31:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-16-PM.png
+5/22/2015 3:31:22 PM : Taking screen shot...
+5/22/2015 3:31:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:23 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-22-PM.png
+5/22/2015 3:31:23 PM : Taking screen shot...
+5/22/2015 3:31:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-23-PM.png
+5/22/2015 3:31:29 PM : Taking screen shot...
+5/22/2015 3:31:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:30 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-29-PM.png
+5/22/2015 3:31:30 PM : Taking screen shot...
+5/22/2015 3:31:30 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:36 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-30-PM.png
+5/22/2015 3:31:36 PM : Taking screen shot...
+5/22/2015 3:31:36 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-36-PM.png
+5/22/2015 3:31:37 PM : Taking screen shot...
+5/22/2015 3:31:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:38 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-37-PM.png
+5/22/2015 3:31:38 PM : Taking screen shot...
+5/22/2015 3:31:38 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-38-PM.png
+5/22/2015 3:31:43 PM : Taking screen shot...
+5/22/2015 3:31:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-43-PM.png
+5/22/2015 3:31:44 PM : Taking screen shot...
+5/22/2015 3:31:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:45 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-44-PM.png
+5/22/2015 3:31:45 PM : Taking screen shot...
+5/22/2015 3:31:45 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-45-PM.png
+5/22/2015 3:31:50 PM : Taking screen shot...
+5/22/2015 3:31:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:51 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-50-PM.png
+5/22/2015 3:31:51 PM : Taking screen shot...
+5/22/2015 3:31:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:52 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-51-PM.png
+5/22/2015 3:31:52 PM : Taking screen shot...
+5/22/2015 3:31:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-52-PM.png
+5/22/2015 3:31:57 PM : Taking screen shot...
+5/22/2015 3:31:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:58 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-57-PM.png
+5/22/2015 3:31:58 PM : Taking screen shot...
+5/22/2015 3:31:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:31:59 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-58-PM.png
+5/22/2015 3:31:59 PM : Taking screen shot...
+5/22/2015 3:31:59 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:04 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-31-59-PM.png
+5/22/2015 3:32:04 PM : Taking screen shot...
+5/22/2015 3:32:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-04-PM.png
+5/22/2015 3:32:05 PM : Taking screen shot...
+5/22/2015 3:32:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:06 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-05-PM.png
+5/22/2015 3:32:06 PM : Taking screen shot...
+5/22/2015 3:32:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-06-PM.png
+5/22/2015 3:32:11 PM : Taking screen shot...
+5/22/2015 3:32:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:12 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-11-PM.png
+5/22/2015 3:32:12 PM : Taking screen shot...
+5/22/2015 3:32:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:13 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-12-PM.png
+5/22/2015 3:32:13 PM : Taking screen shot...
+5/22/2015 3:32:13 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-13-PM.png
+5/22/2015 3:32:18 PM : Taking screen shot...
+5/22/2015 3:32:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:19 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-18-PM.png
+5/22/2015 3:32:19 PM : Taking screen shot...
+5/22/2015 3:32:19 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:20 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-19-PM.png
+5/22/2015 3:32:20 PM : Taking screen shot...
+5/22/2015 3:32:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:24 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-20-PM.png
+5/22/2015 3:32:24 PM : Taking screen shot...
+5/22/2015 3:32:24 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:26 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-24-PM.png
+5/22/2015 3:32:26 PM : Taking screen shot...
+5/22/2015 3:32:26 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:27 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-26-PM.png
+5/22/2015 3:32:27 PM : Taking screen shot...
+5/22/2015 3:32:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:31 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-27-PM.png
+5/22/2015 3:32:31 PM : Taking screen shot...
+5/22/2015 3:32:31 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-31-PM.png
+5/22/2015 3:32:33 PM : Taking screen shot...
+5/22/2015 3:32:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-33-PM.png
+5/22/2015 3:32:33 PM : Taking screen shot...
+5/22/2015 3:32:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:38 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-33-PM.png
+5/22/2015 3:32:38 PM : Taking screen shot...
+5/22/2015 3:32:38 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-38-PM.png
+5/22/2015 3:32:40 PM : Taking screen shot...
+5/22/2015 3:32:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-40-PM.png
+5/22/2015 3:32:40 PM : Taking screen shot...
+5/22/2015 3:32:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:45 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-40-PM.png
+5/22/2015 3:32:45 PM : Taking screen shot...
+5/22/2015 3:32:45 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-45-PM.png
+5/22/2015 3:32:47 PM : Taking screen shot...
+5/22/2015 3:32:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-47-PM.png
+5/22/2015 3:32:47 PM : Taking screen shot...
+5/22/2015 3:32:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:52 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-47-PM.png
+5/22/2015 3:32:52 PM : Taking screen shot...
+5/22/2015 3:32:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:54 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-52-PM.png
+5/22/2015 3:32:54 PM : Taking screen shot...
+5/22/2015 3:32:54 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:54 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-54-PM.png
+5/22/2015 3:32:54 PM : Taking screen shot...
+5/22/2015 3:32:54 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:32:58 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-54-PM.png
+5/22/2015 3:32:58 PM : Taking screen shot...
+5/22/2015 3:32:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-32-58-PM.png
+5/22/2015 3:33:01 PM : Taking screen shot...
+5/22/2015 3:33:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-01-PM.png
+5/22/2015 3:33:01 PM : Taking screen shot...
+5/22/2015 3:33:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:05 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-01-PM.png
+5/22/2015 3:33:05 PM : Taking screen shot...
+5/22/2015 3:33:05 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:08 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-05-PM.png
+5/22/2015 3:33:08 PM : Taking screen shot...
+5/22/2015 3:33:08 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:08 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-08-PM.png
+5/22/2015 3:33:08 PM : Taking screen shot...
+5/22/2015 3:33:08 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:12 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-08-PM.png
+5/22/2015 3:33:12 PM : Taking screen shot...
+5/22/2015 3:33:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:15 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-12-PM.png
+5/22/2015 3:33:15 PM : Taking screen shot...
+5/22/2015 3:33:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:15 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-15-PM.png
+5/22/2015 3:33:15 PM : Taking screen shot...
+5/22/2015 3:33:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:19 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-15-PM.png
+5/22/2015 3:33:19 PM : Taking screen shot...
+5/22/2015 3:33:19 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-19-PM.png
+5/22/2015 3:33:22 PM : Taking screen shot...
+5/22/2015 3:33:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-22-PM.png
+5/22/2015 3:33:22 PM : Taking screen shot...
+5/22/2015 3:33:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:25 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-22-PM.png
+5/22/2015 3:33:25 PM : Taking screen shot...
+5/22/2015 3:33:26 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-26-PM.png
+5/22/2015 3:33:29 PM : Taking screen shot...
+5/22/2015 3:33:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-29-PM.png
+5/22/2015 3:33:29 PM : Taking screen shot...
+5/22/2015 3:33:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-29-PM.png
+5/22/2015 3:33:33 PM : Taking screen shot...
+5/22/2015 3:33:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:36 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-33-PM.png
+5/22/2015 3:33:36 PM : Taking screen shot...
+5/22/2015 3:33:36 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:36 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-36-PM.png
+5/22/2015 3:33:36 PM : Taking screen shot...
+5/22/2015 3:33:36 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-36-PM.png
+5/22/2015 3:33:40 PM : Taking screen shot...
+5/22/2015 3:33:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-40-PM.png
+5/22/2015 3:33:43 PM : Taking screen shot...
+5/22/2015 3:33:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-43-PM.png
+5/22/2015 3:33:43 PM : Taking screen shot...
+5/22/2015 3:33:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-43-PM.png
+5/22/2015 3:33:47 PM : Taking screen shot...
+5/22/2015 3:33:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-47-PM.png
+5/22/2015 3:33:50 PM : Taking screen shot...
+5/22/2015 3:33:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-50-PM.png
+5/22/2015 3:33:50 PM : Taking screen shot...
+5/22/2015 3:33:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:53 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-50-PM.png
+5/22/2015 3:33:53 PM : Taking screen shot...
+5/22/2015 3:33:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-53-PM.png
+5/22/2015 3:33:57 PM : Taking screen shot...
+5/22/2015 3:33:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:33:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-57-PM.png
+5/22/2015 3:33:57 PM : Taking screen shot...
+5/22/2015 3:33:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:00 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-33-57-PM.png
+5/22/2015 3:34:00 PM : Taking screen shot...
+5/22/2015 3:34:00 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:04 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-00-PM.png
+5/22/2015 3:34:04 PM : Taking screen shot...
+5/22/2015 3:34:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:04 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-04-PM.png
+5/22/2015 3:34:04 PM : Taking screen shot...
+5/22/2015 3:34:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:07 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-04-PM.png
+5/22/2015 3:34:07 PM : Taking screen shot...
+5/22/2015 3:34:07 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-07-PM.png
+5/22/2015 3:34:11 PM : Taking screen shot...
+5/22/2015 3:34:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-11-PM.png
+5/22/2015 3:34:11 PM : Taking screen shot...
+5/22/2015 3:34:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:14 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-11-PM.png
+5/22/2015 3:34:14 PM : Taking screen shot...
+5/22/2015 3:34:14 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-14-PM.png
+5/22/2015 3:34:18 PM : Taking screen shot...
+5/22/2015 3:34:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-18-PM.png
+5/22/2015 3:34:18 PM : Taking screen shot...
+5/22/2015 3:34:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:21 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-18-PM.png
+5/22/2015 3:34:21 PM : Taking screen shot...
+5/22/2015 3:34:21 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:25 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-21-PM.png
+5/22/2015 3:34:25 PM : Taking screen shot...
+5/22/2015 3:34:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:25 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-25-PM.png
+5/22/2015 3:34:25 PM : Taking screen shot...
+5/22/2015 3:34:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:28 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-25-PM.png
+5/22/2015 3:34:28 PM : Taking screen shot...
+5/22/2015 3:34:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:32 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-28-PM.png
+5/22/2015 3:34:32 PM : Taking screen shot...
+5/22/2015 3:34:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:33 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-32-PM.png
+5/22/2015 3:34:33 PM : Taking screen shot...
+5/22/2015 3:34:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:34 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-33-PM.png
+5/22/2015 3:34:34 PM : Taking screen shot...
+5/22/2015 3:34:34 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:39 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-34-PM.png
+5/22/2015 3:34:39 PM : Taking screen shot...
+5/22/2015 3:34:39 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:40 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-39-PM.png
+5/22/2015 3:34:40 PM : Taking screen shot...
+5/22/2015 3:34:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:41 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-40-PM.png
+5/22/2015 3:34:41 PM : Taking screen shot...
+5/22/2015 3:34:41 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:46 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-41-PM.png
+5/22/2015 3:34:46 PM : Taking screen shot...
+5/22/2015 3:34:46 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:47 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-46-PM.png
+5/22/2015 3:34:47 PM : Taking screen shot...
+5/22/2015 3:34:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:48 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-47-PM.png
+5/22/2015 3:34:48 PM : Taking screen shot...
+5/22/2015 3:34:48 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:53 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-48-PM.png
+5/22/2015 3:34:53 PM : Taking screen shot...
+5/22/2015 3:34:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:54 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-53-PM.png
+5/22/2015 3:34:54 PM : Taking screen shot...
+5/22/2015 3:34:54 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:34:55 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-54-PM.png
+5/22/2015 3:34:55 PM : Taking screen shot...
+5/22/2015 3:34:55 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-34-55-PM.png
+5/22/2015 3:35:01 PM : Taking screen shot...
+5/22/2015 3:35:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:01 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-01-PM.png
+5/22/2015 3:35:01 PM : Taking screen shot...
+5/22/2015 3:35:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:02 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-01-PM.png
+5/22/2015 3:35:02 PM : Taking screen shot...
+5/22/2015 3:35:02 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:08 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-02-PM.png
+5/22/2015 3:35:08 PM : Taking screen shot...
+5/22/2015 3:35:08 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-08-PM.png
+5/22/2015 3:35:09 PM : Taking screen shot...
+5/22/2015 3:35:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:09 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-09-PM.png
+5/22/2015 3:35:09 PM : Taking screen shot...
+5/22/2015 3:35:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:15 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-09-PM.png
+5/22/2015 3:35:15 PM : Taking screen shot...
+5/22/2015 3:35:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:16 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-15-PM.png
+5/22/2015 3:35:16 PM : Taking screen shot...
+5/22/2015 3:35:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:16 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-16-PM.png
+5/22/2015 3:35:16 PM : Taking screen shot...
+5/22/2015 3:35:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:22 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-16-PM.png
+5/22/2015 3:35:22 PM : Taking screen shot...
+5/22/2015 3:35:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:23 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-22-PM.png
+5/22/2015 3:35:23 PM : Taking screen shot...
+5/22/2015 3:35:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:23 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-23-PM.png
+5/22/2015 3:35:23 PM : Taking screen shot...
+5/22/2015 3:35:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:29 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-23-PM.png
+5/22/2015 3:35:29 PM : Taking screen shot...
+5/22/2015 3:35:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:30 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-29-PM.png
+5/22/2015 3:35:30 PM : Taking screen shot...
+5/22/2015 3:35:30 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:30 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-30-PM.png
+5/22/2015 3:35:30 PM : Taking screen shot...
+5/22/2015 3:35:30 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:36 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-30-PM.png
+5/22/2015 3:35:36 PM : Taking screen shot...
+5/22/2015 3:35:36 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-36-PM.png
+5/22/2015 3:35:37 PM : Taking screen shot...
+5/22/2015 3:35:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:37 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-37-PM.png
+5/22/2015 3:35:37 PM : Taking screen shot...
+5/22/2015 3:35:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:43 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-37-PM.png
+5/22/2015 3:35:43 PM : Taking screen shot...
+5/22/2015 3:35:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-43-PM.png
+5/22/2015 3:35:44 PM : Taking screen shot...
+5/22/2015 3:35:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:44 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-44-PM.png
+5/22/2015 3:35:44 PM : Taking screen shot...
+5/22/2015 3:35:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:50 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-44-PM.png
+5/22/2015 3:35:50 PM : Taking screen shot...
+5/22/2015 3:35:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:51 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-50-PM.png
+5/22/2015 3:35:51 PM : Taking screen shot...
+5/22/2015 3:35:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:51 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-51-PM.png
+5/22/2015 3:35:51 PM : Taking screen shot...
+5/22/2015 3:35:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:57 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-51-PM.png
+5/22/2015 3:35:57 PM : Taking screen shot...
+5/22/2015 3:35:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:58 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-57-PM.png
+5/22/2015 3:35:58 PM : Taking screen shot...
+5/22/2015 3:35:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:35:58 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-58-PM.png
+5/22/2015 3:35:58 PM : Taking screen shot...
+5/22/2015 3:35:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:04 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-35-58-PM.png
+5/22/2015 3:36:04 PM : Taking screen shot...
+5/22/2015 3:36:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:06 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-04-PM.png
+5/22/2015 3:36:06 PM : Taking screen shot...
+5/22/2015 3:36:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:06 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-06-PM.png
+5/22/2015 3:36:06 PM : Taking screen shot...
+5/22/2015 3:36:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:11 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-06-PM.png
+5/22/2015 3:36:12 PM : Taking screen shot...
+5/22/2015 3:36:12 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:13 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-12-PM.png
+5/22/2015 3:36:13 PM : Taking screen shot...
+5/22/2015 3:36:13 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:13 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-13-PM.png
+5/22/2015 3:36:13 PM : Taking screen shot...
+5/22/2015 3:36:13 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:18 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-13-PM.png
+5/22/2015 3:36:18 PM : Taking screen shot...
+5/22/2015 3:36:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:20 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-18-PM.png
+5/22/2015 3:36:20 PM : Taking screen shot...
+5/22/2015 3:36:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:21 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-20-PM.png
+5/22/2015 3:36:21 PM : Taking screen shot...
+5/22/2015 3:36:21 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:25 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-21-PM.png
+5/22/2015 3:36:25 PM : Taking screen shot...
+5/22/2015 3:36:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:28 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-25-PM.png
+5/22/2015 3:36:28 PM : Taking screen shot...
+5/22/2015 3:36:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:28 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-28-PM.png
+5/22/2015 3:36:28 PM : Taking screen shot...
+5/22/2015 3:36:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:32 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-28-PM.png
+5/22/2015 3:36:32 PM : Taking screen shot...
+5/22/2015 3:36:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:35 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-32-PM.png
+5/22/2015 3:36:35 PM : Taking screen shot...
+5/22/2015 3:36:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:36:35 PM : Problem taking screen shot for deviceID cf289085 so  take it again, the name is Report\5-22-cf289085\ScreenShots\cf289085_currentScreen-2015-05-22_03-36-35-PM.png
+5/22/2015 3:36:35 PM : Taking screen shot...
+5/22/2015 3:36:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:04 PM : ******************Start TestCase 0.1******************
+5/22/2015 3:38:04 PM : Delete Logs and restart device
+5/22/2015 3:38:04 PM : Delete sdcard/log file  -s cf289085 shell rm -r /sdcard/log
+5/22/2015 3:38:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:14 PM : Going Back to Home screen.
+5/22/2015 3:38:14 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:20 PM : cf289085_currentScreen-2015-05-22_03-38-14-PM.png
+5/22/2015 3:38:20 PM : Going Back to Home screen.
+5/22/2015 3:38:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:26 PM : cf289085_currentScreen-2015-05-22_03-38-20-PM.png
+5/22/2015 3:38:26 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:38:26 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:38:26 PM : Accuracy is D=1
+5/22/2015 3:38:26 PM : Template DialerIconStart.png is Verified. 
+5/22/2015 3:38:27 PM : Touching on  X=69, Y=860
+5/22/2015 3:38:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:33 PM : cf289085_currentScreen-2015-05-22_03-38-27-PM.png
+5/22/2015 3:38:33 PM : typing #932#
+5/22/2015 3:38:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:40 PM : cf289085_currentScreen-2015-05-22_03-38-33-PM.png
+5/22/2015 3:38:41 PM : Clicking by template DialerIconCall.png
+5/22/2015 3:38:41 PM : Verfiying template DialerIconCall.png
+5/22/2015 3:38:41 PM : Accuracy is D=1
+5/22/2015 3:38:41 PM : Template DialerIconCall.png is Verified. 
+5/22/2015 3:38:41 PM : Touching on  X=268, Y=910
+5/22/2015 3:38:41 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:38:47 PM : cf289085_currentScreen-2015-05-22_03-38-41-PM.png
+5/22/2015 3:38:48 PM : Wait 10 seconds to get the datausage message
+5/22/2015 3:38:58 PM : Taking screen shot...
+5/22/2015 3:38:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:03 PM : cf289085_currentScreen-2015-05-22_03-38-58-PM.png
+5/22/2015 3:39:06 PM : Clicking by template WEB_OK.png
+5/22/2015 3:39:06 PM : Verfiying template WEB_OK.png
+5/22/2015 3:39:06 PM : Accuracy is D=0.999911069869995
+5/22/2015 3:39:06 PM : Template WEB_OK.png is Verified. 
+5/22/2015 3:39:06 PM : Touching on  X=270, Y=590
+5/22/2015 3:39:06 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:13 PM : cf289085_currentScreen-2015-05-22_03-39-06-PM.png
+5/22/2015 3:39:13 PM : Start TCPDump
+5/22/2015 3:39:13 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:39:13 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:39:13 PM : Accuracy is D=0.701930820941925
+5/22/2015 3:39:13 PM : Template DialerIconStart.png is not Verified!
+5/22/2015 3:39:13 PM : typing *#9900#
+5/22/2015 3:39:13 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:21 PM : cf289085_currentScreen-2015-05-22_03-39-13-PM.png
+5/22/2015 3:39:21 PM : Taking screen shot...
+5/22/2015 3:39:21 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:26 PM : cf289085_currentScreen-2015-05-22_03-39-21-PM.png
+5/22/2015 3:39:27 PM : Scrolling two page down..
+5/22/2015 3:39:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:33 PM : cf289085_currentScreen-2015-05-22_03-39-27-PM.png
+5/22/2015 3:39:34 PM : Taking screen shot...
+5/22/2015 3:39:34 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:39 PM : cf289085_currentScreen-2015-05-22_03-39-34-PM.png
+5/22/2015 3:39:40 PM : Clicking by template TCPDUMPSTART.png
+5/22/2015 3:39:40 PM : Verfiying template TCPDUMPSTART.png
+5/22/2015 3:39:40 PM : Accuracy is D=0.843680679798126
+5/22/2015 3:39:40 PM : Template TCPDUMPSTART.png is not Verified!
+5/22/2015 3:39:40 PM : Clicking by template TCPDUMPSTART_ANY.png
+5/22/2015 3:39:40 PM : Verfiying template TCPDUMPSTART_ANY.png
+5/22/2015 3:39:40 PM : Accuracy is D=0.233017191290855
+5/22/2015 3:39:40 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+5/22/2015 3:39:40 PM : Clicking by template TCPDUMPSTART_OK.png
+5/22/2015 3:39:40 PM : Verfiying template TCPDUMPSTART_OK.png
+5/22/2015 3:39:40 PM : Accuracy is D=0.440427631139755
+5/22/2015 3:39:40 PM : Template TCPDUMPSTART_OK.png is not Verified!
+5/22/2015 3:39:40 PM : Going Back to Home screen.
+5/22/2015 3:39:40 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:46 PM : cf289085_currentScreen-2015-05-22_03-39-40-PM.png
+5/22/2015 3:39:47 PM : Going Back to Home screen.
+5/22/2015 3:39:47 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:52 PM : cf289085_currentScreen-2015-05-22_03-39-47-PM.png
+5/22/2015 3:39:52 PM : Play band Hop
+5/22/2015 3:39:52 PM : Start Black Planet
+5/22/2015 3:39:52 PM : Clicking by template StartIcon.png
+5/22/2015 3:39:52 PM : Verfiying template StartIcon.png
+5/22/2015 3:39:53 PM : Accuracy is D=1
+5/22/2015 3:39:53 PM : Template StartIcon.png is Verified. 
+5/22/2015 3:39:53 PM : Touching on  X=69, Y=99
+5/22/2015 3:39:53 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:39:59 PM : cf289085_currentScreen-2015-05-22_03-39-53-PM.png
+5/22/2015 3:39:59 PM : verifying template Pause  Pause.png
+5/22/2015 3:39:59 PM : Verfiying template Pause.png
+5/22/2015 3:39:59 PM : Accuracy is D=0
+5/22/2015 3:39:59 PM : Template Pause.png is not Verified!
+5/22/2015 3:39:59 PM : verifying template Menu  Menu.png
+5/22/2015 3:39:59 PM : Verfiying template Menu.png
+5/22/2015 3:39:59 PM : Accuracy is D=0
+5/22/2015 3:40:00 PM : Template Menu.png is not Verified!
+5/22/2015 3:40:00 PM : Clicking by template CloseAds.png
+5/22/2015 3:40:00 PM : Verfiying template CloseAds.png
+5/22/2015 3:40:00 PM : Accuracy is D=0
+5/22/2015 3:40:00 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:40:01 PM : Going Back to Home screen.
+5/22/2015 3:40:01 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:40:07 PM : cf289085_currentScreen-2015-05-22_03-40-01-PM.png
+5/22/2015 3:40:07 PM : Play band Rap
+5/22/2015 3:40:07 PM : Start Black Planet
+5/22/2015 3:40:07 PM : Clicking by template StartIcon.png
+5/22/2015 3:40:07 PM : Verfiying template StartIcon.png
+5/22/2015 3:40:07 PM : Accuracy is D=0.999999940395355
+5/22/2015 3:40:07 PM : Template StartIcon.png is Verified. 
+5/22/2015 3:40:07 PM : Touching on  X=69, Y=99
+5/22/2015 3:40:07 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:40:14 PM : cf289085_currentScreen-2015-05-22_03-40-07-PM.png
+5/22/2015 3:40:14 PM : verifying template Pause  Pause.png
+5/22/2015 3:40:14 PM : Verfiying template Pause.png
+5/22/2015 3:40:14 PM : Accuracy is D=0.57020890712738
+5/22/2015 3:40:14 PM : Template Pause.png is not Verified!
+5/22/2015 3:40:14 PM : verifying template Menu  Menu.png
+5/22/2015 3:40:14 PM : Verfiying template Menu.png
+5/22/2015 3:40:14 PM : Accuracy is D=0.457535654306412
+5/22/2015 3:40:14 PM : Template Menu.png is not Verified!
+5/22/2015 3:40:14 PM : Clicking by template CloseAds.png
+5/22/2015 3:40:14 PM : Verfiying template CloseAds.png
+5/22/2015 3:40:14 PM : Accuracy is D=0.574188351631165
+5/22/2015 3:40:14 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:40:16 PM : Going Back to Home screen.
+5/22/2015 3:40:16 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:40:22 PM : cf289085_currentScreen-2015-05-22_03-40-16-PM.png
+5/22/2015 3:40:22 PM : Play band Hop
+5/22/2015 3:40:22 PM : Start Black Planet
+5/22/2015 3:40:22 PM : Clicking by template StartIcon.png
+5/22/2015 3:40:22 PM : Verfiying template StartIcon.png
+5/22/2015 3:40:22 PM : Accuracy is D=0.479031652212143
+5/22/2015 3:40:22 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:40:22 PM : verifying template Pause  Pause.png
+5/22/2015 3:40:22 PM : Verfiying template Pause.png
+5/22/2015 3:40:22 PM : Accuracy is D=0.525879621505737
+5/22/2015 3:40:22 PM : Template Pause.png is not Verified!
+5/22/2015 3:40:22 PM : verifying template Menu  Menu.png
+5/22/2015 3:40:22 PM : Verfiying template Menu.png
+5/22/2015 3:40:23 PM : Accuracy is D=0.485189408063889
+5/22/2015 3:40:23 PM : Template Menu.png is not Verified!
+5/22/2015 3:40:23 PM : Clicking by template CloseAds.png
+5/22/2015 3:40:23 PM : Verfiying template CloseAds.png
+5/22/2015 3:40:23 PM : Accuracy is D=0.645847797393799
+5/22/2015 3:40:23 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:40:25 PM : Going Back to Home screen.
+5/22/2015 3:40:25 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:40:30 PM : cf289085_currentScreen-2015-05-22_03-40-25-PM.png
+5/22/2015 3:40:31 PM : Play band Rap
+5/22/2015 3:40:31 PM : Start Black Planet
+5/22/2015 3:40:31 PM : Clicking by template StartIcon.png
+5/22/2015 3:40:31 PM : Verfiying template StartIcon.png
+5/22/2015 3:40:31 PM : Accuracy is D=0.431384474039078
+5/22/2015 3:40:31 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:40:31 PM : verifying template Pause  Pause.png
+5/22/2015 3:40:31 PM : Verfiying template Pause.png
+5/22/2015 3:40:31 PM : Accuracy is D=0.576497554779053
+5/22/2015 3:40:31 PM : Template Pause.png is not Verified!
+5/22/2015 3:40:31 PM : verifying template Menu  Menu.png
+5/22/2015 3:40:31 PM : Verfiying template Menu.png
+5/22/2015 3:40:31 PM : Accuracy is D=0.358940720558167
+5/22/2015 3:40:31 PM : Template Menu.png is not Verified!
+5/22/2015 3:40:31 PM : Clicking by template CloseAds.png
+5/22/2015 3:40:31 PM : Verfiying template CloseAds.png
+5/22/2015 3:40:31 PM : Accuracy is D=0.638387441635132
+5/22/2015 3:40:31 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:40:33 PM : Going Back to Home screen.
+5/22/2015 3:40:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:40:41 PM : cf289085_currentScreen-2015-05-22_03-40-33-PM.png
+5/22/2015 3:40:41 PM : Play band Hop
+5/22/2015 3:40:41 PM : Start Black Planet
+5/22/2015 3:40:41 PM : Clicking by template StartIcon.png
+5/22/2015 3:40:41 PM : Verfiying template StartIcon.png
+5/22/2015 3:40:42 PM : Accuracy is D=0.466021925210953
+5/22/2015 3:40:42 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:40:42 PM : verifying template Pause  Pause.png
+5/22/2015 3:40:42 PM : Verfiying template Pause.png
+5/22/2015 3:40:42 PM : Accuracy is D=0.503774642944336
+5/22/2015 3:40:42 PM : Template Pause.png is not Verified!
+5/22/2015 3:40:42 PM : verifying template Menu  Menu.png
+5/22/2015 3:40:42 PM : Verfiying template Menu.png
+5/22/2015 3:40:42 PM : Accuracy is D=0.999912202358246
+5/22/2015 3:40:42 PM : Template Menu.png is Verified. 
+5/22/2015 3:40:42 PM : Clicking by template Menu.png
+5/22/2015 3:40:42 PM : Verfiying template Menu.png
+5/22/2015 3:40:42 PM : Accuracy is D=0.999912202358246
+5/22/2015 3:40:42 PM : Template Menu.png is Verified. 
+5/22/2015 3:40:42 PM : Touching on  X=448, Y=827
+5/22/2015 3:40:42 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:40:48 PM : cf289085_currentScreen-2015-05-22_03-40-42-PM.png
+5/22/2015 3:40:49 PM : Clicking by template Stations.png
+5/22/2015 3:40:49 PM : Verfiying template Stations.png
+5/22/2015 3:40:49 PM : Accuracy is D=0.354956895112991
+5/22/2015 3:40:49 PM : Template Stations.png is not Verified!
+5/22/2015 3:40:49 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:41:04 PM : Clicking by template CloseAds.png
+5/22/2015 3:41:04 PM : Verfiying template CloseAds.png
+5/22/2015 3:41:04 PM : Accuracy is D=0.717378973960876
+5/22/2015 3:41:04 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:41:07 PM : Going Back to Home screen.
+5/22/2015 3:41:07 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:41:13 PM : cf289085_currentScreen-2015-05-22_03-41-07-PM.png
+5/22/2015 3:41:14 PM : Play band Rap
+5/22/2015 3:41:14 PM : Start Black Planet
+5/22/2015 3:41:14 PM : Clicking by template StartIcon.png
+5/22/2015 3:41:14 PM : Verfiying template StartIcon.png
+5/22/2015 3:41:14 PM : Accuracy is D=0.423218220472336
+5/22/2015 3:41:14 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:41:14 PM : verifying template Pause  Pause.png
+5/22/2015 3:41:14 PM : Verfiying template Pause.png
+5/22/2015 3:41:14 PM : Accuracy is D=0.999870777130127
+5/22/2015 3:41:14 PM : Template Pause.png is Verified. 
+5/22/2015 3:41:14 PM : Clicking by template Pause.png
+5/22/2015 3:41:14 PM : Verfiying template Pause.png
+5/22/2015 3:41:14 PM : Accuracy is D=0.999870777130127
+5/22/2015 3:41:14 PM : Template Pause.png is Verified. 
+5/22/2015 3:41:14 PM : Touching on  X=269, Y=877
+5/22/2015 3:41:14 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:41:21 PM : cf289085_currentScreen-2015-05-22_03-41-14-PM.png
+5/22/2015 3:41:21 PM : verifying template Menu  Menu.png
+5/22/2015 3:41:21 PM : Verfiying template Menu.png
+5/22/2015 3:41:21 PM : Accuracy is D=0.999881982803345
+5/22/2015 3:41:21 PM : Template Menu.png is Verified. 
+5/22/2015 3:41:21 PM : Clicking by template Menu.png
+5/22/2015 3:41:22 PM : Verfiying template Menu.png
+5/22/2015 3:41:22 PM : Accuracy is D=0.999881982803345
+5/22/2015 3:41:22 PM : Template Menu.png is Verified. 
+5/22/2015 3:41:22 PM : Touching on  X=448, Y=827
+5/22/2015 3:41:22 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:41:28 PM : cf289085_currentScreen-2015-05-22_03-41-22-PM.png
+5/22/2015 3:41:29 PM : Clicking by template Stations.png
+5/22/2015 3:41:29 PM : Verfiying template Stations.png
+5/22/2015 3:41:29 PM : Accuracy is D=0.392373412847519
+5/22/2015 3:41:29 PM : Template Stations.png is not Verified!
+5/22/2015 3:41:29 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:41:44 PM : Clicking by template CloseAds.png
+5/22/2015 3:41:44 PM : Verfiying template CloseAds.png
+5/22/2015 3:41:44 PM : Accuracy is D=0.690228581428528
+5/22/2015 3:41:44 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:41:50 PM : Going Back to Home screen.
+5/22/2015 3:41:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:41:55 PM : cf289085_currentScreen-2015-05-22_03-41-50-PM.png
+5/22/2015 3:41:56 PM : Play band Hop
+5/22/2015 3:41:56 PM : Start Black Planet
+5/22/2015 3:41:56 PM : Clicking by template StartIcon.png
+5/22/2015 3:41:56 PM : Verfiying template StartIcon.png
+5/22/2015 3:41:56 PM : Accuracy is D=0.430365592241287
+5/22/2015 3:41:56 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:41:56 PM : verifying template Pause  Pause.png
+5/22/2015 3:41:56 PM : Verfiying template Pause.png
+5/22/2015 3:41:56 PM : Accuracy is D=0.999997913837433
+5/22/2015 3:41:56 PM : Template Pause.png is Verified. 
+5/22/2015 3:41:56 PM : Clicking by template Pause.png
+5/22/2015 3:41:56 PM : Verfiying template Pause.png
+5/22/2015 3:41:56 PM : Accuracy is D=0.999997913837433
+5/22/2015 3:41:56 PM : Template Pause.png is Verified. 
+5/22/2015 3:41:56 PM : Touching on  X=269, Y=877
+5/22/2015 3:41:56 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:42:03 PM : cf289085_currentScreen-2015-05-22_03-41-56-PM.png
+5/22/2015 3:42:03 PM : verifying template Menu  Menu.png
+5/22/2015 3:42:03 PM : Verfiying template Menu.png
+5/22/2015 3:42:03 PM : Accuracy is D=0.999814569950104
+5/22/2015 3:42:03 PM : Template Menu.png is Verified. 
+5/22/2015 3:42:03 PM : Clicking by template Menu.png
+5/22/2015 3:42:03 PM : Verfiying template Menu.png
+5/22/2015 3:42:03 PM : Accuracy is D=0.999814569950104
+5/22/2015 3:42:03 PM : Template Menu.png is Verified. 
+5/22/2015 3:42:03 PM : Touching on  X=448, Y=827
+5/22/2015 3:42:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:42:10 PM : cf289085_currentScreen-2015-05-22_03-42-03-PM.png
+5/22/2015 3:42:11 PM : Clicking by template Stations.png
+5/22/2015 3:42:11 PM : Verfiying template Stations.png
+5/22/2015 3:42:11 PM : Accuracy is D=0.999586343765259
+5/22/2015 3:42:11 PM : Template Stations.png is Verified. 
+5/22/2015 3:42:11 PM : Touching on  X=107, Y=572
+5/22/2015 3:42:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:42:17 PM : cf289085_currentScreen-2015-05-22_03-42-11-PM.png
+5/22/2015 3:42:18 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:42:33 PM : Clicking by template CloseAds.png
+5/22/2015 3:42:33 PM : Verfiying template CloseAds.png
+5/22/2015 3:42:33 PM : Accuracy is D=0.453186810016632
+5/22/2015 3:42:33 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:42:35 PM : Going Back to Home screen.
+5/22/2015 3:42:35 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:42:41 PM : cf289085_currentScreen-2015-05-22_03-42-35-PM.png
+5/22/2015 3:42:42 PM : Play band Rap
+5/22/2015 3:42:42 PM : Start Black Planet
+5/22/2015 3:42:42 PM : Clicking by template StartIcon.png
+5/22/2015 3:42:42 PM : Verfiying template StartIcon.png
+5/22/2015 3:42:42 PM : Accuracy is D=0.506417632102966
+5/22/2015 3:42:42 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:42:42 PM : verifying template Pause  Pause.png
+5/22/2015 3:42:42 PM : Verfiying template Pause.png
+5/22/2015 3:42:42 PM : Accuracy is D=0.503841817378998
+5/22/2015 3:42:42 PM : Template Pause.png is not Verified!
+5/22/2015 3:42:42 PM : verifying template Menu  Menu.png
+5/22/2015 3:42:42 PM : Verfiying template Menu.png
+5/22/2015 3:42:42 PM : Accuracy is D=0.999780535697937
+5/22/2015 3:42:42 PM : Template Menu.png is Verified. 
+5/22/2015 3:42:42 PM : Clicking by template Menu.png
+5/22/2015 3:42:42 PM : Verfiying template Menu.png
+5/22/2015 3:42:42 PM : Accuracy is D=0.999780535697937
+5/22/2015 3:42:42 PM : Template Menu.png is Verified. 
+5/22/2015 3:42:42 PM : Touching on  X=448, Y=827
+5/22/2015 3:42:42 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:42:49 PM : cf289085_currentScreen-2015-05-22_03-42-42-PM.png
+5/22/2015 3:42:50 PM : Clicking by template Stations.png
+5/22/2015 3:42:50 PM : Verfiying template Stations.png
+5/22/2015 3:42:50 PM : Accuracy is D=0.999574482440948
+5/22/2015 3:42:50 PM : Template Stations.png is Verified. 
+5/22/2015 3:42:50 PM : Touching on  X=107, Y=572
+5/22/2015 3:42:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:42:56 PM : cf289085_currentScreen-2015-05-22_03-42-50-PM.png
+5/22/2015 3:42:57 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:43:12 PM : Clicking by template CloseAds.png
+5/22/2015 3:43:12 PM : Verfiying template CloseAds.png
+5/22/2015 3:43:12 PM : Accuracy is D=0.453186810016632
+5/22/2015 3:43:12 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:43:14 PM : Going Back to Home screen.
+5/22/2015 3:43:14 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:43:20 PM : cf289085_currentScreen-2015-05-22_03-43-14-PM.png
+5/22/2015 3:43:20 PM : Play band Hop
+5/22/2015 3:43:20 PM : Start Black Planet
+5/22/2015 3:43:20 PM : Clicking by template StartIcon.png
+5/22/2015 3:43:20 PM : Verfiying template StartIcon.png
+5/22/2015 3:43:20 PM : Accuracy is D=0.466517239809036
+5/22/2015 3:43:20 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:43:20 PM : verifying template Pause  Pause.png
+5/22/2015 3:43:20 PM : Verfiying template Pause.png
+5/22/2015 3:43:20 PM : Accuracy is D=0.503841817378998
+5/22/2015 3:43:20 PM : Template Pause.png is not Verified!
+5/22/2015 3:43:20 PM : verifying template Menu  Menu.png
+5/22/2015 3:43:20 PM : Verfiying template Menu.png
+5/22/2015 3:43:20 PM : Accuracy is D=0.999778389930725
+5/22/2015 3:43:20 PM : Template Menu.png is Verified. 
+5/22/2015 3:43:20 PM : Clicking by template Menu.png
+5/22/2015 3:43:20 PM : Verfiying template Menu.png
+5/22/2015 3:43:21 PM : Accuracy is D=0.999778389930725
+5/22/2015 3:43:21 PM : Template Menu.png is Verified. 
+5/22/2015 3:43:21 PM : Touching on  X=448, Y=827
+5/22/2015 3:43:21 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:43:27 PM : cf289085_currentScreen-2015-05-22_03-43-21-PM.png
+5/22/2015 3:43:28 PM : Clicking by template Stations.png
+5/22/2015 3:43:28 PM : Verfiying template Stations.png
+5/22/2015 3:43:28 PM : Accuracy is D=0.999574482440948
+5/22/2015 3:43:28 PM : Template Stations.png is Verified. 
+5/22/2015 3:43:28 PM : Touching on  X=107, Y=572
+5/22/2015 3:43:28 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:43:34 PM : cf289085_currentScreen-2015-05-22_03-43-28-PM.png
+5/22/2015 3:43:35 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:43:50 PM : Clicking by template CloseAds.png
+5/22/2015 3:43:50 PM : Verfiying template CloseAds.png
+5/22/2015 3:43:50 PM : Accuracy is D=0.453186810016632
+5/22/2015 3:43:50 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:43:52 PM : Going Back to Home screen.
+5/22/2015 3:43:52 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:43:58 PM : cf289085_currentScreen-2015-05-22_03-43-52-PM.png
+5/22/2015 3:43:58 PM : Play band Rap
+5/22/2015 3:43:58 PM : Start Black Planet
+5/22/2015 3:43:58 PM : Clicking by template StartIcon.png
+5/22/2015 3:43:58 PM : Verfiying template StartIcon.png
+5/22/2015 3:43:58 PM : Accuracy is D=0.466022610664368
+5/22/2015 3:43:58 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:43:58 PM : verifying template Pause  Pause.png
+5/22/2015 3:43:58 PM : Verfiying template Pause.png
+5/22/2015 3:43:58 PM : Accuracy is D=0.503772914409637
+5/22/2015 3:43:58 PM : Template Pause.png is not Verified!
+5/22/2015 3:43:58 PM : verifying template Menu  Menu.png
+5/22/2015 3:43:58 PM : Verfiying template Menu.png
+5/22/2015 3:43:58 PM : Accuracy is D=0.999659359455109
+5/22/2015 3:43:58 PM : Template Menu.png is Verified. 
+5/22/2015 3:43:58 PM : Clicking by template Menu.png
+5/22/2015 3:43:58 PM : Verfiying template Menu.png
+5/22/2015 3:43:58 PM : Accuracy is D=0.999659359455109
+5/22/2015 3:43:58 PM : Template Menu.png is Verified. 
+5/22/2015 3:43:58 PM : Touching on  X=448, Y=827
+5/22/2015 3:43:58 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:44:05 PM : cf289085_currentScreen-2015-05-22_03-43-58-PM.png
+5/22/2015 3:44:05 PM : Clicking by template Stations.png
+5/22/2015 3:44:05 PM : Verfiying template Stations.png
+5/22/2015 3:44:05 PM : Accuracy is D=0.309406101703644
+5/22/2015 3:44:05 PM : Template Stations.png is not Verified!
+5/22/2015 3:44:05 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:44:20 PM : Clicking by template CloseAds.png
+5/22/2015 3:44:20 PM : Verfiying template CloseAds.png
+5/22/2015 3:44:21 PM : Accuracy is D=0.660863876342773
+5/22/2015 3:44:21 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:44:23 PM : Going Back to Home screen.
+5/22/2015 3:44:23 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:44:29 PM : cf289085_currentScreen-2015-05-22_03-44-23-PM.png
+5/22/2015 3:44:29 PM : Play band Hop
+5/22/2015 3:44:29 PM : Start Black Planet
+5/22/2015 3:44:29 PM : Clicking by template StartIcon.png
+5/22/2015 3:44:29 PM : Verfiying template StartIcon.png
+5/22/2015 3:44:29 PM : Accuracy is D=0.466021925210953
+5/22/2015 3:44:29 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:44:29 PM : verifying template Pause  Pause.png
+5/22/2015 3:44:29 PM : Verfiying template Pause.png
+5/22/2015 3:44:29 PM : Accuracy is D=0.503774642944336
+5/22/2015 3:44:29 PM : Template Pause.png is not Verified!
+5/22/2015 3:44:29 PM : verifying template Menu  Menu.png
+5/22/2015 3:44:29 PM : Verfiying template Menu.png
+5/22/2015 3:44:29 PM : Accuracy is D=0.999707400798798
+5/22/2015 3:44:29 PM : Template Menu.png is Verified. 
+5/22/2015 3:44:29 PM : Clicking by template Menu.png
+5/22/2015 3:44:29 PM : Verfiying template Menu.png
+5/22/2015 3:44:29 PM : Accuracy is D=0.999707400798798
+5/22/2015 3:44:29 PM : Template Menu.png is Verified. 
+5/22/2015 3:44:30 PM : Touching on  X=448, Y=827
+5/22/2015 3:44:30 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:44:36 PM : cf289085_currentScreen-2015-05-22_03-44-30-PM.png
+5/22/2015 3:44:36 PM : Clicking by template Stations.png
+5/22/2015 3:44:36 PM : Verfiying template Stations.png
+5/22/2015 3:44:36 PM : Accuracy is D=0.308013588190079
+5/22/2015 3:44:36 PM : Template Stations.png is not Verified!
+5/22/2015 3:44:36 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:44:51 PM : Clicking by template CloseAds.png
+5/22/2015 3:44:51 PM : Verfiying template CloseAds.png
+5/22/2015 3:44:52 PM : Accuracy is D=0.617681801319122
+5/22/2015 3:44:52 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:44:55 PM : Going Back to Home screen.
+5/22/2015 3:44:55 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:45:01 PM : cf289085_currentScreen-2015-05-22_03-44-55-PM.png
+5/22/2015 3:45:02 PM : Play band Rap
+5/22/2015 3:45:02 PM : Start Black Planet
+5/22/2015 3:45:02 PM : Clicking by template StartIcon.png
+5/22/2015 3:45:02 PM : Verfiying template StartIcon.png
+5/22/2015 3:45:02 PM : Accuracy is D=0.466021925210953
+5/22/2015 3:45:02 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:45:02 PM : verifying template Pause  Pause.png
+5/22/2015 3:45:02 PM : Verfiying template Pause.png
+5/22/2015 3:45:02 PM : Accuracy is D=0.503774642944336
+5/22/2015 3:45:02 PM : Template Pause.png is not Verified!
+5/22/2015 3:45:02 PM : verifying template Menu  Menu.png
+5/22/2015 3:45:02 PM : Verfiying template Menu.png
+5/22/2015 3:45:02 PM : Accuracy is D=0.999865055084229
+5/22/2015 3:45:02 PM : Template Menu.png is Verified. 
+5/22/2015 3:45:02 PM : Clicking by template Menu.png
+5/22/2015 3:45:02 PM : Verfiying template Menu.png
+5/22/2015 3:45:02 PM : Accuracy is D=0.999865055084229
+5/22/2015 3:45:02 PM : Template Menu.png is Verified. 
+5/22/2015 3:45:02 PM : Touching on  X=448, Y=827
+5/22/2015 3:45:02 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:45:08 PM : cf289085_currentScreen-2015-05-22_03-45-02-PM.png
+5/22/2015 3:45:09 PM : Clicking by template Stations.png
+5/22/2015 3:45:09 PM : Verfiying template Stations.png
+5/22/2015 3:45:09 PM : Accuracy is D=0.308712780475616
+5/22/2015 3:45:09 PM : Template Stations.png is not Verified!
+5/22/2015 3:45:09 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:45:24 PM : Clicking by template CloseAds.png
+5/22/2015 3:45:24 PM : Verfiying template CloseAds.png
+5/22/2015 3:45:24 PM : Accuracy is D=0.690228581428528
+5/22/2015 3:45:24 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:45:29 PM : Going Back to Home screen.
+5/22/2015 3:45:29 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:45:35 PM : cf289085_currentScreen-2015-05-22_03-45-29-PM.png
+5/22/2015 3:45:35 PM : Play band Hop
+5/22/2015 3:45:35 PM : Start Black Planet
+5/22/2015 3:45:35 PM : Clicking by template StartIcon.png
+5/22/2015 3:45:35 PM : Verfiying template StartIcon.png
+5/22/2015 3:45:35 PM : Accuracy is D=0.466022610664368
+5/22/2015 3:45:35 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:45:35 PM : verifying template Pause  Pause.png
+5/22/2015 3:45:35 PM : Verfiying template Pause.png
+5/22/2015 3:45:36 PM : Accuracy is D=0.503776371479034
+5/22/2015 3:45:36 PM : Template Pause.png is not Verified!
+5/22/2015 3:45:36 PM : verifying template Menu  Menu.png
+5/22/2015 3:45:36 PM : Verfiying template Menu.png
+5/22/2015 3:45:36 PM : Accuracy is D=0.999881982803345
+5/22/2015 3:45:36 PM : Template Menu.png is Verified. 
+5/22/2015 3:45:36 PM : Clicking by template Menu.png
+5/22/2015 3:45:36 PM : Verfiying template Menu.png
+5/22/2015 3:45:36 PM : Accuracy is D=0.999881982803345
+5/22/2015 3:45:36 PM : Template Menu.png is Verified. 
+5/22/2015 3:45:36 PM : Touching on  X=448, Y=827
+5/22/2015 3:45:36 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:45:42 PM : cf289085_currentScreen-2015-05-22_03-45-36-PM.png
+5/22/2015 3:45:43 PM : Clicking by template Stations.png
+5/22/2015 3:45:43 PM : Verfiying template Stations.png
+5/22/2015 3:45:43 PM : Accuracy is D=0.392373412847519
+5/22/2015 3:45:43 PM : Template Stations.png is not Verified!
+5/22/2015 3:45:43 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:45:58 PM : Clicking by template CloseAds.png
+5/22/2015 3:45:58 PM : Verfiying template CloseAds.png
+5/22/2015 3:45:58 PM : Accuracy is D=0.622042417526245
+5/22/2015 3:45:58 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:46:04 PM : Going Back to Home screen.
+5/22/2015 3:46:04 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:46:09 PM : cf289085_currentScreen-2015-05-22_03-46-04-PM.png
+5/22/2015 3:46:10 PM : Play band Rap
+5/22/2015 3:46:10 PM : Start Black Planet
+5/22/2015 3:46:10 PM : Clicking by template StartIcon.png
+5/22/2015 3:46:10 PM : Verfiying template StartIcon.png
+5/22/2015 3:46:10 PM : Accuracy is D=0.479864597320557
+5/22/2015 3:46:10 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:46:10 PM : verifying template Pause  Pause.png
+5/22/2015 3:46:10 PM : Verfiying template Pause.png
+5/22/2015 3:46:10 PM : Accuracy is D=0.512236177921295
+5/22/2015 3:46:10 PM : Template Pause.png is not Verified!
+5/22/2015 3:46:10 PM : verifying template Menu  Menu.png
+5/22/2015 3:46:10 PM : Verfiying template Menu.png
+5/22/2015 3:46:10 PM : Accuracy is D=0.999810218811035
+5/22/2015 3:46:10 PM : Template Menu.png is Verified. 
+5/22/2015 3:46:10 PM : Clicking by template Menu.png
+5/22/2015 3:46:10 PM : Verfiying template Menu.png
+5/22/2015 3:46:11 PM : Accuracy is D=0.999810218811035
+5/22/2015 3:46:11 PM : Template Menu.png is Verified. 
+5/22/2015 3:46:11 PM : Touching on  X=448, Y=827
+5/22/2015 3:46:11 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:46:17 PM : cf289085_currentScreen-2015-05-22_03-46-11-PM.png
+5/22/2015 3:46:18 PM : Clicking by template Stations.png
+5/22/2015 3:46:18 PM : Verfiying template Stations.png
+5/22/2015 3:46:18 PM : Accuracy is D=0.999586820602417
+5/22/2015 3:46:18 PM : Template Stations.png is Verified. 
+5/22/2015 3:46:18 PM : Touching on  X=107, Y=572
+5/22/2015 3:46:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:46:24 PM : cf289085_currentScreen-2015-05-22_03-46-18-PM.png
+5/22/2015 3:46:25 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:46:40 PM : Clicking by template CloseAds.png
+5/22/2015 3:46:40 PM : Verfiying template CloseAds.png
+5/22/2015 3:46:40 PM : Accuracy is D=0.453186810016632
+5/22/2015 3:46:40 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:46:42 PM : Going Back to Home screen.
+5/22/2015 3:46:42 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:46:48 PM : cf289085_currentScreen-2015-05-22_03-46-42-PM.png
+5/22/2015 3:46:48 PM : Play band Hop
+5/22/2015 3:46:48 PM : Start Black Planet
+5/22/2015 3:46:48 PM : Clicking by template StartIcon.png
+5/22/2015 3:46:48 PM : Verfiying template StartIcon.png
+5/22/2015 3:46:49 PM : Accuracy is D=0.466516703367233
+5/22/2015 3:46:49 PM : Template StartIcon.png is not Verified!
+5/22/2015 3:46:49 PM : verifying template Pause  Pause.png
+5/22/2015 3:46:49 PM : Verfiying template Pause.png
+5/22/2015 3:46:49 PM : Accuracy is D=0.530625998973846
+5/22/2015 3:46:49 PM : Template Pause.png is not Verified!
+5/22/2015 3:46:49 PM : verifying template Menu  Menu.png
+5/22/2015 3:46:49 PM : Verfiying template Menu.png
+5/22/2015 3:46:49 PM : Accuracy is D=0.999769032001495
+5/22/2015 3:46:49 PM : Template Menu.png is Verified. 
+5/22/2015 3:46:49 PM : Clicking by template Menu.png
+5/22/2015 3:46:49 PM : Verfiying template Menu.png
+5/22/2015 3:46:49 PM : Accuracy is D=0.999769032001495
+5/22/2015 3:46:49 PM : Template Menu.png is Verified. 
+5/22/2015 3:46:49 PM : Touching on  X=448, Y=827
+5/22/2015 3:46:49 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:46:56 PM : cf289085_currentScreen-2015-05-22_03-46-49-PM.png
+5/22/2015 3:46:56 PM : Clicking by template Stations.png
+5/22/2015 3:46:56 PM : Verfiying template Stations.png
+5/22/2015 3:46:56 PM : Accuracy is D=0.999631524085999
+5/22/2015 3:46:56 PM : Template Stations.png is Verified. 
+5/22/2015 3:46:56 PM : Touching on  X=107, Y=572
+5/22/2015 3:46:56 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:47:03 PM : cf289085_currentScreen-2015-05-22_03-46-56-PM.png
+5/22/2015 3:47:03 PM : Waitting 15 for seconds for the Genere to load
+5/22/2015 3:47:18 PM : Clicking by template CloseAds.png
+5/22/2015 3:47:18 PM : Verfiying template CloseAds.png
+5/22/2015 3:47:18 PM : Accuracy is D=0.453186810016632
+5/22/2015 3:47:18 PM : Template CloseAds.png is not Verified!
+5/22/2015 3:47:20 PM : Test ended  after 00:07:33
+5/22/2015 3:47:20 PM : Going Back to Home screen.
+5/22/2015 3:47:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:47:26 PM : cf289085_currentScreen-2015-05-22_03-47-20-PM.png
+5/22/2015 3:47:27 PM : Going Back to Home screen.
+5/22/2015 3:47:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:47:32 PM : cf289085_currentScreen-2015-05-22_03-47-27-PM.png
+5/22/2015 3:47:33 PM : Clicking by template DialerIconStart.png
+5/22/2015 3:47:33 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:47:33 PM : Accuracy is D=0.548202991485596
+5/22/2015 3:47:33 PM : Template DialerIconStart.png is not Verified!
+5/22/2015 3:47:33 PM : typing #932#
+5/22/2015 3:47:33 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:47:40 PM : cf289085_currentScreen-2015-05-22_03-47-33-PM.png
+5/22/2015 3:47:40 PM : Clicking by template DialerIconCall.png
+5/22/2015 3:47:40 PM : Verfiying template DialerIconCall.png
+5/22/2015 3:47:41 PM : Accuracy is D=0.373032063245773
+5/22/2015 3:47:41 PM : Template DialerIconCall.png is not Verified!
+5/22/2015 3:47:41 PM : Wait 10 seconds to get the datausage message
+5/22/2015 3:47:51 PM : Taking screen shot...
+5/22/2015 3:47:51 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:47:56 PM : cf289085_currentScreen-2015-05-22_03-47-51-PM.png
+5/22/2015 3:48:00 PM : Clicking by template ok
+5/22/2015 3:48:00 PM : Verfiying template ok
+5/22/2015 3:48:03 PM : Template ok is not Verified!
+5/22/2015 3:48:03 PM : Going Back to Home screen.
+5/22/2015 3:48:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:09 PM : cf289085_currentScreen-2015-05-22_03-48-03-PM.png
+5/22/2015 3:48:09 PM : verifying template DialerIconStart  DialerIconStart.png
+5/22/2015 3:48:09 PM : Verfiying template DialerIconStart.png
+5/22/2015 3:48:09 PM : Accuracy is D=0.492214769124985
+5/22/2015 3:48:09 PM : Template DialerIconStart.png is not Verified!
+5/22/2015 3:48:09 PM : Stop TCPDump
+5/22/2015 3:48:09 PM : typing *#9900#
+5/22/2015 3:48:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:17 PM : cf289085_currentScreen-2015-05-22_03-48-09-PM.png
+5/22/2015 3:48:18 PM : Taking screen shot...
+5/22/2015 3:48:18 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:23 PM : cf289085_currentScreen-2015-05-22_03-48-18-PM.png
+5/22/2015 3:48:24 PM : Scrolling two page down..
+5/22/2015 3:48:24 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:30 PM : cf289085_currentScreen-2015-05-22_03-48-24-PM.png
+5/22/2015 3:48:30 PM : Taking screen shot...
+5/22/2015 3:48:31 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:36 PM : cf289085_currentScreen-2015-05-22_03-48-31-PM.png
+5/22/2015 3:48:37 PM : Clicking by template TCPDUMPSTOP.png
+5/22/2015 3:48:37 PM : Verfiying template TCPDUMPSTOP.png
+5/22/2015 3:48:37 PM : Accuracy is D=0.266879886388779
+5/22/2015 3:48:37 PM : Template TCPDUMPSTOP.png is not Verified!
+5/22/2015 3:48:37 PM : Clicking by template TCPDUMPSTOP_OK.png
+5/22/2015 3:48:37 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:48:37 PM : Accuracy is D=0.399433255195618
+5/22/2015 3:48:37 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:48:37 PM : Scrolling  one page UP..
+5/22/2015 3:48:37 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:43 PM : cf289085_currentScreen-2015-05-22_03-48-37-PM.png
+5/22/2015 3:48:43 PM : Scrolling  one page UP..
+5/22/2015 3:48:43 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:49 PM : cf289085_currentScreen-2015-05-22_03-48-43-PM.png
+5/22/2015 3:48:50 PM : Scrolling  one page UP..
+5/22/2015 3:48:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:48:56 PM : cf289085_currentScreen-2015-05-22_03-48-50-PM.png
+5/22/2015 3:48:56 PM : Clicking by template TCPDUMPSTATE.png
+5/22/2015 3:48:56 PM : Verfiying template TCPDUMPSTATE.png
+5/22/2015 3:48:56 PM : Accuracy is D=0.303538203239441
+5/22/2015 3:48:56 PM : Template TCPDUMPSTATE.png is not Verified!
+5/22/2015 3:48:56 PM : Wait 10 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+5/22/2015 3:48:56 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:48:56 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:48:57 PM : Accuracy is D=0.494862973690033
+5/22/2015 3:48:57 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:48:57 PM : Taking screen shot...
+5/22/2015 3:48:57 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:49:02 PM : cf289085_currentScreen-2015-05-22_03-48-57-PM.png
+5/22/2015 3:50:03 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:50:03 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:50:03 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:50:03 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:50:03 PM : Taking screen shot...
+5/22/2015 3:50:03 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:50:08 PM : cf289085_currentScreen-2015-05-22_03-50-03-PM.png
+5/22/2015 3:51:09 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:51:09 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:51:09 PM : Accuracy is D=0.494759082794189
+5/22/2015 3:51:09 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:51:09 PM : Taking screen shot...
+5/22/2015 3:51:09 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:51:14 PM : cf289085_currentScreen-2015-05-22_03-51-09-PM.png
+5/22/2015 3:52:14 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:52:14 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:52:15 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:52:15 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:52:15 PM : Taking screen shot...
+5/22/2015 3:52:15 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:52:20 PM : cf289085_currentScreen-2015-05-22_03-52-15-PM.png
+5/22/2015 3:53:20 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:53:20 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:53:20 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:53:20 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:53:20 PM : Taking screen shot...
+5/22/2015 3:53:20 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:53:26 PM : cf289085_currentScreen-2015-05-22_03-53-20-PM.png
+5/22/2015 3:54:26 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:54:26 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:54:27 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:54:27 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:54:27 PM : Taking screen shot...
+5/22/2015 3:54:27 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:54:32 PM : cf289085_currentScreen-2015-05-22_03-54-27-PM.png
+5/22/2015 3:55:32 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:55:32 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:55:32 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:55:32 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:55:32 PM : Taking screen shot...
+5/22/2015 3:55:32 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:55:38 PM : cf289085_currentScreen-2015-05-22_03-55-32-PM.png
+5/22/2015 3:56:38 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:56:38 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:56:38 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:56:38 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:56:38 PM : Taking screen shot...
+5/22/2015 3:56:38 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:56:44 PM : cf289085_currentScreen-2015-05-22_03-56-38-PM.png
+5/22/2015 3:57:44 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:57:44 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:57:44 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:57:44 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:57:44 PM : Taking screen shot...
+5/22/2015 3:57:44 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:57:50 PM : cf289085_currentScreen-2015-05-22_03-57-44-PM.png
+5/22/2015 3:58:50 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+5/22/2015 3:58:50 PM : Verfiying template TCPDUMPSTOP_OK.png
+5/22/2015 3:58:50 PM : Accuracy is D=0.447510689496994
+5/22/2015 3:58:50 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+5/22/2015 3:58:50 PM : Taking screen shot...
+5/22/2015 3:58:50 PM : System.Diagnostics.ProcessStartInfo
+5/22/2015 3:58:56 PM : cf289085_currentScreen-2015-05-22_03-58-50-PM.png

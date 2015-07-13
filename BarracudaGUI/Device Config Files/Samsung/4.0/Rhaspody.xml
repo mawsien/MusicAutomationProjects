@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <MatchTemplates>
+  <Template  Name="Play" Template="Play.png" Index="1"  Accuracy="0.7">
+  </Template>
+  <Template  Name="Pause" Template="Pause.png" Index="1"  Accuracy="0.7">
+  </Template>
+
+<Template  Name="SearchMusic" Template="SearchMusic.png" Index="1"  Accuracy="0.8">
+  </Template>
+
+<Template  Name="StartIcon" Template="StartIcon.png" Index="1"  Accuracy="0.8">
+  </Template>
+
+<Template  Name="TCPDUMPSTART" Template="TCPDUMPSTART.png" Index="1"  Accuracy="0.8">
+  </Template>
+
+<Template  Name="TCPDUMPSTART_ANY" Template="TCPDUMPSTART_ANY.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTART_OK" Template="TCPDUMPSTART_OK.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTOP" Template="TCPDUMPSTOP.png" Index="1"  Accuracy="0.95">
+  </Template>
+<Template  Name="TCPDUMPSTOP_OK" Template="TCPDUMPSTOP_OK.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTATE" Template="TCPDUMPSTATE.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPTOSDCARD" Template="TCPDUMPTOSDCARD.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="DialerIconCall" Template="DialerIconCall.png" Index="1"  Accuracy="0.95">
+  </Template>
+<Template  Name="WEB_OK" Template="WEB_OK.png" Index="1"  Accuracy="0.95">
+  </Template>
+  </MatchTemplates>
+</Root>
+
+

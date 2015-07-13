@@ -1,0 +1,1 @@
+﻿0,14252138846,D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\Device Config Files\Samsung\4.0\Galaxy SII.xml,D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\ImageFiles\Samsung\4.0\Samsung\

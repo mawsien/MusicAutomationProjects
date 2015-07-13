@@ -1,0 +1,1270 @@
+7/13/2015 9:05:44 AM : ******************Start TestCase 0.1******************
+7/13/2015 9:05:44 AM : Delete Logs and restart device
+7/13/2015 9:05:44 AM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+7/13/2015 9:05:44 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:05:54 AM : Going Back to Home screen.
+7/13/2015 9:05:54 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:06:04 AM : 1b217014_currentScreen-2015-07-13_09-05-54-AM.png
+7/13/2015 9:06:04 AM : Going Back to Home screen.
+7/13/2015 9:06:05 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:06:12 AM : 1b217014_currentScreen-2015-07-13_09-06-05-AM.png
+7/13/2015 9:06:13 AM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/13/2015 9:06:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:06:14 AM : ************************End TestCase 0.1************************
+7/13/2015 9:07:10 AM : ******************Start TestCase 0.1******************
+7/13/2015 9:07:10 AM : Delete Logs and restart device
+7/13/2015 9:07:10 AM : Delete sdcard/log file  -s 1b217014 shell rm -r /sdcard/log
+7/13/2015 9:07:10 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:07:20 AM : Going Back to Home screen.
+7/13/2015 9:07:20 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:07:27 AM : 1b217014_currentScreen-2015-07-13_09-07-20-AM.png
+7/13/2015 9:07:28 AM : Going Back to Home screen.
+7/13/2015 9:07:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:07:35 AM : 1b217014_currentScreen-2015-07-13_09-07-28-AM.png
+7/13/2015 9:07:35 AM : DialerIconStart key is not found
+The given key was not present in the dictionary.
+7/13/2015 9:07:36 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:07:36 AM : ************************End TestCase 0.1************************
+7/13/2015 9:07:59 AM : White list path C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 9:07:59 AM : Whitelist analysis argument C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 9:11:52 AM : ******************Start TestCase 0.1******************
+7/13/2015 9:11:52 AM : Going Back to Home screen.
+7/13/2015 9:11:52 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:11:59 AM : 1b217014_currentScreen-2015-07-13_09-11-52-AM.png
+7/13/2015 9:12:00 AM : Play band rihanna
+7/13/2015 9:12:00 AM : Start music service
+7/13/2015 9:12:00 AM : Clicking by template StartIcon.png
+7/13/2015 9:12:00 AM : Verfiying template StartIcon.png
+7/13/2015 9:12:00 AM : Accuracy is D=0.999986231327057
+7/13/2015 9:12:00 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:12:00 AM : Touching on  X=201, Y=98
+7/13/2015 9:12:00 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:12:08 AM : 1b217014_currentScreen-2015-07-13_09-12-00-AM.png
+7/13/2015 9:12:08 AM : Clicking by template MenuLines.png
+7/13/2015 9:12:09 AM : Verfiying template MenuLines.png
+7/13/2015 9:12:09 AM : Accuracy is D=0.498195230960846
+7/13/2015 9:12:09 AM : Template MenuLines.png is not Verified!
+7/13/2015 9:12:09 AM : Clicking by template SearchMusic.png
+7/13/2015 9:12:09 AM : Verfiying template SearchMusic.png
+7/13/2015 9:12:09 AM : Accuracy is D=0.181251212954521
+7/13/2015 9:12:09 AM : Template SearchMusic.png is not Verified!
+7/13/2015 9:12:09 AM : typing rihanna
+7/13/2015 9:12:09 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:12:22 AM : 1b217014_currentScreen-2015-07-13_09-12-09-AM.png
+7/13/2015 9:12:28 AM : Taking screen shot...
+7/13/2015 9:12:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:12:34 AM : 1b217014_currentScreen-2015-07-13_09-12-28-AM.png
+7/13/2015 9:12:35 AM : Clicking by template rihanna
+7/13/2015 9:12:35 AM : Verfiying template rihanna
+7/13/2015 9:12:38 AM : Template rihanna is not Verified!
+7/13/2015 9:12:38 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:12:38 AM : Object reference not set to an instance of an object.
+7/13/2015 9:12:38 AM : Verfiying template SufflePlay.png
+7/13/2015 9:12:38 AM : Accuracy is D=0.281030863523483
+7/13/2015 9:12:38 AM : Template SufflePlay.png is not Verified!
+7/13/2015 9:12:38 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 9:13:13 AM : Taking screen shot...
+7/13/2015 9:13:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:13:20 AM : 1b217014_currentScreen-2015-07-13_09-13-13-AM.png
+7/13/2015 9:13:20 AM : Checking if music service Playing
+7/13/2015 9:13:21 AM : Taking screen shot...
+7/13/2015 9:13:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:13:27 AM : 1b217014_currentScreen-2015-07-13_09-13-21-AM.png
+7/13/2015 9:13:28 AM : verifying template Pause  Pause.png
+7/13/2015 9:13:28 AM : Object reference not set to an instance of an object.
+7/13/2015 9:13:28 AM : Verfiying template Pause.png
+7/13/2015 9:13:28 AM : Accuracy is D=0.331951111555099
+7/13/2015 9:13:28 AM : Template Pause.png is not Verified!
+7/13/2015 9:13:28 AM : Music is not detected
+7/13/2015 9:13:28 AM : Going Back to Home screen.
+7/13/2015 9:13:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:13:35 AM : 1b217014_currentScreen-2015-07-13_09-13-28-AM.png
+7/13/2015 9:13:35 AM : Will play another band
+7/13/2015 9:13:36 AM : Going Back to Home screen.
+7/13/2015 9:13:36 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:13:43 AM : 1b217014_currentScreen-2015-07-13_09-13-36-AM.png
+7/13/2015 9:13:43 AM : Play band madonna
+7/13/2015 9:13:44 AM : Start music service
+7/13/2015 9:13:44 AM : Clicking by template StartIcon.png
+7/13/2015 9:13:44 AM : Verfiying template StartIcon.png
+7/13/2015 9:13:44 AM : Accuracy is D=0.347405552864075
+7/13/2015 9:13:44 AM : Template StartIcon.png is not Verified!
+7/13/2015 9:13:44 AM : Clicking by template MenuLines.png
+7/13/2015 9:13:44 AM : Verfiying template MenuLines.png
+7/13/2015 9:13:44 AM : Accuracy is D=0.999999761581421
+7/13/2015 9:13:44 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:13:44 AM : Touching on  X=43, Y=73
+7/13/2015 9:13:44 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:13:52 AM : 1b217014_currentScreen-2015-07-13_09-13-44-AM.png
+7/13/2015 9:13:52 AM : Clicking by template SearchMusic.png
+7/13/2015 9:13:53 AM : Verfiying template SearchMusic.png
+7/13/2015 9:13:53 AM : Accuracy is D=0.999993860721588
+7/13/2015 9:13:53 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:13:53 AM : Touching on  X=123, Y=151
+7/13/2015 9:13:53 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:14:00 AM : 1b217014_currentScreen-2015-07-13_09-13-53-AM.png
+7/13/2015 9:14:01 AM : typing madonna
+7/13/2015 9:14:01 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:14:15 AM : 1b217014_currentScreen-2015-07-13_09-14-01-AM.png
+7/13/2015 9:14:20 AM : Taking screen shot...
+7/13/2015 9:14:20 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:14:27 AM : 1b217014_currentScreen-2015-07-13_09-14-20-AM.png
+7/13/2015 9:14:27 AM : Clicking by template madonna
+7/13/2015 9:14:28 AM : Verfiying template madonna
+7/13/2015 9:14:28 AM : Template madonna is Verified. 
+7/13/2015 9:14:28 AM : Touching on  X=82, Y=599
+7/13/2015 9:14:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:14:35 AM : 1b217014_currentScreen-2015-07-13_09-14-28-AM.png
+7/13/2015 9:14:36 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:14:36 AM : Object reference not set to an instance of an object.
+7/13/2015 9:14:36 AM : Verfiying template SufflePlay.png
+7/13/2015 9:14:37 AM : Accuracy is D=0.292843192815781
+7/13/2015 9:14:37 AM : Template SufflePlay.png is not Verified!
+7/13/2015 9:14:37 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 9:15:12 AM : Taking screen shot...
+7/13/2015 9:15:12 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:15:18 AM : 1b217014_currentScreen-2015-07-13_09-15-12-AM.png
+7/13/2015 9:15:18 AM : Checking if music service Playing
+7/13/2015 9:15:19 AM : Taking screen shot...
+7/13/2015 9:15:19 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:15:25 AM : 1b217014_currentScreen-2015-07-13_09-15-19-AM.png
+7/13/2015 9:15:26 AM : verifying template Pause  Pause.png
+7/13/2015 9:15:26 AM : Object reference not set to an instance of an object.
+7/13/2015 9:15:26 AM : Verfiying template Pause.png
+7/13/2015 9:15:27 AM : Accuracy is D=0.364513367414474
+7/13/2015 9:15:27 AM : Template Pause.png is not Verified!
+7/13/2015 9:15:27 AM : Music is not detected
+7/13/2015 9:15:27 AM : Going Back to Home screen.
+7/13/2015 9:15:27 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:15:34 AM : 1b217014_currentScreen-2015-07-13_09-15-27-AM.png
+7/13/2015 9:15:35 AM : Will play another band
+7/13/2015 9:15:35 AM : Going Back to Home screen.
+7/13/2015 9:15:35 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:15:42 AM : 1b217014_currentScreen-2015-07-13_09-15-35-AM.png
+7/13/2015 9:15:42 AM : Play band nirvana
+7/13/2015 9:15:43 AM : Start music service
+7/13/2015 9:15:43 AM : Clicking by template StartIcon.png
+7/13/2015 9:15:43 AM : Verfiying template StartIcon.png
+7/13/2015 9:15:43 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:15:43 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:15:43 AM : Touching on  X=201, Y=98
+7/13/2015 9:15:43 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:15:50 AM : 1b217014_currentScreen-2015-07-13_09-15-43-AM.png
+7/13/2015 9:15:51 AM : Clicking by template MenuLines.png
+7/13/2015 9:15:52 AM : Verfiying template MenuLines.png
+7/13/2015 9:15:52 AM : Accuracy is D=0.99999988079071
+7/13/2015 9:15:52 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:15:52 AM : Touching on  X=43, Y=73
+7/13/2015 9:15:52 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:15:59 AM : 1b217014_currentScreen-2015-07-13_09-15-52-AM.png
+7/13/2015 9:16:00 AM : Clicking by template SearchMusic.png
+7/13/2015 9:16:00 AM : Verfiying template SearchMusic.png
+7/13/2015 9:16:00 AM : Accuracy is D=0.999999940395355
+7/13/2015 9:16:00 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:16:00 AM : Touching on  X=123, Y=151
+7/13/2015 9:16:00 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:16:08 AM : 1b217014_currentScreen-2015-07-13_09-16-00-AM.png
+7/13/2015 9:16:08 AM : typing nirvana
+7/13/2015 9:16:09 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:16:22 AM : 1b217014_currentScreen-2015-07-13_09-16-09-AM.png
+7/13/2015 9:16:28 AM : Taking screen shot...
+7/13/2015 9:16:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:16:34 AM : 1b217014_currentScreen-2015-07-13_09-16-28-AM.png
+7/13/2015 9:16:35 AM : Clicking by template nirvana
+7/13/2015 9:16:35 AM : Verfiying template nirvana
+7/13/2015 9:16:38 AM : Template nirvana is not Verified!
+7/13/2015 9:16:38 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:16:38 AM : Object reference not set to an instance of an object.
+7/13/2015 9:16:38 AM : Verfiying template SufflePlay.png
+7/13/2015 9:16:38 AM : Accuracy is D=1
+7/13/2015 9:16:38 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:16:38 AM : Clicking by template SufflePlay.png
+7/13/2015 9:16:38 AM : Verfiying template SufflePlay.png
+7/13/2015 9:16:38 AM : Accuracy is D=1
+7/13/2015 9:16:38 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:16:38 AM : Touching on  X=276, Y=583
+7/13/2015 9:16:38 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:16:45 AM : 1b217014_currentScreen-2015-07-13_09-16-38-AM.png
+7/13/2015 9:16:46 AM : Waitting 35 for nirvana to play and skip and ads
+7/13/2015 9:17:21 AM : Taking screen shot...
+7/13/2015 9:17:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:17:28 AM : 1b217014_currentScreen-2015-07-13_09-17-21-AM.png
+7/13/2015 9:17:28 AM : Checking if music service Playing
+7/13/2015 9:17:29 AM : Taking screen shot...
+7/13/2015 9:17:29 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:17:35 AM : 1b217014_currentScreen-2015-07-13_09-17-29-AM.png
+7/13/2015 9:17:36 AM : verifying template Pause  Pause.png
+7/13/2015 9:17:36 AM : Object reference not set to an instance of an object.
+7/13/2015 9:17:36 AM : Verfiying template Pause.png
+7/13/2015 9:17:36 AM : Accuracy is D=0.324026703834534
+7/13/2015 9:17:36 AM : Template Pause.png is not Verified!
+7/13/2015 9:17:36 AM : Music is not detected
+7/13/2015 9:17:36 AM : Going Back to Home screen.
+7/13/2015 9:17:37 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:17:44 AM : 1b217014_currentScreen-2015-07-13_09-17-37-AM.png
+7/13/2015 9:17:45 AM : Will play another band
+7/13/2015 9:17:45 AM : Going Back to Home screen.
+7/13/2015 9:17:45 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:17:52 AM : 1b217014_currentScreen-2015-07-13_09-17-45-AM.png
+7/13/2015 9:17:52 AM : Play band rihanna
+7/13/2015 9:17:53 AM : Start music service
+7/13/2015 9:17:53 AM : Clicking by template StartIcon.png
+7/13/2015 9:17:53 AM : Verfiying template StartIcon.png
+7/13/2015 9:17:53 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:17:53 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:17:53 AM : Touching on  X=201, Y=98
+7/13/2015 9:17:53 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:18:00 AM : 1b217014_currentScreen-2015-07-13_09-17-53-AM.png
+7/13/2015 9:18:01 AM : Clicking by template MenuLines.png
+7/13/2015 9:18:01 AM : Verfiying template MenuLines.png
+7/13/2015 9:18:01 AM : Accuracy is D=0.99999988079071
+7/13/2015 9:18:01 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:18:01 AM : Touching on  X=43, Y=73
+7/13/2015 9:18:01 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:18:09 AM : 1b217014_currentScreen-2015-07-13_09-18-01-AM.png
+7/13/2015 9:18:09 AM : Clicking by template SearchMusic.png
+7/13/2015 9:18:10 AM : Verfiying template SearchMusic.png
+7/13/2015 9:18:10 AM : Accuracy is D=0.999999761581421
+7/13/2015 9:18:10 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:18:10 AM : Touching on  X=123, Y=151
+7/13/2015 9:18:10 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:18:17 AM : 1b217014_currentScreen-2015-07-13_09-18-10-AM.png
+7/13/2015 9:18:18 AM : typing rihanna
+7/13/2015 9:18:18 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:18:32 AM : 1b217014_currentScreen-2015-07-13_09-18-18-AM.png
+7/13/2015 9:18:37 AM : Taking screen shot...
+7/13/2015 9:18:37 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:18:44 AM : 1b217014_currentScreen-2015-07-13_09-18-37-AM.png
+7/13/2015 9:18:44 AM : Clicking by template rihanna
+7/13/2015 9:18:45 AM : Verfiying template rihanna
+7/13/2015 9:18:47 AM : Template rihanna is not Verified!
+7/13/2015 9:18:47 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:18:47 AM : Object reference not set to an instance of an object.
+7/13/2015 9:18:47 AM : Verfiying template SufflePlay.png
+7/13/2015 9:18:48 AM : Accuracy is D=0.999999225139618
+7/13/2015 9:18:48 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:18:48 AM : Clicking by template SufflePlay.png
+7/13/2015 9:18:48 AM : Verfiying template SufflePlay.png
+7/13/2015 9:18:48 AM : Accuracy is D=0.999999225139618
+7/13/2015 9:18:48 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:18:48 AM : Touching on  X=276, Y=583
+7/13/2015 9:18:48 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:18:55 AM : 1b217014_currentScreen-2015-07-13_09-18-48-AM.png
+7/13/2015 9:18:56 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 9:19:31 AM : Taking screen shot...
+7/13/2015 9:19:31 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:19:38 AM : 1b217014_currentScreen-2015-07-13_09-19-31-AM.png
+7/13/2015 9:19:38 AM : Checking if music service Playing
+7/13/2015 9:19:39 AM : Taking screen shot...
+7/13/2015 9:19:39 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:19:45 AM : 1b217014_currentScreen-2015-07-13_09-19-39-AM.png
+7/13/2015 9:19:46 AM : verifying template Pause  Pause.png
+7/13/2015 9:19:46 AM : Object reference not set to an instance of an object.
+7/13/2015 9:19:46 AM : Verfiying template Pause.png
+7/13/2015 9:19:46 AM : Accuracy is D=0.391219228506088
+7/13/2015 9:19:46 AM : Template Pause.png is not Verified!
+7/13/2015 9:19:46 AM : Music is not detected
+7/13/2015 9:19:46 AM : Going Back to Home screen.
+7/13/2015 9:19:46 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:19:54 AM : 1b217014_currentScreen-2015-07-13_09-19-46-AM.png
+7/13/2015 9:19:54 AM : Will play another band
+7/13/2015 9:19:55 AM : Going Back to Home screen.
+7/13/2015 9:19:55 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:20:02 AM : 1b217014_currentScreen-2015-07-13_09-19-55-AM.png
+7/13/2015 9:20:02 AM : Play band madonna
+7/13/2015 9:20:03 AM : Start music service
+7/13/2015 9:20:03 AM : Clicking by template StartIcon.png
+7/13/2015 9:20:03 AM : Verfiying template StartIcon.png
+7/13/2015 9:20:03 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:20:03 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:20:03 AM : Touching on  X=201, Y=98
+7/13/2015 9:20:03 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:20:10 AM : 1b217014_currentScreen-2015-07-13_09-20-03-AM.png
+7/13/2015 9:20:11 AM : Clicking by template MenuLines.png
+7/13/2015 9:20:11 AM : Verfiying template MenuLines.png
+7/13/2015 9:20:11 AM : Accuracy is D=0.99999988079071
+7/13/2015 9:20:11 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:20:11 AM : Touching on  X=43, Y=73
+7/13/2015 9:20:11 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:20:19 AM : 1b217014_currentScreen-2015-07-13_09-20-11-AM.png
+7/13/2015 9:20:19 AM : Clicking by template SearchMusic.png
+7/13/2015 9:20:20 AM : Verfiying template SearchMusic.png
+7/13/2015 9:20:20 AM : Accuracy is D=0.999999761581421
+7/13/2015 9:20:20 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:20:20 AM : Touching on  X=123, Y=151
+7/13/2015 9:20:20 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:20:27 AM : 1b217014_currentScreen-2015-07-13_09-20-20-AM.png
+7/13/2015 9:20:28 AM : typing madonna
+7/13/2015 9:20:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:20:42 AM : 1b217014_currentScreen-2015-07-13_09-20-28-AM.png
+7/13/2015 9:20:47 AM : Taking screen shot...
+7/13/2015 9:20:47 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:20:54 AM : 1b217014_currentScreen-2015-07-13_09-20-47-AM.png
+7/13/2015 9:20:54 AM : Clicking by template madonna
+7/13/2015 9:20:55 AM : Verfiying template madonna
+7/13/2015 9:20:57 AM : Template madonna is not Verified!
+7/13/2015 9:20:57 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:20:57 AM : Object reference not set to an instance of an object.
+7/13/2015 9:20:57 AM : Verfiying template SufflePlay.png
+7/13/2015 9:20:57 AM : Accuracy is D=0.999999821186066
+7/13/2015 9:20:57 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:20:57 AM : Clicking by template SufflePlay.png
+7/13/2015 9:20:57 AM : Verfiying template SufflePlay.png
+7/13/2015 9:20:57 AM : Accuracy is D=0.999999821186066
+7/13/2015 9:20:57 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:20:57 AM : Touching on  X=276, Y=583
+7/13/2015 9:20:57 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:21:05 AM : 1b217014_currentScreen-2015-07-13_09-20-57-AM.png
+7/13/2015 9:21:05 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 9:21:41 AM : Taking screen shot...
+7/13/2015 9:21:41 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:21:47 AM : 1b217014_currentScreen-2015-07-13_09-21-41-AM.png
+7/13/2015 9:21:47 AM : Checking if music service Playing
+7/13/2015 9:21:48 AM : Taking screen shot...
+7/13/2015 9:21:48 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:21:54 AM : 1b217014_currentScreen-2015-07-13_09-21-48-AM.png
+7/13/2015 9:21:55 AM : verifying template Pause  Pause.png
+7/13/2015 9:21:55 AM : Object reference not set to an instance of an object.
+7/13/2015 9:21:55 AM : Verfiying template Pause.png
+7/13/2015 9:21:56 AM : Accuracy is D=0.364513367414474
+7/13/2015 9:21:56 AM : Template Pause.png is not Verified!
+7/13/2015 9:21:56 AM : Music is not detected
+7/13/2015 9:21:56 AM : Going Back to Home screen.
+7/13/2015 9:21:56 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:22:03 AM : 1b217014_currentScreen-2015-07-13_09-21-56-AM.png
+7/13/2015 9:22:04 AM : Will play another band
+7/13/2015 9:22:04 AM : Going Back to Home screen.
+7/13/2015 9:22:04 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:22:11 AM : 1b217014_currentScreen-2015-07-13_09-22-04-AM.png
+7/13/2015 9:22:11 AM : Play band nirvana
+7/13/2015 9:22:12 AM : Start music service
+7/13/2015 9:22:12 AM : Clicking by template StartIcon.png
+7/13/2015 9:22:12 AM : Verfiying template StartIcon.png
+7/13/2015 9:22:12 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:22:12 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:22:12 AM : Touching on  X=201, Y=98
+7/13/2015 9:22:12 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:22:19 AM : 1b217014_currentScreen-2015-07-13_09-22-12-AM.png
+7/13/2015 9:22:20 AM : Clicking by template MenuLines.png
+7/13/2015 9:22:20 AM : Verfiying template MenuLines.png
+7/13/2015 9:22:20 AM : Accuracy is D=0.99999988079071
+7/13/2015 9:22:20 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:22:20 AM : Touching on  X=43, Y=73
+7/13/2015 9:22:20 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:22:28 AM : 1b217014_currentScreen-2015-07-13_09-22-20-AM.png
+7/13/2015 9:22:28 AM : Clicking by template SearchMusic.png
+7/13/2015 9:22:29 AM : Verfiying template SearchMusic.png
+7/13/2015 9:22:29 AM : Accuracy is D=0.999999761581421
+7/13/2015 9:22:29 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:22:29 AM : Touching on  X=123, Y=151
+7/13/2015 9:22:29 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:22:37 AM : 1b217014_currentScreen-2015-07-13_09-22-29-AM.png
+7/13/2015 9:22:37 AM : typing nirvana
+7/13/2015 9:22:38 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:22:51 AM : 1b217014_currentScreen-2015-07-13_09-22-38-AM.png
+7/13/2015 9:22:56 AM : Taking screen shot...
+7/13/2015 9:22:56 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:23:03 AM : 1b217014_currentScreen-2015-07-13_09-22-56-AM.png
+7/13/2015 9:23:03 AM : Clicking by template nirvana
+7/13/2015 9:23:04 AM : Verfiying template nirvana
+7/13/2015 9:23:06 AM : Template nirvana is not Verified!
+7/13/2015 9:23:06 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:23:06 AM : Object reference not set to an instance of an object.
+7/13/2015 9:23:06 AM : Verfiying template SufflePlay.png
+7/13/2015 9:23:06 AM : Accuracy is D=1
+7/13/2015 9:23:06 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:23:06 AM : Clicking by template SufflePlay.png
+7/13/2015 9:23:06 AM : Verfiying template SufflePlay.png
+7/13/2015 9:23:06 AM : Accuracy is D=1
+7/13/2015 9:23:06 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:23:06 AM : Touching on  X=276, Y=583
+7/13/2015 9:23:06 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:23:14 AM : 1b217014_currentScreen-2015-07-13_09-23-06-AM.png
+7/13/2015 9:23:14 AM : Waitting 35 for nirvana to play and skip and ads
+7/13/2015 9:23:50 AM : Taking screen shot...
+7/13/2015 9:23:50 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:23:56 AM : 1b217014_currentScreen-2015-07-13_09-23-50-AM.png
+7/13/2015 9:23:57 AM : Checking if music service Playing
+7/13/2015 9:23:57 AM : Taking screen shot...
+7/13/2015 9:23:57 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:24:04 AM : 1b217014_currentScreen-2015-07-13_09-23-57-AM.png
+7/13/2015 9:24:04 AM : verifying template Pause  Pause.png
+7/13/2015 9:24:05 AM : Object reference not set to an instance of an object.
+7/13/2015 9:24:05 AM : Verfiying template Pause.png
+7/13/2015 9:24:05 AM : Accuracy is D=0.422634333372116
+7/13/2015 9:24:05 AM : Template Pause.png is not Verified!
+7/13/2015 9:24:05 AM : Music is not detected
+7/13/2015 9:24:05 AM : Going Back to Home screen.
+7/13/2015 9:24:05 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:24:12 AM : 1b217014_currentScreen-2015-07-13_09-24-05-AM.png
+7/13/2015 9:24:13 AM : Will play another band
+7/13/2015 9:24:13 AM : Going Back to Home screen.
+7/13/2015 9:24:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:24:20 AM : 1b217014_currentScreen-2015-07-13_09-24-13-AM.png
+7/13/2015 9:24:20 AM : Play band rihanna
+7/13/2015 9:24:21 AM : Start music service
+7/13/2015 9:24:21 AM : Clicking by template StartIcon.png
+7/13/2015 9:24:21 AM : Verfiying template StartIcon.png
+7/13/2015 9:24:21 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:24:21 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:24:21 AM : Touching on  X=201, Y=98
+7/13/2015 9:24:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:24:28 AM : 1b217014_currentScreen-2015-07-13_09-24-21-AM.png
+7/13/2015 9:24:29 AM : Clicking by template MenuLines.png
+7/13/2015 9:24:29 AM : Verfiying template MenuLines.png
+7/13/2015 9:24:30 AM : Accuracy is D=0.99999988079071
+7/13/2015 9:24:30 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:24:30 AM : Touching on  X=43, Y=73
+7/13/2015 9:24:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:24:37 AM : 1b217014_currentScreen-2015-07-13_09-24-30-AM.png
+7/13/2015 9:24:37 AM : Clicking by template SearchMusic.png
+7/13/2015 9:24:38 AM : Verfiying template SearchMusic.png
+7/13/2015 9:24:38 AM : Accuracy is D=0.999999940395355
+7/13/2015 9:24:38 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:24:38 AM : Touching on  X=123, Y=151
+7/13/2015 9:24:38 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:24:45 AM : 1b217014_currentScreen-2015-07-13_09-24-38-AM.png
+7/13/2015 9:24:46 AM : typing rihanna
+7/13/2015 9:24:47 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:25:00 AM : 1b217014_currentScreen-2015-07-13_09-24-47-AM.png
+7/13/2015 9:25:05 AM : Taking screen shot...
+7/13/2015 9:25:05 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:25:12 AM : 1b217014_currentScreen-2015-07-13_09-25-05-AM.png
+7/13/2015 9:25:12 AM : Clicking by template rihanna
+7/13/2015 9:25:13 AM : Verfiying template rihanna
+7/13/2015 9:25:15 AM : Template rihanna is not Verified!
+7/13/2015 9:25:15 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:25:15 AM : Object reference not set to an instance of an object.
+7/13/2015 9:25:15 AM : Verfiying template SufflePlay.png
+7/13/2015 9:25:15 AM : Accuracy is D=0.999999225139618
+7/13/2015 9:25:15 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:25:15 AM : Clicking by template SufflePlay.png
+7/13/2015 9:25:15 AM : Verfiying template SufflePlay.png
+7/13/2015 9:25:16 AM : Accuracy is D=0.999999225139618
+7/13/2015 9:25:16 AM : Template SufflePlay.png is Verified. 
+7/13/2015 9:25:16 AM : Touching on  X=276, Y=583
+7/13/2015 9:25:16 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:25:23 AM : 1b217014_currentScreen-2015-07-13_09-25-16-AM.png
+7/13/2015 9:25:23 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 9:25:59 AM : Taking screen shot...
+7/13/2015 9:25:59 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:26:05 AM : 1b217014_currentScreen-2015-07-13_09-25-59-AM.png
+7/13/2015 9:26:06 AM : Checking if music service Playing
+7/13/2015 9:26:07 AM : Taking screen shot...
+7/13/2015 9:26:07 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:26:07 AM : White list path C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 9:26:07 AM : Whitelist analysis argument C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 9:26:13 AM : 1b217014_currentScreen-2015-07-13_09-26-07-AM.png
+7/13/2015 9:26:14 AM : verifying template Pause  Pause.png
+7/13/2015 9:26:14 AM : Object reference not set to an instance of an object.
+7/13/2015 9:26:15 AM : Object reference not set to an instance of an object.
+7/13/2015 9:26:15 AM : Verfiying template Pause.png
+7/13/2015 9:26:15 AM : Accuracy is D=0.391219079494476
+7/13/2015 9:26:15 AM : Template Pause.png is not Verified!
+7/13/2015 9:26:16 AM : Music is not detected
+7/13/2015 9:26:16 AM : Going Back to Home screen.
+7/13/2015 9:26:16 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:26:23 AM : 1b217014_currentScreen-2015-07-13_09-26-16-AM.png
+7/13/2015 9:26:23 AM : Will play another band
+7/13/2015 9:26:25 AM : Going Back to Home screen.
+7/13/2015 9:26:25 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:26:31 AM : 1b217014_currentScreen-2015-07-13_09-26-25-AM.png
+7/13/2015 9:26:32 AM : Play band madonna
+7/13/2015 9:26:33 AM : Start music service
+7/13/2015 9:26:33 AM : Clicking by template StartIcon.png
+7/13/2015 9:26:34 AM : Verfiying template StartIcon.png
+7/13/2015 9:26:34 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:26:34 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:26:34 AM : Touching on  X=201, Y=98
+7/13/2015 9:26:34 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:26:41 AM : 1b217014_currentScreen-2015-07-13_09-26-34-AM.png
+7/13/2015 9:26:42 AM : Clicking by template MenuLines.png
+7/13/2015 9:26:43 AM : Verfiying template MenuLines.png
+7/13/2015 9:26:43 AM : Accuracy is D=0.99999988079071
+7/13/2015 9:26:43 AM : Template MenuLines.png is Verified. 
+7/13/2015 9:26:43 AM : Touching on  X=43, Y=73
+7/13/2015 9:26:43 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:26:51 AM : 1b217014_currentScreen-2015-07-13_09-26-43-AM.png
+7/13/2015 9:26:51 AM : Clicking by template SearchMusic.png
+7/13/2015 9:26:53 AM : Verfiying template SearchMusic.png
+7/13/2015 9:26:53 AM : Accuracy is D=0.999999761581421
+7/13/2015 9:26:53 AM : Template SearchMusic.png is Verified. 
+7/13/2015 9:26:53 AM : Touching on  X=123, Y=151
+7/13/2015 9:26:53 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:27:00 AM : 1b217014_currentScreen-2015-07-13_09-26-53-AM.png
+7/13/2015 9:27:01 AM : typing madonna
+7/13/2015 9:27:02 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:27:16 AM : 1b217014_currentScreen-2015-07-13_09-27-02-AM.png
+7/13/2015 9:27:21 AM : Taking screen shot...
+7/13/2015 9:27:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:27:28 AM : 1b217014_currentScreen-2015-07-13_09-27-21-AM.png
+7/13/2015 9:27:28 AM : Clicking by template madonna
+7/13/2015 9:27:30 AM : Verfiying template madonna
+7/13/2015 9:27:30 AM : Template madonna is Verified. 
+7/13/2015 9:27:30 AM : Touching on  X=82, Y=599
+7/13/2015 9:27:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:27:38 AM : 1b217014_currentScreen-2015-07-13_09-27-30-AM.png
+7/13/2015 9:27:38 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 9:27:39 AM : Object reference not set to an instance of an object.
+7/13/2015 9:27:40 AM : Object reference not set to an instance of an object.
+7/13/2015 9:27:40 AM : Verfiying template SufflePlay.png
+7/13/2015 9:27:40 AM : Accuracy is D=0.292843192815781
+7/13/2015 9:27:40 AM : Template SufflePlay.png is not Verified!
+7/13/2015 9:27:40 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 9:28:11 AM : White list path C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 9:28:11 AM : Whitelist analysis argument C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 9:28:15 AM : Taking screen shot...
+7/13/2015 9:28:15 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:28:21 AM : 1b217014_currentScreen-2015-07-13_09-28-15-AM.png
+7/13/2015 9:28:22 AM : Checking if music service Playing
+7/13/2015 9:28:24 AM : Taking screen shot...
+7/13/2015 9:28:24 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:28:30 AM : 1b217014_currentScreen-2015-07-13_09-28-24-AM.png
+7/13/2015 9:28:30 AM : verifying template Pause  Pause.png
+7/13/2015 9:28:31 AM : Object reference not set to an instance of an object.
+7/13/2015 9:28:32 AM : Object reference not set to an instance of an object.
+7/13/2015 9:28:32 AM : Verfiying template Pause.png
+7/13/2015 9:28:32 AM : Accuracy is D=0.35898631811142
+7/13/2015 9:28:32 AM : Template Pause.png is not Verified!
+7/13/2015 9:28:32 AM : Music is not detected
+7/13/2015 9:28:32 AM : Going Back to Home screen.
+7/13/2015 9:28:32 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:28:40 AM : 1b217014_currentScreen-2015-07-13_09-28-32-AM.png
+7/13/2015 9:28:40 AM : Will play another band
+7/13/2015 9:28:42 AM : Going Back to Home screen.
+7/13/2015 9:28:42 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 9:28:48 AM : 1b217014_currentScreen-2015-07-13_09-28-42-AM.png
+7/13/2015 9:28:49 AM : Play band nirvana
+7/13/2015 9:28:50 AM : Start music service
+7/13/2015 9:28:50 AM : Clicking by template StartIcon.png
+7/13/2015 9:28:50 AM : Verfiying template StartIcon.png
+7/13/2015 9:28:51 AM : Accuracy is D=0.999985575675964
+7/13/2015 9:28:51 AM : Template StartIcon.png is Verified. 
+7/13/2015 9:28:51 AM : Touching on  X=201, Y=98
+7/13/2015 9:28:51 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:42:46 AM : ******************Start TestCase 0.1******************
+7/13/2015 10:42:46 AM : Going Back to Home screen.
+7/13/2015 10:42:46 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:42:53 AM : 1b217014_currentScreen-2015-07-13_10-42-46-AM.png
+7/13/2015 10:42:53 AM : Play band rihanna
+7/13/2015 10:42:54 AM : Start music service
+7/13/2015 10:42:54 AM : Clicking by template StartIcon.png
+7/13/2015 10:42:54 AM : Verfiying template StartIcon.png
+7/13/2015 10:42:54 AM : Accuracy is D=0.47427374124527
+7/13/2015 10:42:54 AM : Template StartIcon.png is not Verified!
+7/13/2015 10:42:54 AM : Clicking by template MenuLines.png
+7/13/2015 10:42:54 AM : Verfiying template MenuLines.png
+7/13/2015 10:42:54 AM : Accuracy is D=0.509565770626068
+7/13/2015 10:42:54 AM : Template MenuLines.png is not Verified!
+7/13/2015 10:42:54 AM : Clicking by template SearchMusic.png
+7/13/2015 10:42:54 AM : Verfiying template SearchMusic.png
+7/13/2015 10:42:54 AM : Accuracy is D=0.356396168470383
+7/13/2015 10:42:54 AM : Template SearchMusic.png is not Verified!
+7/13/2015 10:42:54 AM : typing rihanna
+7/13/2015 10:42:54 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:43:08 AM : 1b217014_currentScreen-2015-07-13_10-42-54-AM.png
+7/13/2015 10:43:13 AM : Taking screen shot...
+7/13/2015 10:43:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:43:20 AM : 1b217014_currentScreen-2015-07-13_10-43-13-AM.png
+7/13/2015 10:43:20 AM : Clicking by template rihanna
+7/13/2015 10:43:21 AM : Verfiying template rihanna
+7/13/2015 10:43:23 AM : Template rihanna is not Verified!
+7/13/2015 10:43:23 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 10:43:23 AM : Object reference not set to an instance of an object.
+7/13/2015 10:43:23 AM : Verfiying template SufflePlay.png
+7/13/2015 10:43:23 AM : Accuracy is D=0.333682090044022
+7/13/2015 10:43:23 AM : Template SufflePlay.png is not Verified!
+7/13/2015 10:43:23 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 10:43:58 AM : Taking screen shot...
+7/13/2015 10:43:58 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:44:05 AM : 1b217014_currentScreen-2015-07-13_10-43-58-AM.png
+7/13/2015 10:44:05 AM : Checking if music service Playing
+7/13/2015 10:44:06 AM : Taking screen shot...
+7/13/2015 10:44:06 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:44:12 AM : 1b217014_currentScreen-2015-07-13_10-44-06-AM.png
+7/13/2015 10:44:13 AM : verifying template Pause  Pause.png
+7/13/2015 10:44:13 AM : Object reference not set to an instance of an object.
+7/13/2015 10:44:13 AM : Verfiying template Pause.png
+7/13/2015 10:44:14 AM : Accuracy is D=0.315806239843369
+7/13/2015 10:44:14 AM : Template Pause.png is not Verified!
+7/13/2015 10:44:14 AM : Music is not detected
+7/13/2015 10:44:14 AM : Going Back to Home screen.
+7/13/2015 10:44:14 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:44:20 AM : 1b217014_currentScreen-2015-07-13_10-44-14-AM.png
+7/13/2015 10:44:21 AM : Will play another band
+7/13/2015 10:44:21 AM : Going Back to Home screen.
+7/13/2015 10:44:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:44:28 AM : 1b217014_currentScreen-2015-07-13_10-44-21-AM.png
+7/13/2015 10:44:29 AM : Play band madonna
+7/13/2015 10:44:29 AM : Start music service
+7/13/2015 10:44:29 AM : Clicking by template StartIcon.png
+7/13/2015 10:44:29 AM : Verfiying template StartIcon.png
+7/13/2015 10:44:29 AM : Accuracy is D=0.47427374124527
+7/13/2015 10:44:29 AM : Template StartIcon.png is not Verified!
+7/13/2015 10:44:29 AM : Clicking by template MenuLines.png
+7/13/2015 10:44:29 AM : Verfiying template MenuLines.png
+7/13/2015 10:44:29 AM : Accuracy is D=0.509565770626068
+7/13/2015 10:44:29 AM : Template MenuLines.png is not Verified!
+7/13/2015 10:44:29 AM : Clicking by template SearchMusic.png
+7/13/2015 10:44:29 AM : Verfiying template SearchMusic.png
+7/13/2015 10:44:30 AM : Accuracy is D=0.356396168470383
+7/13/2015 10:44:30 AM : Template SearchMusic.png is not Verified!
+7/13/2015 10:44:30 AM : typing madonna
+7/13/2015 10:44:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:44:43 AM : 1b217014_currentScreen-2015-07-13_10-44-30-AM.png
+7/13/2015 10:44:49 AM : Taking screen shot...
+7/13/2015 10:44:49 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:44:55 AM : 1b217014_currentScreen-2015-07-13_10-44-49-AM.png
+7/13/2015 10:44:56 AM : Clicking by template madonna
+7/13/2015 10:44:56 AM : Verfiying template madonna
+7/13/2015 10:44:59 AM : Template madonna is not Verified!
+7/13/2015 10:44:59 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 10:44:59 AM : Object reference not set to an instance of an object.
+7/13/2015 10:44:59 AM : Verfiying template SufflePlay.png
+7/13/2015 10:44:59 AM : Accuracy is D=0.333682090044022
+7/13/2015 10:44:59 AM : Template SufflePlay.png is not Verified!
+7/13/2015 10:44:59 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 10:45:34 AM : Taking screen shot...
+7/13/2015 10:45:34 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:45:40 AM : 1b217014_currentScreen-2015-07-13_10-45-34-AM.png
+7/13/2015 10:45:41 AM : Checking if music service Playing
+7/13/2015 10:45:41 AM : Taking screen shot...
+7/13/2015 10:45:41 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:45:48 AM : 1b217014_currentScreen-2015-07-13_10-45-41-AM.png
+7/13/2015 10:45:48 AM : verifying template Pause  Pause.png
+7/13/2015 10:45:49 AM : Object reference not set to an instance of an object.
+7/13/2015 10:45:49 AM : Verfiying template Pause.png
+7/13/2015 10:45:49 AM : Accuracy is D=0.315797924995422
+7/13/2015 10:45:49 AM : Template Pause.png is not Verified!
+7/13/2015 10:45:49 AM : Music is not detected
+7/13/2015 10:45:49 AM : Going Back to Home screen.
+7/13/2015 10:45:49 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:45:56 AM : 1b217014_currentScreen-2015-07-13_10-45-49-AM.png
+7/13/2015 10:45:56 AM : Will play another band
+7/13/2015 10:45:57 AM : Going Back to Home screen.
+7/13/2015 10:45:57 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:46:03 AM : 1b217014_currentScreen-2015-07-13_10-45-57-AM.png
+7/13/2015 10:46:04 AM : Play band nirvana
+7/13/2015 10:46:05 AM : Start music service
+7/13/2015 10:46:05 AM : Clicking by template StartIcon.png
+7/13/2015 10:46:05 AM : Verfiying template StartIcon.png
+7/13/2015 10:46:05 AM : Accuracy is D=0.47427374124527
+7/13/2015 10:46:05 AM : Template StartIcon.png is not Verified!
+7/13/2015 10:46:05 AM : Clicking by template MenuLines.png
+7/13/2015 10:46:05 AM : Verfiying template MenuLines.png
+7/13/2015 10:46:05 AM : Accuracy is D=0.509565770626068
+7/13/2015 10:46:05 AM : Template MenuLines.png is not Verified!
+7/13/2015 10:46:05 AM : Clicking by template SearchMusic.png
+7/13/2015 10:46:05 AM : Verfiying template SearchMusic.png
+7/13/2015 10:46:05 AM : Accuracy is D=0.356396168470383
+7/13/2015 10:46:05 AM : Template SearchMusic.png is not Verified!
+7/13/2015 10:46:05 AM : typing nirvana
+7/13/2015 10:46:05 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:46:19 AM : 1b217014_currentScreen-2015-07-13_10-46-05-AM.png
+7/13/2015 10:46:24 AM : Taking screen shot...
+7/13/2015 10:46:24 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:46:31 AM : 1b217014_currentScreen-2015-07-13_10-46-24-AM.png
+7/13/2015 10:46:31 AM : Clicking by template nirvana
+7/13/2015 10:46:32 AM : Verfiying template nirvana
+7/13/2015 10:46:34 AM : Template nirvana is not Verified!
+7/13/2015 10:46:34 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 10:46:34 AM : Object reference not set to an instance of an object.
+7/13/2015 10:46:34 AM : Verfiying template SufflePlay.png
+7/13/2015 10:46:34 AM : Accuracy is D=0.333681702613831
+7/13/2015 10:46:34 AM : Template SufflePlay.png is not Verified!
+7/13/2015 10:46:34 AM : Waitting 35 for nirvana to play and skip and ads
+7/13/2015 10:47:09 AM : Taking screen shot...
+7/13/2015 10:47:09 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:54:16 AM : ******************Start TestCase 0.1******************
+7/13/2015 10:54:16 AM : Going Back to Home screen.
+7/13/2015 10:54:16 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:54:23 AM : 1b217014_currentScreen-2015-07-13_10-54-16-AM.png
+7/13/2015 10:54:23 AM : Play band rihanna
+7/13/2015 10:54:24 AM : Start music service
+7/13/2015 10:54:24 AM : Clicking by template StartIcon.png
+7/13/2015 10:54:24 AM : Verfiying template StartIcon.png
+7/13/2015 10:54:24 AM : Accuracy is D=0.47427374124527
+7/13/2015 10:54:24 AM : Template StartIcon.png is not Verified!
+7/13/2015 10:54:24 AM : Clicking by template MenuLines.png
+7/13/2015 10:54:24 AM : Verfiying template MenuLines.png
+7/13/2015 10:54:24 AM : Accuracy is D=0.509565770626068
+7/13/2015 10:54:24 AM : Template MenuLines.png is not Verified!
+7/13/2015 10:54:24 AM : Clicking by template SearchMusic.png
+7/13/2015 10:54:24 AM : Verfiying template SearchMusic.png
+7/13/2015 10:54:24 AM : Accuracy is D=0.356396168470383
+7/13/2015 10:54:24 AM : Template SearchMusic.png is not Verified!
+7/13/2015 10:54:24 AM : typing rihanna
+7/13/2015 10:54:24 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:54:38 AM : 1b217014_currentScreen-2015-07-13_10-54-24-AM.png
+7/13/2015 10:54:43 AM : Taking screen shot...
+7/13/2015 10:54:43 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:54:49 AM : 1b217014_currentScreen-2015-07-13_10-54-43-AM.png
+7/13/2015 10:54:50 AM : Clicking by template rihanna
+7/13/2015 10:54:50 AM : Verfiying template rihanna
+7/13/2015 10:54:53 AM : Template rihanna is not Verified!
+7/13/2015 10:54:53 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 10:54:53 AM : Object reference not set to an instance of an object.
+7/13/2015 10:54:53 AM : Verfiying template SufflePlay.png
+7/13/2015 10:54:53 AM : Accuracy is D=0.280360579490662
+7/13/2015 10:54:53 AM : Template SufflePlay.png is not Verified!
+7/13/2015 10:54:53 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 10:55:28 AM : Taking screen shot...
+7/13/2015 10:55:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:55:34 AM : 1b217014_currentScreen-2015-07-13_10-55-28-AM.png
+7/13/2015 10:55:35 AM : Checking if music service Playing
+7/13/2015 10:55:35 AM : Taking screen shot...
+7/13/2015 10:55:35 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:55:42 AM : 1b217014_currentScreen-2015-07-13_10-55-35-AM.png
+7/13/2015 10:55:42 AM : verifying template Pause  Pause.png
+7/13/2015 10:55:43 AM : Object reference not set to an instance of an object.
+7/13/2015 10:55:43 AM : Verfiying template Pause.png
+7/13/2015 10:55:43 AM : Accuracy is D=0.349680811166763
+7/13/2015 10:55:43 AM : Template Pause.png is not Verified!
+7/13/2015 10:55:43 AM : Music is not detected
+7/13/2015 10:55:43 AM : Going Back to Home screen.
+7/13/2015 10:55:43 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:55:49 AM : 1b217014_currentScreen-2015-07-13_10-55-43-AM.png
+7/13/2015 10:55:50 AM : Will play another band
+7/13/2015 10:55:51 AM : Going Back to Home screen.
+7/13/2015 10:55:51 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:55:57 AM : 1b217014_currentScreen-2015-07-13_10-55-51-AM.png
+7/13/2015 10:55:58 AM : Play band madonna
+7/13/2015 10:55:58 AM : Start music service
+7/13/2015 10:55:58 AM : Clicking by template StartIcon.png
+7/13/2015 10:55:58 AM : Verfiying template StartIcon.png
+7/13/2015 10:55:58 AM : Accuracy is D=0.999985933303833
+7/13/2015 10:55:58 AM : Template StartIcon.png is Verified. 
+7/13/2015 10:55:58 AM : Touching on  X=201, Y=98
+7/13/2015 10:55:58 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:56:06 AM : 1b217014_currentScreen-2015-07-13_10-55-58-AM.png
+7/13/2015 10:56:06 AM : Clicking by template MenuLines.png
+7/13/2015 10:56:07 AM : Verfiying template MenuLines.png
+7/13/2015 10:56:07 AM : Accuracy is D=0.99999988079071
+7/13/2015 10:56:07 AM : Template MenuLines.png is Verified. 
+7/13/2015 10:56:07 AM : Touching on  X=43, Y=73
+7/13/2015 10:56:07 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:56:14 AM : 1b217014_currentScreen-2015-07-13_10-56-07-AM.png
+7/13/2015 10:56:15 AM : Clicking by template SearchMusic.png
+7/13/2015 10:56:15 AM : Verfiying template SearchMusic.png
+7/13/2015 10:56:15 AM : Accuracy is D=0.999999761581421
+7/13/2015 10:56:15 AM : Template SearchMusic.png is Verified. 
+7/13/2015 10:56:15 AM : Touching on  X=123, Y=151
+7/13/2015 10:56:15 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:56:23 AM : 1b217014_currentScreen-2015-07-13_10-56-15-AM.png
+7/13/2015 10:56:23 AM : typing madonna
+7/13/2015 10:56:24 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:56:37 AM : 1b217014_currentScreen-2015-07-13_10-56-24-AM.png
+7/13/2015 10:56:43 AM : Taking screen shot...
+7/13/2015 10:56:43 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:56:49 AM : 1b217014_currentScreen-2015-07-13_10-56-43-AM.png
+7/13/2015 10:56:50 AM : Clicking by template madonna
+7/13/2015 10:56:50 AM : Verfiying template madonna
+7/13/2015 10:56:53 AM : Template madonna is not Verified!
+7/13/2015 10:56:53 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 10:56:53 AM : Object reference not set to an instance of an object.
+7/13/2015 10:56:53 AM : Verfiying template SufflePlay.png
+7/13/2015 10:56:53 AM : Accuracy is D=0.999999225139618
+7/13/2015 10:56:53 AM : Template SufflePlay.png is Verified. 
+7/13/2015 10:56:53 AM : Clicking by template SufflePlay.png
+7/13/2015 10:56:53 AM : Verfiying template SufflePlay.png
+7/13/2015 10:56:53 AM : Accuracy is D=0.999999225139618
+7/13/2015 10:56:53 AM : Template SufflePlay.png is Verified. 
+7/13/2015 10:56:53 AM : Touching on  X=276, Y=583
+7/13/2015 10:56:53 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:57:00 AM : 1b217014_currentScreen-2015-07-13_10-56-53-AM.png
+7/13/2015 10:57:01 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 10:57:36 AM : Taking screen shot...
+7/13/2015 10:57:36 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:57:43 AM : 1b217014_currentScreen-2015-07-13_10-57-36-AM.png
+7/13/2015 10:57:43 AM : Checking if music service Playing
+7/13/2015 10:57:44 AM : Taking screen shot...
+7/13/2015 10:57:44 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:57:50 AM : 1b217014_currentScreen-2015-07-13_10-57-44-AM.png
+7/13/2015 10:57:51 AM : verifying template Pause  Pause.png
+7/13/2015 10:57:51 AM : Object reference not set to an instance of an object.
+7/13/2015 10:57:51 AM : Verfiying template Pause.png
+7/13/2015 10:57:52 AM : Accuracy is D=0.999014794826508
+7/13/2015 10:57:52 AM : Template Pause.png is Verified. 
+7/13/2015 10:57:52 AM : Music is playing, will check every 1 minutes...........
+7/13/2015 10:58:52 AM : Test still playing  , duration is  00:01:22
+7/13/2015 10:58:52 AM : Taking screen shot...
+7/13/2015 10:58:52 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 10:58:58 AM : 1b217014_currentScreen-2015-07-13_10-58-52-AM.png
+7/13/2015 10:58:59 AM : verifying template Pause  Pause.png
+7/13/2015 10:58:59 AM : Object reference not set to an instance of an object.
+7/13/2015 10:58:59 AM : Verfiying template Pause.png
+7/13/2015 10:58:59 AM : Accuracy is D=0.999014794826508
+7/13/2015 10:58:59 AM : Template Pause.png is Verified. 
+7/13/2015 10:58:59 AM : Music is playing, will check every 1 minutes...........
+7/13/2015 10:59:59 AM : Test still playing  , duration is  00:02:30
+7/13/2015 10:59:59 AM : Taking screen shot...
+7/13/2015 10:59:59 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:00:06 AM : 1b217014_currentScreen-2015-07-13_10-59-59-AM.png
+7/13/2015 11:00:07 AM : verifying template Pause  Pause.png
+7/13/2015 11:00:07 AM : Object reference not set to an instance of an object.
+7/13/2015 11:00:07 AM : Verfiying template Pause.png
+7/13/2015 11:00:07 AM : Accuracy is D=0.999014794826508
+7/13/2015 11:00:07 AM : Template Pause.png is Verified. 
+7/13/2015 11:00:07 AM : Music is playing, will check every 1 minutes...........
+7/13/2015 11:01:07 AM : Test still playing  , duration is  00:03:37
+7/13/2015 11:01:07 AM : Going Back to Home screen.
+7/13/2015 11:01:07 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:01:14 AM : 1b217014_currentScreen-2015-07-13_11-01-07-AM.png
+7/13/2015 11:01:15 AM : Play band nirvana
+7/13/2015 11:01:15 AM : Start music service
+7/13/2015 11:01:15 AM : Clicking by template StartIcon.png
+7/13/2015 11:01:15 AM : Verfiying template StartIcon.png
+7/13/2015 11:01:15 AM : Accuracy is D=0.347445905208588
+7/13/2015 11:01:15 AM : Template StartIcon.png is not Verified!
+7/13/2015 11:01:15 AM : Clicking by template MenuLines.png
+7/13/2015 11:01:15 AM : Verfiying template MenuLines.png
+7/13/2015 11:01:15 AM : Accuracy is D=0.99999988079071
+7/13/2015 11:01:15 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:01:15 AM : Touching on  X=43, Y=73
+7/13/2015 11:01:15 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:01:23 AM : 1b217014_currentScreen-2015-07-13_11-01-15-AM.png
+7/13/2015 11:01:24 AM : Clicking by template SearchMusic.png
+7/13/2015 11:01:24 AM : Verfiying template SearchMusic.png
+7/13/2015 11:01:24 AM : Accuracy is D=0.999993860721588
+7/13/2015 11:01:24 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:01:24 AM : Touching on  X=123, Y=151
+7/13/2015 11:01:24 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:01:32 AM : 1b217014_currentScreen-2015-07-13_11-01-24-AM.png
+7/13/2015 11:01:32 AM : typing nirvana
+7/13/2015 11:01:33 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:01:46 AM : 1b217014_currentScreen-2015-07-13_11-01-33-AM.png
+7/13/2015 11:01:52 AM : Taking screen shot...
+7/13/2015 11:01:52 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:01:58 AM : 1b217014_currentScreen-2015-07-13_11-01-52-AM.png
+7/13/2015 11:01:59 AM : Clicking by template nirvana
+7/13/2015 11:01:59 AM : Verfiying template nirvana
+7/13/2015 11:02:01 AM : Template nirvana is not Verified!
+7/13/2015 11:02:01 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 11:02:01 AM : Object reference not set to an instance of an object.
+7/13/2015 11:02:01 AM : Verfiying template SufflePlay.png
+7/13/2015 11:02:01 AM : Accuracy is D=0.999999821186066
+7/13/2015 11:02:01 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:02:01 AM : Clicking by template SufflePlay.png
+7/13/2015 11:02:02 AM : Verfiying template SufflePlay.png
+7/13/2015 11:02:02 AM : Accuracy is D=0.999999821186066
+7/13/2015 11:02:02 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:02:02 AM : Touching on  X=276, Y=583
+7/13/2015 11:02:02 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:02:09 AM : 1b217014_currentScreen-2015-07-13_11-02-02-AM.png
+7/13/2015 11:02:10 AM : Waitting 35 for nirvana to play and skip and ads
+7/13/2015 11:02:45 AM : Taking screen shot...
+7/13/2015 11:02:45 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:02:51 AM : 1b217014_currentScreen-2015-07-13_11-02-45-AM.png
+7/13/2015 11:02:52 AM : Checking if music service Playing
+7/13/2015 11:02:53 AM : Taking screen shot...
+7/13/2015 11:02:53 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:02:59 AM : 1b217014_currentScreen-2015-07-13_11-02-53-AM.png
+7/13/2015 11:03:00 AM : verifying template Pause  Pause.png
+7/13/2015 11:03:00 AM : Object reference not set to an instance of an object.
+7/13/2015 11:03:00 AM : Verfiying template Pause.png
+7/13/2015 11:03:00 AM : Accuracy is D=0.422634482383728
+7/13/2015 11:03:00 AM : Template Pause.png is not Verified!
+7/13/2015 11:03:00 AM : Music is not detected
+7/13/2015 11:03:00 AM : Going Back to Home screen.
+7/13/2015 11:03:00 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:03:08 AM : 1b217014_currentScreen-2015-07-13_11-03-00-AM.png
+7/13/2015 11:03:09 AM : Will play another band
+7/13/2015 11:03:09 AM : Going Back to Home screen.
+7/13/2015 11:03:09 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:03:16 AM : 1b217014_currentScreen-2015-07-13_11-03-09-AM.png
+7/13/2015 11:03:16 AM : Play band rihanna
+7/13/2015 11:03:17 AM : Start music service
+7/13/2015 11:03:17 AM : Clicking by template StartIcon.png
+7/13/2015 11:03:17 AM : Verfiying template StartIcon.png
+7/13/2015 11:03:17 AM : Accuracy is D=0.999986231327057
+7/13/2015 11:03:17 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:03:17 AM : Touching on  X=201, Y=98
+7/13/2015 11:03:17 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:03:24 AM : 1b217014_currentScreen-2015-07-13_11-03-17-AM.png
+7/13/2015 11:03:25 AM : Clicking by template MenuLines.png
+7/13/2015 11:03:25 AM : Verfiying template MenuLines.png
+7/13/2015 11:03:25 AM : Accuracy is D=1
+7/13/2015 11:03:25 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:03:25 AM : Touching on  X=43, Y=73
+7/13/2015 11:03:25 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:03:33 AM : 1b217014_currentScreen-2015-07-13_11-03-25-AM.png
+7/13/2015 11:03:33 AM : Clicking by template SearchMusic.png
+7/13/2015 11:03:34 AM : Verfiying template SearchMusic.png
+7/13/2015 11:03:34 AM : Accuracy is D=0.999999940395355
+7/13/2015 11:03:34 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:03:34 AM : Touching on  X=123, Y=151
+7/13/2015 11:03:34 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:03:41 AM : 1b217014_currentScreen-2015-07-13_11-03-34-AM.png
+7/13/2015 11:03:42 AM : typing rihanna
+7/13/2015 11:03:42 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:03:56 AM : 1b217014_currentScreen-2015-07-13_11-03-42-AM.png
+7/13/2015 11:05:54 AM : ******************Start TestCase 0.1******************
+7/13/2015 11:09:22 AM : ******************Start TestCase 0.1******************
+7/13/2015 11:09:26 AM : Going Back to Home screen.
+7/13/2015 11:09:26 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:09:42 AM : 1b217014_currentScreen-2015-07-13_11-09-26-AM.png
+7/13/2015 11:09:43 AM : Play band rihanna
+7/13/2015 11:09:43 AM : Start music service
+7/13/2015 11:09:43 AM : Clicking by template StartIcon.png
+7/13/2015 11:09:43 AM : Verfiying template StartIcon.png
+7/13/2015 11:09:44 AM : Accuracy is D=0.999985575675964
+7/13/2015 11:09:44 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:09:44 AM : Touching on  X=201, Y=98
+7/13/2015 11:09:44 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:09:51 AM : 1b217014_currentScreen-2015-07-13_11-09-44-AM.png
+7/13/2015 11:09:52 AM : Clicking by template MenuLines.png
+7/13/2015 11:09:53 AM : Verfiying template MenuLines.png
+7/13/2015 11:09:53 AM : Accuracy is D=1
+7/13/2015 11:09:53 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:09:53 AM : Touching on  X=43, Y=73
+7/13/2015 11:09:53 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:10:00 AM : 1b217014_currentScreen-2015-07-13_11-09-53-AM.png
+7/13/2015 11:10:01 AM : Clicking by template SearchMusic.png
+7/13/2015 11:10:01 AM : Verfiying template SearchMusic.png
+7/13/2015 11:10:02 AM : Accuracy is D=0.999999940395355
+7/13/2015 11:10:02 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:10:02 AM : Touching on  X=123, Y=151
+7/13/2015 11:10:02 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:10:09 AM : 1b217014_currentScreen-2015-07-13_11-10-02-AM.png
+7/13/2015 11:10:09 AM : typing rihanna
+7/13/2015 11:10:10 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:10:23 AM : 1b217014_currentScreen-2015-07-13_11-10-10-AM.png
+7/13/2015 11:10:29 AM : Taking screen shot...
+7/13/2015 11:10:29 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:10:35 AM : 1b217014_currentScreen-2015-07-13_11-10-29-AM.png
+7/13/2015 11:10:36 AM : Clicking by template rihanna
+7/13/2015 11:10:36 AM : Verfiying template rihanna
+7/13/2015 11:10:40 AM : Template rihanna is not Verified!
+7/13/2015 11:10:40 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 11:10:40 AM : Object reference not set to an instance of an object.
+7/13/2015 11:10:40 AM : Verfiying template SufflePlay.png
+7/13/2015 11:10:40 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:10:40 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:10:40 AM : Clicking by template SufflePlay.png
+7/13/2015 11:10:40 AM : Verfiying template SufflePlay.png
+7/13/2015 11:10:40 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:10:40 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:10:40 AM : Touching on  X=276, Y=583
+7/13/2015 11:10:40 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:10:48 AM : 1b217014_currentScreen-2015-07-13_11-10-40-AM.png
+7/13/2015 11:10:48 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 11:11:24 AM : Taking screen shot...
+7/13/2015 11:11:24 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:11:30 AM : 1b217014_currentScreen-2015-07-13_11-11-24-AM.png
+7/13/2015 11:11:31 AM : Checking if music service Playing
+7/13/2015 11:11:31 AM : Taking screen shot...
+7/13/2015 11:11:31 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:11:38 AM : 1b217014_currentScreen-2015-07-13_11-11-31-AM.png
+7/13/2015 11:11:38 AM : verifying template Pause  Pause.png
+7/13/2015 11:11:39 AM : Object reference not set to an instance of an object.
+7/13/2015 11:11:39 AM : Verfiying template Pause.png
+7/13/2015 11:11:39 AM : Accuracy is D=0.391219079494476
+7/13/2015 11:11:39 AM : Template Pause.png is not Verified!
+7/13/2015 11:11:39 AM : Music is not detected
+7/13/2015 11:11:39 AM : Going Back to Home screen.
+7/13/2015 11:11:39 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:11:46 AM : 1b217014_currentScreen-2015-07-13_11-11-39-AM.png
+7/13/2015 11:11:47 AM : Will play another band
+7/13/2015 11:11:47 AM : Going Back to Home screen.
+7/13/2015 11:11:47 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:11:54 AM : 1b217014_currentScreen-2015-07-13_11-11-47-AM.png
+7/13/2015 11:11:54 AM : Play band madonna
+7/13/2015 11:11:55 AM : Start music service
+7/13/2015 11:11:55 AM : Clicking by template StartIcon.png
+7/13/2015 11:11:55 AM : Verfiying template StartIcon.png
+7/13/2015 11:11:55 AM : Accuracy is D=0.999986231327057
+7/13/2015 11:11:55 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:11:55 AM : Touching on  X=201, Y=98
+7/13/2015 11:11:55 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:12:03 AM : 1b217014_currentScreen-2015-07-13_11-11-55-AM.png
+7/13/2015 11:12:03 AM : Clicking by template MenuLines.png
+7/13/2015 11:12:04 AM : Verfiying template MenuLines.png
+7/13/2015 11:12:04 AM : Accuracy is D=1
+7/13/2015 11:12:04 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:12:04 AM : Touching on  X=43, Y=73
+7/13/2015 11:12:04 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:12:11 AM : 1b217014_currentScreen-2015-07-13_11-12-04-AM.png
+7/13/2015 11:12:12 AM : Clicking by template SearchMusic.png
+7/13/2015 11:12:12 AM : Verfiying template SearchMusic.png
+7/13/2015 11:12:12 AM : Accuracy is D=0.999999761581421
+7/13/2015 11:12:12 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:12:12 AM : Touching on  X=123, Y=151
+7/13/2015 11:12:12 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:12:20 AM : 1b217014_currentScreen-2015-07-13_11-12-12-AM.png
+7/13/2015 11:12:20 AM : typing madonna
+7/13/2015 11:12:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:12:34 AM : 1b217014_currentScreen-2015-07-13_11-12-21-AM.png
+7/13/2015 11:12:40 AM : Taking screen shot...
+7/13/2015 11:12:40 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:12:46 AM : 1b217014_currentScreen-2015-07-13_11-12-40-AM.png
+7/13/2015 11:12:46 AM : Clicking by template madonna
+7/13/2015 11:12:47 AM : Verfiying template madonna
+7/13/2015 11:12:49 AM : Template madonna is not Verified!
+7/13/2015 11:12:49 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 11:12:49 AM : Object reference not set to an instance of an object.
+7/13/2015 11:12:49 AM : Verfiying template SufflePlay.png
+7/13/2015 11:12:49 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:12:49 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:12:50 AM : Clicking by template SufflePlay.png
+7/13/2015 11:12:50 AM : Verfiying template SufflePlay.png
+7/13/2015 11:12:50 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:12:50 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:12:50 AM : Touching on  X=276, Y=583
+7/13/2015 11:12:50 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:12:57 AM : 1b217014_currentScreen-2015-07-13_11-12-50-AM.png
+7/13/2015 11:12:57 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 11:13:33 AM : Taking screen shot...
+7/13/2015 11:13:33 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:13:39 AM : 1b217014_currentScreen-2015-07-13_11-13-33-AM.png
+7/13/2015 11:13:40 AM : Checking if music service Playing
+7/13/2015 11:13:41 AM : Taking screen shot...
+7/13/2015 11:13:41 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:13:47 AM : 1b217014_currentScreen-2015-07-13_11-13-41-AM.png
+7/13/2015 11:13:47 AM : verifying template Pause  Pause.png
+7/13/2015 11:13:48 AM : Object reference not set to an instance of an object.
+7/13/2015 11:13:48 AM : Verfiying template Pause.png
+7/13/2015 11:13:48 AM : Accuracy is D=0.364513367414474
+7/13/2015 11:13:48 AM : Template Pause.png is not Verified!
+7/13/2015 11:13:48 AM : Music is not detected
+7/13/2015 11:13:48 AM : Going Back to Home screen.
+7/13/2015 11:13:48 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:13:55 AM : 1b217014_currentScreen-2015-07-13_11-13-48-AM.png
+7/13/2015 11:13:56 AM : Will play another band
+7/13/2015 11:13:57 AM : Going Back to Home screen.
+7/13/2015 11:13:57 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:14:03 AM : 1b217014_currentScreen-2015-07-13_11-13-57-AM.png
+7/13/2015 11:14:04 AM : Play band nirvana
+7/13/2015 11:14:04 AM : Start music service
+7/13/2015 11:14:04 AM : Clicking by template StartIcon.png
+7/13/2015 11:14:04 AM : Verfiying template StartIcon.png
+7/13/2015 11:14:04 AM : Accuracy is D=0.999986231327057
+7/13/2015 11:14:04 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:14:04 AM : Touching on  X=201, Y=98
+7/13/2015 11:14:04 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:14:12 AM : 1b217014_currentScreen-2015-07-13_11-14-04-AM.png
+7/13/2015 11:14:12 AM : Clicking by template MenuLines.png
+7/13/2015 11:14:13 AM : Verfiying template MenuLines.png
+7/13/2015 11:14:13 AM : Accuracy is D=1
+7/13/2015 11:14:13 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:14:13 AM : Touching on  X=43, Y=73
+7/13/2015 11:14:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:14:20 AM : 1b217014_currentScreen-2015-07-13_11-14-13-AM.png
+7/13/2015 11:14:21 AM : Clicking by template SearchMusic.png
+7/13/2015 11:14:21 AM : Verfiying template SearchMusic.png
+7/13/2015 11:14:21 AM : Accuracy is D=0.999999940395355
+7/13/2015 11:14:21 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:14:21 AM : Touching on  X=123, Y=151
+7/13/2015 11:14:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:14:29 AM : 1b217014_currentScreen-2015-07-13_11-14-21-AM.png
+7/13/2015 11:14:29 AM : typing nirvana
+7/13/2015 11:14:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:19:02 AM : ******************Start TestCase 0.1******************
+7/13/2015 11:19:18 AM : Going Back to Home screen.
+7/13/2015 11:19:18 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:19:25 AM : 1b217014_currentScreen-2015-07-13_11-19-18-AM.png
+7/13/2015 11:19:25 AM : Play band rihanna
+7/13/2015 11:19:26 AM : Start music service
+7/13/2015 11:19:26 AM : Clicking by template StartIcon.png
+7/13/2015 11:19:26 AM : Verfiying template StartIcon.png
+7/13/2015 11:19:26 AM : Accuracy is D=0.999985575675964
+7/13/2015 11:19:26 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:19:26 AM : Touching on  X=201, Y=98
+7/13/2015 11:19:26 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:19:33 AM : 1b217014_currentScreen-2015-07-13_11-19-26-AM.png
+7/13/2015 11:19:34 AM : Clicking by template MenuLines.png
+7/13/2015 11:19:34 AM : Verfiying template MenuLines.png
+7/13/2015 11:19:35 AM : Accuracy is D=1
+7/13/2015 11:19:35 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:19:35 AM : Touching on  X=43, Y=73
+7/13/2015 11:19:35 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:19:42 AM : 1b217014_currentScreen-2015-07-13_11-19-35-AM.png
+7/13/2015 11:19:42 AM : Clicking by template SearchMusic.png
+7/13/2015 11:19:43 AM : Verfiying template SearchMusic.png
+7/13/2015 11:19:43 AM : Accuracy is D=0.999999940395355
+7/13/2015 11:19:43 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:19:43 AM : Touching on  X=123, Y=151
+7/13/2015 11:19:43 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:19:50 AM : 1b217014_currentScreen-2015-07-13_11-19-43-AM.png
+7/13/2015 11:19:51 AM : typing rihanna
+7/13/2015 11:19:51 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:20:05 AM : 1b217014_currentScreen-2015-07-13_11-19-51-AM.png
+7/13/2015 11:20:10 AM : Taking screen shot...
+7/13/2015 11:20:10 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:20:17 AM : 1b217014_currentScreen-2015-07-13_11-20-10-AM.png
+7/13/2015 11:20:17 AM : Clicking by template rihanna
+7/13/2015 11:20:18 AM : Verfiying template rihanna
+7/13/2015 11:20:20 AM : Template rihanna is not Verified!
+7/13/2015 11:20:20 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 11:20:20 AM : Object reference not set to an instance of an object.
+7/13/2015 11:20:20 AM : Verfiying template SufflePlay.png
+7/13/2015 11:20:20 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:20:20 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:20:20 AM : Clicking by template SufflePlay.png
+7/13/2015 11:20:20 AM : Verfiying template SufflePlay.png
+7/13/2015 11:20:20 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:20:20 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:20:20 AM : Touching on  X=276, Y=583
+7/13/2015 11:20:20 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:20:28 AM : 1b217014_currentScreen-2015-07-13_11-20-20-AM.png
+7/13/2015 11:20:28 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 11:21:04 AM : Taking screen shot...
+7/13/2015 11:21:04 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:10 AM : 1b217014_currentScreen-2015-07-13_11-21-04-AM.png
+7/13/2015 11:21:11 AM : Checking if music service Playing
+7/13/2015 11:21:11 AM : Taking screen shot...
+7/13/2015 11:21:11 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:18 AM : 1b217014_currentScreen-2015-07-13_11-21-11-AM.png
+7/13/2015 11:21:18 AM : verifying template Pause  Pause.png
+7/13/2015 11:21:19 AM : Object reference not set to an instance of an object.
+7/13/2015 11:21:19 AM : Verfiying template Pause.png
+7/13/2015 11:21:19 AM : Accuracy is D=0.391219079494476
+7/13/2015 11:21:19 AM : Template Pause.png is not Verified!
+7/13/2015 11:21:19 AM : Music is not detected
+7/13/2015 11:21:19 AM : Going Back to Home screen.
+7/13/2015 11:21:19 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:26 AM : 1b217014_currentScreen-2015-07-13_11-21-19-AM.png
+7/13/2015 11:21:27 AM : Will play another band
+7/13/2015 11:21:27 AM : Going Back to Home screen.
+7/13/2015 11:21:27 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:34 AM : 1b217014_currentScreen-2015-07-13_11-21-27-AM.png
+7/13/2015 11:21:34 AM : Play band madonna
+7/13/2015 11:21:35 AM : Start music service
+7/13/2015 11:21:35 AM : Clicking by template StartIcon.png
+7/13/2015 11:21:35 AM : Verfiying template StartIcon.png
+7/13/2015 11:21:35 AM : Accuracy is D=0.999986231327057
+7/13/2015 11:21:35 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:21:35 AM : Touching on  X=201, Y=98
+7/13/2015 11:21:35 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:42 AM : 1b217014_currentScreen-2015-07-13_11-21-35-AM.png
+7/13/2015 11:21:43 AM : Clicking by template MenuLines.png
+7/13/2015 11:21:43 AM : Verfiying template MenuLines.png
+7/13/2015 11:21:44 AM : Accuracy is D=1
+7/13/2015 11:21:44 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:21:44 AM : Touching on  X=43, Y=73
+7/13/2015 11:21:44 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:51 AM : 1b217014_currentScreen-2015-07-13_11-21-44-AM.png
+7/13/2015 11:21:52 AM : Clicking by template SearchMusic.png
+7/13/2015 11:21:52 AM : Verfiying template SearchMusic.png
+7/13/2015 11:21:52 AM : Accuracy is D=0.999999761581421
+7/13/2015 11:21:52 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:21:52 AM : Touching on  X=123, Y=151
+7/13/2015 11:21:52 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:21:59 AM : 1b217014_currentScreen-2015-07-13_11-21-52-AM.png
+7/13/2015 11:22:00 AM : typing madonna
+7/13/2015 11:22:01 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:22:14 AM : 1b217014_currentScreen-2015-07-13_11-22-01-AM.png
+7/13/2015 11:22:19 AM : Taking screen shot...
+7/13/2015 11:22:19 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:22:26 AM : 1b217014_currentScreen-2015-07-13_11-22-19-AM.png
+7/13/2015 11:22:26 AM : Clicking by template madonna
+7/13/2015 11:22:27 AM : Verfiying template madonna
+7/13/2015 11:22:29 AM : Template madonna is not Verified!
+7/13/2015 11:22:29 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 11:22:29 AM : Object reference not set to an instance of an object.
+7/13/2015 11:22:29 AM : Verfiying template SufflePlay.png
+7/13/2015 11:22:30 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:22:30 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:22:30 AM : Clicking by template SufflePlay.png
+7/13/2015 11:22:30 AM : Verfiying template SufflePlay.png
+7/13/2015 11:22:30 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:22:30 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:22:30 AM : Touching on  X=276, Y=583
+7/13/2015 11:22:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:22:37 AM : 1b217014_currentScreen-2015-07-13_11-22-30-AM.png
+7/13/2015 11:22:38 AM : Waitting 35 for madonna to play and skip and ads
+7/13/2015 11:23:13 AM : Taking screen shot...
+7/13/2015 11:23:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:23:20 AM : 1b217014_currentScreen-2015-07-13_11-23-13-AM.png
+7/13/2015 11:23:20 AM : Checking if music service Playing
+7/13/2015 11:23:21 AM : Taking screen shot...
+7/13/2015 11:23:21 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:23:27 AM : 1b217014_currentScreen-2015-07-13_11-23-21-AM.png
+7/13/2015 11:23:27 AM : verifying template Pause  Pause.png
+7/13/2015 11:23:28 AM : Object reference not set to an instance of an object.
+7/13/2015 11:23:28 AM : Verfiying template Pause.png
+7/13/2015 11:23:28 AM : Accuracy is D=0.364513248205185
+7/13/2015 11:23:28 AM : Template Pause.png is not Verified!
+7/13/2015 11:23:28 AM : Music is not detected
+7/13/2015 11:23:28 AM : Going Back to Home screen.
+7/13/2015 11:23:28 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:23:36 AM : 1b217014_currentScreen-2015-07-13_11-23-28-AM.png
+7/13/2015 11:23:36 AM : Will play another band
+7/13/2015 11:23:36 AM : Going Back to Home screen.
+7/13/2015 11:23:36 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:26:32 AM : ******************Start TestCase 0.1******************
+7/13/2015 11:26:38 AM : Going Back to Home screen.
+7/13/2015 11:26:38 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:26:44 AM : 1b217014_currentScreen-2015-07-13_11-26-38-AM.png
+7/13/2015 11:26:45 AM : Play band rihanna
+7/13/2015 11:26:45 AM : Start music service
+7/13/2015 11:26:45 AM : Clicking by template StartIcon.png
+7/13/2015 11:26:45 AM : Verfiying template StartIcon.png
+7/13/2015 11:26:45 AM : Accuracy is D=0.999986231327057
+7/13/2015 11:26:45 AM : Template StartIcon.png is Verified. 
+7/13/2015 11:26:45 AM : Touching on  X=201, Y=98
+7/13/2015 11:26:45 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:26:53 AM : 1b217014_currentScreen-2015-07-13_11-26-45-AM.png
+7/13/2015 11:26:53 AM : Clicking by template MenuLines.png
+7/13/2015 11:26:54 AM : Verfiying template MenuLines.png
+7/13/2015 11:26:54 AM : Accuracy is D=1
+7/13/2015 11:26:54 AM : Template MenuLines.png is Verified. 
+7/13/2015 11:26:54 AM : Touching on  X=43, Y=73
+7/13/2015 11:26:54 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:27:01 AM : 1b217014_currentScreen-2015-07-13_11-26-54-AM.png
+7/13/2015 11:27:02 AM : Clicking by template SearchMusic.png
+7/13/2015 11:27:02 AM : Verfiying template SearchMusic.png
+7/13/2015 11:27:02 AM : Accuracy is D=0.999999761581421
+7/13/2015 11:27:02 AM : Template SearchMusic.png is Verified. 
+7/13/2015 11:27:03 AM : Touching on  X=123, Y=151
+7/13/2015 11:27:03 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:27:10 AM : 1b217014_currentScreen-2015-07-13_11-27-03-AM.png
+7/13/2015 11:27:10 AM : typing rihanna
+7/13/2015 11:27:11 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:27:24 AM : 1b217014_currentScreen-2015-07-13_11-27-11-AM.png
+7/13/2015 11:27:30 AM : Taking screen shot...
+7/13/2015 11:27:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:27:36 AM : 1b217014_currentScreen-2015-07-13_11-27-30-AM.png
+7/13/2015 11:27:37 AM : Clicking by template rihanna
+7/13/2015 11:27:37 AM : Verfiying template rihanna
+7/13/2015 11:27:38 AM : Template rihanna is Verified. 
+7/13/2015 11:27:38 AM : Touching on  X=69, Y=599
+7/13/2015 11:27:38 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:27:45 AM : 1b217014_currentScreen-2015-07-13_11-27-38-AM.png
+7/13/2015 11:27:45 AM : verifying template SufflePlay  SufflePlay.png
+7/13/2015 11:27:46 AM : Object reference not set to an instance of an object.
+7/13/2015 11:27:46 AM : Verfiying template SufflePlay.png
+7/13/2015 11:27:46 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:27:46 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:27:46 AM : Clicking by template SufflePlay.png
+7/13/2015 11:27:46 AM : Verfiying template SufflePlay.png
+7/13/2015 11:27:46 AM : Accuracy is D=0.999999225139618
+7/13/2015 11:27:46 AM : Template SufflePlay.png is Verified. 
+7/13/2015 11:27:46 AM : Touching on  X=276, Y=583
+7/13/2015 11:27:46 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:27:54 AM : 1b217014_currentScreen-2015-07-13_11-27-46-AM.png
+7/13/2015 11:27:54 AM : Waitting 35 for rihanna to play and skip and ads
+7/13/2015 11:28:30 AM : Taking screen shot...
+7/13/2015 11:28:30 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:28:36 AM : 1b217014_currentScreen-2015-07-13_11-28-30-AM.png
+7/13/2015 11:28:37 AM : Checking if music service Playing
+7/13/2015 11:28:37 AM : Taking screen shot...
+7/13/2015 11:28:37 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:28:44 AM : 1b217014_currentScreen-2015-07-13_11-28-37-AM.png
+7/13/2015 11:28:44 AM : Music is playing, will check every 1 minutes...........
+7/13/2015 11:31:04 AM : Test ended  after 00:01:07
+7/13/2015 11:31:04 AM : Test ended  after 00:01:07
+7/13/2015 11:31:04 AM : Going Back to Home screen.
+7/13/2015 11:31:04 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:31:11 AM : 1b217014_currentScreen-2015-07-13_11-31-04-AM.png
+7/13/2015 11:31:12 AM : Stopping The Run
+7/13/2015 11:31:13 AM : PandroaRadioPause key is not found
+The given key was not present in the dictionary.
+7/13/2015 11:31:13 AM : System.Diagnostics.ProcessStartInfo
+7/13/2015 11:31:13 AM : ************************End TestCase 0.1************************
+7/13/2015 11:31:23 AM : White list path C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 11:31:23 AM : Whitelist analysis argument C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 11:41:18 AM : White list path C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 11:41:18 AM : Whitelist analysis argument C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 11:41:25 AM : White list path C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt
+7/13/2015 11:41:25 AM : Whitelist analysis argument C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\whitelist.txt

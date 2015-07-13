@@ -1,0 +1,66 @@
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\BarracudaGUI.csprojResolveAssemblyReference.cache
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\GibbonGUI.About.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\LogForm.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\GibbonGUI.MainForm.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\GibbonGUI.AndroidDeviceControl.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\GibbonGUI.PhoneForm.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\GibbonGUI.Properties.Resources.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\GibbonGUI.UCTestcasesGrid.resources
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\BarracudaGUI.csproj.GenerateResource.Cache
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).exe.manifest
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).exe
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).pdb
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).exe.config
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).exe.manifest
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).application
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).exe
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).pdb
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Emgu.CV.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Emgu.CV.GPU.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Emgu.CV.OCR.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Emgu.CV.UI.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\Emgu.Util.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\FileHelpers.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\GibbonLib.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\GraphComponents.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\matb.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\WatiN.Core.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\WhiteListStatLib.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\eExNetworkLibrary.dll
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\GibbonLib.pdb
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\WhiteListStatLib.pdb
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\WatiN.Core.xml
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\eExNetworkLibrary.pdb
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\eExNetworkLibrary.xml
+D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).application
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).exe.config
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).exe.manifest
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).application
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).exe
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Barccuda Automation (TMO).pdb
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Emgu.CV.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Emgu.CV.GPU.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Emgu.CV.OCR.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Emgu.CV.UI.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\Emgu.Util.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\FileHelpers.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\GibbonLib.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\GraphComponents.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\matb.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\WhiteListStatLib.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\eExNetworkLibrary.dll
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\GibbonLib.pdb
+C:\Automation\MusicAutomationProjects\BarracudaGUI\bin\Debug\WhiteListStatLib.pdb
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\BarracudaGUI.csprojResolveAssemblyReference.cache
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\GibbonGUI.About.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\LogForm.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\GibbonGUI.MainForm.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\GibbonGUI.AndroidDeviceControl.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\GibbonGUI.PhoneForm.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\GibbonGUI.Properties.Resources.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\GibbonGUI.UCTestcasesGrid.resources
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\BarracudaGUI.csproj.GenerateResource.Cache
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).exe.manifest
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).application
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).exe
+C:\Automation\MusicAutomationProjects\BarracudaGUI\obj\x86\Debug\Barccuda Automation (TMO).pdb

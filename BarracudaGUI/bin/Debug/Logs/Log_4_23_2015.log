@@ -1,0 +1,621 @@
+4/23/2015 1:17:14 PM : ******************Start TestCase 0.1******************
+4/23/2015 1:17:14 PM : Delete Logs and restart device
+4/23/2015 1:17:14 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+4/23/2015 1:17:14 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:17:24 PM : Going Back to Home screen.
+4/23/2015 1:17:24 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:17:34 PM : d41c9385_currentScreen-2015-04-23_01-17-24-PM.png
+4/23/2015 1:17:34 PM : Going Back to Home screen.
+4/23/2015 1:17:35 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:17:41 PM : d41c9385_currentScreen-2015-04-23_01-17-35-PM.png
+4/23/2015 1:17:42 PM : Clicking by template DialerIconStart.png
+4/23/2015 1:17:42 PM : Verfiying template DialerIconStart.png
+4/23/2015 1:17:43 PM : Accuracy is D=0.999999582767487
+4/23/2015 1:17:43 PM : Template DialerIconStart.png is Verified. 
+4/23/2015 1:17:43 PM : Touching on  X=54, Y=863
+4/23/2015 1:17:43 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:17:51 PM : d41c9385_currentScreen-2015-04-23_01-17-43-PM.png
+4/23/2015 1:17:51 PM : typing #932#
+4/23/2015 1:17:52 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:17:59 PM : d41c9385_currentScreen-2015-04-23_01-17-52-PM.png
+4/23/2015 1:18:00 PM : Clicking by template DialerIconCall.png
+4/23/2015 1:18:01 PM : Verfiying template DialerIconCall.png
+4/23/2015 1:18:01 PM : Accuracy is D=1
+4/23/2015 1:18:01 PM : Template DialerIconCall.png is Verified. 
+4/23/2015 1:18:01 PM : Touching on  X=268, Y=910
+4/23/2015 1:18:01 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:18:08 PM : d41c9385_currentScreen-2015-04-23_01-18-01-PM.png
+4/23/2015 1:18:09 PM : Wait 10 seconds to get the datausage message
+4/23/2015 1:18:19 PM : Taking screen shot...
+4/23/2015 1:18:19 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:18:26 PM : d41c9385_currentScreen-2015-04-23_01-18-19-PM.png
+4/23/2015 1:18:30 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:18:31 PM : ************************End TestCase 0.1************************
+4/23/2015 1:18:37 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/23/2015 1:18:37 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:38 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:18:39 PM : Index was outside the bounds of the array.
+4/23/2015 1:19:33 PM : ******************Start TestCase 0.1******************
+4/23/2015 1:19:33 PM : Delete Logs and restart device
+4/23/2015 1:19:33 PM : Delete sdcard/log file  -s d41c9385 shell rm -r /sdcard/log
+4/23/2015 1:19:33 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:19:43 PM : Going Back to Home screen.
+4/23/2015 1:19:43 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:19:49 PM : d41c9385_currentScreen-2015-04-23_01-19-43-PM.png
+4/23/2015 1:19:50 PM : Going Back to Home screen.
+4/23/2015 1:19:51 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:19:57 PM : d41c9385_currentScreen-2015-04-23_01-19-51-PM.png
+4/23/2015 1:19:57 PM : Clicking by template DialerIconStart.png
+4/23/2015 1:19:58 PM : Verfiying template DialerIconStart.png
+4/23/2015 1:19:58 PM : Accuracy is D=0.999999582767487
+4/23/2015 1:19:58 PM : Template DialerIconStart.png is Verified. 
+4/23/2015 1:19:58 PM : Touching on  X=54, Y=863
+4/23/2015 1:19:58 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:20:05 PM : d41c9385_currentScreen-2015-04-23_01-19-58-PM.png
+4/23/2015 1:20:06 PM : typing #932#
+4/23/2015 1:20:06 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:20:14 PM : d41c9385_currentScreen-2015-04-23_01-20-06-PM.png
+4/23/2015 1:20:15 PM : Clicking by template DialerIconCall.png
+4/23/2015 1:20:15 PM : Verfiying template DialerIconCall.png
+4/23/2015 1:20:16 PM : Accuracy is D=1
+4/23/2015 1:20:16 PM : Template DialerIconCall.png is Verified. 
+4/23/2015 1:20:16 PM : Touching on  X=268, Y=910
+4/23/2015 1:20:16 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:20:23 PM : d41c9385_currentScreen-2015-04-23_01-20-16-PM.png
+4/23/2015 1:20:24 PM : Wait 10 seconds to get the datausage message
+4/23/2015 1:20:34 PM : Taking screen shot...
+4/23/2015 1:20:34 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:20:41 PM : d41c9385_currentScreen-2015-04-23_01-20-34-PM.png
+4/23/2015 1:20:44 PM : Clicking by template WEB_OK.png
+4/23/2015 1:20:44 PM : Verfiying template WEB_OK.png
+4/23/2015 1:20:44 PM : Accuracy is D=0.99991238117218
+4/23/2015 1:20:44 PM : Template WEB_OK.png is Verified. 
+4/23/2015 1:20:44 PM : Touching on  X=270, Y=590
+4/23/2015 1:20:45 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:20:52 PM : d41c9385_currentScreen-2015-04-23_01-20-45-PM.png
+4/23/2015 1:20:52 PM : Start TCPDump
+4/23/2015 1:20:53 PM : Clicking by template DialerIconStart.png
+4/23/2015 1:20:53 PM : Verfiying template DialerIconStart.png
+4/23/2015 1:20:53 PM : Accuracy is D=0.736172378063202
+4/23/2015 1:20:53 PM : Template DialerIconStart.png is not Verified!
+4/23/2015 1:20:53 PM : typing *#9900#
+4/23/2015 1:20:53 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:02 PM : d41c9385_currentScreen-2015-04-23_01-20-53-PM.png
+4/23/2015 1:21:02 PM : Taking screen shot...
+4/23/2015 1:21:03 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:09 PM : d41c9385_currentScreen-2015-04-23_01-21-03-PM.png
+4/23/2015 1:21:10 PM : Scrolling two page down..
+4/23/2015 1:21:10 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:18 PM : d41c9385_currentScreen-2015-04-23_01-21-10-PM.png
+4/23/2015 1:21:18 PM : Taking screen shot...
+4/23/2015 1:21:19 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:25 PM : d41c9385_currentScreen-2015-04-23_01-21-19-PM.png
+4/23/2015 1:21:26 PM : Clicking by template TCPDUMPSTART.png
+4/23/2015 1:21:26 PM : Verfiying template TCPDUMPSTART.png
+4/23/2015 1:21:26 PM : Accuracy is D=0.999999284744263
+4/23/2015 1:21:26 PM : Template TCPDUMPSTART.png is Verified. 
+4/23/2015 1:21:26 PM : Touching on  X=269, Y=418
+4/23/2015 1:21:26 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:34 PM : d41c9385_currentScreen-2015-04-23_01-21-26-PM.png
+4/23/2015 1:21:34 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/23/2015 1:21:35 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/23/2015 1:21:35 PM : Accuracy is D=1
+4/23/2015 1:21:35 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+4/23/2015 1:21:35 PM : Touching on  X=267, Y=83
+4/23/2015 1:21:35 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:42 PM : d41c9385_currentScreen-2015-04-23_01-21-35-PM.png
+4/23/2015 1:21:43 PM : Clicking by template TCPDUMPSTART_OK.png
+4/23/2015 1:21:43 PM : Verfiying template TCPDUMPSTART_OK.png
+4/23/2015 1:21:43 PM : Accuracy is D=1
+4/23/2015 1:21:43 PM : Template TCPDUMPSTART_OK.png is Verified. 
+4/23/2015 1:21:43 PM : Touching on  X=393, Y=912
+4/23/2015 1:21:44 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:51 PM : d41c9385_currentScreen-2015-04-23_01-21-44-PM.png
+4/23/2015 1:21:51 PM : Going Back to Home screen.
+4/23/2015 1:21:52 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:21:59 PM : d41c9385_currentScreen-2015-04-23_01-21-52-PM.png
+4/23/2015 1:21:59 PM : Going Back to Home screen.
+4/23/2015 1:22:00 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:06 PM : d41c9385_currentScreen-2015-04-23_01-22-00-PM.png
+4/23/2015 1:22:07 PM : Play band Alternat
+4/23/2015 1:22:07 PM : Start Pandora
+4/23/2015 1:22:07 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:22:07 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:22:07 PM : Accuracy is D=0.999991059303284
+4/23/2015 1:22:08 PM : Template PandoraStartIcon.png is Verified. 
+4/23/2015 1:22:08 PM : Touching on  X=69, Y=97
+4/23/2015 1:22:08 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:15 PM : d41c9385_currentScreen-2015-04-23_01-22-08-PM.png
+4/23/2015 1:22:16 PM : Taking screen shot...
+4/23/2015 1:22:16 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:23 PM : d41c9385_currentScreen-2015-04-23_01-22-16-PM.png
+4/23/2015 1:22:23 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:22:24 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:22:24 PM : Accuracy is D=0.460616916418076
+4/23/2015 1:22:24 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:22:24 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:22:24 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:22:24 PM : Accuracy is D=0.51025915145874
+4/23/2015 1:22:24 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:22:24 PM : Taking screen shot...
+4/23/2015 1:22:24 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:31 PM : d41c9385_currentScreen-2015-04-23_01-22-24-PM.png
+4/23/2015 1:22:34 PM : Going Back to Home screen.
+4/23/2015 1:22:34 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:41 PM : d41c9385_currentScreen-2015-04-23_01-22-34-PM.png
+4/23/2015 1:22:42 PM : Play band Alternat
+4/23/2015 1:22:42 PM : Start Pandora
+4/23/2015 1:22:42 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:22:42 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:22:42 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:22:42 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:22:42 PM : Taking screen shot...
+4/23/2015 1:22:42 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:49 PM : d41c9385_currentScreen-2015-04-23_01-22-42-PM.png
+4/23/2015 1:22:49 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:22:50 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:22:50 PM : Accuracy is D=0.259521871805191
+4/23/2015 1:22:50 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:22:50 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:22:50 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:22:50 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:22:50 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:22:50 PM : Taking screen shot...
+4/23/2015 1:22:50 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:22:57 PM : d41c9385_currentScreen-2015-04-23_01-22-50-PM.png
+4/23/2015 1:23:00 PM : Going Back to Home screen.
+4/23/2015 1:23:00 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:07 PM : d41c9385_currentScreen-2015-04-23_01-23-00-PM.png
+4/23/2015 1:23:07 PM : Play band Alternat
+4/23/2015 1:23:08 PM : Start Pandora
+4/23/2015 1:23:08 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:23:08 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:23:08 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:23:08 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:23:08 PM : Taking screen shot...
+4/23/2015 1:23:08 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:15 PM : d41c9385_currentScreen-2015-04-23_01-23-08-PM.png
+4/23/2015 1:23:15 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:23:16 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:23:16 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:23:16 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:23:16 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:23:16 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:23:16 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:23:16 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:23:16 PM : Taking screen shot...
+4/23/2015 1:23:16 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:23 PM : d41c9385_currentScreen-2015-04-23_01-23-16-PM.png
+4/23/2015 1:23:26 PM : Going Back to Home screen.
+4/23/2015 1:23:26 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:32 PM : d41c9385_currentScreen-2015-04-23_01-23-26-PM.png
+4/23/2015 1:23:33 PM : Play band Alternat
+4/23/2015 1:23:33 PM : Start Pandora
+4/23/2015 1:23:33 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:23:33 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:23:34 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:23:34 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:23:34 PM : Taking screen shot...
+4/23/2015 1:23:34 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:40 PM : d41c9385_currentScreen-2015-04-23_01-23-34-PM.png
+4/23/2015 1:23:41 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:23:41 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:23:41 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:23:41 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:23:41 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:23:41 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:23:41 PM : Accuracy is D=0.536444365978241
+4/23/2015 1:23:41 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:23:42 PM : Taking screen shot...
+4/23/2015 1:23:42 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:48 PM : d41c9385_currentScreen-2015-04-23_01-23-42-PM.png
+4/23/2015 1:23:51 PM : Going Back to Home screen.
+4/23/2015 1:23:51 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:23:58 PM : d41c9385_currentScreen-2015-04-23_01-23-51-PM.png
+4/23/2015 1:23:58 PM : Play band Alternat
+4/23/2015 1:23:59 PM : Start Pandora
+4/23/2015 1:23:59 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:23:59 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:23:59 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:23:59 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:23:59 PM : Taking screen shot...
+4/23/2015 1:23:59 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:06 PM : d41c9385_currentScreen-2015-04-23_01-23-59-PM.png
+4/23/2015 1:24:06 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:24:07 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:24:07 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:24:07 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:24:07 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:24:07 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:24:07 PM : Accuracy is D=0.536444365978241
+4/23/2015 1:24:07 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:24:07 PM : Taking screen shot...
+4/23/2015 1:24:07 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:14 PM : d41c9385_currentScreen-2015-04-23_01-24-07-PM.png
+4/23/2015 1:24:17 PM : Going Back to Home screen.
+4/23/2015 1:24:17 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:23 PM : d41c9385_currentScreen-2015-04-23_01-24-17-PM.png
+4/23/2015 1:24:24 PM : Play band Alternat
+4/23/2015 1:24:24 PM : Start Pandora
+4/23/2015 1:24:24 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:24:25 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:24:25 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:24:25 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:24:25 PM : Taking screen shot...
+4/23/2015 1:24:25 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:31 PM : d41c9385_currentScreen-2015-04-23_01-24-25-PM.png
+4/23/2015 1:24:32 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:24:32 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:24:32 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:24:32 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:24:32 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:24:32 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:24:33 PM : Accuracy is D=0.536444365978241
+4/23/2015 1:24:33 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:24:33 PM : Taking screen shot...
+4/23/2015 1:24:33 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:39 PM : d41c9385_currentScreen-2015-04-23_01-24-33-PM.png
+4/23/2015 1:24:42 PM : Going Back to Home screen.
+4/23/2015 1:24:42 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:49 PM : d41c9385_currentScreen-2015-04-23_01-24-42-PM.png
+4/23/2015 1:24:49 PM : Play band Alternat
+4/23/2015 1:24:50 PM : Start Pandora
+4/23/2015 1:24:50 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:24:50 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:24:50 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:24:50 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:24:50 PM : Taking screen shot...
+4/23/2015 1:24:50 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:24:56 PM : d41c9385_currentScreen-2015-04-23_01-24-50-PM.png
+4/23/2015 1:24:57 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:24:58 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:24:58 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:24:58 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:24:58 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:24:58 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:24:58 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:24:58 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:24:58 PM : Taking screen shot...
+4/23/2015 1:24:58 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:05 PM : d41c9385_currentScreen-2015-04-23_01-24-58-PM.png
+4/23/2015 1:25:08 PM : Going Back to Home screen.
+4/23/2015 1:25:08 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:15 PM : d41c9385_currentScreen-2015-04-23_01-25-08-PM.png
+4/23/2015 1:25:15 PM : Play band Alternat
+4/23/2015 1:25:16 PM : Start Pandora
+4/23/2015 1:25:16 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:25:16 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:25:16 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:25:16 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:25:16 PM : Taking screen shot...
+4/23/2015 1:25:16 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:22 PM : d41c9385_currentScreen-2015-04-23_01-25-16-PM.png
+4/23/2015 1:25:23 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:25:23 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:25:24 PM : Accuracy is D=0.259523004293442
+4/23/2015 1:25:24 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:25:24 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:25:24 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:25:24 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:25:24 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:25:24 PM : Taking screen shot...
+4/23/2015 1:25:24 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:30 PM : d41c9385_currentScreen-2015-04-23_01-25-24-PM.png
+4/23/2015 1:25:33 PM : Going Back to Home screen.
+4/23/2015 1:25:33 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:40 PM : d41c9385_currentScreen-2015-04-23_01-25-33-PM.png
+4/23/2015 1:25:41 PM : Play band Alternat
+4/23/2015 1:25:41 PM : Start Pandora
+4/23/2015 1:25:41 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:25:41 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:25:42 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:25:42 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:25:42 PM : Taking screen shot...
+4/23/2015 1:25:42 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:48 PM : d41c9385_currentScreen-2015-04-23_01-25-42-PM.png
+4/23/2015 1:25:49 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:25:49 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:25:49 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:25:49 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:25:49 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:25:50 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:25:50 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:25:50 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:25:50 PM : Taking screen shot...
+4/23/2015 1:25:50 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:25:56 PM : d41c9385_currentScreen-2015-04-23_01-25-50-PM.png
+4/23/2015 1:25:59 PM : Going Back to Home screen.
+4/23/2015 1:26:00 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:06 PM : d41c9385_currentScreen-2015-04-23_01-25-59-PM.png
+4/23/2015 1:26:06 PM : Play band Alternat
+4/23/2015 1:26:07 PM : Start Pandora
+4/23/2015 1:26:07 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:26:07 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:26:07 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:26:07 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:26:07 PM : Taking screen shot...
+4/23/2015 1:26:07 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:14 PM : d41c9385_currentScreen-2015-04-23_01-26-07-PM.png
+4/23/2015 1:26:14 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:26:15 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:26:15 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:26:15 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:26:15 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:26:15 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:26:15 PM : Accuracy is D=0.536444842815399
+4/23/2015 1:26:15 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:26:15 PM : Taking screen shot...
+4/23/2015 1:26:15 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:22 PM : d41c9385_currentScreen-2015-04-23_01-26-15-PM.png
+4/23/2015 1:26:25 PM : Going Back to Home screen.
+4/23/2015 1:26:25 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:31 PM : d41c9385_currentScreen-2015-04-23_01-26-25-PM.png
+4/23/2015 1:26:32 PM : Play band Alternat
+4/23/2015 1:26:32 PM : Start Pandora
+4/23/2015 1:26:32 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:26:32 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:26:33 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:26:33 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:26:33 PM : Taking screen shot...
+4/23/2015 1:26:33 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:39 PM : d41c9385_currentScreen-2015-04-23_01-26-33-PM.png
+4/23/2015 1:26:40 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:26:40 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:26:40 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:26:40 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:26:40 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:26:40 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:26:41 PM : Accuracy is D=0.536444842815399
+4/23/2015 1:26:41 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:26:41 PM : Taking screen shot...
+4/23/2015 1:26:41 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:47 PM : d41c9385_currentScreen-2015-04-23_01-26-41-PM.png
+4/23/2015 1:26:50 PM : Going Back to Home screen.
+4/23/2015 1:26:50 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:26:57 PM : d41c9385_currentScreen-2015-04-23_01-26-50-PM.png
+4/23/2015 1:26:57 PM : Play band Alternat
+4/23/2015 1:26:58 PM : Start Pandora
+4/23/2015 1:26:58 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:26:58 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:26:58 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:26:58 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:26:58 PM : Taking screen shot...
+4/23/2015 1:26:58 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:05 PM : d41c9385_currentScreen-2015-04-23_01-26-58-PM.png
+4/23/2015 1:27:05 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:27:06 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:27:06 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:27:06 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:27:06 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:27:06 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:27:06 PM : Accuracy is D=0.536444365978241
+4/23/2015 1:27:06 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:27:06 PM : Taking screen shot...
+4/23/2015 1:27:06 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:13 PM : d41c9385_currentScreen-2015-04-23_01-27-06-PM.png
+4/23/2015 1:27:16 PM : Going Back to Home screen.
+4/23/2015 1:27:16 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:23 PM : d41c9385_currentScreen-2015-04-23_01-27-16-PM.png
+4/23/2015 1:27:23 PM : Play band Alternat
+4/23/2015 1:27:24 PM : Start Pandora
+4/23/2015 1:27:24 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:27:24 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:27:24 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:27:24 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:27:24 PM : Taking screen shot...
+4/23/2015 1:27:24 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:31 PM : d41c9385_currentScreen-2015-04-23_01-27-24-PM.png
+4/23/2015 1:27:31 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:27:32 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:27:32 PM : Accuracy is D=0.259523004293442
+4/23/2015 1:27:32 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:27:32 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:27:32 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:27:32 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:27:32 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:27:32 PM : Taking screen shot...
+4/23/2015 1:27:32 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:39 PM : d41c9385_currentScreen-2015-04-23_01-27-32-PM.png
+4/23/2015 1:27:42 PM : Going Back to Home screen.
+4/23/2015 1:27:42 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:48 PM : d41c9385_currentScreen-2015-04-23_01-27-42-PM.png
+4/23/2015 1:27:49 PM : Play band Alternat
+4/23/2015 1:27:50 PM : Start Pandora
+4/23/2015 1:27:50 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:27:50 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:27:50 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:27:50 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:27:50 PM : Taking screen shot...
+4/23/2015 1:27:50 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:27:56 PM : d41c9385_currentScreen-2015-04-23_01-27-50-PM.png
+4/23/2015 1:27:57 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:27:57 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:27:58 PM : Accuracy is D=0.259523004293442
+4/23/2015 1:27:58 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:27:58 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:27:58 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:27:58 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:27:58 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:27:58 PM : Taking screen shot...
+4/23/2015 1:27:58 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:04 PM : d41c9385_currentScreen-2015-04-23_01-27-58-PM.png
+4/23/2015 1:28:07 PM : Going Back to Home screen.
+4/23/2015 1:28:07 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:14 PM : d41c9385_currentScreen-2015-04-23_01-28-07-PM.png
+4/23/2015 1:28:15 PM : Play band Alternat
+4/23/2015 1:28:15 PM : Start Pandora
+4/23/2015 1:28:15 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:28:15 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:28:16 PM : Accuracy is D=0.465098798274994
+4/23/2015 1:28:16 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:28:16 PM : Taking screen shot...
+4/23/2015 1:28:16 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:22 PM : d41c9385_currentScreen-2015-04-23_01-28-16-PM.png
+4/23/2015 1:28:23 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:28:23 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:28:23 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:28:23 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:28:24 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:28:24 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:28:24 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:28:24 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:28:24 PM : Taking screen shot...
+4/23/2015 1:28:24 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:30 PM : d41c9385_currentScreen-2015-04-23_01-28-24-PM.png
+4/23/2015 1:28:33 PM : Going Back to Home screen.
+4/23/2015 1:28:33 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:40 PM : d41c9385_currentScreen-2015-04-23_01-28-33-PM.png
+4/23/2015 1:28:41 PM : Play band Alternat
+4/23/2015 1:28:41 PM : Start Pandora
+4/23/2015 1:28:41 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:28:41 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:28:41 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:28:41 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:28:41 PM : Taking screen shot...
+4/23/2015 1:28:41 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:48 PM : d41c9385_currentScreen-2015-04-23_01-28-41-PM.png
+4/23/2015 1:28:48 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:28:49 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:28:49 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:28:49 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:28:49 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:28:49 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:28:49 PM : Accuracy is D=0.536444842815399
+4/23/2015 1:28:49 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:28:49 PM : Taking screen shot...
+4/23/2015 1:28:49 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:28:56 PM : d41c9385_currentScreen-2015-04-23_01-28-49-PM.png
+4/23/2015 1:28:59 PM : Going Back to Home screen.
+4/23/2015 1:28:59 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:29:06 PM : d41c9385_currentScreen-2015-04-23_01-28-59-PM.png
+4/23/2015 1:29:06 PM : Play band Alternat
+4/23/2015 1:29:07 PM : Start Pandora
+4/23/2015 1:29:07 PM : Clicking by template PandoraStartIcon.png
+4/23/2015 1:29:07 PM : Verfiying template PandoraStartIcon.png
+4/23/2015 1:29:07 PM : Accuracy is D=0.45820340514183
+4/23/2015 1:29:07 PM : Template PandoraStartIcon.png is not Verified!
+4/23/2015 1:29:07 PM : Taking screen shot...
+4/23/2015 1:29:07 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:29:13 PM : d41c9385_currentScreen-2015-04-23_01-29-07-PM.png
+4/23/2015 1:29:14 PM : Clicking by template PandroaRadioPause.png
+4/23/2015 1:29:15 PM : Verfiying template PandroaRadioPause.png
+4/23/2015 1:29:15 PM : Accuracy is D=0.259522616863251
+4/23/2015 1:29:15 PM : Template PandroaRadioPause.png is not Verified!
+4/23/2015 1:29:15 PM : Clicking by template PandoraBackToList.png
+4/23/2015 1:29:15 PM : Verfiying template PandoraBackToList.png
+4/23/2015 1:29:15 PM : Accuracy is D=0.536444544792175
+4/23/2015 1:29:15 PM : Template PandoraBackToList.png is not Verified!
+4/23/2015 1:29:15 PM : Taking screen shot...
+4/23/2015 1:29:15 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:29:21 PM : d41c9385_currentScreen-2015-04-23_01-29-15-PM.png
+4/23/2015 1:29:24 PM : Test ended  after 00:07:25
+4/23/2015 1:29:24 PM : Going Back to Home screen.
+4/23/2015 1:29:24 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:29:31 PM : d41c9385_currentScreen-2015-04-23_01-29-24-PM.png
+4/23/2015 1:29:32 PM : Going Back to Home screen.
+4/23/2015 1:29:32 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:29:39 PM : d41c9385_currentScreen-2015-04-23_01-29-32-PM.png
+4/23/2015 1:29:40 PM : Clicking by template DialerIconStart.png
+4/23/2015 1:29:40 PM : Verfiying template DialerIconStart.png
+4/23/2015 1:29:40 PM : Accuracy is D=0.672445178031921
+4/23/2015 1:29:40 PM : Template DialerIconStart.png is not Verified!
+4/23/2015 1:29:41 PM : typing #932#
+4/23/2015 1:29:41 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:29:49 PM : d41c9385_currentScreen-2015-04-23_01-29-41-PM.png
+4/23/2015 1:29:49 PM : Clicking by template DialerIconCall.png
+4/23/2015 1:29:50 PM : Verfiying template DialerIconCall.png
+4/23/2015 1:29:50 PM : Accuracy is D=0.627187609672546
+4/23/2015 1:29:50 PM : Template DialerIconCall.png is not Verified!
+4/23/2015 1:29:50 PM : Wait 10 seconds to get the datausage message
+4/23/2015 1:30:00 PM : Taking screen shot...
+4/23/2015 1:30:00 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:30:06 PM : d41c9385_currentScreen-2015-04-23_01-30-00-PM.png
+4/23/2015 1:30:10 PM : System.Diagnostics.ProcessStartInfo
+4/23/2015 1:30:10 PM : ************************End TestCase 0.1************************
+4/23/2015 3:54:58 PM : White list path D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/23/2015 3:54:58 PM : Whitelist analysis argument D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\bin\Debug\whitelist.txt
+4/23/2015 3:54:58 PM : Exception : Invoke or BeginInvoke cannot be called on a control until the window handle has been created.

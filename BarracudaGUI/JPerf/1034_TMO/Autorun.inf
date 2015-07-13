@@ -1,0 +1,4 @@
+[Autorun]
+Open=PcOptions.exe
+Icon=res\vender_tmo.ico
+Label=Mobile Partner

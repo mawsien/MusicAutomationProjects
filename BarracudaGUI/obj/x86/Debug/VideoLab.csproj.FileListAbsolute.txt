@@ -1,0 +1,16 @@
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab.MainForm.resources
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab.Properties.Resources.resources
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\LogForm.resources
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab.AndroidDeviceControl.resources
+C:\TMO-Projects\Qik\VideoLab\VideoLab\bin\Debug\GraphComponents.dll
+C:\TMO-Projects\Qik\VideoLab\VideoLab\bin\Debug\FileHelpers.dll
+C:\TMO-Projects\Qik\VideoLab\VideoLab\bin\Debug\matb.dll
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab.ChromaticControl.resources
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab.About.resources
+C:\TMO-Projects\Qik\VideoLab\VideoLab\bin\Debug\VideoLab (TMO).exe
+C:\TMO-Projects\Qik\VideoLab\VideoLab\bin\Debug\VideoLab (TMO).pdb
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab (TMO).exe
+C:\TMO-Projects\Qik\VideoLab\VideoLab\obj\x86\Debug\VideoLab (TMO).pdb

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <MatchTemplates>
+  
+  <Template  Name="PandoraStartIcon" Template="PandoraStartIcon.png" Index="1"  Accuracy="0.90">
+  </Template>
+  <Template  Name="PandoraBackToList" Template="PandoraBackToList.png" Index="1"  Accuracy="0.95">
+  </Template>
+ <Template  Name="PandroaRadioPause" Template="PandroaRadioPause.png" Index="1"  Accuracy="0.95">
+  </Template>
+<Template  Name="PandoraRadioStart" Template="PandoraRadioStart.png" Index="1"  Accuracy="0.95">
+  </Template>
+<Template  Name="Tatu" Template="Tatu.png" Index="1"  Accuracy="0.95">
+  </Template>
+<Template  Name="Cranberries" Template="Cranberries.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="DialerIconStart" Template="DialerIconStart.png" Index="1"  Accuracy="0.95">
+  </Template>TCPDUMPSTART
+
+<Template  Name="TCPDUMPSTART" Template="TCPDUMPSTART.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTART_ANY" Template="TCPDUMPSTART_ANY.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTART_OK" Template="TCPDUMPSTART_OK.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTOP" Template="TCPDUMPSTOP.png" Index="1"  Accuracy="0.95">
+  </Template>
+<Template  Name="TCPDUMPSTOP_OK" Template="TCPDUMPSTOP_OK.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPSTATE" Template="TCPDUMPSTATE.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+<Template  Name="TCPDUMPTOSDCARD" Template="TCPDUMPTOSDCARD.png" Index="1"  Accuracy="0.95">
+  </Template>
+
+  </MatchTemplates>
+
+  <StepTemplates>
+    <Step Name="ToEnableNetwork"  Steps="ForceClick:Datausage,1>Click:NetworkOFF.png,1,400|150>Wait:5>Validate:NetworkON.png" >
+    </Step>
+    <Step Name="ToDisableNetwork"  Steps="ForceClick:Datausage,1>Click:NetworkON.png,1,400|150>ForceClick:OK,1>Validate:NetworkOFF.png">
+    </Step>
+    <Step Name="ToWiFiScannedList" Steps="GoAllBack>ForceClick:WiFiManagerIcon" >
+    </Step>
+    <Step Name="ToDisableWiFi" Steps="Click:WiFiON.png,1>WaitUntilExists:WiFiOFF,10,0.99" >
+    </Step>
+    <Step Name="IPerf" Steps="GoAllBack>ForceClick:IPerfIcon>Wait:3>ClickMenu>ForceClick:IPerfClear>Wait:3>ForceClick:IPerfOff>Wait:30" >
+    </Step>
+    <Step Name="ToMakeIMSCall" Steps="MakeACall" >
+    </Step>
+    <Step Name="ToEndIMSCall" Steps="EndACall" >
+    </Step>
+
+      <Step Name="AnswerCall" Steps="WaitUntilExists:AnswerCall.png>GoHome" >
+    </Step>
+
+       <Step Name="ToEnableWiFiCalling" Steps="RunSettings>Click:More>ScrollDown>Click:OFF>Wait:30>TakeScreenShot>WaitUntilExists:WIFICallingEnabled,30" >
+       </Step>
+
+       <Step Name="ToDisableWiFiCalling" Steps="RunSettings>Click:More>ScrollDown>Click:ON>Wait:30>TakeScreenShot>WaitUntilExists:WIFICallingDisabled,30" >
+       </Step>
+
+     <Step Name="SetWiFiCallingMode" Steps="RunSettings>Click:More>Click:WIFICallingDisabled>WaitUntilExists:WIFICallingEnabled,10>ForceClick:WiFiCallingSettings>ForceClick:WiFiConnectionPreferences>Click:param1>Wait:5>TakeScreenShot>Validate:param2>Click:Ok" >
+     </Step>
+
+     
+
+     <Step Name="ToBrowseWeb" Steps="Click:CALL.png,1>Click:ENDCALL.png,1>Wait:2>GoBack" >
+     </Step>
+    
+     <Step Name="ToDisableEnableAirplaneMode" Steps="GoAllBack>RunSettings>ForceClick:More,1>Wait:2>Click:AirplaneModeOff>Wait:2>Click:Ok>Wait:2>Click:AirplaneModeOn>Click:Ok>Wait:5>WaitUntilExists:AirplaneModeOff,10" >
+     </Step>
+
+
+     <Step Name="ToEnableDisableSIMLock" Steps="GoAllBack>RunSettings>ScrollPageDownTwoPages>ForceClick:Security,1>Click:SIMCardLock>Wait:5>TakeScreenShot>ForceClick:param1>Wait:2>Type:SIMLockCode>Click:Ok>Validate:param2>ForceClick:Ok" >
+     </Step>
+
+  </StepTemplates>
+  <Paths>
+    <Path Name="DeviceImageFolderPath"  Path="Images1\"></Path>
+  </Paths>
+</Root>
+
+

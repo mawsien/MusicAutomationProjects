@@ -1,0 +1,26 @@
+securityPage,WL_WPATable.asp
+ddlSecurityMode,security_mode2
+wpa_wpa2_mixed,wpa_wpa2_mixed
+wpa2_personal,wpa2_personal
+wpa_personal,wpa_personal
+wpa_wpa2_enterprise,wpa2_enterprise
+wpa2_enterprise,wpa2_enterprise
+wpa_enterprise,wpa_enterprise
+radius,radius
+securityModeDisabled,disabled
+ddlEncryption,wl_wep_bit
+wep64,wep
+wep128,wep
+64,64
+128,128
+wl_key1,wl_key1
+passphrass,wl_wpa_psk,wl_wpa_psk
+channelPage,Wireless_Basic.asp
+ddlChannels,wl_net_mode
+Mixed,mixed
+bg-mixed,bg-mixed
+g-only,g-only
+b-only,b-only
+n-only,n-only
+channelDisabled,disabled
+SuccessText,Settings are successful

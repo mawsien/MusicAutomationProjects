@@ -1,0 +1,2160 @@
+4/15/2015 10:01:34 AM : ******************Start TestCase 0.1******************
+4/15/2015 10:01:42 AM : Starting timer for   1
+4/15/2015 10:01:42 AM : Going Back to Home screen.
+4/15/2015 10:01:42 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:01:45 AM : Stoping the radio for
+4/15/2015 10:01:46 AM : Stoping the radio for
+4/15/2015 10:01:48 AM : Stoping the radio for
+4/15/2015 10:01:52 AM : Play band Alternative
+4/15/2015 10:01:53 AM : cf209085_currentScreen-2015-04-15_10-01-42-AM.png
+4/15/2015 10:01:53 AM : Start Pandora
+4/15/2015 10:01:54 AM : Clicking by template PandoraStartIcon.png
+4/15/2015 10:01:54 AM : Verfiying template PandoraStartIcon.png
+4/15/2015 10:01:55 AM : Accuracy is D=0.581228077411652
+4/15/2015 10:01:55 AM : Template PandoraStartIcon.png is not Verified!
+4/15/2015 10:01:55 AM : Taking screen shot...
+4/15/2015 10:01:55 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:02:00 AM : cf209085_currentScreen-2015-04-15_10-01-55-AM.png
+4/15/2015 10:02:01 AM : Clicking by template PandroaRadioPause.png
+4/15/2015 10:02:01 AM : D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\ImageFiles\Samsung\4.0\SoundCloud\PandroaRadioPause.png
+4/15/2015 10:02:01 AM : Object reference not set to an instance of an object.
+4/15/2015 10:02:01 AM : Verfiying template PandroaRadioPause.png
+4/15/2015 10:02:01 AM : D:\GDrive\Google Drive\T-Mobile\Barracuda Automation\BarracudaGUI\ImageFiles\Samsung\4.0\SoundCloud\PandroaRadioPause.png
+4/15/2015 10:02:01 AM : Object reference not set to an instance of an object.
+4/15/2015 10:02:01 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:02:02 AM : ************************End TestCase 0.1************************
+4/15/2015 10:03:03 AM : ******************Start TestCase 0.1******************
+4/15/2015 10:03:03 AM : Starting timer for   1
+4/15/2015 10:03:03 AM : Going Back to Home screen.
+4/15/2015 10:03:03 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:03:08 AM : cf209085_currentScreen-2015-04-15_10-03-03-AM.png
+4/15/2015 10:03:09 AM : Play band Alternative
+4/15/2015 10:03:09 AM : Start Pandora
+4/15/2015 10:03:09 AM : Clicking by template PandoraStartIcon.png
+4/15/2015 10:03:09 AM : Verfiying template PandoraStartIcon.png
+4/15/2015 10:03:10 AM : Accuracy is D=0.99998927116394
+4/15/2015 10:03:10 AM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 10:03:10 AM : Touching on  X=69, Y=97
+4/15/2015 10:03:10 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:03:16 AM : cf209085_currentScreen-2015-04-15_10-03-10-AM.png
+4/15/2015 10:03:16 AM : Taking screen shot...
+4/15/2015 10:03:17 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:03:22 AM : cf209085_currentScreen-2015-04-15_10-03-17-AM.png
+4/15/2015 10:03:23 AM : Clicking by template PandroaRadioPause.png
+4/15/2015 10:03:24 AM : Verfiying template PandroaRadioPause.png
+4/15/2015 10:03:24 AM : Accuracy is D=0.445918381214142
+4/15/2015 10:03:24 AM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 10:03:24 AM : Clicking by template PandoraBackToList.png
+4/15/2015 10:03:24 AM : Verfiying template PandoraBackToList.png
+4/15/2015 10:03:24 AM : Accuracy is D=1
+4/15/2015 10:03:24 AM : Template PandoraBackToList.png is Verified. 
+4/15/2015 10:03:24 AM : Touching on  X=34, Y=74
+4/15/2015 10:03:24 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:03:30 AM : cf209085_currentScreen-2015-04-15_10-03-24-AM.png
+4/15/2015 10:03:31 AM : Taking screen shot...
+4/15/2015 10:03:31 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:03:35 AM : Stoping the radio for
+4/15/2015 10:03:37 AM : cf209085_currentScreen-2015-04-15_10-03-31-AM.png
+4/15/2015 10:03:38 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:03:38 AM : ************************End TestCase 0.1************************
+4/15/2015 10:06:48 AM : ******************Start TestCase 0.1******************
+4/15/2015 10:06:48 AM : Starting timer for   1
+4/15/2015 10:06:49 AM : Going Back to Home screen.
+4/15/2015 10:06:49 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:06:54 AM : cf209085_currentScreen-2015-04-15_10-06-49-AM.png
+4/15/2015 10:06:55 AM : Play band Alternative
+4/15/2015 10:06:56 AM : Start Pandora
+4/15/2015 10:06:56 AM : Clicking by template PandoraStartIcon.png
+4/15/2015 10:06:56 AM : Verfiying template PandoraStartIcon.png
+4/15/2015 10:06:56 AM : Accuracy is D=0.99998927116394
+4/15/2015 10:06:56 AM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 10:06:56 AM : Touching on  X=69, Y=97
+4/15/2015 10:06:56 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:07:02 AM : cf209085_currentScreen-2015-04-15_10-06-56-AM.png
+4/15/2015 10:07:03 AM : Taking screen shot...
+4/15/2015 10:07:03 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:07:09 AM : cf209085_currentScreen-2015-04-15_10-07-03-AM.png
+4/15/2015 10:07:09 AM : Clicking by template PandroaRadioPause.png
+4/15/2015 10:07:10 AM : Verfiying template PandroaRadioPause.png
+4/15/2015 10:07:10 AM : Accuracy is D=0.445918381214142
+4/15/2015 10:07:10 AM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 10:07:10 AM : Clicking by template PandoraBackToList.png
+4/15/2015 10:07:10 AM : Verfiying template PandoraBackToList.png
+4/15/2015 10:07:10 AM : Accuracy is D=1
+4/15/2015 10:07:10 AM : Template PandoraBackToList.png is Verified. 
+4/15/2015 10:07:10 AM : Touching on  X=34, Y=74
+4/15/2015 10:07:10 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:07:17 AM : cf209085_currentScreen-2015-04-15_10-07-10-AM.png
+4/15/2015 10:07:17 AM : Taking screen shot...
+4/15/2015 10:07:18 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:07:18 AM : Stoping the radio for
+4/15/2015 10:07:23 AM : cf209085_currentScreen-2015-04-15_10-07-18-AM.png
+4/15/2015 10:07:24 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:07:25 AM : ************************End TestCase 0.1************************
+4/15/2015 10:10:38 AM : ******************Start TestCase 0.1******************
+4/15/2015 10:10:38 AM : Starting timer for   1
+4/15/2015 10:10:38 AM : Going Back to Home screen.
+4/15/2015 10:10:38 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:10:44 AM : cf209085_currentScreen-2015-04-15_10-10-38-AM.png
+4/15/2015 10:10:44 AM : Play band Alternative
+4/15/2015 10:10:45 AM : Start Pandora
+4/15/2015 10:10:45 AM : Clicking by template PandoraStartIcon.png
+4/15/2015 10:10:45 AM : Verfiying template PandoraStartIcon.png
+4/15/2015 10:10:45 AM : Accuracy is D=0.99998927116394
+4/15/2015 10:10:45 AM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 10:10:45 AM : Touching on  X=69, Y=97
+4/15/2015 10:10:45 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:10:51 AM : cf209085_currentScreen-2015-04-15_10-10-45-AM.png
+4/15/2015 10:10:52 AM : Taking screen shot...
+4/15/2015 10:10:52 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:10:58 AM : cf209085_currentScreen-2015-04-15_10-10-52-AM.png
+4/15/2015 10:10:58 AM : Clicking by template PandroaRadioPause.png
+4/15/2015 10:10:59 AM : Verfiying template PandroaRadioPause.png
+4/15/2015 10:10:59 AM : Accuracy is D=0.445918381214142
+4/15/2015 10:10:59 AM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 10:10:59 AM : Clicking by template PandoraBackToList.png
+4/15/2015 10:10:59 AM : Verfiying template PandoraBackToList.png
+4/15/2015 10:10:59 AM : Accuracy is D=1
+4/15/2015 10:10:59 AM : Template PandoraBackToList.png is Verified. 
+4/15/2015 10:10:59 AM : Touching on  X=34, Y=74
+4/15/2015 10:10:59 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:11:06 AM : cf209085_currentScreen-2015-04-15_10-10-59-AM.png
+4/15/2015 10:11:06 AM : Taking screen shot...
+4/15/2015 10:11:07 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:11:08 AM : Stoping the radio for
+4/15/2015 10:11:12 AM : cf209085_currentScreen-2015-04-15_10-11-07-AM.png
+4/15/2015 10:11:13 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 10:11:14 AM : ************************End TestCase 0.1************************
+4/15/2015 11:21:08 AM : ******************Start TestCase 0.1******************
+4/15/2015 11:21:09 AM : Starting timer for   1
+4/15/2015 11:21:09 AM : Going Back to Home screen.
+4/15/2015 11:21:09 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 11:21:14 AM : cf209085_currentScreen-2015-04-15_11-21-09-AM.png
+4/15/2015 11:21:15 AM : Play band Alternative
+4/15/2015 11:21:15 AM : Start Pandora
+4/15/2015 11:21:15 AM : Clicking by template PandoraStartIcon.png
+4/15/2015 11:21:15 AM : Verfiying template PandoraStartIcon.png
+4/15/2015 11:21:15 AM : Accuracy is D=0.999987542629242
+4/15/2015 11:21:15 AM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 11:21:15 AM : Touching on  X=69, Y=97
+4/15/2015 11:21:15 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 11:21:22 AM : cf209085_currentScreen-2015-04-15_11-21-15-AM.png
+4/15/2015 11:21:22 AM : Taking screen shot...
+4/15/2015 11:21:23 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 11:21:28 AM : cf209085_currentScreen-2015-04-15_11-21-23-AM.png
+4/15/2015 11:21:29 AM : Clicking by template PandroaRadioPause.png
+4/15/2015 11:21:29 AM : Verfiying template PandroaRadioPause.png
+4/15/2015 11:21:29 AM : Accuracy is D=0.445918381214142
+4/15/2015 11:21:29 AM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 11:21:29 AM : Clicking by template PandoraBackToList.png
+4/15/2015 11:21:30 AM : Verfiying template PandoraBackToList.png
+4/15/2015 11:21:30 AM : Accuracy is D=0.999999642372131
+4/15/2015 11:21:30 AM : Template PandoraBackToList.png is Verified. 
+4/15/2015 11:21:30 AM : Touching on  X=34, Y=74
+4/15/2015 11:21:30 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 11:21:36 AM : cf209085_currentScreen-2015-04-15_11-21-30-AM.png
+4/15/2015 11:21:37 AM : Taking screen shot...
+4/15/2015 11:21:37 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 11:21:39 AM : Stoping the radio for
+4/15/2015 11:21:42 AM : cf209085_currentScreen-2015-04-15_11-21-37-AM.png
+4/15/2015 11:21:44 AM : System.Diagnostics.ProcessStartInfo
+4/15/2015 11:21:44 AM : ************************End TestCase 0.1************************
+4/15/2015 2:25:44 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:26:09 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:26:13 PM : Going Back to Home screen.
+4/15/2015 2:26:13 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:26:18 PM : cf209085_currentScreen-2015-04-15_02-26-13-PM.png
+4/15/2015 2:26:21 PM : Play band Alternative
+4/15/2015 2:26:22 PM : Start Pandora
+4/15/2015 2:26:22 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:26:22 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:26:22 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:26:22 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:26:22 PM : Touching on  X=69, Y=97
+4/15/2015 2:26:22 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:26:28 PM : cf209085_currentScreen-2015-04-15_02-26-22-PM.png
+4/15/2015 2:26:33 PM : Taking screen shot...
+4/15/2015 2:26:33 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:26:38 PM : cf209085_currentScreen-2015-04-15_02-26-33-PM.png
+4/15/2015 2:26:51 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:26:51 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:26:51 PM : Accuracy is D=0.445918381214142
+4/15/2015 2:26:51 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:26:51 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:26:51 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:26:51 PM : Accuracy is D=0.999999642372131
+4/15/2015 2:26:51 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:26:51 PM : Touching on  X=34, Y=74
+4/15/2015 2:26:51 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:26:58 PM : cf209085_currentScreen-2015-04-15_02-26-51-PM.png
+4/15/2015 2:27:10 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:27:11 PM : Going Back to Home screen.
+4/15/2015 2:27:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:27:17 PM : cf209085_currentScreen-2015-04-15_02-27-12-PM.png
+4/15/2015 2:27:18 PM : Play band Alternative
+4/15/2015 2:27:18 PM : Start Pandora
+4/15/2015 2:27:18 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:27:18 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:27:18 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:27:18 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:27:18 PM : Touching on  X=69, Y=97
+4/15/2015 2:27:18 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:27:25 PM : cf209085_currentScreen-2015-04-15_02-27-18-PM.png
+4/15/2015 2:27:25 PM : Taking screen shot...
+4/15/2015 2:27:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:27:31 PM : cf209085_currentScreen-2015-04-15_02-27-26-PM.png
+4/15/2015 2:27:32 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:27:32 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:27:32 PM : Accuracy is D=0.445918381214142
+4/15/2015 2:27:32 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:27:32 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:27:32 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:27:33 PM : Accuracy is D=0.999998986721039
+4/15/2015 2:27:33 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:27:33 PM : Touching on  X=34, Y=74
+4/15/2015 2:27:33 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:27:39 PM : cf209085_currentScreen-2015-04-15_02-27-33-PM.png
+4/15/2015 2:27:39 PM : Taking screen shot...
+4/15/2015 2:27:40 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:27:45 PM : cf209085_currentScreen-2015-04-15_02-27-40-PM.png
+4/15/2015 2:27:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:27:47 PM : ************************End TestCase 0.1************************
+4/15/2015 2:32:04 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:32:53 PM : Going Back to Home screen.
+4/15/2015 2:32:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:32:59 PM : cf209085_currentScreen-2015-04-15_02-32-53-PM.png
+4/15/2015 2:33:00 PM : Play band Alternative
+4/15/2015 2:33:01 PM : Start Pandora
+4/15/2015 2:33:01 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:33:01 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:33:01 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:33:01 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:33:01 PM : Touching on  X=69, Y=97
+4/15/2015 2:33:01 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:33:08 PM : cf209085_currentScreen-2015-04-15_02-33-01-PM.png
+4/15/2015 2:33:10 PM : Taking screen shot...
+4/15/2015 2:33:10 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:33:15 PM : cf209085_currentScreen-2015-04-15_02-33-10-PM.png
+4/15/2015 2:33:16 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:33:16 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:33:16 PM : Accuracy is D=0.445918381214142
+4/15/2015 2:33:16 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:33:17 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:33:17 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:33:17 PM : Accuracy is D=0.999998986721039
+4/15/2015 2:33:17 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:33:17 PM : Touching on  X=34, Y=74
+4/15/2015 2:33:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:33:24 PM : cf209085_currentScreen-2015-04-15_02-33-17-PM.png
+4/15/2015 2:33:29 PM : Taking screen shot...
+4/15/2015 2:33:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:33:35 PM : cf209085_currentScreen-2015-04-15_02-33-29-PM.png
+4/15/2015 2:34:17 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:34:22 PM : Going Back to Home screen.
+4/15/2015 2:34:22 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:34:27 PM : cf209085_currentScreen-2015-04-15_02-34-22-PM.png
+4/15/2015 2:35:41 PM : Play band Alternative
+4/15/2015 2:35:44 PM : Start Pandora
+4/15/2015 2:35:44 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:35:44 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:35:44 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:35:44 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:35:44 PM : Touching on  X=69, Y=97
+4/15/2015 2:35:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:35:51 PM : cf209085_currentScreen-2015-04-15_02-35-44-PM.png
+4/15/2015 2:35:51 PM : Taking screen shot...
+4/15/2015 2:35:52 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:35:57 PM : cf209085_currentScreen-2015-04-15_02-35-52-PM.png
+4/15/2015 2:35:58 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:35:58 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:35:58 PM : Accuracy is D=0.445918381214142
+4/15/2015 2:35:58 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:35:58 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:35:58 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:35:59 PM : Accuracy is D=0.999999642372131
+4/15/2015 2:35:59 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:35:59 PM : Touching on  X=34, Y=74
+4/15/2015 2:35:59 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:36:05 PM : cf209085_currentScreen-2015-04-15_02-35-59-PM.png
+4/15/2015 2:36:06 PM : Taking screen shot...
+4/15/2015 2:36:06 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:36:11 PM : cf209085_currentScreen-2015-04-15_02-36-06-PM.png
+4/15/2015 2:38:16 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:38:18 PM : Going Back to Home screen.
+4/15/2015 2:38:18 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:38:23 PM : cf209085_currentScreen-2015-04-15_02-38-18-PM.png
+4/15/2015 2:38:24 PM : Play band Alternative
+4/15/2015 2:38:25 PM : Start Pandora
+4/15/2015 2:38:25 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:38:25 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:38:25 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:38:25 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:38:25 PM : Touching on  X=69, Y=97
+4/15/2015 2:38:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:38:31 PM : cf209085_currentScreen-2015-04-15_02-38-25-PM.png
+4/15/2015 2:38:32 PM : Taking screen shot...
+4/15/2015 2:38:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:38:38 PM : cf209085_currentScreen-2015-04-15_02-38-32-PM.png
+4/15/2015 2:38:38 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:38:39 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:38:39 PM : Accuracy is D=0.445918381214142
+4/15/2015 2:38:39 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:38:39 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:38:39 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:38:39 PM : Accuracy is D=0.999998986721039
+4/15/2015 2:38:39 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:38:39 PM : Touching on  X=34, Y=74
+4/15/2015 2:38:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:38:45 PM : cf209085_currentScreen-2015-04-15_02-38-39-PM.png
+4/15/2015 2:38:46 PM : Taking screen shot...
+4/15/2015 2:38:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:38:52 PM : cf209085_currentScreen-2015-04-15_02-38-46-PM.png
+4/15/2015 2:39:00 PM : Clicking on Alternative play list
+4/15/2015 2:39:02 PM : Clicking by template Alternative
+4/15/2015 2:39:02 PM : Verfiying template Alternative
+4/15/2015 2:39:02 PM : Template Alternative is Verified. 
+4/15/2015 2:39:02 PM : Touching on  X=211, Y=865
+4/15/2015 2:39:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:39:09 PM : cf209085_currentScreen-2015-04-15_02-39-02-PM.png
+4/15/2015 2:39:16 PM : Waitting 35 for Alternative to play and skip and ads
+4/15/2015 2:39:55 PM : Taking screen shot...
+4/15/2015 2:39:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:40:01 PM : cf209085_currentScreen-2015-04-15_02-39-55-PM.png
+4/15/2015 2:40:04 PM : Clicking by template SkipTpPandora.png
+4/15/2015 2:40:04 PM : Verfiying template SkipTpPandora.png
+4/15/2015 2:40:04 PM : Accuracy is D=0.509403944015503
+4/15/2015 2:40:04 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 2:40:05 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 2:40:06 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 2:40:06 PM : Accuracy is D=0.999999582767487
+4/15/2015 2:40:06 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 2:40:06 PM : Touching on  X=328, Y=901
+4/15/2015 2:40:06 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:40:12 PM : cf209085_currentScreen-2015-04-15_02-40-06-PM.png
+4/15/2015 2:40:15 PM : Taking screen shot...
+4/15/2015 2:40:15 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:40:21 PM : cf209085_currentScreen-2015-04-15_02-40-15-PM.png
+4/15/2015 2:40:29 PM : Checking if Pandora Playing
+4/15/2015 2:40:34 PM : Taking screen shot...
+4/15/2015 2:40:34 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:40:40 PM : cf209085_currentScreen-2015-04-15_02-40-34-PM.png
+4/15/2015 2:40:41 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 2:40:41 PM : Object reference not set to an instance of an object.
+4/15/2015 2:40:41 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:40:41 PM : Accuracy is D=0.999999940395355
+4/15/2015 2:40:41 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 2:40:43 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 2:42:27 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:42:32 PM : Going Back to Home screen.
+4/15/2015 2:42:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:42:37 PM : cf209085_currentScreen-2015-04-15_02-42-32-PM.png
+4/15/2015 2:42:38 PM : Play band Alternative
+4/15/2015 2:42:38 PM : Start Pandora
+4/15/2015 2:42:39 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:42:39 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:42:39 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:42:39 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:42:39 PM : Touching on  X=69, Y=97
+4/15/2015 2:42:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:42:45 PM : cf209085_currentScreen-2015-04-15_02-42-39-PM.png
+4/15/2015 2:43:41 PM : Taking screen shot...
+4/15/2015 2:43:41 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:43:46 PM : cf209085_currentScreen-2015-04-15_02-43-41-PM.png
+4/15/2015 2:43:47 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:43:48 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:43:48 PM : Accuracy is D=0.281180292367935
+4/15/2015 2:43:48 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:43:48 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:43:48 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:43:48 PM : Accuracy is D=0.50195187330246
+4/15/2015 2:43:48 PM : Template PandoraBackToList.png is not Verified!
+4/15/2015 2:43:49 PM : Taking screen shot...
+4/15/2015 2:43:49 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:43:54 PM : cf209085_currentScreen-2015-04-15_02-43-49-PM.png
+4/15/2015 2:45:16 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:45:17 PM : Going Back to Home screen.
+4/15/2015 2:45:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:45:23 PM : cf209085_currentScreen-2015-04-15_02-45-17-PM.png
+4/15/2015 2:45:23 PM : Play band Alternative
+4/15/2015 2:45:24 PM : Start Pandora
+4/15/2015 2:45:24 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:45:24 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:45:24 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:45:24 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:45:24 PM : Touching on  X=69, Y=97
+4/15/2015 2:45:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:45:45 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:45:46 PM : Going Back to Home screen.
+4/15/2015 2:45:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:45:51 PM : cf209085_currentScreen-2015-04-15_02-45-46-PM.png
+4/15/2015 2:45:52 PM : Play band Alternative
+4/15/2015 2:45:52 PM : Start Pandora
+4/15/2015 2:45:52 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:45:53 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:45:53 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:45:53 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:45:53 PM : Touching on  X=69, Y=97
+4/15/2015 2:45:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:45:59 PM : cf209085_currentScreen-2015-04-15_02-45-53-PM.png
+4/15/2015 2:46:00 PM : Taking screen shot...
+4/15/2015 2:46:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:46:06 PM : cf209085_currentScreen-2015-04-15_02-46-00-PM.png
+4/15/2015 2:46:06 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:46:07 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:46:07 PM : Accuracy is D=0.445918381214142
+4/15/2015 2:46:07 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 2:46:07 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:46:07 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:46:07 PM : Accuracy is D=0.999998986721039
+4/15/2015 2:46:07 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:46:07 PM : Touching on  X=34, Y=74
+4/15/2015 2:46:07 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:46:14 PM : cf209085_currentScreen-2015-04-15_02-46-07-PM.png
+4/15/2015 2:46:14 PM : Taking screen shot...
+4/15/2015 2:46:15 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:46:20 PM : cf209085_currentScreen-2015-04-15_02-46-15-PM.png
+4/15/2015 2:46:24 PM : Clicking on Alternative play list
+4/15/2015 2:46:24 PM : Clicking by template Alternative
+4/15/2015 2:46:24 PM : Verfiying template Alternative
+4/15/2015 2:46:24 PM : Template Alternative is Verified. 
+4/15/2015 2:46:24 PM : Touching on  X=211, Y=865
+4/15/2015 2:46:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:46:31 PM : cf209085_currentScreen-2015-04-15_02-46-24-PM.png
+4/15/2015 2:46:31 PM : Waitting 35 for Alternative to play and skip and ads
+4/15/2015 2:47:07 PM : Taking screen shot...
+4/15/2015 2:47:07 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:47:12 PM : cf209085_currentScreen-2015-04-15_02-47-07-PM.png
+4/15/2015 2:47:13 PM : Clicking by template SkipTpPandora.png
+4/15/2015 2:47:13 PM : Verfiying template SkipTpPandora.png
+4/15/2015 2:47:13 PM : Accuracy is D=0.509403944015503
+4/15/2015 2:47:13 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 2:47:13 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 2:47:14 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 2:47:14 PM : Accuracy is D=0.99999988079071
+4/15/2015 2:47:14 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 2:47:14 PM : Touching on  X=328, Y=901
+4/15/2015 2:47:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:47:20 PM : cf209085_currentScreen-2015-04-15_02-47-14-PM.png
+4/15/2015 2:47:21 PM : Taking screen shot...
+4/15/2015 2:47:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:47:27 PM : cf209085_currentScreen-2015-04-15_02-47-21-PM.png
+4/15/2015 2:47:27 PM : Checking if Pandora Playing
+4/15/2015 2:47:35 PM : Taking screen shot...
+4/15/2015 2:47:35 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:47:40 PM : cf209085_currentScreen-2015-04-15_02-47-35-PM.png
+4/15/2015 2:47:43 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 2:47:43 PM : Object reference not set to an instance of an object.
+4/15/2015 2:47:43 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:47:43 PM : Accuracy is D=0.999999940395355
+4/15/2015 2:47:43 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 2:47:45 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 2:52:27 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:52:28 PM : Going Back to Home screen.
+4/15/2015 2:52:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:52:33 PM : cf209085_currentScreen-2015-04-15_02-52-28-PM.png
+4/15/2015 2:52:34 PM : Play band Alternative
+4/15/2015 2:52:34 PM : Start Pandora
+4/15/2015 2:52:34 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 2:52:34 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 2:52:34 PM : Accuracy is D=0.99998927116394
+4/15/2015 2:52:35 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 2:52:35 PM : Touching on  X=69, Y=97
+4/15/2015 2:52:35 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:52:41 PM : cf209085_currentScreen-2015-04-15_02-52-35-PM.png
+4/15/2015 2:52:41 PM : Taking screen shot...
+4/15/2015 2:52:42 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:52:47 PM : cf209085_currentScreen-2015-04-15_02-52-42-PM.png
+4/15/2015 2:52:48 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 2:52:48 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:52:49 PM : Accuracy is D=0.999999582767487
+4/15/2015 2:52:49 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 2:52:49 PM : Touching on  X=326, Y=900
+4/15/2015 2:52:49 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:52:55 PM : cf209085_currentScreen-2015-04-15_02-52-49-PM.png
+4/15/2015 2:52:56 PM : Clicking by template PandoraBackToList.png
+4/15/2015 2:52:56 PM : Verfiying template PandoraBackToList.png
+4/15/2015 2:52:56 PM : Accuracy is D=0.999998986721039
+4/15/2015 2:52:56 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 2:52:56 PM : Touching on  X=34, Y=74
+4/15/2015 2:52:56 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:53:03 PM : cf209085_currentScreen-2015-04-15_02-52-56-PM.png
+4/15/2015 2:53:03 PM : Taking screen shot...
+4/15/2015 2:53:04 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:53:09 PM : cf209085_currentScreen-2015-04-15_02-53-04-PM.png
+4/15/2015 2:53:13 PM : Clicking on Alternative play list
+4/15/2015 2:53:13 PM : Clicking by template Alternative
+4/15/2015 2:53:13 PM : Verfiying template Alternative
+4/15/2015 2:53:13 PM : Template Alternative is Verified. 
+4/15/2015 2:53:13 PM : Touching on  X=211, Y=865
+4/15/2015 2:53:13 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:53:19 PM : cf209085_currentScreen-2015-04-15_02-53-13-PM.png
+4/15/2015 2:53:20 PM : Waitting 35 for Alternative to play and skip and ads
+4/15/2015 2:53:55 PM : Taking screen shot...
+4/15/2015 2:53:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:54:01 PM : cf209085_currentScreen-2015-04-15_02-53-55-PM.png
+4/15/2015 2:54:01 PM : Clicking by template SkipTpPandora.png
+4/15/2015 2:54:02 PM : Verfiying template SkipTpPandora.png
+4/15/2015 2:54:02 PM : Accuracy is D=0.509403705596924
+4/15/2015 2:54:02 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 2:54:02 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 2:54:02 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 2:54:02 PM : Accuracy is D=0.999999582767487
+4/15/2015 2:54:02 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 2:54:02 PM : Touching on  X=328, Y=901
+4/15/2015 2:54:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:54:08 PM : cf209085_currentScreen-2015-04-15_02-54-02-PM.png
+4/15/2015 2:54:09 PM : Taking screen shot...
+4/15/2015 2:54:10 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:54:15 PM : cf209085_currentScreen-2015-04-15_02-54-10-PM.png
+4/15/2015 2:54:15 PM : Checking if Pandora Playing
+4/15/2015 2:54:19 PM : Taking screen shot...
+4/15/2015 2:54:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:54:24 PM : cf209085_currentScreen-2015-04-15_02-54-19-PM.png
+4/15/2015 2:54:25 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 2:54:25 PM : Object reference not set to an instance of an object.
+4/15/2015 2:54:25 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:54:25 PM : Accuracy is D=0.999999582767487
+4/15/2015 2:54:25 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 2:54:25 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 2:55:26 PM : Test playing for 178
+4/15/2015 2:55:26 PM : Taking screen shot...
+4/15/2015 2:55:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:55:32 PM : cf209085_currentScreen-2015-04-15_02-55-26-PM.png
+4/15/2015 2:55:32 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 2:55:33 PM : Object reference not set to an instance of an object.
+4/15/2015 2:55:33 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 2:55:33 PM : Accuracy is D=0.999999582767487
+4/15/2015 2:55:33 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 2:55:33 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 2:56:29 PM : Going Back to Home screen.
+4/15/2015 2:56:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:56:35 PM : cf209085_currentScreen-2015-04-15_02-56-29-PM.png
+4/15/2015 2:56:36 PM : Clicking by template DialerIconStart.png
+4/15/2015 2:56:36 PM : Verfiying template DialerIconStart.png
+4/15/2015 2:56:36 PM : Accuracy is D=0.343163698911667
+4/15/2015 2:56:36 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 2:56:36 PM : typing #932#
+4/15/2015 2:56:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:56:43 PM : cf209085_currentScreen-2015-04-15_02-56-36-PM.png
+4/15/2015 2:56:44 PM : Clicking by template DialerIconCall.png
+4/15/2015 2:56:44 PM : Verfiying template DialerIconCall.png
+4/15/2015 2:56:45 PM : Accuracy is D=0.224940657615662
+4/15/2015 2:56:45 PM : Template DialerIconCall.png is not Verified!
+4/15/2015 2:56:45 PM : Wait 10 seconds to get the datausage message
+4/15/2015 2:56:55 PM : Taking screen shot...
+4/15/2015 2:56:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:57:00 PM : cf209085_currentScreen-2015-04-15_02-56-55-PM.png
+4/15/2015 2:57:55 PM : ******************Start TestCase 0.1******************
+4/15/2015 2:57:57 PM : Delete Logs and restart device
+4/15/2015 2:57:57 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 2:57:57 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:07 PM : Going Back to Home screen.
+4/15/2015 2:58:07 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:13 PM : cf209085_currentScreen-2015-04-15_02-58-07-PM.png
+4/15/2015 2:58:13 PM : Going Back to Home screen.
+4/15/2015 2:58:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:19 PM : cf209085_currentScreen-2015-04-15_02-58-14-PM.png
+4/15/2015 2:58:20 PM : Clicking by template DialerIconStart.png
+4/15/2015 2:58:20 PM : Verfiying template DialerIconStart.png
+4/15/2015 2:58:20 PM : Accuracy is D=0.999982714653015
+4/15/2015 2:58:20 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 2:58:20 PM : Touching on  X=76, Y=863
+4/15/2015 2:58:20 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:27 PM : cf209085_currentScreen-2015-04-15_02-58-20-PM.png
+4/15/2015 2:58:27 PM : typing #932#
+4/15/2015 2:58:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:35 PM : cf209085_currentScreen-2015-04-15_02-58-28-PM.png
+4/15/2015 2:58:35 PM : Clicking by template DialerIconCall.png
+4/15/2015 2:58:36 PM : Verfiying template DialerIconCall.png
+4/15/2015 2:58:36 PM : Accuracy is D=1
+4/15/2015 2:58:36 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 2:58:36 PM : Touching on  X=268, Y=910
+4/15/2015 2:58:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:42 PM : cf209085_currentScreen-2015-04-15_02-58-36-PM.png
+4/15/2015 2:58:43 PM : Wait 10 seconds to get the datausage message
+4/15/2015 2:58:53 PM : Taking screen shot...
+4/15/2015 2:58:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:58:59 PM : cf209085_currentScreen-2015-04-15_02-58-53-PM.png
+4/15/2015 2:59:02 PM : Clicking by template WEB_OK.png
+4/15/2015 2:59:02 PM : Verfiying template WEB_OK.png
+4/15/2015 2:59:02 PM : Accuracy is D=0.999911069869995
+4/15/2015 2:59:02 PM : Template WEB_OK.png is Verified. 
+4/15/2015 2:59:02 PM : Touching on  X=270, Y=590
+4/15/2015 2:59:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:08 PM : cf209085_currentScreen-2015-04-15_02-59-02-PM.png
+4/15/2015 2:59:09 PM : Start TCPDump
+4/15/2015 2:59:09 PM : Clicking by template DialerIconStart.png
+4/15/2015 2:59:09 PM : Verfiying template DialerIconStart.png
+4/15/2015 2:59:09 PM : Accuracy is D=0.736172378063202
+4/15/2015 2:59:09 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 2:59:09 PM : typing *#9900#
+4/15/2015 2:59:09 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:17 PM : cf209085_currentScreen-2015-04-15_02-59-09-PM.png
+4/15/2015 2:59:17 PM : Taking screen shot...
+4/15/2015 2:59:18 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:23 PM : cf209085_currentScreen-2015-04-15_02-59-18-PM.png
+4/15/2015 2:59:24 PM : Scrolling two page down..
+4/15/2015 2:59:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:31 PM : cf209085_currentScreen-2015-04-15_02-59-24-PM.png
+4/15/2015 2:59:31 PM : Taking screen shot...
+4/15/2015 2:59:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:37 PM : cf209085_currentScreen-2015-04-15_02-59-32-PM.png
+4/15/2015 2:59:38 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 2:59:38 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 2:59:38 PM : Accuracy is D=0.999942898750305
+4/15/2015 2:59:38 PM : Template TCPDUMPSTART.png is Verified. 
+4/15/2015 2:59:38 PM : Touching on  X=269, Y=334
+4/15/2015 2:59:38 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:45 PM : cf209085_currentScreen-2015-04-15_02-59-38-PM.png
+4/15/2015 2:59:45 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 2:59:46 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 2:59:46 PM : Accuracy is D=0.99999988079071
+4/15/2015 2:59:46 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+4/15/2015 2:59:46 PM : Touching on  X=267, Y=83
+4/15/2015 2:59:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 2:59:52 PM : cf209085_currentScreen-2015-04-15_02-59-46-PM.png
+4/15/2015 2:59:53 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 2:59:53 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 2:59:53 PM : Accuracy is D=1
+4/15/2015 2:59:53 PM : Template TCPDUMPSTART_OK.png is Verified. 
+4/15/2015 2:59:53 PM : Touching on  X=393, Y=912
+4/15/2015 2:59:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:00 PM : cf209085_currentScreen-2015-04-15_02-59-53-PM.png
+4/15/2015 3:00:00 PM : Going Back to Home screen.
+4/15/2015 3:00:01 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:07 PM : cf209085_currentScreen-2015-04-15_03-00-01-PM.png
+4/15/2015 3:00:07 PM : Going Back to Home screen.
+4/15/2015 3:00:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:13 PM : cf209085_currentScreen-2015-04-15_03-00-08-PM.png
+4/15/2015 3:00:14 PM : Play band Alternative
+4/15/2015 3:00:14 PM : Start Pandora
+4/15/2015 3:00:14 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 3:00:14 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 3:00:14 PM : Accuracy is D=0.99998927116394
+4/15/2015 3:00:14 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 3:00:14 PM : Touching on  X=69, Y=97
+4/15/2015 3:00:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:21 PM : cf209085_currentScreen-2015-04-15_03-00-14-PM.png
+4/15/2015 3:00:21 PM : Taking screen shot...
+4/15/2015 3:00:22 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:27 PM : cf209085_currentScreen-2015-04-15_03-00-22-PM.png
+4/15/2015 3:00:28 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 3:00:28 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:00:29 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:00:29 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:00:29 PM : Touching on  X=326, Y=900
+4/15/2015 3:00:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:35 PM : cf209085_currentScreen-2015-04-15_03-00-29-PM.png
+4/15/2015 3:00:36 PM : Clicking by template PandoraBackToList.png
+4/15/2015 3:00:36 PM : Verfiying template PandoraBackToList.png
+4/15/2015 3:00:36 PM : Accuracy is D=0.999998271465302
+4/15/2015 3:00:36 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 3:00:36 PM : Touching on  X=34, Y=74
+4/15/2015 3:00:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:43 PM : cf209085_currentScreen-2015-04-15_03-00-36-PM.png
+4/15/2015 3:00:43 PM : Taking screen shot...
+4/15/2015 3:00:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:49 PM : cf209085_currentScreen-2015-04-15_03-00-44-PM.png
+4/15/2015 3:00:53 PM : Going Back to Home screen.
+4/15/2015 3:00:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:00:58 PM : cf209085_currentScreen-2015-04-15_03-00-53-PM.png
+4/15/2015 3:00:59 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:00:59 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:00:59 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:00:59 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:00:59 PM : Touching on  X=76, Y=863
+4/15/2015 3:01:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:01:06 PM : cf209085_currentScreen-2015-04-15_03-01-00-PM.png
+4/15/2015 3:01:06 PM : typing #932#
+4/15/2015 3:01:07 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:01:14 PM : cf209085_currentScreen-2015-04-15_03-01-07-PM.png
+4/15/2015 3:01:14 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:01:15 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:01:15 PM : Accuracy is D=1
+4/15/2015 3:01:15 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:01:15 PM : Touching on  X=268, Y=910
+4/15/2015 3:01:15 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:01:21 PM : cf209085_currentScreen-2015-04-15_03-01-15-PM.png
+4/15/2015 3:01:22 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:01:32 PM : Taking screen shot...
+4/15/2015 3:01:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:01:38 PM : cf209085_currentScreen-2015-04-15_03-01-32-PM.png
+4/15/2015 3:01:41 PM : Clicking by template ok
+4/15/2015 3:01:41 PM : Verfiying template ok
+4/15/2015 3:01:43 PM : Template ok is not Verified!
+4/15/2015 3:01:43 PM : Going Back to Home screen.
+4/15/2015 3:01:43 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:01:48 PM : cf209085_currentScreen-2015-04-15_03-01-43-PM.png
+4/15/2015 3:01:49 PM : verifying template DialerIconStart  DialerIconStart.png
+4/15/2015 3:01:50 PM : Object reference not set to an instance of an object.
+4/15/2015 3:01:50 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:01:50 PM : Accuracy is D=0.736172378063202
+4/15/2015 3:01:50 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 3:01:50 PM : Stop TCPDump
+4/15/2015 3:01:50 PM : typing *#9900#
+4/15/2015 3:01:50 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:01:57 PM : cf209085_currentScreen-2015-04-15_03-01-50-PM.png
+4/15/2015 3:01:58 PM : Taking screen shot...
+4/15/2015 3:01:58 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:04 PM : cf209085_currentScreen-2015-04-15_03-01-58-PM.png
+4/15/2015 3:02:04 PM : Scrolling two page down..
+4/15/2015 3:02:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:11 PM : cf209085_currentScreen-2015-04-15_03-02-05-PM.png
+4/15/2015 3:02:12 PM : Taking screen shot...
+4/15/2015 3:02:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:17 PM : cf209085_currentScreen-2015-04-15_03-02-12-PM.png
+4/15/2015 3:02:18 PM : Clicking by template TCPDUMPSTOP.png
+4/15/2015 3:02:19 PM : Verfiying template TCPDUMPSTOP.png
+4/15/2015 3:02:19 PM : Accuracy is D=0.99994170665741
+4/15/2015 3:02:19 PM : Template TCPDUMPSTOP.png is Verified. 
+4/15/2015 3:02:19 PM : Touching on  X=267, Y=339
+4/15/2015 3:02:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:25 PM : cf209085_currentScreen-2015-04-15_03-02-19-PM.png
+4/15/2015 3:02:26 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 3:02:26 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 3:02:26 PM : Accuracy is D=0.999999463558197
+4/15/2015 3:02:26 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 3:02:26 PM : Touching on  X=268, Y=588
+4/15/2015 3:02:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:33 PM : cf209085_currentScreen-2015-04-15_03-02-26-PM.png
+4/15/2015 3:02:33 PM : Scrolling  one page UP..
+4/15/2015 3:02:34 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:40 PM : cf209085_currentScreen-2015-04-15_03-02-34-PM.png
+4/15/2015 3:02:40 PM : Scrolling  one page UP..
+4/15/2015 3:02:41 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:47 PM : cf209085_currentScreen-2015-04-15_03-02-41-PM.png
+4/15/2015 3:02:47 PM : Scrolling  one page UP..
+4/15/2015 3:02:48 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:02:54 PM : cf209085_currentScreen-2015-04-15_03-02-48-PM.png
+4/15/2015 3:02:54 PM : Clicking by template TCPDUMPSTATE.png
+4/15/2015 3:02:55 PM : Verfiying template TCPDUMPSTATE.png
+4/15/2015 3:02:55 PM : Accuracy is D=0.999999463558197
+4/15/2015 3:02:55 PM : Template TCPDUMPSTATE.png is Verified. 
+4/15/2015 3:02:55 PM : Touching on  X=270, Y=161
+4/15/2015 3:02:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:03:02 PM : cf209085_currentScreen-2015-04-15_03-02-55-PM.png
+4/15/2015 3:03:02 PM : Wait 10 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/15/2015 3:03:03 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 3:03:03 PM : Object reference not set to an instance of an object.
+4/15/2015 3:03:03 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 3:03:03 PM : Accuracy is D=0.491970419883728
+4/15/2015 3:03:03 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/15/2015 3:03:03 PM : Taking screen shot...
+4/15/2015 3:03:03 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:03:08 PM : cf209085_currentScreen-2015-04-15_03-03-03-PM.png
+4/15/2015 3:04:09 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 3:04:09 PM : Object reference not set to an instance of an object.
+4/15/2015 3:04:09 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 3:04:09 PM : Accuracy is D=0.99997478723526
+4/15/2015 3:04:09 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 3:04:09 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 3:04:09 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 3:04:09 PM : Accuracy is D=0.99997478723526
+4/15/2015 3:04:09 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 3:04:09 PM : Touching on  X=268, Y=622
+4/15/2015 3:04:09 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:04:16 PM : cf209085_currentScreen-2015-04-15_03-04-09-PM.png
+4/15/2015 3:04:16 PM : Wait 60 seconds
+4/15/2015 3:04:49 PM : ******************Start TestCase 0.1******************
+4/15/2015 3:04:49 PM : Delete Logs and restart device
+4/15/2015 3:04:49 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 3:04:49 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:04:59 PM : Going Back to Home screen.
+4/15/2015 3:04:59 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:05:04 PM : cf209085_currentScreen-2015-04-15_03-04-59-PM.png
+4/15/2015 3:05:05 PM : Going Back to Home screen.
+4/15/2015 3:05:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:05:11 PM : cf209085_currentScreen-2015-04-15_03-05-05-PM.png
+4/15/2015 3:05:11 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:05:12 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:05:12 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:05:12 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:05:12 PM : Touching on  X=76, Y=863
+4/15/2015 3:05:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:05:18 PM : cf209085_currentScreen-2015-04-15_03-05-12-PM.png
+4/15/2015 3:05:19 PM : typing #932#
+4/15/2015 3:05:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:05:26 PM : cf209085_currentScreen-2015-04-15_03-05-19-PM.png
+4/15/2015 3:05:27 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:05:27 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:05:27 PM : Accuracy is D=1
+4/15/2015 3:05:27 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:05:28 PM : Touching on  X=268, Y=910
+4/15/2015 3:05:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:05:34 PM : cf209085_currentScreen-2015-04-15_03-05-28-PM.png
+4/15/2015 3:05:35 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:05:45 PM : Taking screen shot...
+4/15/2015 3:05:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:05:51 PM : cf209085_currentScreen-2015-04-15_03-05-45-PM.png
+4/15/2015 3:05:53 PM : Clicking by template WEB_OK.png
+4/15/2015 3:05:54 PM : Verfiying template WEB_OK.png
+4/15/2015 3:05:54 PM : Accuracy is D=0.99990975856781
+4/15/2015 3:05:54 PM : Template WEB_OK.png is Verified. 
+4/15/2015 3:05:54 PM : Touching on  X=270, Y=590
+4/15/2015 3:05:54 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:00 PM : cf209085_currentScreen-2015-04-15_03-05-54-PM.png
+4/15/2015 3:06:00 PM : Start TCPDump
+4/15/2015 3:06:01 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:06:01 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:06:01 PM : Accuracy is D=0.736172378063202
+4/15/2015 3:06:01 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 3:06:01 PM : typing *#9900#
+4/15/2015 3:06:01 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:09 PM : cf209085_currentScreen-2015-04-15_03-06-01-PM.png
+4/15/2015 3:06:09 PM : Taking screen shot...
+4/15/2015 3:06:10 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:15 PM : cf209085_currentScreen-2015-04-15_03-06-10-PM.png
+4/15/2015 3:06:15 PM : Scrolling two page down..
+4/15/2015 3:06:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:23 PM : cf209085_currentScreen-2015-04-15_03-06-16-PM.png
+4/15/2015 3:06:23 PM : Taking screen shot...
+4/15/2015 3:06:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:29 PM : cf209085_currentScreen-2015-04-15_03-06-24-PM.png
+4/15/2015 3:06:30 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 3:06:30 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 3:06:30 PM : Accuracy is D=0.999942898750305
+4/15/2015 3:06:30 PM : Template TCPDUMPSTART.png is Verified. 
+4/15/2015 3:06:30 PM : Touching on  X=269, Y=334
+4/15/2015 3:06:30 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:36 PM : cf209085_currentScreen-2015-04-15_03-06-30-PM.png
+4/15/2015 3:06:37 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 3:06:38 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 3:06:38 PM : Accuracy is D=0.99999988079071
+4/15/2015 3:06:38 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+4/15/2015 3:06:38 PM : Touching on  X=267, Y=83
+4/15/2015 3:06:38 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:44 PM : cf209085_currentScreen-2015-04-15_03-06-38-PM.png
+4/15/2015 3:06:45 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 3:06:45 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 3:06:45 PM : Accuracy is D=1
+4/15/2015 3:06:45 PM : Template TCPDUMPSTART_OK.png is Verified. 
+4/15/2015 3:06:45 PM : Touching on  X=393, Y=912
+4/15/2015 3:06:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:52 PM : cf209085_currentScreen-2015-04-15_03-06-45-PM.png
+4/15/2015 3:06:52 PM : Going Back to Home screen.
+4/15/2015 3:06:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:06:58 PM : cf209085_currentScreen-2015-04-15_03-06-53-PM.png
+4/15/2015 3:07:23 PM : Going Back to Home screen.
+4/15/2015 3:07:23 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:07:29 PM : cf209085_currentScreen-2015-04-15_03-07-23-PM.png
+4/15/2015 3:07:43 PM : Play band Alternative
+4/15/2015 3:07:44 PM : Start Pandora
+4/15/2015 3:07:44 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 3:07:44 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 3:07:44 PM : Accuracy is D=0.99998927116394
+4/15/2015 3:07:44 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 3:07:44 PM : Touching on  X=69, Y=97
+4/15/2015 3:07:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:07:51 PM : cf209085_currentScreen-2015-04-15_03-07-44-PM.png
+4/15/2015 3:07:53 PM : Taking screen shot...
+4/15/2015 3:07:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:07:58 PM : cf209085_currentScreen-2015-04-15_03-07-53-PM.png
+4/15/2015 3:07:59 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 3:07:59 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:07:59 PM : Accuracy is D=0.445918172597885
+4/15/2015 3:07:59 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 3:07:59 PM : Clicking by template PandoraBackToList.png
+4/15/2015 3:07:59 PM : Verfiying template PandoraBackToList.png
+4/15/2015 3:08:00 PM : Accuracy is D=0.999998271465302
+4/15/2015 3:08:00 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 3:08:00 PM : Touching on  X=34, Y=74
+4/15/2015 3:08:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:08:06 PM : cf209085_currentScreen-2015-04-15_03-08-00-PM.png
+4/15/2015 3:08:07 PM : Taking screen shot...
+4/15/2015 3:08:07 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:08:13 PM : cf209085_currentScreen-2015-04-15_03-08-07-PM.png
+4/15/2015 3:08:16 PM : Going Back to Home screen.
+4/15/2015 3:08:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:08:22 PM : cf209085_currentScreen-2015-04-15_03-08-16-PM.png
+4/15/2015 3:08:22 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:08:23 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:08:23 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:08:23 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:08:23 PM : Touching on  X=76, Y=863
+4/15/2015 3:08:23 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:08:30 PM : cf209085_currentScreen-2015-04-15_03-08-23-PM.png
+4/15/2015 3:08:30 PM : typing #932#
+4/15/2015 3:08:31 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:08:38 PM : cf209085_currentScreen-2015-04-15_03-08-31-PM.png
+4/15/2015 3:08:38 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:08:39 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:08:39 PM : Accuracy is D=1
+4/15/2015 3:08:39 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:08:39 PM : Touching on  X=268, Y=910
+4/15/2015 3:08:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:08:45 PM : cf209085_currentScreen-2015-04-15_03-08-39-PM.png
+4/15/2015 3:08:46 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:08:56 PM : Taking screen shot...
+4/15/2015 3:08:56 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:08 PM : ******************Start TestCase 0.1******************
+4/15/2015 3:09:08 PM : Delete Logs and restart device
+4/15/2015 3:09:08 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 3:09:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:18 PM : Going Back to Home screen.
+4/15/2015 3:09:18 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:24 PM : cf209085_currentScreen-2015-04-15_03-09-18-PM.png
+4/15/2015 3:09:24 PM : Going Back to Home screen.
+4/15/2015 3:09:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:30 PM : cf209085_currentScreen-2015-04-15_03-09-25-PM.png
+4/15/2015 3:09:31 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:09:32 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:09:32 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:09:32 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:09:32 PM : Touching on  X=76, Y=863
+4/15/2015 3:09:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:38 PM : cf209085_currentScreen-2015-04-15_03-09-32-PM.png
+4/15/2015 3:09:39 PM : typing #932#
+4/15/2015 3:09:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:46 PM : cf209085_currentScreen-2015-04-15_03-09-39-PM.png
+4/15/2015 3:09:47 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:09:47 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:09:47 PM : Accuracy is D=1
+4/15/2015 3:09:47 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:09:47 PM : Touching on  X=268, Y=910
+4/15/2015 3:09:47 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:09:54 PM : cf209085_currentScreen-2015-04-15_03-09-47-PM.png
+4/15/2015 3:09:54 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:10:05 PM : Taking screen shot...
+4/15/2015 3:10:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:10 PM : cf209085_currentScreen-2015-04-15_03-10-05-PM.png
+4/15/2015 3:10:13 PM : Clicking by template WEB_OK.png
+4/15/2015 3:10:13 PM : Verfiying template WEB_OK.png
+4/15/2015 3:10:14 PM : Accuracy is D=0.99990975856781
+4/15/2015 3:10:14 PM : Template WEB_OK.png is Verified. 
+4/15/2015 3:10:14 PM : Touching on  X=270, Y=590
+4/15/2015 3:10:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:20 PM : cf209085_currentScreen-2015-04-15_03-10-14-PM.png
+4/15/2015 3:10:21 PM : Start TCPDump
+4/15/2015 3:10:21 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:10:21 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:10:21 PM : Accuracy is D=0.736172378063202
+4/15/2015 3:10:21 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 3:10:21 PM : typing *#9900#
+4/15/2015 3:10:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:29 PM : cf209085_currentScreen-2015-04-15_03-10-21-PM.png
+4/15/2015 3:10:29 PM : Taking screen shot...
+4/15/2015 3:10:30 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:35 PM : cf209085_currentScreen-2015-04-15_03-10-30-PM.png
+4/15/2015 3:10:36 PM : Scrolling two page down..
+4/15/2015 3:10:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:43 PM : cf209085_currentScreen-2015-04-15_03-10-36-PM.png
+4/15/2015 3:10:43 PM : Taking screen shot...
+4/15/2015 3:10:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:49 PM : cf209085_currentScreen-2015-04-15_03-10-44-PM.png
+4/15/2015 3:10:50 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 3:10:50 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 3:10:51 PM : Accuracy is D=0.843680679798126
+4/15/2015 3:10:51 PM : Template TCPDUMPSTART.png is not Verified!
+4/15/2015 3:10:51 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 3:10:51 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 3:10:51 PM : Accuracy is D=0.233017906546593
+4/15/2015 3:10:51 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/15/2015 3:10:51 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 3:10:51 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 3:10:51 PM : Accuracy is D=0.440427213907242
+4/15/2015 3:10:51 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/15/2015 3:10:51 PM : Going Back to Home screen.
+4/15/2015 3:10:51 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:10:57 PM : cf209085_currentScreen-2015-04-15_03-10-51-PM.png
+4/15/2015 3:11:00 PM : Going Back to Home screen.
+4/15/2015 3:11:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:11:05 PM : cf209085_currentScreen-2015-04-15_03-11-00-PM.png
+4/15/2015 3:11:06 PM : Play band Alternative
+4/15/2015 3:11:06 PM : Start Pandora
+4/15/2015 3:11:06 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 3:11:06 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 3:11:06 PM : Accuracy is D=0.99998927116394
+4/15/2015 3:11:06 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 3:11:06 PM : Touching on  X=69, Y=97
+4/15/2015 3:11:06 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:11:13 PM : cf209085_currentScreen-2015-04-15_03-11-06-PM.png
+4/15/2015 3:11:13 PM : Taking screen shot...
+4/15/2015 3:11:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:11:19 PM : cf209085_currentScreen-2015-04-15_03-11-14-PM.png
+4/15/2015 3:11:20 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 3:11:20 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:11:21 PM : Accuracy is D=0.445918172597885
+4/15/2015 3:11:21 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 3:11:21 PM : Clicking by template PandoraBackToList.png
+4/15/2015 3:11:21 PM : Verfiying template PandoraBackToList.png
+4/15/2015 3:11:21 PM : Accuracy is D=0.999998986721039
+4/15/2015 3:11:21 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 3:11:21 PM : Touching on  X=34, Y=74
+4/15/2015 3:11:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:11:27 PM : cf209085_currentScreen-2015-04-15_03-11-21-PM.png
+4/15/2015 3:11:28 PM : Taking screen shot...
+4/15/2015 3:11:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:11:34 PM : cf209085_currentScreen-2015-04-15_03-11-28-PM.png
+4/15/2015 3:13:48 PM : ******************Start TestCase 0.1******************
+4/15/2015 3:13:48 PM : Delete Logs and restart device
+4/15/2015 3:13:48 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 3:13:48 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:13:58 PM : Going Back to Home screen.
+4/15/2015 3:13:58 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:14:04 PM : cf209085_currentScreen-2015-04-15_03-13-58-PM.png
+4/15/2015 3:14:04 PM : Going Back to Home screen.
+4/15/2015 3:14:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:14:11 PM : cf209085_currentScreen-2015-04-15_03-14-05-PM.png
+4/15/2015 3:14:11 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:14:12 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:14:12 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:14:12 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:14:12 PM : Touching on  X=76, Y=863
+4/15/2015 3:14:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:14:18 PM : cf209085_currentScreen-2015-04-15_03-14-12-PM.png
+4/15/2015 3:14:19 PM : typing #932#
+4/15/2015 3:14:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:14:26 PM : cf209085_currentScreen-2015-04-15_03-14-19-PM.png
+4/15/2015 3:14:27 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:14:27 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:14:27 PM : Accuracy is D=1
+4/15/2015 3:14:27 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:14:28 PM : Touching on  X=268, Y=910
+4/15/2015 3:14:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:14:34 PM : cf209085_currentScreen-2015-04-15_03-14-28-PM.png
+4/15/2015 3:14:35 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:14:45 PM : Taking screen shot...
+4/15/2015 3:14:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:14:51 PM : cf209085_currentScreen-2015-04-15_03-14-45-PM.png
+4/15/2015 3:16:08 PM : Clicking by template WEB_OK.png
+4/15/2015 3:16:08 PM : Verfiying template WEB_OK.png
+4/15/2015 3:16:08 PM : Accuracy is D=0.999911069869995
+4/15/2015 3:16:08 PM : Template WEB_OK.png is Verified. 
+4/15/2015 3:16:08 PM : Touching on  X=270, Y=590
+4/15/2015 3:16:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:16:15 PM : cf209085_currentScreen-2015-04-15_03-16-08-PM.png
+4/15/2015 3:16:15 PM : Start TCPDump
+4/15/2015 3:16:16 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:16:16 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:16:16 PM : Accuracy is D=0.736172378063202
+4/15/2015 3:16:16 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 3:16:16 PM : typing *#9900#
+4/15/2015 3:16:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:16:24 PM : cf209085_currentScreen-2015-04-15_03-16-16-PM.png
+4/15/2015 3:16:24 PM : Taking screen shot...
+4/15/2015 3:16:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:16:30 PM : cf209085_currentScreen-2015-04-15_03-16-25-PM.png
+4/15/2015 3:16:31 PM : Scrolling two page down..
+4/15/2015 3:16:31 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:16:38 PM : cf209085_currentScreen-2015-04-15_03-16-31-PM.png
+4/15/2015 3:16:38 PM : Taking screen shot...
+4/15/2015 3:16:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:16:44 PM : cf209085_currentScreen-2015-04-15_03-16-39-PM.png
+4/15/2015 3:16:45 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 3:16:45 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 3:16:45 PM : Accuracy is D=0.843680679798126
+4/15/2015 3:16:45 PM : Template TCPDUMPSTART.png is not Verified!
+4/15/2015 3:16:45 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 3:16:45 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 3:16:46 PM : Accuracy is D=0.233018636703491
+4/15/2015 3:16:46 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/15/2015 3:16:46 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 3:16:46 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 3:16:46 PM : Accuracy is D=0.440427213907242
+4/15/2015 3:16:46 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/15/2015 3:16:46 PM : Going Back to Home screen.
+4/15/2015 3:16:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:16:52 PM : cf209085_currentScreen-2015-04-15_03-16-46-PM.png
+4/15/2015 3:17:15 PM : Going Back to Home screen.
+4/15/2015 3:17:15 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:17:20 PM : cf209085_currentScreen-2015-04-15_03-17-15-PM.png
+4/15/2015 3:17:21 PM : Play band Alternat
+4/15/2015 3:17:21 PM : Start Pandora
+4/15/2015 3:17:21 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 3:17:21 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 3:17:22 PM : Accuracy is D=0.99998927116394
+4/15/2015 3:17:22 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 3:17:22 PM : Touching on  X=69, Y=97
+4/15/2015 3:17:22 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:17:28 PM : cf209085_currentScreen-2015-04-15_03-17-22-PM.png
+4/15/2015 3:17:29 PM : Taking screen shot...
+4/15/2015 3:17:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:17:34 PM : cf209085_currentScreen-2015-04-15_03-17-29-PM.png
+4/15/2015 3:17:35 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 3:17:36 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:17:36 PM : Accuracy is D=0.445918172597885
+4/15/2015 3:17:36 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 3:17:36 PM : Clicking by template PandoraBackToList.png
+4/15/2015 3:17:36 PM : Verfiying template PandoraBackToList.png
+4/15/2015 3:17:36 PM : Accuracy is D=0.999998986721039
+4/15/2015 3:17:36 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 3:17:36 PM : Touching on  X=34, Y=74
+4/15/2015 3:17:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:17:42 PM : cf209085_currentScreen-2015-04-15_03-17-36-PM.png
+4/15/2015 3:17:43 PM : Taking screen shot...
+4/15/2015 3:17:43 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:17:49 PM : cf209085_currentScreen-2015-04-15_03-17-43-PM.png
+4/15/2015 3:18:10 PM : Clicking on Alternat play list
+4/15/2015 3:18:10 PM : Clicking by template Alternat
+4/15/2015 3:18:10 PM : Verfiying template Alternat
+4/15/2015 3:18:11 PM : Template Alternat is Verified. 
+4/15/2015 3:18:11 PM : Touching on  X=200, Y=865
+4/15/2015 3:18:11 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:18:17 PM : cf209085_currentScreen-2015-04-15_03-18-11-PM.png
+4/15/2015 3:18:18 PM : Waitting 35 for Alternat to play and skip and ads
+4/15/2015 3:18:53 PM : Taking screen shot...
+4/15/2015 3:18:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:18:59 PM : cf209085_currentScreen-2015-04-15_03-18-53-PM.png
+4/15/2015 3:18:59 PM : Clicking by template SkipTpPandora.png
+4/15/2015 3:19:00 PM : Verfiying template SkipTpPandora.png
+4/15/2015 3:19:00 PM : Accuracy is D=0.5094034075737
+4/15/2015 3:19:00 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 3:19:00 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 3:19:00 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 3:19:00 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:19:00 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 3:19:00 PM : Touching on  X=328, Y=901
+4/15/2015 3:19:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:19:07 PM : cf209085_currentScreen-2015-04-15_03-19-00-PM.png
+4/15/2015 3:19:07 PM : Taking screen shot...
+4/15/2015 3:19:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:19:13 PM : cf209085_currentScreen-2015-04-15_03-19-08-PM.png
+4/15/2015 3:19:14 PM : Checking if Pandora Playing
+4/15/2015 3:19:37 PM : Taking screen shot...
+4/15/2015 3:19:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:19:42 PM : cf209085_currentScreen-2015-04-15_03-19-37-PM.png
+4/15/2015 3:19:43 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 3:19:43 PM : Object reference not set to an instance of an object.
+4/15/2015 3:19:43 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:19:43 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:19:43 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:19:43 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 3:20:45 PM : Test playing for 209
+4/15/2015 3:20:45 PM : Taking screen shot...
+4/15/2015 3:20:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:20:50 PM : cf209085_currentScreen-2015-04-15_03-20-45-PM.png
+4/15/2015 3:20:51 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 3:20:51 PM : Object reference not set to an instance of an object.
+4/15/2015 3:20:51 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:20:51 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:20:51 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:20:51 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 3:21:14 PM : Going Back to Home screen.
+4/15/2015 3:21:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:21:20 PM : cf209085_currentScreen-2015-04-15_03-21-14-PM.png
+4/15/2015 3:21:21 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:21:21 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:21:21 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:21:21 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:21:21 PM : Touching on  X=76, Y=863
+4/15/2015 3:21:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:21:28 PM : cf209085_currentScreen-2015-04-15_03-21-21-PM.png
+4/15/2015 3:21:28 PM : typing #932#
+4/15/2015 3:21:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:21:36 PM : cf209085_currentScreen-2015-04-15_03-21-29-PM.png
+4/15/2015 3:21:36 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:21:37 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:21:37 PM : Accuracy is D=1
+4/15/2015 3:21:37 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:21:37 PM : Touching on  X=268, Y=910
+4/15/2015 3:21:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:21:44 PM : cf209085_currentScreen-2015-04-15_03-21-37-PM.png
+4/15/2015 3:21:44 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:21:55 PM : Taking screen shot...
+4/15/2015 3:21:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:22:00 PM : cf209085_currentScreen-2015-04-15_03-21-55-PM.png
+4/15/2015 3:22:20 PM : Clicking by template ok
+4/15/2015 3:22:20 PM : Verfiying template ok
+4/15/2015 3:22:22 PM : Template ok is not Verified!
+4/15/2015 3:22:22 PM : Going Back to Home screen.
+4/15/2015 3:22:22 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:22:28 PM : cf209085_currentScreen-2015-04-15_03-22-22-PM.png
+4/15/2015 3:22:28 PM : verifying template DialerIconStart  DialerIconStart.png
+4/15/2015 3:22:29 PM : Object reference not set to an instance of an object.
+4/15/2015 3:22:29 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:22:29 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:22:29 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:22:29 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:22:29 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:22:29 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:22:29 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:22:29 PM : Touching on  X=76, Y=863
+4/15/2015 3:22:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:22:36 PM : cf209085_currentScreen-2015-04-15_03-22-29-PM.png
+4/15/2015 3:22:36 PM : Stop TCPDump
+4/15/2015 3:22:37 PM : typing *#9900#
+4/15/2015 3:22:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:22:44 PM : cf209085_currentScreen-2015-04-15_03-22-37-PM.png
+4/15/2015 3:22:45 PM : Taking screen shot...
+4/15/2015 3:22:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:22:51 PM : cf209085_currentScreen-2015-04-15_03-22-45-PM.png
+4/15/2015 3:22:52 PM : Scrolling two page down..
+4/15/2015 3:22:52 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:22:59 PM : cf209085_currentScreen-2015-04-15_03-22-52-PM.png
+4/15/2015 3:22:59 PM : Taking screen shot...
+4/15/2015 3:23:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:23:05 PM : cf209085_currentScreen-2015-04-15_03-23-00-PM.png
+4/15/2015 3:23:06 PM : Clicking by template TCPDUMPSTOP.png
+4/15/2015 3:23:06 PM : Verfiying template TCPDUMPSTOP.png
+4/15/2015 3:23:06 PM : Accuracy is D=0.99994170665741
+4/15/2015 3:23:06 PM : Template TCPDUMPSTOP.png is Verified. 
+4/15/2015 3:23:06 PM : Touching on  X=267, Y=339
+4/15/2015 3:23:06 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:23:13 PM : cf209085_currentScreen-2015-04-15_03-23-06-PM.png
+4/15/2015 3:23:13 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 3:23:14 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 3:23:14 PM : Accuracy is D=0.999999463558197
+4/15/2015 3:23:14 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 3:23:14 PM : Touching on  X=268, Y=588
+4/15/2015 3:23:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:23:20 PM : cf209085_currentScreen-2015-04-15_03-23-14-PM.png
+4/15/2015 3:23:21 PM : Scrolling  one page UP..
+4/15/2015 3:23:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:23:27 PM : cf209085_currentScreen-2015-04-15_03-23-21-PM.png
+4/15/2015 3:23:28 PM : Scrolling  one page UP..
+4/15/2015 3:23:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:23:34 PM : cf209085_currentScreen-2015-04-15_03-23-28-PM.png
+4/15/2015 3:23:35 PM : Scrolling  one page UP..
+4/15/2015 3:23:35 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:42:17 PM : ******************Start TestCase 0.1******************
+4/15/2015 3:42:19 PM : Delete Logs and restart device
+4/15/2015 3:42:19 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 3:42:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:42:29 PM : Going Back to Home screen.
+4/15/2015 3:42:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:42:34 PM : cf209085_currentScreen-2015-04-15_03-42-29-PM.png
+4/15/2015 3:42:35 PM : Going Back to Home screen.
+4/15/2015 3:42:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:42:41 PM : cf209085_currentScreen-2015-04-15_03-42-36-PM.png
+4/15/2015 3:42:42 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:42:42 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:42:42 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:42:42 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:42:42 PM : Touching on  X=76, Y=863
+4/15/2015 3:42:42 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:42:49 PM : cf209085_currentScreen-2015-04-15_03-42-42-PM.png
+4/15/2015 3:42:49 PM : typing #932#
+4/15/2015 3:42:50 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:42:57 PM : cf209085_currentScreen-2015-04-15_03-42-50-PM.png
+4/15/2015 3:42:57 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:42:58 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:42:58 PM : Accuracy is D=1
+4/15/2015 3:42:58 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:42:58 PM : Touching on  X=268, Y=910
+4/15/2015 3:42:58 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:43:05 PM : cf209085_currentScreen-2015-04-15_03-42-58-PM.png
+4/15/2015 3:43:05 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:43:16 PM : Taking screen shot...
+4/15/2015 3:43:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:43:21 PM : cf209085_currentScreen-2015-04-15_03-43-16-PM.png
+4/15/2015 3:43:24 PM : Clicking by template WEB_OK.png
+4/15/2015 3:43:24 PM : Verfiying template WEB_OK.png
+4/15/2015 3:43:24 PM : Accuracy is D=0.999911069869995
+4/15/2015 3:43:24 PM : Template WEB_OK.png is Verified. 
+4/15/2015 3:43:24 PM : Touching on  X=270, Y=590
+4/15/2015 3:43:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:43:31 PM : cf209085_currentScreen-2015-04-15_03-43-24-PM.png
+4/15/2015 3:43:31 PM : Start TCPDump
+4/15/2015 3:43:32 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:43:32 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:43:32 PM : Accuracy is D=0.736172378063202
+4/15/2015 3:43:32 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 3:43:32 PM : typing *#9900#
+4/15/2015 3:43:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:43:40 PM : cf209085_currentScreen-2015-04-15_03-43-32-PM.png
+4/15/2015 3:43:40 PM : Taking screen shot...
+4/15/2015 3:43:41 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:43:46 PM : cf209085_currentScreen-2015-04-15_03-43-41-PM.png
+4/15/2015 3:43:47 PM : Scrolling two page down..
+4/15/2015 3:43:47 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:43:54 PM : cf209085_currentScreen-2015-04-15_03-43-47-PM.png
+4/15/2015 3:43:54 PM : Taking screen shot...
+4/15/2015 3:43:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:44:00 PM : cf209085_currentScreen-2015-04-15_03-43-55-PM.png
+4/15/2015 3:44:01 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 3:44:02 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 3:44:02 PM : Accuracy is D=0.999942898750305
+4/15/2015 3:44:02 PM : Template TCPDUMPSTART.png is Verified. 
+4/15/2015 3:44:02 PM : Touching on  X=269, Y=334
+4/15/2015 3:44:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:44:08 PM : cf209085_currentScreen-2015-04-15_03-44-02-PM.png
+4/15/2015 3:44:09 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 3:44:09 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 3:44:09 PM : Accuracy is D=0.99999988079071
+4/15/2015 3:44:09 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+4/15/2015 3:44:09 PM : Touching on  X=267, Y=83
+4/15/2015 3:44:09 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:44:16 PM : cf209085_currentScreen-2015-04-15_03-44-09-PM.png
+4/15/2015 3:44:16 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 3:44:17 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 3:44:17 PM : Accuracy is D=1
+4/15/2015 3:44:17 PM : Template TCPDUMPSTART_OK.png is Verified. 
+4/15/2015 3:44:17 PM : Touching on  X=393, Y=912
+4/15/2015 3:44:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:44:24 PM : cf209085_currentScreen-2015-04-15_03-44-17-PM.png
+4/15/2015 3:44:24 PM : Going Back to Home screen.
+4/15/2015 3:44:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:44:30 PM : cf209085_currentScreen-2015-04-15_03-44-25-PM.png
+4/15/2015 3:46:27 PM : Going Back to Home screen.
+4/15/2015 3:46:27 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:46:32 PM : cf209085_currentScreen-2015-04-15_03-46-27-PM.png
+4/15/2015 3:46:33 PM : Play band Alternat
+4/15/2015 3:46:33 PM : Start Pandora
+4/15/2015 3:46:33 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 3:46:33 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 3:46:34 PM : Accuracy is D=0.99998927116394
+4/15/2015 3:46:34 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 3:46:34 PM : Touching on  X=69, Y=97
+4/15/2015 3:46:34 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:46:40 PM : cf209085_currentScreen-2015-04-15_03-46-34-PM.png
+4/15/2015 3:46:40 PM : Taking screen shot...
+4/15/2015 3:46:41 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:46:46 PM : cf209085_currentScreen-2015-04-15_03-46-41-PM.png
+4/15/2015 3:46:47 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 3:46:48 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:46:48 PM : Accuracy is D=0.999999940395355
+4/15/2015 3:46:48 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:46:48 PM : Touching on  X=326, Y=900
+4/15/2015 3:46:48 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:46:54 PM : cf209085_currentScreen-2015-04-15_03-46-48-PM.png
+4/15/2015 3:46:55 PM : Clicking by template PandoraBackToList.png
+4/15/2015 3:46:55 PM : Verfiying template PandoraBackToList.png
+4/15/2015 3:46:55 PM : Accuracy is D=0.999999642372131
+4/15/2015 3:46:55 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 3:46:55 PM : Touching on  X=34, Y=74
+4/15/2015 3:46:56 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:47:02 PM : cf209085_currentScreen-2015-04-15_03-46-56-PM.png
+4/15/2015 3:47:02 PM : Taking screen shot...
+4/15/2015 3:47:03 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:47:08 PM : cf209085_currentScreen-2015-04-15_03-47-03-PM.png
+4/15/2015 3:47:12 PM : Clicking on Alternat play list
+4/15/2015 3:47:12 PM : Clicking by template Alternat
+4/15/2015 3:47:12 PM : Verfiying template Alternat
+4/15/2015 3:47:12 PM : Template Alternat is Verified. 
+4/15/2015 3:47:12 PM : Touching on  X=200, Y=865
+4/15/2015 3:47:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:47:19 PM : cf209085_currentScreen-2015-04-15_03-47-12-PM.png
+4/15/2015 3:47:19 PM : Waitting 35 for Alternat to play and skip and ads
+4/15/2015 3:47:55 PM : Taking screen shot...
+4/15/2015 3:47:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:48:00 PM : cf209085_currentScreen-2015-04-15_03-47-55-PM.png
+4/15/2015 3:48:01 PM : Clicking by template SkipTpPandora.png
+4/15/2015 3:48:01 PM : Verfiying template SkipTpPandora.png
+4/15/2015 3:48:02 PM : Accuracy is D=0.509403944015503
+4/15/2015 3:48:02 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 3:48:02 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 3:48:02 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 3:48:02 PM : Accuracy is D=0.99999988079071
+4/15/2015 3:48:02 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 3:48:02 PM : Touching on  X=328, Y=901
+4/15/2015 3:48:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:48:08 PM : cf209085_currentScreen-2015-04-15_03-48-02-PM.png
+4/15/2015 3:48:09 PM : Taking screen shot...
+4/15/2015 3:48:09 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:48:15 PM : cf209085_currentScreen-2015-04-15_03-48-09-PM.png
+4/15/2015 3:48:15 PM : Checking if Pandora Playing
+4/15/2015 3:48:16 PM : Taking screen shot...
+4/15/2015 3:48:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:48:22 PM : cf209085_currentScreen-2015-04-15_03-48-16-PM.png
+4/15/2015 3:48:22 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 3:48:23 PM : Object reference not set to an instance of an object.
+4/15/2015 3:48:23 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:48:23 PM : Accuracy is D=0.999999940395355
+4/15/2015 3:48:23 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:48:23 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 3:49:24 PM : Test playing for 176
+4/15/2015 3:49:24 PM : Taking screen shot...
+4/15/2015 3:49:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:49:29 PM : cf209085_currentScreen-2015-04-15_03-49-24-PM.png
+4/15/2015 3:49:30 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 3:49:30 PM : Object reference not set to an instance of an object.
+4/15/2015 3:49:30 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:49:31 PM : Accuracy is D=0.999999940395355
+4/15/2015 3:49:31 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:49:31 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 3:49:39 PM : Going Back to Home screen.
+4/15/2015 3:49:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:05 PM : ******************Start TestCase 0.1******************
+4/15/2015 3:55:07 PM : Delete Logs and restart device
+4/15/2015 3:55:07 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 3:55:07 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:17 PM : Going Back to Home screen.
+4/15/2015 3:55:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:23 PM : cf209085_currentScreen-2015-04-15_03-55-17-PM.png
+4/15/2015 3:55:23 PM : Going Back to Home screen.
+4/15/2015 3:55:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:29 PM : cf209085_currentScreen-2015-04-15_03-55-24-PM.png
+4/15/2015 3:55:30 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:55:30 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:55:30 PM : Accuracy is D=0.999982714653015
+4/15/2015 3:55:30 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 3:55:30 PM : Touching on  X=76, Y=863
+4/15/2015 3:55:30 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:37 PM : cf209085_currentScreen-2015-04-15_03-55-30-PM.png
+4/15/2015 3:55:37 PM : typing #932#
+4/15/2015 3:55:38 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:45 PM : cf209085_currentScreen-2015-04-15_03-55-38-PM.png
+4/15/2015 3:55:45 PM : Clicking by template DialerIconCall.png
+4/15/2015 3:55:46 PM : Verfiying template DialerIconCall.png
+4/15/2015 3:55:46 PM : Accuracy is D=1
+4/15/2015 3:55:46 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 3:55:46 PM : Touching on  X=268, Y=910
+4/15/2015 3:55:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:55:53 PM : cf209085_currentScreen-2015-04-15_03-55-46-PM.png
+4/15/2015 3:55:53 PM : Wait 10 seconds to get the datausage message
+4/15/2015 3:56:04 PM : Taking screen shot...
+4/15/2015 3:56:04 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:10 PM : cf209085_currentScreen-2015-04-15_03-56-04-PM.png
+4/15/2015 3:56:13 PM : Clicking by template WEB_OK.png
+4/15/2015 3:56:13 PM : Verfiying template WEB_OK.png
+4/15/2015 3:56:13 PM : Accuracy is D=0.99990975856781
+4/15/2015 3:56:13 PM : Template WEB_OK.png is Verified. 
+4/15/2015 3:56:13 PM : Touching on  X=270, Y=590
+4/15/2015 3:56:13 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:19 PM : cf209085_currentScreen-2015-04-15_03-56-13-PM.png
+4/15/2015 3:56:20 PM : Start TCPDump
+4/15/2015 3:56:20 PM : Clicking by template DialerIconStart.png
+4/15/2015 3:56:20 PM : Verfiying template DialerIconStart.png
+4/15/2015 3:56:20 PM : Accuracy is D=0.736172378063202
+4/15/2015 3:56:20 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 3:56:20 PM : typing *#9900#
+4/15/2015 3:56:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:28 PM : cf209085_currentScreen-2015-04-15_03-56-21-PM.png
+4/15/2015 3:56:29 PM : Taking screen shot...
+4/15/2015 3:56:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:35 PM : cf209085_currentScreen-2015-04-15_03-56-29-PM.png
+4/15/2015 3:56:35 PM : Scrolling two page down..
+4/15/2015 3:56:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:42 PM : cf209085_currentScreen-2015-04-15_03-56-36-PM.png
+4/15/2015 3:56:43 PM : Taking screen shot...
+4/15/2015 3:56:43 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:49 PM : cf209085_currentScreen-2015-04-15_03-56-43-PM.png
+4/15/2015 3:56:49 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 3:56:50 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 3:56:50 PM : Accuracy is D=0.843680679798126
+4/15/2015 3:56:50 PM : Template TCPDUMPSTART.png is not Verified!
+4/15/2015 3:56:50 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 3:56:50 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 3:56:50 PM : Accuracy is D=0.233017191290855
+4/15/2015 3:56:50 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/15/2015 3:56:50 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 3:56:50 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 3:56:50 PM : Accuracy is D=0.440428048372269
+4/15/2015 3:56:50 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/15/2015 3:56:50 PM : Going Back to Home screen.
+4/15/2015 3:56:50 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:56:56 PM : cf209085_currentScreen-2015-04-15_03-56-50-PM.png
+4/15/2015 3:56:59 PM : Going Back to Home screen.
+4/15/2015 3:56:59 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:05 PM : cf209085_currentScreen-2015-04-15_03-56-59-PM.png
+4/15/2015 3:57:05 PM : Play band Alternat
+4/15/2015 3:57:06 PM : Start Pandora
+4/15/2015 3:57:06 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 3:57:06 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 3:57:06 PM : Accuracy is D=0.99998927116394
+4/15/2015 3:57:06 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 3:57:06 PM : Touching on  X=69, Y=97
+4/15/2015 3:57:06 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:13 PM : cf209085_currentScreen-2015-04-15_03-57-06-PM.png
+4/15/2015 3:57:13 PM : Taking screen shot...
+4/15/2015 3:57:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:19 PM : cf209085_currentScreen-2015-04-15_03-57-14-PM.png
+4/15/2015 3:57:20 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 3:57:20 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:57:20 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:57:20 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:57:20 PM : Touching on  X=326, Y=900
+4/15/2015 3:57:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:27 PM : cf209085_currentScreen-2015-04-15_03-57-20-PM.png
+4/15/2015 3:57:27 PM : Clicking by template PandoraBackToList.png
+4/15/2015 3:57:28 PM : Verfiying template PandoraBackToList.png
+4/15/2015 3:57:28 PM : Accuracy is D=0.999998986721039
+4/15/2015 3:57:28 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 3:57:28 PM : Touching on  X=34, Y=74
+4/15/2015 3:57:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:35 PM : cf209085_currentScreen-2015-04-15_03-57-28-PM.png
+4/15/2015 3:57:35 PM : Taking screen shot...
+4/15/2015 3:57:36 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:41 PM : cf209085_currentScreen-2015-04-15_03-57-36-PM.png
+4/15/2015 3:57:45 PM : Clicking on Alternat play list
+4/15/2015 3:57:45 PM : Clicking by template Alternat
+4/15/2015 3:57:45 PM : Verfiying template Alternat
+4/15/2015 3:57:45 PM : Template Alternat is Verified. 
+4/15/2015 3:57:45 PM : Touching on  X=200, Y=865
+4/15/2015 3:57:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:57:52 PM : cf209085_currentScreen-2015-04-15_03-57-45-PM.png
+4/15/2015 3:57:52 PM : Waitting 35 for Alternat to play and skip and ads
+4/15/2015 3:58:28 PM : Taking screen shot...
+4/15/2015 3:58:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:58:33 PM : cf209085_currentScreen-2015-04-15_03-58-28-PM.png
+4/15/2015 3:58:34 PM : Clicking by template SkipTpPandora.png
+4/15/2015 3:58:34 PM : Verfiying template SkipTpPandora.png
+4/15/2015 3:58:35 PM : Accuracy is D=0.509403944015503
+4/15/2015 3:58:35 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 3:58:35 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 3:58:35 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 3:58:35 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:58:35 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 3:58:35 PM : Touching on  X=328, Y=901
+4/15/2015 3:58:35 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:58:41 PM : cf209085_currentScreen-2015-04-15_03-58-35-PM.png
+4/15/2015 3:58:42 PM : Taking screen shot...
+4/15/2015 3:58:42 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:58:48 PM : cf209085_currentScreen-2015-04-15_03-58-42-PM.png
+4/15/2015 3:58:48 PM : Checking if Pandora Playing
+4/15/2015 3:58:49 PM : Taking screen shot...
+4/15/2015 3:58:49 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 3:58:54 PM : cf209085_currentScreen-2015-04-15_03-58-49-PM.png
+4/15/2015 3:58:55 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 3:58:55 PM : Object reference not set to an instance of an object.
+4/15/2015 3:58:55 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 3:58:55 PM : Accuracy is D=0.999999582767487
+4/15/2015 3:58:55 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 3:58:55 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 3:59:56 PM : Test playing for 177
+4/15/2015 3:59:57 PM : Taking screen shot...
+4/15/2015 3:59:57 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:00:02 PM : cf209085_currentScreen-2015-04-15_03-59-57-PM.png
+4/15/2015 4:00:03 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:00:03 PM : Object reference not set to an instance of an object.
+4/15/2015 4:00:03 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:00:03 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:00:03 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:00:03 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:00:03 PM : End of test after 245.225181 seconds
+4/15/2015 4:00:03 PM : Going Back to Home screen.
+4/15/2015 4:00:03 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:00:09 PM : cf209085_currentScreen-2015-04-15_04-00-03-PM.png
+4/15/2015 4:00:10 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:00:11 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:00:11 PM : Accuracy is D=0.999982714653015
+4/15/2015 4:00:11 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 4:00:11 PM : Touching on  X=76, Y=863
+4/15/2015 4:00:11 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:00:17 PM : cf209085_currentScreen-2015-04-15_04-00-11-PM.png
+4/15/2015 4:00:18 PM : typing #932#
+4/15/2015 4:00:18 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:00:25 PM : cf209085_currentScreen-2015-04-15_04-00-18-PM.png
+4/15/2015 4:00:26 PM : Clicking by template DialerIconCall.png
+4/15/2015 4:00:26 PM : Verfiying template DialerIconCall.png
+4/15/2015 4:00:26 PM : Accuracy is D=1
+4/15/2015 4:00:26 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 4:00:26 PM : Touching on  X=268, Y=910
+4/15/2015 4:00:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:00:33 PM : cf209085_currentScreen-2015-04-15_04-00-26-PM.png
+4/15/2015 4:00:33 PM : Wait 10 seconds to get the datausage message
+4/15/2015 4:00:44 PM : Taking screen shot...
+4/15/2015 4:00:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:00:49 PM : cf209085_currentScreen-2015-04-15_04-00-44-PM.png
+4/15/2015 4:00:53 PM : Clicking by template ok
+4/15/2015 4:00:53 PM : Verfiying template ok
+4/15/2015 4:00:55 PM : Template ok is not Verified!
+4/15/2015 4:00:55 PM : Going Back to Home screen.
+4/15/2015 4:00:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:01 PM : cf209085_currentScreen-2015-04-15_04-00-55-PM.png
+4/15/2015 4:01:01 PM : verifying template DialerIconStart  DialerIconStart.png
+4/15/2015 4:01:02 PM : Object reference not set to an instance of an object.
+4/15/2015 4:01:02 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:01:02 PM : Accuracy is D=0.736172378063202
+4/15/2015 4:01:02 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 4:01:02 PM : Stop TCPDump
+4/15/2015 4:01:02 PM : typing *#9900#
+4/15/2015 4:01:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:09 PM : cf209085_currentScreen-2015-04-15_04-01-02-PM.png
+4/15/2015 4:01:10 PM : Taking screen shot...
+4/15/2015 4:01:11 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:16 PM : cf209085_currentScreen-2015-04-15_04-01-11-PM.png
+4/15/2015 4:01:16 PM : Scrolling two page down..
+4/15/2015 4:01:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:24 PM : cf209085_currentScreen-2015-04-15_04-01-17-PM.png
+4/15/2015 4:01:24 PM : Taking screen shot...
+4/15/2015 4:01:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:30 PM : cf209085_currentScreen-2015-04-15_04-01-25-PM.png
+4/15/2015 4:01:31 PM : Clicking by template TCPDUMPSTOP.png
+4/15/2015 4:01:31 PM : Verfiying template TCPDUMPSTOP.png
+4/15/2015 4:01:31 PM : Accuracy is D=0.99994170665741
+4/15/2015 4:01:31 PM : Template TCPDUMPSTOP.png is Verified. 
+4/15/2015 4:01:31 PM : Touching on  X=267, Y=339
+4/15/2015 4:01:31 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:38 PM : cf209085_currentScreen-2015-04-15_04-01-31-PM.png
+4/15/2015 4:01:38 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 4:01:39 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:01:39 PM : Accuracy is D=0.999999463558197
+4/15/2015 4:01:39 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:01:39 PM : Touching on  X=268, Y=588
+4/15/2015 4:01:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:46 PM : cf209085_currentScreen-2015-04-15_04-01-39-PM.png
+4/15/2015 4:01:46 PM : Scrolling  one page UP..
+4/15/2015 4:01:47 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:01:53 PM : cf209085_currentScreen-2015-04-15_04-01-47-PM.png
+4/15/2015 4:01:53 PM : Scrolling  one page UP..
+4/15/2015 4:01:54 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:02:00 PM : cf209085_currentScreen-2015-04-15_04-01-54-PM.png
+4/15/2015 4:02:00 PM : Scrolling  one page UP..
+4/15/2015 4:02:01 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:02:07 PM : cf209085_currentScreen-2015-04-15_04-02-01-PM.png
+4/15/2015 4:02:07 PM : Clicking by template TCPDUMPSTATE.png
+4/15/2015 4:02:08 PM : Verfiying template TCPDUMPSTATE.png
+4/15/2015 4:02:08 PM : Accuracy is D=1
+4/15/2015 4:02:08 PM : Template TCPDUMPSTATE.png is Verified. 
+4/15/2015 4:02:08 PM : Touching on  X=270, Y=161
+4/15/2015 4:02:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:02:15 PM : cf209085_currentScreen-2015-04-15_04-02-08-PM.png
+4/15/2015 4:02:15 PM : Wait 10 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/15/2015 4:02:16 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 4:02:16 PM : Object reference not set to an instance of an object.
+4/15/2015 4:02:16 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:02:16 PM : Accuracy is D=0.491970121860504
+4/15/2015 4:02:16 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/15/2015 4:02:16 PM : Taking screen shot...
+4/15/2015 4:02:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:02:21 PM : cf209085_currentScreen-2015-04-15_04-02-16-PM.png
+4/15/2015 4:02:55 PM : ******************Start TestCase 0.1******************
+4/15/2015 4:02:55 PM : Delete Logs and restart device
+4/15/2015 4:02:55 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 4:02:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:03:05 PM : Going Back to Home screen.
+4/15/2015 4:03:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:03:11 PM : cf209085_currentScreen-2015-04-15_04-03-05-PM.png
+4/15/2015 4:03:12 PM : Going Back to Home screen.
+4/15/2015 4:03:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:03:18 PM : cf209085_currentScreen-2015-04-15_04-03-12-PM.png
+4/15/2015 4:03:19 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:03:19 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:03:19 PM : Accuracy is D=0.456890106201172
+4/15/2015 4:03:19 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 4:03:19 PM : typing #932#
+4/15/2015 4:03:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:03:27 PM : cf209085_currentScreen-2015-04-15_04-03-19-PM.png
+4/15/2015 4:03:27 PM : Clicking by template DialerIconCall.png
+4/15/2015 4:03:28 PM : Verfiying template DialerIconCall.png
+4/15/2015 4:03:28 PM : Accuracy is D=0.38477948307991
+4/15/2015 4:03:28 PM : Template DialerIconCall.png is not Verified!
+4/15/2015 4:03:28 PM : Wait 10 seconds to get the datausage message
+4/15/2015 4:03:38 PM : Taking screen shot...
+4/15/2015 4:03:38 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:03:43 PM : cf209085_currentScreen-2015-04-15_04-03-38-PM.png
+4/15/2015 4:03:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:03:47 PM : ************************End TestCase 0.1************************
+4/15/2015 4:04:29 PM : ******************Start TestCase 0.1******************
+4/15/2015 4:04:29 PM : Delete Logs and restart device
+4/15/2015 4:04:29 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 4:04:29 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:04:39 PM : Going Back to Home screen.
+4/15/2015 4:04:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:04:45 PM : cf209085_currentScreen-2015-04-15_04-04-39-PM.png
+4/15/2015 4:04:45 PM : Going Back to Home screen.
+4/15/2015 4:04:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:04:51 PM : cf209085_currentScreen-2015-04-15_04-04-46-PM.png
+4/15/2015 4:04:52 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:04:52 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:04:53 PM : Accuracy is D=0.999982714653015
+4/15/2015 4:04:53 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 4:04:53 PM : Touching on  X=76, Y=863
+4/15/2015 4:04:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:04:59 PM : cf209085_currentScreen-2015-04-15_04-04-53-PM.png
+4/15/2015 4:04:59 PM : typing #932#
+4/15/2015 4:05:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:05:07 PM : cf209085_currentScreen-2015-04-15_04-05-00-PM.png
+4/15/2015 4:05:08 PM : Clicking by template DialerIconCall.png
+4/15/2015 4:05:08 PM : Verfiying template DialerIconCall.png
+4/15/2015 4:05:08 PM : Accuracy is D=1
+4/15/2015 4:05:08 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 4:05:08 PM : Touching on  X=268, Y=910
+4/15/2015 4:05:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:05:15 PM : cf209085_currentScreen-2015-04-15_04-05-08-PM.png
+4/15/2015 4:05:15 PM : Wait 10 seconds to get the datausage message
+4/15/2015 4:05:26 PM : Taking screen shot...
+4/15/2015 4:05:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:05:31 PM : cf209085_currentScreen-2015-04-15_04-05-26-PM.png
+4/15/2015 4:05:34 PM : Clicking by template WEB_OK.png
+4/15/2015 4:05:34 PM : Verfiying template WEB_OK.png
+4/15/2015 4:05:34 PM : Accuracy is D=0.999911069869995
+4/15/2015 4:05:34 PM : Template WEB_OK.png is Verified. 
+4/15/2015 4:05:34 PM : Touching on  X=270, Y=590
+4/15/2015 4:05:34 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:05:41 PM : cf209085_currentScreen-2015-04-15_04-05-34-PM.png
+4/15/2015 4:05:41 PM : Start TCPDump
+4/15/2015 4:05:42 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:05:42 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:05:42 PM : Accuracy is D=0.736172378063202
+4/15/2015 4:05:42 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 4:05:42 PM : typing *#9900#
+4/15/2015 4:05:42 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:05:50 PM : cf209085_currentScreen-2015-04-15_04-05-42-PM.png
+4/15/2015 4:05:50 PM : Taking screen shot...
+4/15/2015 4:05:51 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:05:56 PM : cf209085_currentScreen-2015-04-15_04-05-51-PM.png
+4/15/2015 4:05:57 PM : Scrolling two page down..
+4/15/2015 4:05:57 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:04 PM : cf209085_currentScreen-2015-04-15_04-05-57-PM.png
+4/15/2015 4:06:04 PM : Taking screen shot...
+4/15/2015 4:06:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:10 PM : cf209085_currentScreen-2015-04-15_04-06-05-PM.png
+4/15/2015 4:06:10 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 4:06:11 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 4:06:11 PM : Accuracy is D=0.999942898750305
+4/15/2015 4:06:11 PM : Template TCPDUMPSTART.png is Verified. 
+4/15/2015 4:06:11 PM : Touching on  X=269, Y=334
+4/15/2015 4:06:11 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:18 PM : cf209085_currentScreen-2015-04-15_04-06-11-PM.png
+4/15/2015 4:06:18 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 4:06:19 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 4:06:19 PM : Accuracy is D=0.99999988079071
+4/15/2015 4:06:19 PM : Template TCPDUMPSTART_ANY.png is Verified. 
+4/15/2015 4:06:19 PM : Touching on  X=267, Y=83
+4/15/2015 4:06:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:25 PM : cf209085_currentScreen-2015-04-15_04-06-19-PM.png
+4/15/2015 4:06:26 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 4:06:26 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 4:06:26 PM : Accuracy is D=1
+4/15/2015 4:06:26 PM : Template TCPDUMPSTART_OK.png is Verified. 
+4/15/2015 4:06:26 PM : Touching on  X=393, Y=912
+4/15/2015 4:06:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:33 PM : cf209085_currentScreen-2015-04-15_04-06-26-PM.png
+4/15/2015 4:06:33 PM : Going Back to Home screen.
+4/15/2015 4:06:34 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:40 PM : cf209085_currentScreen-2015-04-15_04-06-34-PM.png
+4/15/2015 4:06:40 PM : Going Back to Home screen.
+4/15/2015 4:06:41 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:46 PM : cf209085_currentScreen-2015-04-15_04-06-41-PM.png
+4/15/2015 4:06:47 PM : Play band Alternat
+4/15/2015 4:06:47 PM : Start Pandora
+4/15/2015 4:06:48 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 4:06:48 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 4:06:48 PM : Accuracy is D=0.99998927116394
+4/15/2015 4:06:48 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 4:06:48 PM : Touching on  X=69, Y=97
+4/15/2015 4:06:48 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:06:55 PM : cf209085_currentScreen-2015-04-15_04-06-48-PM.png
+4/15/2015 4:06:55 PM : Taking screen shot...
+4/15/2015 4:06:56 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:07:01 PM : cf209085_currentScreen-2015-04-15_04-06-56-PM.png
+4/15/2015 4:07:02 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 4:07:02 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:07:02 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:07:02 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:07:02 PM : Touching on  X=326, Y=900
+4/15/2015 4:07:02 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:07:09 PM : cf209085_currentScreen-2015-04-15_04-07-02-PM.png
+4/15/2015 4:07:09 PM : Clicking by template PandoraBackToList.png
+4/15/2015 4:07:10 PM : Verfiying template PandoraBackToList.png
+4/15/2015 4:07:10 PM : Accuracy is D=0.999999642372131
+4/15/2015 4:07:10 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 4:07:10 PM : Touching on  X=34, Y=74
+4/15/2015 4:07:10 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:07:16 PM : cf209085_currentScreen-2015-04-15_04-07-10-PM.png
+4/15/2015 4:07:17 PM : Taking screen shot...
+4/15/2015 4:07:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:07:23 PM : cf209085_currentScreen-2015-04-15_04-07-17-PM.png
+4/15/2015 4:07:27 PM : Clicking on Alternat play list
+4/15/2015 4:07:27 PM : Clicking by template Alternat
+4/15/2015 4:07:27 PM : Verfiying template Alternat
+4/15/2015 4:07:27 PM : Template Alternat is Verified. 
+4/15/2015 4:07:27 PM : Touching on  X=200, Y=865
+4/15/2015 4:07:27 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:07:34 PM : cf209085_currentScreen-2015-04-15_04-07-27-PM.png
+4/15/2015 4:07:35 PM : Waitting 35 for Alternat to play and skip and ads
+4/15/2015 4:08:10 PM : Taking screen shot...
+4/15/2015 4:08:10 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:08:16 PM : cf209085_currentScreen-2015-04-15_04-08-10-PM.png
+4/15/2015 4:08:16 PM : Clicking by template SkipTpPandora.png
+4/15/2015 4:08:17 PM : Verfiying template SkipTpPandora.png
+4/15/2015 4:08:17 PM : Accuracy is D=0.509403944015503
+4/15/2015 4:08:17 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 4:08:17 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 4:08:17 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 4:08:17 PM : Accuracy is D=0.999999582767487
+4/15/2015 4:08:17 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 4:08:17 PM : Touching on  X=328, Y=901
+4/15/2015 4:08:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:08:24 PM : cf209085_currentScreen-2015-04-15_04-08-17-PM.png
+4/15/2015 4:08:24 PM : Taking screen shot...
+4/15/2015 4:08:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:08:30 PM : cf209085_currentScreen-2015-04-15_04-08-25-PM.png
+4/15/2015 4:08:31 PM : Checking if Pandora Playing
+4/15/2015 4:08:31 PM : Taking screen shot...
+4/15/2015 4:08:31 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:08:37 PM : cf209085_currentScreen-2015-04-15_04-08-31-PM.png
+4/15/2015 4:08:37 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:08:38 PM : Object reference not set to an instance of an object.
+4/15/2015 4:08:38 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:08:38 PM : Accuracy is D=1
+4/15/2015 4:08:38 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:08:38 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:09:39 PM : Test playing for 178
+4/15/2015 4:09:39 PM : Taking screen shot...
+4/15/2015 4:09:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:09:45 PM : cf209085_currentScreen-2015-04-15_04-09-39-PM.png
+4/15/2015 4:09:45 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:09:46 PM : Object reference not set to an instance of an object.
+4/15/2015 4:09:46 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:09:46 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:09:46 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:09:46 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:10:47 PM : Test playing for 307
+4/15/2015 4:10:47 PM : Taking screen shot...
+4/15/2015 4:10:47 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:10:53 PM : cf209085_currentScreen-2015-04-15_04-10-47-PM.png
+4/15/2015 4:10:53 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:10:54 PM : Object reference not set to an instance of an object.
+4/15/2015 4:10:54 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:10:54 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:10:54 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:10:54 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:11:55 PM : Test playing for 436
+4/15/2015 4:11:55 PM : Taking screen shot...
+4/15/2015 4:11:55 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:12:01 PM : cf209085_currentScreen-2015-04-15_04-11-55-PM.png
+4/15/2015 4:12:01 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:12:02 PM : Object reference not set to an instance of an object.
+4/15/2015 4:12:02 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:12:02 PM : Accuracy is D=0.999999582767487
+4/15/2015 4:12:02 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:12:02 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:13:03 PM : Test playing for 565
+4/15/2015 4:13:03 PM : Taking screen shot...
+4/15/2015 4:13:03 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:13:08 PM : cf209085_currentScreen-2015-04-15_04-13-03-PM.png
+4/15/2015 4:13:09 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:13:09 PM : Object reference not set to an instance of an object.
+4/15/2015 4:13:09 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:13:10 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:13:10 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:13:10 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:13:10 PM : End of test after 633.2996411 seconds
+4/15/2015 4:13:10 PM : Going Back to Home screen.
+4/15/2015 4:13:10 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:13:16 PM : cf209085_currentScreen-2015-04-15_04-13-10-PM.png
+4/15/2015 4:13:16 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:13:19 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:13:19 PM : Accuracy is D=0.343163698911667
+4/15/2015 4:13:19 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 4:13:19 PM : typing #932#
+4/15/2015 4:13:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:13:26 PM : cf209085_currentScreen-2015-04-15_04-13-19-PM.png
+4/15/2015 4:13:26 PM : Clicking by template DialerIconCall.png
+4/15/2015 4:13:27 PM : Verfiying template DialerIconCall.png
+4/15/2015 4:13:27 PM : Accuracy is D=0.224941968917847
+4/15/2015 4:13:27 PM : Template DialerIconCall.png is not Verified!
+4/15/2015 4:13:27 PM : Wait 10 seconds to get the datausage message
+4/15/2015 4:13:37 PM : Taking screen shot...
+4/15/2015 4:13:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:13:42 PM : cf209085_currentScreen-2015-04-15_04-13-37-PM.png
+4/15/2015 4:13:45 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:13:46 PM : ************************End TestCase 0.1************************
+4/15/2015 4:22:09 PM : ******************Start TestCase 0.1******************
+4/15/2015 4:22:09 PM : Delete Logs and restart device
+4/15/2015 4:22:09 PM : Delete sdcard/log file  -s cf209085 shell rm -r /sdcard/log
+4/15/2015 4:22:09 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:22:19 PM : Going Back to Home screen.
+4/15/2015 4:22:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:22:24 PM : cf209085_currentScreen-2015-04-15_04-22-19-PM.png
+4/15/2015 4:22:25 PM : Going Back to Home screen.
+4/15/2015 4:22:25 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:22:31 PM : cf209085_currentScreen-2015-04-15_04-22-25-PM.png
+4/15/2015 4:22:31 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:22:32 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:22:32 PM : Accuracy is D=0.999982714653015
+4/15/2015 4:22:32 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 4:22:32 PM : Touching on  X=76, Y=863
+4/15/2015 4:22:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:22:38 PM : cf209085_currentScreen-2015-04-15_04-22-32-PM.png
+4/15/2015 4:22:39 PM : typing #932#
+4/15/2015 4:22:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:22:46 PM : cf209085_currentScreen-2015-04-15_04-22-39-PM.png
+4/15/2015 4:22:47 PM : Clicking by template DialerIconCall.png
+4/15/2015 4:22:48 PM : Verfiying template DialerIconCall.png
+4/15/2015 4:22:48 PM : Accuracy is D=1
+4/15/2015 4:22:48 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 4:22:48 PM : Touching on  X=268, Y=910
+4/15/2015 4:22:48 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:22:54 PM : cf209085_currentScreen-2015-04-15_04-22-48-PM.png
+4/15/2015 4:22:55 PM : Wait 10 seconds to get the datausage message
+4/15/2015 4:23:05 PM : Taking screen shot...
+4/15/2015 4:23:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:11 PM : cf209085_currentScreen-2015-04-15_04-23-05-PM.png
+4/15/2015 4:23:14 PM : Clicking by template WEB_OK.png
+4/15/2015 4:23:14 PM : Verfiying template WEB_OK.png
+4/15/2015 4:23:14 PM : Accuracy is D=0.999911069869995
+4/15/2015 4:23:14 PM : Template WEB_OK.png is Verified. 
+4/15/2015 4:23:14 PM : Touching on  X=270, Y=590
+4/15/2015 4:23:14 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:20 PM : cf209085_currentScreen-2015-04-15_04-23-14-PM.png
+4/15/2015 4:23:21 PM : Start TCPDump
+4/15/2015 4:23:21 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:23:21 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:23:21 PM : Accuracy is D=0.736172378063202
+4/15/2015 4:23:21 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 4:23:21 PM : typing *#9900#
+4/15/2015 4:23:21 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:29 PM : cf209085_currentScreen-2015-04-15_04-23-21-PM.png
+4/15/2015 4:23:29 PM : Taking screen shot...
+4/15/2015 4:23:30 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:36 PM : cf209085_currentScreen-2015-04-15_04-23-30-PM.png
+4/15/2015 4:23:36 PM : Scrolling two page down..
+4/15/2015 4:23:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:43 PM : cf209085_currentScreen-2015-04-15_04-23-37-PM.png
+4/15/2015 4:23:44 PM : Taking screen shot...
+4/15/2015 4:23:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:50 PM : cf209085_currentScreen-2015-04-15_04-23-44-PM.png
+4/15/2015 4:23:50 PM : Clicking by template TCPDUMPSTART.png
+4/15/2015 4:23:51 PM : Verfiying template TCPDUMPSTART.png
+4/15/2015 4:23:51 PM : Accuracy is D=0.843680679798126
+4/15/2015 4:23:51 PM : Template TCPDUMPSTART.png is not Verified!
+4/15/2015 4:23:51 PM : Clicking by template TCPDUMPSTART_ANY.png
+4/15/2015 4:23:51 PM : Verfiying template TCPDUMPSTART_ANY.png
+4/15/2015 4:23:51 PM : Accuracy is D=0.233017191290855
+4/15/2015 4:23:51 PM : Template TCPDUMPSTART_ANY.png is not Verified!
+4/15/2015 4:23:51 PM : Clicking by template TCPDUMPSTART_OK.png
+4/15/2015 4:23:51 PM : Verfiying template TCPDUMPSTART_OK.png
+4/15/2015 4:23:51 PM : Accuracy is D=0.440427213907242
+4/15/2015 4:23:51 PM : Template TCPDUMPSTART_OK.png is not Verified!
+4/15/2015 4:23:51 PM : Going Back to Home screen.
+4/15/2015 4:23:51 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:23:57 PM : cf209085_currentScreen-2015-04-15_04-23-51-PM.png
+4/15/2015 4:23:58 PM : Going Back to Home screen.
+4/15/2015 4:23:58 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:24:04 PM : cf209085_currentScreen-2015-04-15_04-23-58-PM.png
+4/15/2015 4:24:04 PM : Play band Alternat
+4/15/2015 4:24:05 PM : Start Pandora
+4/15/2015 4:24:05 PM : Clicking by template PandoraStartIcon.png
+4/15/2015 4:24:05 PM : Verfiying template PandoraStartIcon.png
+4/15/2015 4:24:05 PM : Accuracy is D=0.99998927116394
+4/15/2015 4:24:05 PM : Template PandoraStartIcon.png is Verified. 
+4/15/2015 4:24:05 PM : Touching on  X=69, Y=97
+4/15/2015 4:24:05 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:24:12 PM : cf209085_currentScreen-2015-04-15_04-24-05-PM.png
+4/15/2015 4:24:12 PM : Taking screen shot...
+4/15/2015 4:24:13 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:24:18 PM : cf209085_currentScreen-2015-04-15_04-24-13-PM.png
+4/15/2015 4:24:19 PM : Clicking by template PandroaRadioPause.png
+4/15/2015 4:24:19 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:24:20 PM : Accuracy is D=0.445918381214142
+4/15/2015 4:24:20 PM : Template PandroaRadioPause.png is not Verified!
+4/15/2015 4:24:20 PM : Clicking by template PandoraBackToList.png
+4/15/2015 4:24:20 PM : Verfiying template PandoraBackToList.png
+4/15/2015 4:24:20 PM : Accuracy is D=1
+4/15/2015 4:24:20 PM : Template PandoraBackToList.png is Verified. 
+4/15/2015 4:24:20 PM : Touching on  X=34, Y=74
+4/15/2015 4:24:20 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:24:27 PM : cf209085_currentScreen-2015-04-15_04-24-20-PM.png
+4/15/2015 4:24:27 PM : Taking screen shot...
+4/15/2015 4:24:28 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:24:33 PM : cf209085_currentScreen-2015-04-15_04-24-28-PM.png
+4/15/2015 4:24:37 PM : Clicking on Alternat play list
+4/15/2015 4:24:37 PM : Clicking by template Alternat
+4/15/2015 4:24:37 PM : Verfiying template Alternat
+4/15/2015 4:24:37 PM : Template Alternat is Verified. 
+4/15/2015 4:24:37 PM : Touching on  X=200, Y=865
+4/15/2015 4:24:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:24:44 PM : cf209085_currentScreen-2015-04-15_04-24-37-PM.png
+4/15/2015 4:24:45 PM : Waitting 35 for Alternat to play and skip and ads
+4/15/2015 4:25:20 PM : Taking screen shot...
+4/15/2015 4:25:20 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:25:26 PM : cf209085_currentScreen-2015-04-15_04-25-20-PM.png
+4/15/2015 4:25:26 PM : Clicking by template SkipTpPandora.png
+4/15/2015 4:25:27 PM : Verfiying template SkipTpPandora.png
+4/15/2015 4:25:27 PM : Accuracy is D=0.509403705596924
+4/15/2015 4:25:27 PM : Template SkipTpPandora.png is not Verified!
+4/15/2015 4:25:27 PM : Clicking by template PandoraRadioStart.png
+4/15/2015 4:25:27 PM : Verfiying template PandoraRadioStart.png
+4/15/2015 4:25:27 PM : Accuracy is D=0.99999988079071
+4/15/2015 4:25:27 PM : Template PandoraRadioStart.png is Verified. 
+4/15/2015 4:25:27 PM : Touching on  X=328, Y=901
+4/15/2015 4:25:27 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:25:34 PM : cf209085_currentScreen-2015-04-15_04-25-27-PM.png
+4/15/2015 4:25:34 PM : Taking screen shot...
+4/15/2015 4:25:35 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:25:40 PM : cf209085_currentScreen-2015-04-15_04-25-35-PM.png
+4/15/2015 4:25:41 PM : Checking if Pandora Playing
+4/15/2015 4:25:41 PM : Taking screen shot...
+4/15/2015 4:25:41 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:25:47 PM : cf209085_currentScreen-2015-04-15_04-25-41-PM.png
+4/15/2015 4:25:47 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:25:48 PM : Object reference not set to an instance of an object.
+4/15/2015 4:25:48 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:25:48 PM : Accuracy is D=0.999999582767487
+4/15/2015 4:25:48 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:25:48 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:26:49 PM : Test playing for 171
+4/15/2015 4:26:49 PM : Taking screen shot...
+4/15/2015 4:26:49 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:26:54 PM : cf209085_currentScreen-2015-04-15_04-26-49-PM.png
+4/15/2015 4:26:55 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:26:55 PM : Object reference not set to an instance of an object.
+4/15/2015 4:26:55 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:26:56 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:26:56 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:26:56 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:27:57 PM : Test playing for 299
+4/15/2015 4:27:57 PM : Taking screen shot...
+4/15/2015 4:27:57 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:28:02 PM : cf209085_currentScreen-2015-04-15_04-27-57-PM.png
+4/15/2015 4:28:03 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:28:03 PM : Object reference not set to an instance of an object.
+4/15/2015 4:28:03 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:28:03 PM : Accuracy is D=0.999999582767487
+4/15/2015 4:28:03 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:28:03 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:29:04 PM : Test playing for 428
+4/15/2015 4:29:04 PM : Taking screen shot...
+4/15/2015 4:29:04 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:29:10 PM : cf209085_currentScreen-2015-04-15_04-29-04-PM.png
+4/15/2015 4:29:10 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:29:11 PM : Object reference not set to an instance of an object.
+4/15/2015 4:29:11 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:29:11 PM : Accuracy is D=0.999999940395355
+4/15/2015 4:29:11 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:29:11 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:30:12 PM : Test playing for 557
+4/15/2015 4:30:12 PM : Taking screen shot...
+4/15/2015 4:30:12 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:30:18 PM : cf209085_currentScreen-2015-04-15_04-30-12-PM.png
+4/15/2015 4:30:18 PM : verifying template PandroaRadioPause  PandroaRadioPause.png
+4/15/2015 4:30:19 PM : Object reference not set to an instance of an object.
+4/15/2015 4:30:19 PM : Verfiying template PandroaRadioPause.png
+4/15/2015 4:30:19 PM : Accuracy is D=0.999999582767487
+4/15/2015 4:30:19 PM : Template PandroaRadioPause.png is Verified. 
+4/15/2015 4:30:19 PM : Pandora song is playing, will check every 15 minutes...........
+4/15/2015 4:30:19 PM : Going Back to Home screen.
+4/15/2015 4:30:19 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:30:25 PM : cf209085_currentScreen-2015-04-15_04-30-19-PM.png
+4/15/2015 4:30:25 PM : Going Back to Home screen.
+4/15/2015 4:30:26 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:30:31 PM : cf209085_currentScreen-2015-04-15_04-30-26-PM.png
+4/15/2015 4:30:32 PM : Clicking by template DialerIconStart.png
+4/15/2015 4:30:32 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:30:33 PM : Accuracy is D=0.999982714653015
+4/15/2015 4:30:33 PM : Template DialerIconStart.png is Verified. 
+4/15/2015 4:30:33 PM : Touching on  X=76, Y=863
+4/15/2015 4:30:33 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:30:39 PM : cf209085_currentScreen-2015-04-15_04-30-33-PM.png
+4/15/2015 4:30:40 PM : typing #932#
+4/15/2015 4:30:40 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:30:47 PM : cf209085_currentScreen-2015-04-15_04-30-40-PM.png
+4/15/2015 4:30:48 PM : Clicking by template DialerIconCall.png
+4/15/2015 4:30:48 PM : Verfiying template DialerIconCall.png
+4/15/2015 4:30:48 PM : Accuracy is D=1
+4/15/2015 4:30:48 PM : Template DialerIconCall.png is Verified. 
+4/15/2015 4:30:48 PM : Touching on  X=268, Y=910
+4/15/2015 4:30:48 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:30:55 PM : cf209085_currentScreen-2015-04-15_04-30-48-PM.png
+4/15/2015 4:30:55 PM : Wait 10 seconds to get the datausage message
+4/15/2015 4:31:06 PM : Taking screen shot...
+4/15/2015 4:31:06 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:11 PM : cf209085_currentScreen-2015-04-15_04-31-06-PM.png
+4/15/2015 4:31:14 PM : Clicking by template ok
+4/15/2015 4:31:14 PM : Verfiying template ok
+4/15/2015 4:31:17 PM : Template ok is not Verified!
+4/15/2015 4:31:17 PM : Going Back to Home screen.
+4/15/2015 4:31:17 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:22 PM : cf209085_currentScreen-2015-04-15_04-31-17-PM.png
+4/15/2015 4:31:23 PM : verifying template DialerIconStart  DialerIconStart.png
+4/15/2015 4:31:24 PM : Object reference not set to an instance of an object.
+4/15/2015 4:31:24 PM : Verfiying template DialerIconStart.png
+4/15/2015 4:31:24 PM : Accuracy is D=0.736172378063202
+4/15/2015 4:31:24 PM : Template DialerIconStart.png is not Verified!
+4/15/2015 4:31:24 PM : Stop TCPDump
+4/15/2015 4:31:24 PM : typing *#9900#
+4/15/2015 4:31:24 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:31 PM : cf209085_currentScreen-2015-04-15_04-31-24-PM.png
+4/15/2015 4:31:32 PM : Taking screen shot...
+4/15/2015 4:31:32 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:38 PM : cf209085_currentScreen-2015-04-15_04-31-32-PM.png
+4/15/2015 4:31:38 PM : Scrolling two page down..
+4/15/2015 4:31:39 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:45 PM : cf209085_currentScreen-2015-04-15_04-31-39-PM.png
+4/15/2015 4:31:46 PM : Taking screen shot...
+4/15/2015 4:31:46 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:52 PM : cf209085_currentScreen-2015-04-15_04-31-46-PM.png
+4/15/2015 4:31:52 PM : Clicking by template TCPDUMPSTOP.png
+4/15/2015 4:31:53 PM : Verfiying template TCPDUMPSTOP.png
+4/15/2015 4:31:53 PM : Accuracy is D=0.99994170665741
+4/15/2015 4:31:53 PM : Template TCPDUMPSTOP.png is Verified. 
+4/15/2015 4:31:53 PM : Touching on  X=267, Y=339
+4/15/2015 4:31:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:31:59 PM : cf209085_currentScreen-2015-04-15_04-31-53-PM.png
+4/15/2015 4:32:00 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 4:32:00 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:32:01 PM : Accuracy is D=0.999999463558197
+4/15/2015 4:32:01 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:32:01 PM : Touching on  X=268, Y=588
+4/15/2015 4:32:01 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:32:07 PM : cf209085_currentScreen-2015-04-15_04-32-01-PM.png
+4/15/2015 4:32:08 PM : Scrolling  one page UP..
+4/15/2015 4:32:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:32:14 PM : cf209085_currentScreen-2015-04-15_04-32-08-PM.png
+4/15/2015 4:32:15 PM : Scrolling  one page UP..
+4/15/2015 4:32:15 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:32:21 PM : cf209085_currentScreen-2015-04-15_04-32-15-PM.png
+4/15/2015 4:32:22 PM : Scrolling  one page UP..
+4/15/2015 4:32:22 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:32:28 PM : cf209085_currentScreen-2015-04-15_04-32-22-PM.png
+4/15/2015 4:32:29 PM : Clicking by template TCPDUMPSTATE.png
+4/15/2015 4:32:29 PM : Verfiying template TCPDUMPSTATE.png
+4/15/2015 4:32:30 PM : Accuracy is D=1
+4/15/2015 4:32:30 PM : Template TCPDUMPSTATE.png is Verified. 
+4/15/2015 4:32:30 PM : Touching on  X=270, Y=161
+4/15/2015 4:32:30 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:32:36 PM : cf209085_currentScreen-2015-04-15_04-32-30-PM.png
+4/15/2015 4:32:37 PM : Wait 10 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/15/2015 4:32:37 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 4:32:37 PM : Object reference not set to an instance of an object.
+4/15/2015 4:32:37 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:32:37 PM : Accuracy is D=0.491970121860504
+4/15/2015 4:32:37 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/15/2015 4:32:37 PM : Taking screen shot...
+4/15/2015 4:32:37 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:32:43 PM : cf209085_currentScreen-2015-04-15_04-32-37-PM.png
+4/15/2015 4:33:44 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 4:33:44 PM : Object reference not set to an instance of an object.
+4/15/2015 4:33:44 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:33:44 PM : Accuracy is D=0.99997478723526
+4/15/2015 4:33:44 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:33:44 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 4:33:44 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:33:44 PM : Accuracy is D=0.99997478723526
+4/15/2015 4:33:44 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:33:44 PM : Touching on  X=268, Y=622
+4/15/2015 4:33:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:33:52 PM : cf209085_currentScreen-2015-04-15_04-33-44-PM.png
+4/15/2015 4:33:53 PM : Wait 60 seconds
+4/15/2015 4:34:53 PM : Taking screen shot...
+4/15/2015 4:34:53 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:34:59 PM : cf209085_currentScreen-2015-04-15_04-34-53-PM.png
+4/15/2015 4:34:59 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 4:35:00 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:35:00 PM : Accuracy is D=0.99997478723526
+4/15/2015 4:35:00 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:35:00 PM : Touching on  X=268, Y=622
+4/15/2015 4:35:00 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:07 PM : cf209085_currentScreen-2015-04-15_04-35-00-PM.png
+4/15/2015 4:35:07 PM : Clicking by template TCPDUMPTOSDCARD.png
+4/15/2015 4:35:08 PM : Verfiying template TCPDUMPTOSDCARD.png
+4/15/2015 4:35:08 PM : Accuracy is D=0.999998807907104
+4/15/2015 4:35:08 PM : Template TCPDUMPTOSDCARD.png is Verified. 
+4/15/2015 4:35:08 PM : Touching on  X=162, Y=663
+4/15/2015 4:35:08 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:15 PM : cf209085_currentScreen-2015-04-15_04-35-08-PM.png
+4/15/2015 4:35:15 PM : Wait 50 seconds until template Template>> Name TCPDUMPSTOP_OK , Value TCPDUMPSTOP_OK.png , Index 1 , Accuracy 0.95   exists
+4/15/2015 4:35:16 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 4:35:16 PM : Object reference not set to an instance of an object.
+4/15/2015 4:35:16 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:35:16 PM : Accuracy is D=0.491970121860504
+4/15/2015 4:35:16 PM : Template TCPDUMPSTOP_OK.png is not Verified!
+4/15/2015 4:35:16 PM : Taking screen shot...
+4/15/2015 4:35:16 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:21 PM : cf209085_currentScreen-2015-04-15_04-35-16-PM.png
+4/15/2015 4:35:27 PM : verifying template TCPDUMPSTOP_OK  TCPDUMPSTOP_OK.png
+4/15/2015 4:35:27 PM : Object reference not set to an instance of an object.
+4/15/2015 4:35:27 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:35:27 PM : Accuracy is D=0.999999463558197
+4/15/2015 4:35:27 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:35:27 PM : Clicking by template TCPDUMPSTOP_OK.png
+4/15/2015 4:35:27 PM : Verfiying template TCPDUMPSTOP_OK.png
+4/15/2015 4:35:27 PM : Accuracy is D=0.999999463558197
+4/15/2015 4:35:27 PM : Template TCPDUMPSTOP_OK.png is Verified. 
+4/15/2015 4:35:27 PM : Touching on  X=268, Y=588
+4/15/2015 4:35:27 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:33 PM : cf209085_currentScreen-2015-04-15_04-35-27-PM.png
+4/15/2015 4:35:34 PM : Going Back to Home screen.
+4/15/2015 4:35:34 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:40 PM : cf209085_currentScreen-2015-04-15_04-35-34-PM.png
+4/15/2015 4:35:41 PM : Pulling TCP Dump from Device
+4/15/2015 4:35:42 PM : tcp-dump command   -s cf209085  pull  /sdcard/log/tcpdump/ c:/GDrive/tcpump/tcpdump_Pandora_9_4_15_2015
+4/15/2015 4:35:42 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:44 PM : tcp-dump pulled to  c:/GDrive/tcpump/tcpdump_Pandora_9_4_15_2015
+4/15/2015 4:35:44 PM : System.Diagnostics.ProcessStartInfo
+4/15/2015 4:35:44 PM : ************************End TestCase 0.1************************
+4/15/2015 4:35:44 PM : The number of files starting with c is 2
