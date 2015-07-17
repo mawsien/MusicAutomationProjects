@@ -71,6 +71,7 @@
             this.btnRefreshPhoneList.Text = "Get Devices";
             this.btnRefreshPhoneList.UseVisualStyleBackColor = true;
             this.btnRefreshPhoneList.Click += new System.EventHandler(this.btnRefreshPhoneList_Click);
+
             // 
             // pictureBox1
             // 

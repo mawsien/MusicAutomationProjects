@@ -1,2 +1,2 @@
-TestCaseID,Title,Execute,Num Attempts,Num Phone,Param1,param2,param3,param4
-0.1,Pandora,1,1,1,1,5,true,1,1,
+TestCaseID,Title,Execute,Num Attempts,Num Phone,Param1,param2,param3,param4,
+0.1,Spotify,1,1,1,1,5,TRUE,1,1

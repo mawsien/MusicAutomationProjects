@@ -61,6 +61,8 @@ namespace GibbonGUI
             //    cmbBxVendors.Update();
 
 
+            // mchen: 2015-07-16
+            // btnRefreshPhoneList_Click(this, null);
         }
 
         public Image UpdateImage(string fullPathAndName)
@@ -131,12 +133,13 @@ namespace GibbonGUI
             GibbonLib.WorkStation workStation = new GibbonLib.WorkStation();
 
             attachedDevices = workStation.GetAttachedDevices();
-            if (attachedDevices.Count >= 0)
+            if (attachedDevices.Count > 0)
             {
                 foreach (string line in attachedDevices)
                 {
                     cmbBxDevices.Items.Add(line);
                 }
+                cmbBxDevices.SelectedIndex = 0;
             }
 
             //cmbBxDeviceConfigs.Items.Clear();
@@ -172,7 +175,11 @@ namespace GibbonGUI
             {
                 dialog.Description = "Open the folder where Image directory for the device";
                 dialog.ShowNewFolderButton = false;
-                dialog.SelectedPath = System.IO.Directory.GetCurrentDirectory() + "\\ImageFiles";
+
+                // mchen: 2015-0716
+                // dialog.SelectedPath = System.IO.Directory.GetCurrentDirectory() + "\\ImageFiles";
+                dialog.SelectedPath = System.IO.Directory.GetCurrentDirectory() + "\\ImageFiles\\Samsung\\4.0";
+
                 if (dialog.ShowDialog() == DialogResult.OK)
                 {
                     string folder = dialog.SelectedPath;
@@ -356,10 +363,12 @@ namespace GibbonGUI
         private void btnOpenDeviceConfigDirectory_Click(object sender, EventArgs e)
         {
             string startupPath = Application.StartupPath;
+
             using (OpenFileDialog dialog = new OpenFileDialog())
             {
-
-                dialog.InitialDirectory = startupPath + "\\Device Config Files";
+                // mchen: 2015-05-16  
+                // dialog.InitialDirectory = startupPath + "\\Device Config Files";
+                dialog.InitialDirectory = System.IO.Directory.GetCurrentDirectory() + "\\Device Config Files\\Samsung\\4.0";
 
                 if (dialog.ShowDialog() == DialogResult.OK)
                 {

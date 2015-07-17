@@ -186,11 +186,8 @@ namespace GibbonGUI
         double datausage = 0;
         public void RunTest()
         {
-
             string screenShotsPath = GenerateReportFolder(androidDeviceControl1.GetDeviceID());
 
-
-            /* end task */
 
             string routerConfigFile = String.Empty;
             string routerSsid = String.Empty;
@@ -409,14 +406,20 @@ namespace GibbonGUI
                             {
                                 string du = lowerdatausage.Replace("kb", "").Trim();
                                 datausage = double.Parse(du);
-                                datausage *= 1000;
+                                
+                                // mchen: 2015-07-14
+                                // datausage *= 1000;
+                                datausage *= 1024;
                             }
                             else
                                 if (lowerdatausage.Contains("mb"))
                                 {
                                     string du = lowerdatausage.Replace("mb", "").Trim();
                                     datausage = double.Parse(du);
-                                    datausage *= 1000000;
+
+                                    // mchen: 2015-07-14
+                                    // datausage *= 1000000;
+                                    datausage *= 1024 * 1024;
                                 }
 
                             foreach (string tcpdumpFile in dirs)
@@ -523,7 +526,7 @@ namespace GibbonGUI
             {
 
                 //  lblPercentageInWhiteList.Text = (ProccessedDataAmountLength - bytesNotInWhiteList).ToString();
-                whiteList.AnalyseDataUsageStat();
+                whiteList.AnalyzeDataUsageStat();
 
                 lblWhiteListedUsage.Invoke(new EventHandler(delegate
                 {
@@ -540,11 +543,15 @@ namespace GibbonGUI
 
                 lblPassed.Invoke(new EventHandler(delegate
                 {
-                    lblPercentageNotInWhiteList.Text = String.Format(new FileSizeFormatProvider(), "{0:fs}", whiteList.NotWhiteListedDataUsage);
-
-                    lblPercentageInWhiteList.Text = String.Format(new FileSizeFormatProvider(), "{0:fs}", whiteList.WhiteListedDataUsage);
-
-                    lblTotalPorcessed.Text = String.Format(new FileSizeFormatProvider(), "{0:fs}", whiteList.NotWhiteListedDataUsage + whiteList.WhiteListedDataUsage);
+                    // mchen: 2015-0714
+                    // lblTotalPorcessed.Text = String.Format(new FileSizeFormatProvider(), "{0:fs}", whiteList.NotWhiteListedDataUsage + whiteList.WhiteListedDataUsage);
+                    // lblPercentageNotInWhiteList.Text = String.Format(new FileSizeFormatProvider(), "{0:fs}", whiteList.NotWhiteListedDataUsage);
+                    // lblPercentageInWhiteList.Text = String.Format(new FileSizeFormatProvider(), "{0:fs}", whiteList.WhiteListedDataUsage);
+                    double totalDataUsage = whiteList.NotWhiteListedDataUsage + whiteList.WhiteListedDataUsage;
+                    lblPercentageNotInWhiteList.Text = String.Format(new FileSizeFormatProvider(), "{0:0.00}", whiteList.NotWhiteListedDataUsage / totalDataUsage * 100.0);
+                    lblPercentageInWhiteList.Text = String.Format(new FileSizeFormatProvider(), "{0:0.00}", whiteList.WhiteListedDataUsage / totalDataUsage * 100.0);
+                    lblWhiteListedUsage.Text = Utility.BytesToStringHelper(whiteList.WhiteListedDataUsage); 
+                    lblTotalProcessed.Text = Utility.BytesToStringHelper(whiteList.NotWhiteListedDataUsage + whiteList.WhiteListedDataUsage); 
                     lblAnaylzing.Visible = false;
                 }));
             }
@@ -1065,6 +1072,7 @@ namespace GibbonGUI
                 sendEMailThroughOUTLOOK(path, radio);
             }
         }
+
     }
 }
 

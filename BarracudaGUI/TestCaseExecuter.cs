@@ -81,14 +81,30 @@ namespace Testing
                     case "SoundCloud":
                         SoundCloud(testCaseItem);
                         break;
-                        case "BlackPlanet":
+                    case "BlackPlanet":
                         BlackPlanet(testCaseItem);
                         break;
-                        case "Spotify":
+                    case "Spotify":
                         Spotify(testCaseItem);
                         break;
-                       
-                            
+                    case "Rhapsody":
+                        Rhapsody(testCaseItem);
+                        break;
+                    case "Slacker":
+                        Slacker(testCaseItem);
+                        break;
+                    case "MilkMusic":
+                        MilkMusic(testCaseItem);
+                        break;
+                    case "iHeartRadio":
+                        iHeartRadio(testCaseItem);
+                        break;
+                    case "RadioMusic":
+                        RadioMusic(testCaseItem);
+                        break;
+                    case "Songza":
+                        Songza(testCaseItem);
+                        break;    
                 }
             }
         }
@@ -185,14 +201,14 @@ namespace Testing
             //   Logging.WriteLine("Pulling and writting tcp dump to this folder", messageType: 2);
             string fileName1 = "tcpdump_" + testCaseItem.Title + "_" + DateTime.Now.Millisecond + "_" + DateTime.Now.Month + "_" + DateTime.Now.Day + "_" + DateTime.Now.Year;
             string distinationPath = System.Configuration.ConfigurationManager.AppSettings["tcpdumpDestination"];
-            string tcpdumpCommand1 = " -s " + _DeviceControllers[A].Device.DeviceID + "  pull  /sdcard/log/tcpdump/ " + distinationPath + "/tcpump/" + fileName1;
+            string tcpdumpCommand1 = " -s " + _DeviceControllers[A].Device.DeviceID + "  pull  /sdcard/log/tcpdump/ " + distinationPath + "/tcpdump/" + fileName1;
             Logging.WriteLine("tcp-dump command  " + tcpdumpCommand1, messageType: 2);
 
             //System.Reflection.Assembly.GetEntryAssembly().Location.Replace('\\','/')
             commandLine1.Exceute("adb.exe", tcpdumpCommand1);
             // commandLine1.Exceute("adb.exe", " -s " + _DeviceControllers[A].Device.DeviceID + " shell rm -r /sdcard/log");
-            Logging.WriteLine("tcp-dump pulled to  " + distinationPath + "/tcpump/" + fileName1, messageType: 2);
-            testCaseItem.tcpdumpLogPath = distinationPath + "/tcpump/" + fileName1;
+            Logging.WriteLine("tcp-dump pulled to  " + distinationPath + "/tcpdump/" + fileName1, messageType: 2);
+            testCaseItem.tcpdumpLogPath = distinationPath + "/tcpdump/" + fileName1;
             return dataUsageDisplay;
         }
 
@@ -458,9 +474,9 @@ namespace Testing
                     System.Threading.Thread.Sleep(35000);
                     _DeviceControllers[A].TakeScreenShot();
 
-                    if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                    if (_DeviceControllers[A].DoesScreenContain("SkipToPandora"))
                     {
-                        _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                        _DeviceControllers[A].ClickTemplate("SkipToPandora");
                         //   _DeviceControllers[A].TakeScreenShot();
                     }
 
@@ -518,94 +534,130 @@ namespace Testing
             }
             dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
         }
+
+
         private void Pandora(TestItemResult testCaseItem)
         {
-            string dataUsageDisplay=String.Empty;
-            double dataUsageStart=0;
+            //web data usabe #web# we get from dilaog box
+            //we get it from the network before  start running the music
+            string dataUsageDisplay = String.Empty;// e.g. 12MB
+            double dataUsageStart = 0;
             GibbonLib.CMD commandLine1 = null;
-            int maxduration=int.Parse(testCaseItem.Param1)*60;
+            //max duration of the test, you setit up on dropdown
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            //bands you get it from Channels/all.txt
+
+            //we add the bands to the template list because if is not contained in the xml file
             foreach (string band in bands)
             {
                 _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
             }
-           PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
-            double totalSeconds=0;
+
+            //setting the tcpdump on the phone and getting the datausage from the newwork using
+            //#web# 
+            // PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+
+
+            //counter to count the time of the test
+            //if totalseconds pass the max duration
+            //the test will end
+            double totalSeconds = 0;
             //leep runing until duration time passed
             #region Musicservice
+
             while (totalSeconds < maxduration)
             {
+                if (StopTest) break;
                 foreach (string band in bands)
                 {
+                    if (StopTest) break;
+
+                    //used fot totalseconds
                     DateTime timeStart = DateTime.Now;
+
+                    //before we start any test we go back
                     _DeviceControllers[A].Device.GoAllBack();
                     Logging.WriteLine("Play band " + band, messageType: 2);
                     Logging.WriteLine("Start Pandora", messageType: 2);
+
+                    //click on the start icon 
                     _DeviceControllers[A].ClickTemplate("PandoraStartIcon");
-                  //  _DeviceControllers[A].TakeScreenShot();
+                    //check if musci is playing, it stops it if it is
                     _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
-                  //  _DeviceControllers[A].TakeScreenShot();
+
                     _DeviceControllers[A].ClickTemplate("PandoraBackToList");
-                 //   _DeviceControllers[A].TakeScreenShot();
+                    //used like to search the music by bands
                     _DeviceControllers[A].ClickTemplate("CreateStation");
-                  //  _DeviceControllers[A].TakeScreenShot();
+                    //  _DeviceControllers[A].TakeScreenShot();
                     _DeviceControllers[A].TypeText(band);
-                     _DeviceControllers[A].TakeScreenShot();
-                    _DeviceControllers[A].ClickByText(band,2);
-                  //  _DeviceControllers[A].TakeScreenShot();
-                  //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
-                   // _DeviceControllers[A].ClickTemplate(band);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    //index 2 that mean to click on the second text
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
                     Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    //wait 35 seconds for any ads to complete and auto close
                     System.Threading.Thread.Sleep(35000);
                     _DeviceControllers[A].TakeScreenShot();
-                   
-                    if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+
+                    //some time skip to pandora on the ads it shown up , we kill it by clickingg skip to pandora
+
+                    if (_DeviceControllers[A].DoesScreenContain("SkipToPandora"))
                     {
-                        _DeviceControllers[A].ClickTemplate("SkipTpPandora");
-                     //   _DeviceControllers[A].TakeScreenShot();
+                        _DeviceControllers[A].ClickTemplate("SkipToPandora");
+                        //   _DeviceControllers[A].TakeScreenShot();
                     }
 
                     if (_DeviceControllers[A].DoesScreenContain("PandoraRadioStart"))
                     {
                         _DeviceControllers[A].ClickTemplate("PandoraRadioStart");
-                      //  _DeviceControllers[A].TakeScreenShot();
+                        //  _DeviceControllers[A].TakeScreenShot();
                     }
                     Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
-                    //wait 45 minutes for each channel
-                     int minutewait = 30;
+                    //wait tiem between playing the bands 30 minutes
+                    int minutewait = 30;
+                    totalSeconds += DateTime.Now.Subtract(timeStart).TotalSeconds;
+
+                    //while time duraction of the band is still on
                     while (minutewait > 0)
                     {
+
                         minutewait--;
                         timeStart = DateTime.Now;
                         _DeviceControllers[A].TakeScreenShot();
-                    
+
                         //check if the music is playing
                         if (_DeviceControllers[A].DoesScreenContain("PandroaRadioPause"))// check if music is playing
                         {
                             Logging.WriteLine("Pandora song is playing, will check every 1 minutes...........", messageType: 3);
-                        } else {
+                        }
+                        else
+                        {
                             //  throw new Exception("Radio playing is not detected");
                             Logging.WriteLine("Radio playing is not detected");
                             _DeviceControllers[A].Device.GoAllBack();
                             totalSeconds += DateTime.Now.Subtract(timeStart).TotalSeconds;
                             //Go to another brand
-                            Logging.WriteLine("Will play another band");
                             break;
                         }
-                     
-                           System.Threading.Thread.Sleep(1000*60);
-                            totalSeconds += DateTime.Now.Subtract(timeStart).TotalSeconds;
-
-                            if (totalSeconds > maxduration || StopTest == true)
-                            {
-                                Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
-                                goto endoftest;
-                            }
-                            Logging.WriteLine("Test still playing  , duration is  " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
-                      }            
-                   }
+                        //wait one minute, we check if music is playing every one minute
+                        System.Threading.Thread.Sleep(1000 * 60);
+                        totalSeconds += DateTime.Now.Subtract(timeStart).TotalSeconds;
+                        //if we reach end of test so we break
+                        if (totalSeconds > maxduration || StopTest == true)
+                        {
+                            StopTest = true;
+                            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+                            break;
+                        }
+                        Logging.WriteLine("Test still playing  , duration is  " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+                    }
+                }
             }
-            #endregion 
-        endoftest:
+            #endregion
+
             Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
             _DeviceControllers[A].Device.GoAllBack();
             if (StopTest)
@@ -614,8 +666,11 @@ namespace Testing
                 _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
                 _DeviceControllers[A].Device.GoAllBack();
             }
-           dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+            // dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
         }
+
+
+
         private void Spotify(TestItemResult testCaseItem)
         {
             string dataUsageDisplay = String.Empty;
@@ -626,7 +681,7 @@ namespace Testing
             {
                 _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
             }
-            //   PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
             double totalSeconds = 0;
             //leep runing until duration time passed
             #region Musicservice
@@ -653,12 +708,9 @@ namespace Testing
                     //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
                     // _DeviceControllers[A].ClickTemplate(band);
 
-
-
-
-                    if (_DeviceControllers[A].DoesScreenContain("SufflePlay"))
+                    if (_DeviceControllers[A].DoesScreenContain("ShufflePlay"))
                     {
-                        _DeviceControllers[A].ClickTemplate("SufflePlay");
+                        _DeviceControllers[A].ClickTemplate("ShufflePlay");
                         //  _DeviceControllers[A].TakeScreenShot();
                     }
                     /* if (_DeviceControllers[A].DoesScreenContain("SkipAds"))
@@ -670,10 +722,9 @@ namespace Testing
                     System.Threading.Thread.Sleep(35000);
                     _DeviceControllers[A].TakeScreenShot();
 
-
                     Logging.WriteLine("Checking if music service Playing", messageType: 2);
                     //wait 45 minutes for each channel
-                    int minutewait = 3;
+                    int minutewait = 30;
                     while (minutewait > 0)
                     {
                         minutewait--;
@@ -681,9 +732,9 @@ namespace Testing
                         _DeviceControllers[A].TakeScreenShot();
 
                         //check if the music is playing
-                        // mchen: 2015_0713
-                        // if (true)
-                        if (_DeviceControllers[A].DoesScreenContain("Pause"))// check if music is playing
+                        // mchen: 2015-07-16
+                        // if (_DeviceControllers[A].DoesScreenContain("Pause"))// check if music is playing
+                        if (_DeviceControllers[A].DoesScreenContain("Pause") || _DeviceControllers[A].DoesScreenContain("SPOTIFY_PAUSE"))
                         {
                             Logging.WriteLine("Music is playing, will check every 1 minutes...........", messageType: 3);
                         }
@@ -722,7 +773,542 @@ namespace Testing
             }
             dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
         }
-    
+
+        private void Rhapsody(TestItemResult testCaseItem)
+        {
+            string dataUsageDisplay = String.Empty;
+            double dataUsageStart = 0;
+            GibbonLib.CMD commandLine1 = null;
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            foreach (string band in bands)
+            {
+                _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
+            }
+            //  PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            double totalSeconds = 0;
+            //leep runing until duration time passed
+            #region Musicservice
+            while (totalSeconds < maxduration)
+            {
+                if (StopTest == true) break;
+                foreach (string band in bands)
+                {
+                    if (StopTest == true) break;
+                    DateTime timeStart = DateTime.Now;
+                    _DeviceControllers[A].Device.GoAllBack();
+
+                    Logging.WriteLine("Play band " + band, messageType: 2);
+                    Logging.WriteLine("Start ", messageType: 2);
+                    _DeviceControllers[A].ClickTemplate("StartIcon");
+
+
+                    if (_DeviceControllers[A].DoesScreenContain("Pause"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        _DeviceControllers[A].GoAllBack();
+                        _DeviceControllers[A].ClickTemplate("StartIcon");
+                    }
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("PandoraBackToList");
+                    //   _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("CreateStation");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    _DeviceControllers[A].TypeText(band);
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
+                    Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    System.Threading.Thread.Sleep(35000);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /* if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                     {
+                         _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                         //   _DeviceControllers[A].TakeScreenShot();
+                     }*/
+
+                    if (_DeviceControllers[A].DoesScreenContain("Play"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Play");
+                        //  _DeviceControllers[A].TakeScreenShot();
+                    }
+                    Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
+                    //wait 45 minutes for each channel
+                    int minutewait = 30;
+                    CheckPlayingMusic(maxduration, ref totalSeconds, ref timeStart, ref minutewait);
+                }
+            }
+            #endregion
+
+            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+            _DeviceControllers[A].Device.GoAllBack();
+            if (StopTest)
+            {
+                Logging.WriteLine("Stopping The Run", messageType: 2);
+                _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
+                _DeviceControllers[A].Device.GoAllBack();
+            }
+            dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+        }
+        private void Slacker(TestItemResult testCaseItem)
+        {
+            string dataUsageDisplay = String.Empty;
+            double dataUsageStart = 0;
+            GibbonLib.CMD commandLine1 = null;
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            foreach (string band in bands)
+            {
+                _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
+            }
+            //  PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            double totalSeconds = 0;
+            //leep runing until duration time passed
+            #region Musicservice
+            while (totalSeconds < maxduration)
+            {
+                if (StopTest == true) break;
+                foreach (string band in bands)
+                {
+                    if (StopTest == true) break;
+                    DateTime timeStart = DateTime.Now;
+                    _DeviceControllers[A].Device.GoAllBack();
+                    Logging.WriteLine("Play band " + band, messageType: 2);
+                    Logging.WriteLine("Start Pandora", messageType: 2);
+                    _DeviceControllers[A].ClickTemplate("StartIcon");
+
+                    _DeviceControllers[A].Device.ClickHomeButton();
+
+                    if (_DeviceControllers[A].DoesScreenContain("Pause"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        _DeviceControllers[A].GoAllBack();
+                        _DeviceControllers[A].ClickTemplate("StartIcon");
+                    }
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("PandoraBackToList");
+                    //   _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("CreateStation");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    if (_DeviceControllers[A].DoesScreenContain("CleanSearchMusic"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("CleanSearchMusic");
+                        _DeviceControllers[A].TakeScreenShot();
+                    }
+
+                    _DeviceControllers[A].TypeText(band);
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
+                    Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    System.Threading.Thread.Sleep(35000);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /* if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                     {
+                         _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                         //   _DeviceControllers[A].TakeScreenShot();
+                     }*/
+
+                    if (_DeviceControllers[A].DoesScreenContain("Play"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Play");
+                        //  _DeviceControllers[A].TakeScreenShot();
+                    }
+                    Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
+                    //wait 45 minutes for each channel
+                    int minutewait = 30;
+                    CheckPlayingMusic(maxduration, ref totalSeconds, ref timeStart, ref minutewait);
+                }
+            }
+            #endregion
+
+            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+            _DeviceControllers[A].Device.GoAllBack();
+            if (StopTest)
+            {
+                Logging.WriteLine("Stopping The Run", messageType: 2);
+                _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
+                _DeviceControllers[A].Device.GoAllBack();
+            }
+            dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+        }
+        private void MilkMusic(TestItemResult testCaseItem)
+        {
+            string dataUsageDisplay = String.Empty;
+            double dataUsageStart = 0;
+            GibbonLib.CMD commandLine1 = null;
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            foreach (string band in bands)
+            {
+                _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
+            }
+            //  PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            double totalSeconds = 0;
+            //leep runing until duration time passed
+            #region Musicservice
+            while (totalSeconds < maxduration)
+            {
+                if (StopTest == true) break;
+                foreach (string band in bands)
+                {
+                    if (StopTest == true) break;
+                    DateTime timeStart = DateTime.Now;
+                    _DeviceControllers[A].Device.GoAllBack();
+                    Logging.WriteLine("Play band " + band, messageType: 2);
+                    Logging.WriteLine("Start pandora " + band, messageType: 2);
+                    _DeviceControllers[A].ClickTemplate("StartIcon");
+
+                    _DeviceControllers[A].Device.ClickHomeButton();
+
+                    if (_DeviceControllers[A].DoesScreenContain("Pause"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        _DeviceControllers[A].GoAllBack();
+                        _DeviceControllers[A].ClickTemplate("StartIcon");
+                    }
+                    //  _DeviceControllers[A].TakeScreenShot();
+
+                    _DeviceControllers[A].ClickTemplate("MenuLines");
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("PandoraBackToList");
+                    //   _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("CreateStation");
+                    //  _DeviceControllers[A].TakeScreenShot();
+
+                    /*  if (_DeviceControllers[A].DoesScreenContain("CleanSearchMusic"))
+                      {
+                          _DeviceControllers[A].ClickTemplate("CleanSearchMusic");
+                          _DeviceControllers[A].TakeScreenShot();
+                      }*/
+
+                    _DeviceControllers[A].TypeText(band);
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
+                    Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    System.Threading.Thread.Sleep(35000);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /* if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                     {
+                         _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                         //   _DeviceControllers[A].TakeScreenShot();
+                     }*/
+
+                    if (_DeviceControllers[A].DoesScreenContain("Play"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Play");
+                        //  _DeviceControllers[A].TakeScreenShot();
+                    }
+                    Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
+                    //wait 45 minutes for each channel
+                    int minutewait = 30;
+                    CheckPlayingMusic(maxduration, ref totalSeconds, ref timeStart, ref minutewait);
+                }
+            }
+            #endregion
+
+            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+            _DeviceControllers[A].Device.GoAllBack();
+            if (StopTest)
+            {
+                Logging.WriteLine("Stopping The Run", messageType: 2);
+                _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
+                _DeviceControllers[A].Device.GoAllBack();
+            }
+            dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+        }
+        private void iHeartRadio(TestItemResult testCaseItem)
+        {
+            string dataUsageDisplay = String.Empty;
+            double dataUsageStart = 0;
+            GibbonLib.CMD commandLine1 = null;
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            foreach (string band in bands)
+            {
+                _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
+            }
+            //  PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            double totalSeconds = 0;
+            //leep runing until duration time passed
+            #region Musicservice
+            while (totalSeconds < maxduration)
+            {
+                if (StopTest == true) break;
+                foreach (string band in bands)
+                {
+                    if (StopTest == true) break;
+                    DateTime timeStart = DateTime.Now;
+                    _DeviceControllers[A].Device.GoAllBack();
+                    Logging.WriteLine("Play band " + band, messageType: 2);
+                    Logging.WriteLine("Start Pandora", messageType: 2);
+                    _DeviceControllers[A].ClickTemplate("StartIcon");
+
+                    //    _DeviceControllers[A].Device.ClickHomeButton();
+
+                    if (_DeviceControllers[A].DoesScreenContain("Pause"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        // _DeviceControllers[A].GoAllBack();
+                        _DeviceControllers[A].Device.GoBack();
+                    }
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("PandoraBackToList");
+                    //   _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("CreateStation");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /*    if (_DeviceControllers[A].DoesScreenContain("CleanSearchMusic"))
+                        {
+                            _DeviceControllers[A].ClickTemplate("CleanSearchMusic");
+                            _DeviceControllers[A].TakeScreenShot();
+                        }*/
+
+                    _DeviceControllers[A].TypeText(band);
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
+                    Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    System.Threading.Thread.Sleep(35000);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /* if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                     {
+                         _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                         //   _DeviceControllers[A].TakeScreenShot();
+                     }*/
+
+                    if (_DeviceControllers[A].DoesScreenContain("Play"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Play");
+                        //  _DeviceControllers[A].TakeScreenShot();
+                    }
+                    Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
+                    //wait 45 minutes for each channel
+                    int minutewait = 30;
+                    CheckPlayingMusic(maxduration, ref totalSeconds, ref timeStart, ref minutewait);
+                }
+            }
+            #endregion
+
+            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+            _DeviceControllers[A].Device.GoAllBack();
+            if (StopTest)
+            {
+                Logging.WriteLine("Stopping The Run", messageType: 2);
+                _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
+                _DeviceControllers[A].Device.GoAllBack();
+            }
+            dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+        }
+        private void RadioMusic(TestItemResult testCaseItem)
+        {
+            string dataUsageDisplay = String.Empty;
+            double dataUsageStart = 0;
+            GibbonLib.CMD commandLine1 = null;
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            foreach (string band in bands)
+            {
+                _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
+            }
+            //  PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            double totalSeconds = 0;
+            //leep runing until duration time passed
+            #region Musicservice
+            while (totalSeconds < maxduration)
+            {
+                if (StopTest == true) break;
+                foreach (string band in bands)
+                {
+                    if (StopTest == true) break;
+                    DateTime timeStart = DateTime.Now;
+                    _DeviceControllers[A].Device.GoAllBack();
+                    Logging.WriteLine("Play band " + band, messageType: 2);
+                    Logging.WriteLine("Start Pandora", messageType: 2);
+                    _DeviceControllers[A].ClickTemplate("StartIcon");
+
+                    //    _DeviceControllers[A].Device.ClickHomeButton();
+                    _DeviceControllers[A].ClickTemplate("MenuLines");
+
+                    if (_DeviceControllers[A].DoesScreenContain("Pause"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        _DeviceControllers[A].GoAllBack();
+                        _DeviceControllers[A].ClickTemplate("StartIcon");
+                    }
+
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("PandoraBackToList");
+                    //   _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("CreateStation");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    if (_DeviceControllers[A].DoesScreenContain("CleanSearchMusic"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("CleanSearchMusic");
+                        _DeviceControllers[A].TakeScreenShot();
+                    }
+
+                    _DeviceControllers[A].TypeText(band);
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
+                    Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    System.Threading.Thread.Sleep(35000);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /* if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                     {
+                         _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                         //   _DeviceControllers[A].TakeScreenShot();
+                     }*/
+
+                    if (_DeviceControllers[A].DoesScreenContain("Play"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Play");
+                        //  _DeviceControllers[A].TakeScreenShot();
+                    }
+                    Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
+                    //wait 45 minutes for each channel
+                    int minutewait = 30;
+                    CheckPlayingMusic(maxduration, ref totalSeconds, ref timeStart, ref minutewait);
+                }
+            }
+            #endregion
+
+            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+            _DeviceControllers[A].Device.GoAllBack();
+            if (StopTest)
+            {
+                Logging.WriteLine("Stopping The Run", messageType: 2);
+                _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
+                _DeviceControllers[A].Device.GoAllBack();
+            }
+            dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+        }
+        private void Songza(TestItemResult testCaseItem)
+        {
+            string dataUsageDisplay = String.Empty;
+            double dataUsageStart = 0;
+            GibbonLib.CMD commandLine1 = null;
+            int maxduration = int.Parse(testCaseItem.Param1) * 60;
+            foreach (string band in bands)
+            {
+                _DeviceControllers[A].AddTemplate(band, band, 1, 0.9);
+            }
+            //  PreSteps(out dataUsageDisplay, out dataUsageStart, out commandLine1);
+            double totalSeconds = 0;
+            //leep runing until duration time passed
+            #region Musicservice
+            while (totalSeconds < maxduration)
+            {
+                if (StopTest == true) break;
+                foreach (string band in bands)
+                {
+                    if (StopTest == true) break;
+                    DateTime timeStart = DateTime.Now;
+                    _DeviceControllers[A].Device.GoAllBack();
+                    Logging.WriteLine("Play band " + band, messageType: 2);
+                    Logging.WriteLine("Start Pandora", messageType: 2);
+                    _DeviceControllers[A].ClickTemplate("StartIcon");
+
+                    //    _DeviceControllers[A].Device.ClickHomeButton();
+
+
+                    if (_DeviceControllers[A].DoesScreenContain("Pause"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Pause");
+                        _DeviceControllers[A].GoAllBack();
+                        _DeviceControllers[A].ClickTemplate("StartIcon");
+                    }
+                    // _DeviceControllers[A].ClickTemplate("MenuLines");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+
+
+                    _DeviceControllers[A].ClickTemplate("SearchMusic");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("PandoraBackToList");
+                    //   _DeviceControllers[A].TakeScreenShot();
+                    // _DeviceControllers[A].ClickTemplate("CreateStation");
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    if (_DeviceControllers[A].DoesScreenContain("CleanSearchMusic"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("CleanSearchMusic");
+                        _DeviceControllers[A].TakeScreenShot();
+                    }
+
+                    _DeviceControllers[A].TypeText(band);
+                    _DeviceControllers[A].TakeScreenShot();
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    _DeviceControllers[A].ClickByText(band, 2);
+                    //  _DeviceControllers[A].TakeScreenShot();
+                    //  Logging.WriteLine("Clicking on " + band + " play list", messageType: 2);
+                    // _DeviceControllers[A].ClickTemplate(band);
+                    Logging.WriteLine("Waitting 35 for " + band + " to play and skip and ads");
+                    System.Threading.Thread.Sleep(35000);
+                    _DeviceControllers[A].TakeScreenShot();
+
+                    /* if (_DeviceControllers[A].DoesScreenContain("SkipTpPandora"))
+                     {
+                         _DeviceControllers[A].ClickTemplate("SkipTpPandora");
+                         //   _DeviceControllers[A].TakeScreenShot();
+                     }*/
+
+                    if (_DeviceControllers[A].DoesScreenContain("Play"))
+                    {
+                        _DeviceControllers[A].ClickTemplate("Play");
+                        //  _DeviceControllers[A].TakeScreenShot();
+                    }
+                    Logging.WriteLine("Checking if Pandora Playing", messageType: 2);
+                    //wait 45 minutes for each channel
+                    int minutewait = 30;
+                    CheckPlayingMusic(maxduration, ref totalSeconds, ref timeStart, ref minutewait);
+                }
+            }
+            #endregion
+
+            Logging.WriteLine("Test ended  after " + TimeSpan.FromSeconds(totalSeconds).ToString(@"hh\:mm\:ss"));
+            _DeviceControllers[A].Device.GoAllBack();
+            if (StopTest)
+            {
+                Logging.WriteLine("Stopping The Run", messageType: 2);
+                _DeviceControllers[A].ClickTemplate("PandroaRadioPause");
+                _DeviceControllers[A].Device.GoAllBack();
+            }
+            dataUsageDisplay = PostSteps(testCaseItem, dataUsageDisplay, dataUsageStart, commandLine1);
+        }
         
         private void CheckPlayingMusic(int maxduration, ref double totalSeconds, ref DateTime timeStart, ref int minutewait)
         {

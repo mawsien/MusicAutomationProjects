@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Barccuda Automation (TMO).exe.manifest" size="23298">
+    <dependentAssembly dependencyType="install" codebase="Barccuda Automation (TMO).exe.manifest" size="23299">
       <assemblyIdentity name="Barccuda Automation (TMO).exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZrpzpFQWKfWVoxDUsEchyDgKGh8FrkpxjiUTFB7y/3c=</dsig:DigestValue>
+        <dsig:DigestValue>VQelNd32E2aKQbC1pPL+BB/xDOGEIif1rJXaEVNC77s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

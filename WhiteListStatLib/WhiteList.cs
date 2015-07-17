@@ -32,8 +32,12 @@ namespace WhiteListStatLib
         HashSet<string> lstIPsNotInWhiteLIst = new HashSet<string>();
 
 
-        public void AnalyseDataUsageStat()
+        public void AnalyzeDataUsageStat()
         {
+            // mchen: 2015-07-15
+            WhiteListedDataUsage = 0;
+            NotWhiteListedDataUsage = 0;
+
             foreach (Packet packet in _AllCapturedPackets)
             {
                 
@@ -51,6 +55,9 @@ namespace WhiteListStatLib
 
                 AllDataUsage += packet.FrameLength; 
             }
+
+            // mchen: 2015-07-15
+            ReinitLists(); 
         }
         public HashSet<string> GetNotWhiteListed()
         {
@@ -175,7 +182,7 @@ namespace WhiteListStatLib
                 && lstIPsNotInWhiteLIst.Contains(packet.HttpHost)
                 && lstIPsNotInWhiteLIst.Contains(packet.httpContent))
                 return false;
-            if(!packet.http_host.Contains("pandora")) return false;
+            // if(!packet.http_host.Contains("pandora")) return false;
             foreach (string ip in server_ip_address)
             {
                 // if (ip.StartsWith("2607:7700:0:14"))
@@ -234,7 +241,7 @@ namespace WhiteListStatLib
                 
                 foreach (string url in url_contain)
                 {
-                    if (url.Contains("pandora"))
+                    // if (url.Contains("pandora"))
                     {
                         if (url.Contains(packet.http_host.Replace("http://", "").Replace("www.", "")))
                             return true;
@@ -344,7 +351,7 @@ namespace WhiteListStatLib
             else if (size > OneKiloByte)
             {
                 size /= OneKiloByte;
-                suffix = "kB";
+                suffix = "KB";
             }
             else
             {

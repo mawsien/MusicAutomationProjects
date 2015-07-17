@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Root>
   <MatchTemplates>
-  <Template  Name="Play" Template="Play.png" Index="1"  Accuracy="0.90">
-  </Template>
-  <Template  Name="Pause" Template="Pause.png" Index="1"  Accuracy="0.95">
-  </Template>
- <Template  Name="SufflePlay" Template="SufflePlay.png" Index="1"  Accuracy="0.95">
+
+<Template  Name="DialerIconStart" Template="DialerIconStart.png" Index="1"  Accuracy="0.7"> </Template>
+
+  <Template  Name="Play" Template="Play.png" Index="1"  Accuracy="0.90">  </Template>
+
+  <Template  Name="Pause" Template="Pause.png" Index="1"  Accuracy="0.95">  </Template>
+  <Template  Name="SPOTIFY_PAUSE" Template="SPOTIFY_PAUSE.png" Index="1"  Accuracy="0.8">  </Template>
+
+ <Template  Name="ShufflePlay" Template="ShufflePlay.png" Index="1"  Accuracy="0.95">
   </Template>
 <Template  Name="SearchMusic" Template="SearchMusic.png" Index="1"  Accuracy="0.95">
   </Template>

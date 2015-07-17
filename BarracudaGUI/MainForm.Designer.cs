@@ -102,12 +102,12 @@
             this.lblWhiteListedUsage = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.lblAnaylzing = new System.Windows.Forms.Label();
-            this.lblTotalPorcessed = new System.Windows.Forms.Label();
+            this.lblTotalProcessed = new System.Windows.Forms.Label();
             this.lblPercentageNotInWhiteList = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.lblPercentageInWhiteList = new System.Windows.Forms.Label();
-            this.label123 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
             this.listView1 = new FlickerFreeListView();
             this.IPSource = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabPage3 = new System.Windows.Forms.TabPage();
@@ -769,6 +769,7 @@
             this.cmbbxDuration.Name = "cmbbxDuration";
             this.cmbbxDuration.Size = new System.Drawing.Size(121, 24);
             this.cmbbxDuration.TabIndex = 133;
+            this.cmbbxDuration.SelectedIndex = 0; 
             // 
             // ddlMusicServices
             // 
@@ -781,11 +782,13 @@
             "Spotify",
             "Rhapsody",
             "MilkMusic",
-            "iHeartRadio"});
+            "iHeartRadio",
+            "RadioMusic"});
             this.ddlMusicServices.Location = new System.Drawing.Point(27, 41);
             this.ddlMusicServices.Name = "ddlMusicServices";
             this.ddlMusicServices.Size = new System.Drawing.Size(152, 24);
             this.ddlMusicServices.TabIndex = 132;
+            this.ddlMusicServices.SelectedIndex = 0;
             // 
             // chkBxSendEmailWL
             // 
@@ -824,12 +827,12 @@
             this.tabPage4.Controls.Add(this.lblWhiteListedUsage);
             this.tabPage4.Controls.Add(this.label9);
             this.tabPage4.Controls.Add(this.lblAnaylzing);
-            this.tabPage4.Controls.Add(this.lblTotalPorcessed);
+            this.tabPage4.Controls.Add(this.lblTotalProcessed);
             this.tabPage4.Controls.Add(this.lblPercentageNotInWhiteList);
             this.tabPage4.Controls.Add(this.label11);
             this.tabPage4.Controls.Add(this.label10);
             this.tabPage4.Controls.Add(this.lblPercentageInWhiteList);
-            this.tabPage4.Controls.Add(this.label123);
+            this.tabPage4.Controls.Add(this.label12);
             this.tabPage4.Controls.Add(this.listView1);
             this.tabPage4.Location = new System.Drawing.Point(4, 25);
             this.tabPage4.Name = "tabPage4";
@@ -862,98 +865,98 @@
             // lblWhiteListedUsage
             // 
             this.lblWhiteListedUsage.AutoSize = true;
-            this.lblWhiteListedUsage.Location = new System.Drawing.Point(187, 57);
+            this.lblWhiteListedUsage.Location = new System.Drawing.Point(167, 57);
             this.lblWhiteListedUsage.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblWhiteListedUsage.Name = "lblWhiteListedUsage";
-            this.lblWhiteListedUsage.Size = new System.Drawing.Size(16, 17);
+            this.lblWhiteListedUsage.Size = new System.Drawing.Size(12, 17);
             this.lblWhiteListedUsage.TabIndex = 95;
-            this.lblWhiteListedUsage.Text = "#";
+            this.lblWhiteListedUsage.Text = " ";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(56, 57);
+            this.label9.Location = new System.Drawing.Point(36, 57);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(123, 17);
+            this.label9.Size = new System.Drawing.Size(119, 17);
             this.label9.TabIndex = 94;
-            this.label9.Text = "White List Usage :";
+            this.label9.Text = "White List Usage:";
             // 
             // lblAnaylzing
             // 
             this.lblAnaylzing.AutoSize = true;
             this.lblAnaylzing.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnaylzing.ForeColor = System.Drawing.Color.Red;
-            this.lblAnaylzing.Location = new System.Drawing.Point(30, 176);
+            this.lblAnaylzing.Location = new System.Drawing.Point(30, 216);
             this.lblAnaylzing.Name = "lblAnaylzing";
             this.lblAnaylzing.Size = new System.Drawing.Size(183, 36);
             this.lblAnaylzing.TabIndex = 93;
-            this.lblAnaylzing.Text = "Analyzing...";
+            this.lblAnaylzing.Text = "Analyzing ...";
             this.lblAnaylzing.Visible = false;
             // 
-            // lblTotalPorcessed
+            // lblTotalProcessed
             // 
-            this.lblTotalPorcessed.AutoSize = true;
-            this.lblTotalPorcessed.Location = new System.Drawing.Point(187, 20);
-            this.lblTotalPorcessed.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblTotalPorcessed.Name = "lblTotalPorcessed";
-            this.lblTotalPorcessed.Size = new System.Drawing.Size(16, 17);
-            this.lblTotalPorcessed.TabIndex = 92;
-            this.lblTotalPorcessed.Text = "#";
+            this.lblTotalProcessed.AutoSize = true;
+            this.lblTotalProcessed.Location = new System.Drawing.Point(167, 20);
+            this.lblTotalProcessed.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTotalProcessed.Name = "lblTotalProcessed";
+            this.lblTotalProcessed.Size = new System.Drawing.Size(12, 17);
+            this.lblTotalProcessed.TabIndex = 92;
+            this.lblTotalProcessed.Text = " ";
             // 
             // lblPercentageNotInWhiteList
             // 
+            this.lblPercentageNotInWhiteList.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblPercentageNotInWhiteList.AutoSize = true;
-            this.lblPercentageNotInWhiteList.Location = new System.Drawing.Point(196, 149);
+            this.lblPercentageNotInWhiteList.Location = new System.Drawing.Point(194, 149);
             this.lblPercentageNotInWhiteList.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPercentageNotInWhiteList.Name = "lblPercentageNotInWhiteList";
-            this.lblPercentageNotInWhiteList.Size = new System.Drawing.Size(16, 17);
+            this.lblPercentageNotInWhiteList.Size = new System.Drawing.Size(12, 17);
             this.lblPercentageNotInWhiteList.TabIndex = 91;
-            this.lblPercentageNotInWhiteList.Text = "#";
-            this.lblPercentageNotInWhiteList.Visible = false;
+            this.lblPercentageNotInWhiteList.Text = " ";
+            this.lblPercentageNotInWhiteList.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(24, 149);
+            this.label11.Location = new System.Drawing.Point(38, 149);
             this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(164, 17);
+            this.label11.Size = new System.Drawing.Size(141, 17);
             this.label11.TabIndex = 90;
-            this.label11.Text = "Not In White List Usage :";
-            this.label11.Visible = false;
+            this.label11.Text = "Not In White List (%):";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(57, 20);
+            this.label10.Location = new System.Drawing.Point(37, 20);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(119, 17);
+            this.label10.Size = new System.Drawing.Size(115, 17);
             this.label10.TabIndex = 89;
-            this.label10.Text = "Total Processed :";
+            this.label10.Text = "Total Processed:";
             // 
             // lblPercentageInWhiteList
             // 
+            this.lblPercentageInWhiteList.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblPercentageInWhiteList.AutoSize = true;
-            this.lblPercentageInWhiteList.Location = new System.Drawing.Point(196, 115);
+            this.lblPercentageInWhiteList.Location = new System.Drawing.Point(202, 115);
             this.lblPercentageInWhiteList.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPercentageInWhiteList.Name = "lblPercentageInWhiteList";
-            this.lblPercentageInWhiteList.Size = new System.Drawing.Size(16, 17);
+            this.lblPercentageInWhiteList.Size = new System.Drawing.Size(12, 17);
             this.lblPercentageInWhiteList.TabIndex = 88;
-            this.lblPercentageInWhiteList.Text = "#";
-            this.lblPercentageInWhiteList.Visible = false;
+            this.lblPercentageInWhiteList.Text = " ";
+            this.lblPercentageInWhiteList.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // label123
+            // label12
             // 
-            this.label123.AutoSize = true;
-            this.label123.Location = new System.Drawing.Point(65, 115);
-            this.label123.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label123.Name = "label123";
-            this.label123.Size = new System.Drawing.Size(123, 17);
-            this.label123.TabIndex = 87;
-            this.label123.Text = "White List Usage :";
-            this.label123.Visible = false;
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(37, 115);
+            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(145, 17);
+            this.label12.TabIndex = 87;
+            this.label12.Text = "White List Usage (%):";
             // 
             // listView1
             // 
@@ -1108,11 +1111,11 @@
         private FlickerFreeListView listView1;
         private System.Windows.Forms.ColumnHeader IPSource;
         private System.Windows.Forms.Label lblPercentageInWhiteList;
-        private System.Windows.Forms.Label label123;
+        private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label lblPercentageNotInWhiteList;
-        private System.Windows.Forms.Label lblTotalPorcessed;
+        private System.Windows.Forms.Label lblTotalProcessed;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label lblAnaylzing;
         private System.Windows.Forms.DataGridViewCheckBoxColumn Execute;

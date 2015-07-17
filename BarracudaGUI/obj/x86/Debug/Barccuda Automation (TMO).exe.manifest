@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Barccuda Automation (TMO).exe" size="123904">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Barccuda Automation (TMO).exe" size="131072">
       <assemblyIdentity name="Barccuda Automation (TMO)" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>X/i8iK0NOAbltYdi63gs8oX4/8YeQ8Jk2J7iFOTgGtw=</dsig:DigestValue>
+        <dsig:DigestValue>P35YI+N06hwKF9kC+jiRGfyas75DGLpPcItBZ4Eppjc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -217,7 +217,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NIbvpslwqwEVfRIM304Te0wIlKTWwUW7+yPM+zfOp/Q=</dsig:DigestValue>
+        <dsig:DigestValue>fBpDUns9giB2TcplOh3pF+Zpk2gmf2UG6I2/7uL0e4k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -239,13 +239,13 @@
       <dsig:DigestValue>NDP+fsCOTdCG2uSsKwF6tHodEKktkBw0/VhLFY1zVKI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Barccuda Automation (TMO).exe.config" size="1715">
+  <file name="Barccuda Automation (TMO).exe.config" size="1709">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7Slb7b2EOla6iYgoP2h8qoAQ+BUz+kfVU+dd7S/26X0=</dsig:DigestValue>
+      <dsig:DigestValue>ib0yuZlSpBYPyz/BC08KI+Ptj9WiuBaSwyFNYRwzNzg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Channels\all.txt" size="28">
@@ -254,7 +254,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5cbKZQZpTztTY30yGSM4WVjREiwMZNv5vTOZ/L8RR30=</dsig:DigestValue>
+      <dsig:DigestValue>JayfeUkSnJ3CT8oJlJeLSqm/MC598cYPPDBJKgaK9o0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Channels\Pandora.txt" size="32">
@@ -275,13 +275,13 @@
       <dsig:DigestValue>d6UzwrymLDRg4qVtiPQOnWfHY25ucJMwHjEaTdYFbJ0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Device Config Files\Devices.txt" size="668">
+  <file name="Device Config Files\Devices.txt" size="1079">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>h9f1oJtZDV8ZQT/XBxEBJHiT8gRTITe2by8QoTS7o6Y=</dsig:DigestValue>
+      <dsig:DigestValue>DRisZDSb/lT4dhNOmwuthasmJOb1Ld/owgWBmVS+aRs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Device Config Files\WhiteListRoleDefList.txt" size="170741">

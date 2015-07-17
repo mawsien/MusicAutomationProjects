@@ -34,7 +34,7 @@
 <Template  Name="TCPDUMPTOSDCARD" Template="TCPDUMPTOSDCARD.png" Index="1"  Accuracy="0.7">
   </Template>
 
-<Template  Name="SkipTpPandora" Template="SkipTpPandora.png" Index="1"  Accuracy="0.7">
+<Template  Name="SkipToPandora" Template="SkipToPandora.png" Index="1"  Accuracy="0.7">
   </Template>
 
 <Template  Name="DialerIconCall" Template="DialerIconCall.png" Index="1"  Accuracy="0.7">
